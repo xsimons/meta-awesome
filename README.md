@@ -1,12 +1,18 @@
 <div align="center">
-	<img width="500" height="350" src="media/meta-awesome.svg" alt="Meta Awesome">
+	<img width="250" src="media/meta-awesome.svg" alt="Meta Awesome">
 	<br>
+	<br>
+</div>
+<div align="center">
+	<img src="/media/meta-awesome.gif" align="center"/>
 	<br>
 	<br>
 </div>
 <div align="center">
 	<b>Go to <a href="https://metaawesome.io">metaawesome.io</a> for more awesomeness.</b>
 </div>
+
+***
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -17,51 +23,56 @@
  - [React](#github--javascript--react)
  - [Vue](#github--javascript--vue)
  - [Angular 2](#github--javascript--angular-2)
- - [C](#github--c)
- - [cli](#github--cli)
- - [Clojure](#github--clojure)
- - [Crystal](#github--crystal)
- - [CSS](#github--css)
- - [D](#github--d)
- - [.NET](#github--.net)
- - [Elixir](#github--elixir)
- - [Elm](awesome-1.md#github--elm)
- - [F#](awesome-1.md#github--f#)
- - [Fortran](awesome-1.md#github--fortran)
- - [Go](awesome-1.md#github--go)
- - [GraphQL](awesome-1.md#github--graphql)
- - [Groovy](awesome-1.md#github--groovy)
- - [Haskell](awesome-1.md#github--haskell)
- - [Common Lisp](awesome-1.md#github--common-lisp)
- - [MySQL](awesome-1.md#github--mysql)
- - [OCaml](awesome-1.md#github--ocaml)
- - [Perl](awesome-1.md#github--perl)
- - [Python](awesome-2.md#github--python)
- - [R](awesome-2.md#github--r)
- - [Ruby](awesome-2.md#github--ruby)
- - [Rust](awesome-2.md#github--rust)
- - [Scala](awesome-2.md#github--scala)
- - [Swift](awesome-2.md#github--swift)
- - [Vim](awesome-2.md#github--vim)
- - [Java](awesome-2.md#github--java)
- - [PHP](awesome-2.md#github--php)
- - [Postgres](awesome-2.md#github--postgres)
- - [TypeScript](awesome-2.md#github--typescript)
+ - [C](/markdown-pages/C.md/#github--c)
+ - [cli](/markdown-pages/cli.md/#github--cli)
+ - [Clojure](/markdown-pages/Clojure.md/#github--clojure)
+ - [Crystal](/markdown-pages/Crystal.md/#github--crystal)
+ - [CSS](/markdown-pages/CSS.md/#github--css)
+ - [D](/markdown-pages/D.md/#github--d)
+ - [.NET](/markdown-pages/.NET.md/#github--.net)
+ - [Elixir](/markdown-pages/Elixir.md/#github--elixir)
+ - [Elm](/markdown-pages/Elm.md/#github--elm)
+ - [F#](/markdown-pages/F%23.md/#github--f#)
+ - [Fortran](/markdown-pages/Fortran.md/#github--fortran)
+ - [Go](/markdown-pages/Go.md/#github--go)
+ - [GraphQL](/markdown-pages/GraphQL.md/#github--graphql)
+ - [Groovy](/markdown-pages/Groovy.md/#github--groovy)
+ - [Haskell](/markdown-pages/Haskell.md/#github--haskell)
+ - [Common Lisp](/markdown-pages/Common%20Lisp.md/#github--common-lisp)
+ - [MySQL](/markdown-pages/MySQL.md/#github--mysql)
+ - [OCaml](/markdown-pages/OCaml.md/#github--ocaml)
+ - [Perl](/markdown-pages/Perl.md/#github--perl)
+ - [Python](/markdown-pages/Python.md/#github--python)
+ - [R](/markdown-pages/R.md/#github--r)
+ - [Ruby](/markdown-pages/Ruby.md/#github--ruby)
+ - [Rust](/markdown-pages/Rust.md/#github--rust)
+ - [Scala](/markdown-pages/Scala.md/#github--scala)
+ - [Swift](/markdown-pages/Swift.md/#github--swift)
+ - [Vim](/markdown-pages/Vim.md/#github--vim)
+ - [Java](/markdown-pages/Java.md/#github--java)
+ - [PHP](/markdown-pages/PHP.md/#github--php)
+ - [Postgres](/markdown-pages/Postgres.md/#github--postgres)
+ - [TypeScript](/markdown-pages/TypeScript.md/#github--typescript)
 
 ## Github
-
 ### Github > JavaScript
+[🏠 Go Home](#programming-languages)
+
  - [Node](#github--javascript--node)
  - [React](#github--javascript--react)
  - [Vue](#github--javascript--vue)
  - [Angular 2](#github--javascript--angular-2)
+ - [Electron](#github--javascript--electron)
 
 #### Github > JavaScript > Electron
+[🏠 Go Home](#programming-languages)
 
  - [Boilerplates](#github--javascript--electron--boilerplates)
  - [Components](#github--javascript--electron--components)
+ - [Tools](#github--javascript--electron--tools)
 
 ##### Github > JavaScript > Electron > Boilerplates
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/electron/boilerplates** ](https://metaawesome.io/github/javascript/electron/boilerplates)
 
@@ -78,6 +89,7 @@
  - (⭐ 62 x 🍴13 x 😁2) - **[electron-sandbox](https://github.com/kewde/electron-sandbox)** (2017) - A simple example for a (more reasonably) secure electron application, by enabling the sandbox and forcing communication over IPC.
 
 ##### Github > JavaScript > Electron > Components
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/electron/components** ](https://metaawesome.io/github/javascript/electron/components)
 
@@ -92,11 +104,13 @@
  - (⭐ 82 x 🍴11 x 😁1) - **[brightwheel](https://github.com/loranallensmith/brightwheel)** (2016) - Build beautiful Electron user interfaces with Photon and Etch
 
 ##### Github > JavaScript > Electron > Tools
+[🏠 Go Home](#programming-languages)
 
  - [For Electron](#github--javascript--electron--tools--for-electron)
  - [Using Electron](#github--javascript--electron--tools--using-electron)
 
 ###### Github > JavaScript > Electron > Tools > For Electron
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/electron/tools/for-electron** ](https://metaawesome.io/github/javascript/electron/tools/for-electron)
 
@@ -168,6 +182,7 @@
  - https://github.com/ThorstenHans/ngx-electron/false
 
 ###### Github > JavaScript > Electron > Tools > Using Electron
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/electron/tools/using-electron** ](https://metaawesome.io/github/javascript/electron/tools/using-electron)
 
@@ -182,12 +197,13 @@
  - (⭐ 33 x 🍴10 x 😁4) - **[electron-har](https://github.com/shyiko/electron-har)** (2015) - A command-line tool for generating HTTP Archive (HAR) (based on Electron)
 
 #### Github > JavaScript > Node
+[🏠 Go Home](#programming-languages)
 
  - [Mad science](#github--javascript--node--mad-science)
  - [Command-line apps](#github--javascript--node--command-line-apps)
  - [Functional programming](#github--javascript--node--functional-programming)
  - [HTTP](#github--javascript--node--http)
- - [Debugging / Profiling](#github--javascript--node--debugging-/-profiling)
+ - [Debugging / Profiling](#github--javascript--node--debugging-%2F-profiling)
  - [Logging](#github--javascript--node--logging)
  - [Command-line utilities](#github--javascript--node--command-line-utilities)
  - [Build tools](#github--javascript--node--build-tools)
@@ -233,6 +249,7 @@
  - [Miscellaneous](#github--javascript--node--miscellaneous)
 
 ##### Github > JavaScript > Node > Mad science
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/mad-science** ](https://metaawesome.io/github/javascript/node/mad-science)
 
@@ -259,6 +276,7 @@
  - https://github.com/stackglfalse
 
 ##### Github > JavaScript > Node > Command-line apps
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/command-line-apps** ](https://metaawesome.io/github/javascript/node/command-line-apps)
 
@@ -323,6 +341,7 @@
  - (⭐ 42 x 🍴4 x 😁1) - **[mobisplash-cli](https://github.com/samverschueren/mobisplash-cli)** (2016) - Mobile app splash screen generator
 
 ##### Github > JavaScript > Node > Functional programming
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/functional-programming** ](https://metaawesome.io/github/javascript/node/functional-programming)
 
@@ -337,6 +356,7 @@
  - (⭐ 1,130 x 🍴105 x 😁32) - **[mout](https://github.com/mout/mout)** (2013) - Modular JavaScript Utilities
 
 ##### Github > JavaScript > Node > HTTP
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/http** ](https://metaawesome.io/github/javascript/node/http)
 
@@ -356,6 +376,7 @@
  - (⭐ 30 x 🍴4 x 😁3) - **[global-agent](https://github.com/gajus/global-agent)** (2019) - Global HTTP/HTTPS proxy agent configurable using environment variables.
 
 ##### Github > JavaScript > Node > Debugging / Profiling
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/debugging-/-profiling** ](https://metaawesome.io/github/javascript/node/debugging-/-profiling)
 
@@ -374,6 +395,7 @@
  - (⭐ 55 x 🍴2 x 😁1) - **[node-vstream](https://github.com/joyent/node-vstream)** (2014) - instrumented streams
 
 ##### Github > JavaScript > Node > Logging
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/logging** ](https://metaawesome.io/github/javascript/node/logging)
 
@@ -384,6 +406,7 @@
  - (⭐ 45 x 🍴11 x 😁3) - **[console-log-level](https://github.com/watson/console-log-level)** (2015) - The most simple logger imaginable
 
 ##### Github > JavaScript > Node > Command-line utilities
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/command-line-utilities** ](https://metaawesome.io/github/javascript/node/command-line-utilities)
 
@@ -432,6 +455,7 @@
  - (⭐ 18 x 🍴2 x 😁3) - **[cli-columns](https://github.com/shannonmoeller/cli-columns)** (2016) - Columnated lists for the CLI. Unicode and ANSI safe.
 
 ##### Github > JavaScript > Node > Build tools
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/build-tools** ](https://metaawesome.io/github/javascript/node/build-tools)
 
@@ -447,6 +471,7 @@
  - (⭐ 62 x 🍴2 x 😁1) - **[ygor](https://github.com/shannonmoeller/ygor)** (2016) - Task toolkit. For when `npm run` isn't enough and everything else is too much.
 
 ##### Github > JavaScript > Node > Hardware
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/hardware** ](https://metaawesome.io/github/javascript/node/hardware)
 
@@ -460,6 +485,7 @@
  - (⭐ 63 x 🍴8 x 😁1) - **[spi-device](https://github.com/fivdi/spi-device)** (2016) - SPI serial bus access with Node.js
 
 ##### Github > JavaScript > Node > Templating
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/templating** ](https://metaawesome.io/github/javascript/node/templating)
 
@@ -470,6 +496,7 @@
  - (⭐ 3,623 x 🍴411 x 😁100) - **[ejs](https://github.com/mde/ejs)** (2014) - Embedded JavaScript templates -- http://ejs.co
 
 ##### Github > JavaScript > Node > Web frameworks
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/web-frameworks** ](https://metaawesome.io/github/javascript/node/web-frameworks)
 
@@ -494,6 +521,7 @@
  - (⭐ 89 x 🍴9 x 😁3) - **[zeronode](https://github.com/sfast/zeronode)** (2017) - Zeronode - minimal building block for NodeJS microservices
 
 ##### Github > JavaScript > Node > Documentation
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/documentation** ](https://metaawesome.io/github/javascript/node/documentation)
 
@@ -503,6 +531,7 @@
  - (⭐ 2,462 x 🍴190 x 😁36) - **[esdoc](https://github.com/esdoc/esdoc)** (2015) - ESDoc - Good Documentation for JavaScript
 
 ##### Github > JavaScript > Node > Filesystem
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/filesystem** ](https://metaawesome.io/github/javascript/node/filesystem)
 
@@ -529,6 +558,7 @@
  - (⭐ 9 x 🍴2 x 😁1) - **[lnfs](https://github.com/kevva/lnfs)** (2014) - Safely force create symlinks
 
 ##### Github > JavaScript > Node > Control flow
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/control-flow** ](https://metaawesome.io/github/javascript/node/control-flow)
 
@@ -549,6 +579,7 @@
  - (⭐ 21 x 🍴4 x 😁2) - **[valvelet](https://github.com/lpinca/valvelet)** (2016) - Limit the execution rate of a function
 
 ##### Github > JavaScript > Node > Streams
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/streams** ](https://metaawesome.io/github/javascript/node/streams)
 
@@ -569,6 +600,7 @@
  - (⭐ 6 x 🍴1 x 😁1) - **[pad-stream](https://github.com/sindresorhus/pad-stream)** (2015) - Pad each line in a stream
 
 ##### Github > JavaScript > Node > Real-time
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/real-time** ](https://metaawesome.io/github/javascript/node/real-time)
 
@@ -584,6 +616,7 @@
  - (⭐ 89 x 🍴7 x 😁2) - **[kalm.js](https://github.com/kalm/kalm.js)** (2017) - The socket manager
 
 ##### Github > JavaScript > Node > Image
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/image** ](https://metaawesome.io/github/javascript/node/image)
 
@@ -596,6 +629,7 @@
  - (⭐ 183 x 🍴11 x 😁4) - **[image-type](https://github.com/sindresorhus/image-type)** (2014) - Detect the image type of a Buffer/Uint8Array
 
 ##### Github > JavaScript > Node > Text
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/text** ](https://metaawesome.io/github/javascript/node/text)
 
@@ -616,6 +650,7 @@
  - (⭐ 14 x 🍴2 x 😁1) - **[unhomoglyph](https://github.com/nodeca/unhomoglyph)** (2016) - Replace all homoglyphs with base characters. Useful to detect similar strings.
 
 ##### Github > JavaScript > Node > Number
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/number** ](https://metaawesome.io/github/javascript/node/number)
 
@@ -625,6 +660,7 @@
  - (⭐ 20 x 🍴4 x 😁3) - **[random-float](https://github.com/sindresorhus/random-float)** (2015) - Generate a random float
 
 ##### Github > JavaScript > Node > Math
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/math** ](https://metaawesome.io/github/javascript/node/math)
 
@@ -635,6 +671,7 @@
  - (⭐ 6 x 🍴1 x 😁2) - **[math-clamp](https://github.com/sindresorhus/math-clamp)** (2015) - Clamp a number
 
 ##### Github > JavaScript > Node > Date
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/date** ](https://metaawesome.io/github/javascript/node/date)
 
@@ -646,6 +683,7 @@
  - (⭐ 60 x 😁1) - **[tz-format](https://github.com/samverschueren/tz-format)** (2015) - Format a date with timezone
 
 ##### Github > JavaScript > Node > URL
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/url** ](https://metaawesome.io/github/javascript/node/url)
 
@@ -658,6 +696,7 @@
  - (⭐ 37 x 🍴1 x 😁3) - **[url-unshort](https://github.com/nodeca/url-unshort)** (2015) - Short links expander for node.js
 
 ##### Github > JavaScript > Node > Data validation
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/data-validation** ](https://metaawesome.io/github/javascript/node/data-validation)
 
@@ -668,6 +707,7 @@
  - (⭐ 147 x 🍴11 x 😁7) - **[property-validator](https://github.com/nettofarah/property-validator)** (2016) - :white_check_mark: Easy property validation for JavaScript, Node and Express.
 
 ##### Github > JavaScript > Node > Parsing
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/parsing** ](https://metaawesome.io/github/javascript/node/parsing)
 
@@ -697,6 +737,7 @@
  - (⭐ 93 x 🍴7 x 😁6) - **[strip-css-comments](https://github.com/sindresorhus/strip-css-comments)** (2014) - Strip comments from CSS
 
 ##### Github > JavaScript > Node > Humanize
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/humanize** ](https://metaawesome.io/github/javascript/node/humanize)
 
@@ -707,6 +748,7 @@
  - (⭐ 285 x 🍴28 x 😁2) - **[node-readability](https://github.com/Tjatse/node-readability)** (2014) - Scrape/Crawl article from any site automatically. Make any web page readable, no matter Chinese or English.
 
 ##### Github > JavaScript > Node > Compression
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/compression** ](https://metaawesome.io/github/javascript/node/compression)
 
@@ -718,6 +760,7 @@
  - (⭐ 196 x 🍴24 x 😁8) - **[yazl](https://github.com/thejoshwolfe/yazl)** (2014) - yet another zip library for node
 
 ##### Github > JavaScript > Node > Network
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/network** ](https://metaawesome.io/github/javascript/node/network)
 
@@ -728,6 +771,7 @@
  - (⭐ 160 x 🍴44 x 😁7) - **[node-dhcp](https://github.com/infusion/node-dhcp)** (2017) - A DHCP server and client written in pure JavaScript
 
 ##### Github > JavaScript > Node > Database
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/database** ](https://metaawesome.io/github/javascript/node/database)
 
@@ -758,6 +802,7 @@
  - (⭐ 21 x 🍴7 x 😁3) - **[database-js](https://github.com/mlaanderson/database-js)** (2017) - Common Database Interface for Node
 
 ##### Github > JavaScript > Node > Testing
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/testing** ](https://metaawesome.io/github/javascript/node/testing)
 
@@ -785,6 +830,7 @@
  - (⭐ 45 x 🍴7 x 😁7) - **[hook-std](https://github.com/sindresorhus/hook-std)** (2015) - Hook and modify stdout/stderr
 
 ##### Github > JavaScript > Node > Security
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/security** ](https://metaawesome.io/github/javascript/node/security)
 
@@ -795,6 +841,7 @@
  - https://github.com/apps/guardrailsfalse
 
 ##### Github > JavaScript > Node > Benchmarking
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/benchmarking** ](https://metaawesome.io/github/javascript/node/benchmarking)
 
@@ -802,6 +849,7 @@
  - (⭐ 514 x 🍴30 x 😁11) - **[matcha](https://github.com/logicalparadox/matcha)** (2011) - A caffeine driven, simplistic approach to benchmarking.
 
 ##### Github > JavaScript > Node > Minifiers
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/minifiers** ](https://metaawesome.io/github/javascript/node/minifiers)
 
@@ -812,6 +860,7 @@
  - (⭐ 144 x 🍴24 x 😁12) - **[minimize](https://github.com/Swaagie/minimize)** (2013) - Minimize HTML
 
 ##### Github > JavaScript > Node > Authentication
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/authentication** ](https://metaawesome.io/github/javascript/node/authentication)
 
@@ -820,6 +869,7 @@
  - (⭐ 268 x 🍴36 x 😁5) - **[cloudrail-si-node-sdk](https://github.com/CloudRail/cloudrail-si-node-sdk)** (2016) - Unified API Library for: Cloud Storage, Social Log-In, Social Interaction, Payment, Email, SMS, POIs, Video & Messaging. Included services are Dropbox, Google Drive, OneDrive, OneDrive for Business, Box, Egnyte, PayPal, Stripe,  Google Plac…
 
 ##### Github > JavaScript > Node > Authorization
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/authorization** ](https://metaawesome.io/github/javascript/node/authorization)
 
@@ -827,6 +877,7 @@
  - (⭐ 509 x 🍴39 x 😁9) - **[node-casbin](https://github.com/casbin/node-casbin)** (2018) - An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js
 
 ##### Github > JavaScript > Node > Email
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/email** ](https://metaawesome.io/github/javascript/node/email)
 
@@ -835,6 +886,7 @@
  - (⭐ 1,748 x 🍴195 x 😁32) - **[emailjs](https://github.com/eleith/emailjs)** (2011) - html emails and attachments to any smtp server with nodejs
 
 ##### Github > JavaScript > Node > Job queues
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/job-queues** ](https://metaawesome.io/github/javascript/node/job-queues)
 
@@ -848,6 +900,7 @@
  - (⭐ 38 x 🍴3 x 😁4) - **[idoit](https://github.com/nodeca/idoit)** (2016) - Redis-backed task queue engine with advanced task control and eventual consistency
 
 ##### Github > JavaScript > Node > Node.js management
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/node.js-management** ](https://metaawesome.io/github/javascript/node/node.js-management)
 
@@ -857,6 +910,7 @@
  - (⭐ 1,068 x 🍴121 x 😁57) - **[nodeenv](https://github.com/ekalinin/nodeenv)** (2011) - Virtual environment for Node.js & integrator with virtualenv
 
 ##### Github > JavaScript > Node > Natural language processing
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/natural-language-processing** ](https://metaawesome.io/github/javascript/node/natural-language-processing)
 
@@ -867,6 +921,7 @@
  - (⭐ 448 x 🍴23 x 😁6) - **[leven](https://github.com/sindresorhus/leven)** (2014) - Measure the difference between two strings with the fastest JS implementation of the Levenshtein distance algorithm
 
 ##### Github > JavaScript > Node > Process management
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/process-management** ](https://metaawesome.io/github/javascript/node/process-management)
 
@@ -879,12 +934,14 @@
  - (⭐ 356 x 🍴55 x 😁9) - **[node-linux](https://github.com/coreybutler/node-linux)** (2013) - Create native background daemons on Linux systems.
 
 ##### Github > JavaScript > Node > Automation
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/automation** ](https://metaawesome.io/github/javascript/node/automation)
 
  - (⭐ 8,034 x 🍴485 x 😁38) - **[robotjs](https://github.com/octalmage/robotjs)** (2014) - Node.js Desktop Automation. 
 
 ##### Github > JavaScript > Node > AST
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/ast** ](https://metaawesome.io/github/javascript/node/ast)
 
@@ -893,6 +950,7 @@
  - https://github.com/babel/babel/tree/master/packages/babel-parserfalse
 
 ##### Github > JavaScript > Node > Static site generators
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/static-site-generators** ](https://metaawesome.io/github/javascript/node/static-site-generators)
 
@@ -903,6 +961,7 @@
  - https://github.com/assemble/assemble/false
 
 ##### Github > JavaScript > Node > Content management systems
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/content-management-systems** ](https://metaawesome.io/github/javascript/node/content-management-systems)
 
@@ -912,12 +971,14 @@
  - (⭐ 1,953 x 🍴177 x 😁15) - **[tipe](https://github.com/tipeio/tipe)** (2014) - 🎉 Next Generation API-first CMS for developers. Generate an API-first CMS from a GraphQL schema with offline prototyping and an inline editor
 
 ##### Github > JavaScript > Node > Forum
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/forum** ](https://metaawesome.io/github/javascript/node/forum)
 
  - (⭐ 10,195 x 🍴2,085 x 😁100) - **[NodeBB](https://github.com/NodeBB/NodeBB)** (2013) - Node.js based forum software built for the modern web
 
 ##### Github > JavaScript > Node > Blogging
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/blogging** ](https://metaawesome.io/github/javascript/node/blogging)
 
@@ -925,6 +986,7 @@
  - (⭐ 27,067 x 🍴3,595 x 😁100) - **[hexo](https://github.com/hexojs/hexo)** (2012) - A fast, simple & powerful blog framework, powered by Node.js.
 
 ##### Github > JavaScript > Node > Weird
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/weird** ](https://metaawesome.io/github/javascript/node/weird)
 
@@ -939,6 +1001,7 @@
  - (⭐ 77 x 🍴5 x 😁1) - **[nerds](https://github.com/SkyHacks/nerds)** (2016) - The API after every nerd's heart...
 
 ##### Github > JavaScript > Node > Serialization
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/serialization** ](https://metaawesome.io/github/javascript/node/serialization)
 
@@ -947,6 +1010,7 @@
  - (⭐ 76 x 🍴5 x 😁1) - **[compactr.js](https://github.com/compactr/compactr.js)** (2016) - Schema based serialization made easy
 
 ##### Github > JavaScript > Node > Miscellaneous
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/node/miscellaneous** ](https://metaawesome.io/github/javascript/node/miscellaneous)
 
@@ -988,6 +1052,7 @@
  - (⭐ 6 x 🍴1 x 😁2) - **[json-strictify](https://github.com/pigulla/json-strictify)** (2014) - Safely serialize a value to JSON without unintended loss of data or going into an infinite loop due to circular references.
 
 #### Github > JavaScript > Vue
+[🏠 Go Home](#programming-languages)
 
  - [Examples](#github--javascript--vue--examples)
  - [Open Source](#github--javascript--vue--open-source)
@@ -996,8 +1061,10 @@
  - [Canvas](#github--javascript--vue--canvas)
  - [Link Preview](#github--javascript--vue--link-preview)
  - [Tour](#github--javascript--vue--tour)
+ - [UI Components](#github--javascript--vue--ui-components)
 
 ##### Github > JavaScript > Vue > Examples
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/examples** ](https://metaawesome.io/github/javascript/vue/examples)
 
@@ -1112,6 +1179,7 @@
  - https://github.com/MuratcanSenturk/MuratcanSenturk.github.iofalse
 
 ##### Github > JavaScript > Vue > Open Source
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/open-source** ](https://metaawesome.io/github/javascript/vue/open-source)
 
@@ -1256,6 +1324,7 @@
  - (⭐ 00 x 😁1) - **[mtodo](https://github.com/satriaajiputra/mtodo)** (2019) - MToDo is a simple to do app build with vue.js
 
 ##### Github > JavaScript > Vue > Miscellaneous
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/miscellaneous** ](https://metaawesome.io/github/javascript/vue/miscellaneous)
 
@@ -1356,6 +1425,7 @@
  - (⭐ 10 x 😁1) - **[vue-insomnia](https://github.com/gorbypark/vue-insomnia)** (2019) - Prevents the display of a mobile device from going to sleep by playing a small mp4 video that's positioned off screen on a loop (aka wake lock).
 
 ##### Github > JavaScript > Vue > Tabs
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/tabs** ](https://metaawesome.io/github/javascript/vue/tabs)
 
@@ -1366,6 +1436,7 @@
  - (⭐ 3 x 🍴10) - **[vue-k-tabs](https://github.com/kevindesousa/vue-k-tabs)** (2018) - An simple tabs components with Gitlab design.
 
 ##### Github > JavaScript > Vue > Canvas
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/canvas** ](https://metaawesome.io/github/javascript/vue/canvas)
 
@@ -1377,12 +1448,14 @@
  - http://github.com/dankuck/vue-easeljsfalse
 
 ##### Github > JavaScript > Vue > Link Preview
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/link-preview** ](https://metaawesome.io/github/javascript/vue/link-preview)
 
  - (⭐ 105 x 🍴13 x 😁3) - **[link-prevue](https://github.com/nivaldomartinez/link-prevue)** (2017) - Vue component for generate a link preview
 
 ##### Github > JavaScript > Vue > Tour
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/tour** ](https://metaawesome.io/github/javascript/vue/tour)
 
@@ -1390,6 +1463,7 @@
  - (⭐ 13 x 🍴2 x 😁1) - **[vue-page-guide](https://github.com/sschandi/vue-page-guide)** (2018) - Demo/Docs:
 
 ##### Github > JavaScript > Vue > UI Components
+[🏠 Go Home](#programming-languages)
 
  - [Table](#github--javascript--vue--ui-components--table)
  - [Notification](#github--javascript--vue--ui-components--notification)
@@ -1406,7 +1480,7 @@
  - [Time](#github--javascript--vue--ui-components--time)
  - [Calendar](#github--javascript--vue--ui-components--calendar)
  - [Map](#github--javascript--vue--ui-components--map)
- - [Audio / Video](#github--javascript--vue--ui-components--audio-/-video)
+ - [Audio / Video](#github--javascript--vue--ui-components--audio-%2F-video)
  - [Infinite Scroll](#github--javascript--vue--ui-components--infinite-scroll)
  - [Pull-to-refresh](#github--javascript--vue--ui-components--pull-to-refresh)
  - [Markdown](#github--javascript--vue--ui-components--markdown)
@@ -1417,6 +1491,7 @@
  - [Search](#github--javascript--vue--ui-components--search)
 
 ###### Github > JavaScript > Vue > UI Components > Table
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/table** ](https://metaawesome.io/github/javascript/vue/ui-components/table)
 
@@ -1457,6 +1532,7 @@
  - https://github.com/jqwidgets/vue/tree/master/pivotgridfalse
 
 ###### Github > JavaScript > Vue > UI Components > Notification
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/notification** ](https://metaawesome.io/github/javascript/vue/ui-components/notification)
 
@@ -1486,6 +1562,7 @@
  - https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notifyfalse
 
 ###### Github > JavaScript > Vue > UI Components > Loader
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/loader** ](https://metaawesome.io/github/javascript/vue/ui-components/loader)
 
@@ -1508,6 +1585,7 @@
  - (⭐ 6 x 🍴2 x 😁1) - **[vue-yan-progress](https://github.com/Yangfan2016/vue-yan-progress)** (2018) - This is a cascading progress bar plugin based on vue
 
 ###### Github > JavaScript > Vue > UI Components > Progress Bar
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/progress-bar** ](https://metaawesome.io/github/javascript/vue/ui-components/progress-bar)
 
@@ -1523,6 +1601,7 @@
  - (⭐ 100 x 😁1) - **[vue-component-loading](https://github.com/val-bubbleflat/vue-component-loading)** (2018) - Vuejs package, allow you to manage a loading state inside all component, and to display a progressbar
 
 ###### Github > JavaScript > Vue > UI Components > Tooltip
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/tooltip** ](https://metaawesome.io/github/javascript/vue/ui-components/tooltip)
 
@@ -1534,6 +1613,7 @@
  - (⭐ 30 x 😁1) - **[k-pop](https://github.com/ChristianKienle/k-pop)** (2019) - 🕺k-pop: Simple Popover Component using Vue
 
 ###### Github > JavaScript > Vue > UI Components > Overlay
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/overlay** ](https://metaawesome.io/github/javascript/vue/ui-components/overlay)
 
@@ -1573,6 +1653,7 @@
  - (⭐ 10 x 😁1) - **[v-modal-backdrop](https://github.com/nash403/v-modal-backdrop)** (2018) - A simple generic backdrop component for vue
 
 ###### Github > JavaScript > Vue > UI Components > Parallax
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/parallax** ](https://metaawesome.io/github/javascript/vue/ui-components/parallax)
 
@@ -1582,6 +1663,7 @@
  - (⭐ 65 x 🍴13 x 😁7) - **[vue-parallax-js](https://github.com/jsnanigans/vue-parallax-js)** (2017) - Tiny vue component that adds a directive for parallax effect on elements.
 
 ###### Github > JavaScript > Vue > UI Components > Icons
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/icons** ](https://metaawesome.io/github/javascript/vue/ui-components/icons)
 
@@ -1603,6 +1685,7 @@
  - (⭐ 2 x 🍴2 x 😁4) - **[vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags)** (2018) - Vue component which shows the flag of the country from which the language comes from
 
 ###### Github > JavaScript > Vue > UI Components > Menu
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/menu** ](https://metaawesome.io/github/javascript/vue/ui-components/menu)
 
@@ -1624,6 +1707,7 @@
  - (⭐ 10 x 🍴1 x 😁1) - **[vue-navigation-bar](https://github.com/johndatserakis/vue-navigation-bar)** (2019) - 🧭 A simple, pretty navbar for your Vue projects.
 
 ###### Github > JavaScript > Vue > UI Components > Minus Plus Input
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/minus-plus-input** ](https://metaawesome.io/github/javascript/vue/ui-components/minus-plus-input)
 
@@ -1634,6 +1718,7 @@
  - (⭐ 10 x 😁1) - **[vuetify-number-smarty](https://github.com/Seokky/vuetify-number-smarty)** (2019) - Number input with rich functionality for Vue.js (Vuetify implementation)
 
 ###### Github > JavaScript > Vue > UI Components > Carousel
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/carousel** ](https://metaawesome.io/github/javascript/vue/ui-components/carousel)
 
@@ -1661,6 +1746,7 @@
  - (⭐ 11 x 🍴6 x 😁1) - **[Lingallery](https://github.com/ChristophAnastasiades/Lingallery)** (2018) - Lingallery is a simple image gallery component for Vue.js
 
 ###### Github > JavaScript > Vue > UI Components > Charts
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/charts** ](https://metaawesome.io/github/javascript/vue/ui-components/charts)
 
@@ -1701,6 +1787,7 @@
  - https://github.com/jqwidgets/vue/tree/master/chartfalse
 
 ###### Github > JavaScript > Vue > UI Components > Time
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/time** ](https://metaawesome.io/github/javascript/vue/ui-components/time)
 
@@ -1717,6 +1804,7 @@
  - (⭐ 13 x 🍴2 x 😁1) - **[vuemodoro](https://github.com/P3trur0/vuemodoro)** (2019) - Vue component implementing a Pomodoro timer
 
 ###### Github > JavaScript > Vue > UI Components > Calendar
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/calendar** ](https://metaawesome.io/github/javascript/vue/ui-components/calendar)
 
@@ -1747,6 +1835,7 @@
  - https://github.com/jqwidgets/vue/tree/master/schedulerfalse
 
 ###### Github > JavaScript > Vue > UI Components > Map
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/map** ](https://metaawesome.io/github/javascript/vue/ui-components/map)
 
@@ -1762,6 +1851,7 @@
  - (⭐ 16 x 🍴10 x 😁1) - **[vue-static-map](https://github.com/eperedo/vue-static-map)** (2017) - a simple component to generate an static google map
 
 ###### Github > JavaScript > Vue > UI Components > Audio / Video
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/audio-/-video** ](https://metaawesome.io/github/javascript/vue/ui-components/audio-/-video)
 
@@ -1777,6 +1867,7 @@
  - (⭐ 30 x 😁1) - **[vue-video-section](https://github.com/johndatserakis/vue-video-section)** (2019) - 📼 A simple video header/section component for Vue. Good for video backgrounds and overlaying content on them.
 
 ###### Github > JavaScript > Vue > UI Components > Infinite Scroll
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/infinite-scroll** ](https://metaawesome.io/github/javascript/vue/ui-components/infinite-scroll)
 
@@ -1790,6 +1881,7 @@
  - (⭐ 23 x 🍴3 x 😁1) - **[vue-infinite-list](https://github.com/legeneek/vue-infinite-list)** (2018) - infinite list based on vue2
 
 ###### Github > JavaScript > Vue > UI Components > Pull-to-refresh
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/pull-to-refresh** ](https://metaawesome.io/github/javascript/vue/ui-components/pull-to-refresh)
 
@@ -1799,6 +1891,7 @@
  - (⭐ 52 x 🍴18 x 😁1) - **[vue-data-loading](https://github.com/bedlate/vue-data-loading)** (2017) - Another component for infinite scroll and pull down/up to load data.
 
 ###### Github > JavaScript > Vue > UI Components > Markdown
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/markdown** ](https://metaawesome.io/github/javascript/vue/ui-components/markdown)
 
@@ -1809,6 +1902,7 @@
  - (⭐ 35 x 🍴6 x 😁4) - **[vue-simple-markdown](https://github.com/Vivify-Ideas/vue-simple-markdown)** (2017) - A Simple and Highspeed Markdown Parser for Vue
 
 ###### Github > JavaScript > Vue > UI Components > PDF
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/pdf** ](https://metaawesome.io/github/javascript/vue/ui-components/pdf)
 
@@ -1816,6 +1910,7 @@
  - (⭐ 210 x 🍴33 x 😁5) - **[pdfvuer](https://github.com/arkokoley/pdfvuer)** (2018) - A PDF viewer for Vue using Mozilla's PDF.js
 
 ###### Github > JavaScript > Vue > UI Components > Tree
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/tree** ](https://metaawesome.io/github/javascript/vue/ui-components/tree)
 
@@ -1835,6 +1930,7 @@
  - (⭐ 2 x 🍴1 x 😁1) - **[vue-vtree](https://github.com/XAHTEP26/vue-vtree)** (2018) - Universal and flexible tree component for Vue.js
 
 ###### Github > JavaScript > Vue > UI Components > Social Sharing
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/social-sharing** ](https://metaawesome.io/github/javascript/vue/ui-components/social-sharing)
 
@@ -1846,6 +1942,7 @@
  - (⭐ 10 x 😁1) - **[vue-share-buttons](https://github.com/Alexandrshy/vue-share-buttons)** (2019) - 🔗A set of social buttons for Vue.js
 
 ###### Github > JavaScript > Vue > UI Components > QR Code
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/qr-code** ](https://metaawesome.io/github/javascript/vue/ui-components/qr-code)
 
@@ -1854,6 +1951,7 @@
  - (⭐ 213 x 🍴30 x 😁1) - **[vue-qriously](https://github.com/theomessin/vue-qriously)** (2017) - A vue component to draw qr codes using qrious.
 
 ###### Github > JavaScript > Vue > UI Components > Search
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/vue/ui-components/search** ](https://metaawesome.io/github/javascript/vue/ui-components/search)
 
@@ -1862,6 +1960,7 @@
  - (⭐ 108 x 🍴14 x 😁5) - **[vue-innersearch](https://github.com/InnerSearch/vue-innersearch)** (2017) - :mag_right: UI components built with Vue.js for ElasticSearch
 
 #### Github > JavaScript > Angular 2
+[🏠 Go Home](#programming-languages)
 
  - [Material Design](#github--javascript--angular-2--material-design)
  - [Cheatsheet](#github--javascript--angular-2--cheatsheet)
@@ -1872,6 +1971,7 @@
  - [Documentation tools](#github--javascript--angular-2--documentation-tools)
 
 ##### Github > JavaScript > Angular 2 > Material Design
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/angular-2/material-design** ](https://metaawesome.io/github/javascript/angular-2/material-design)
 
@@ -1880,6 +1980,7 @@
  - (⭐ 38 x 🍴6 x 😁2) - **[material-light](https://github.com/YagoLopez/material-light)** (2017) - 💡 Material Design UI components for Angular (versions 4+)
 
 ##### Github > JavaScript > Angular 2 > Cheatsheet
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/angular-2/cheatsheet** ](https://metaawesome.io/github/javascript/angular-2/cheatsheet)
 
@@ -1888,6 +1989,7 @@
  - (⭐ 10 x 🍴1 x 😁1) - **[angular2_cheatsheet_dart](https://github.com/andresaraujo/angular2_cheatsheet_dart)** (2015)false
 
 ##### Github > JavaScript > Angular 2 > Webpack
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/angular-2/webpack** ](https://metaawesome.io/github/javascript/angular-2/webpack)
 
@@ -1901,6 +2003,7 @@
  - (⭐ 3 x 🍴2 x 😁1) - **[angular-starter](https://github.com/michaelbazos/angular-starter)** (2017) - For angular 2+
 
 ##### Github > JavaScript > Angular 2 > Third Party Components
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/angular-2/third-party-components** ](https://metaawesome.io/github/javascript/angular-2/third-party-components)
 
@@ -2035,6 +2138,7 @@
  - https://github.com/peterfreeman/ngx-status-barfalse
 
 ##### Github > JavaScript > Angular 2 > Pipes
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/angular-2/pipes** ](https://metaawesome.io/github/javascript/angular-2/pipes)
 
@@ -2045,6 +2149,7 @@
  - (⭐ 10 x 😁1) - **[angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase)** (2017) - Angular2 pipe to convert camelCase strings to human readable strings
 
 ##### Github > JavaScript > Angular 2 > Generators
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/angular-2/generators** ](https://metaawesome.io/github/javascript/angular-2/generators)
 
@@ -2057,6 +2162,7 @@
  - https://github.com/majodi/Faristofalse
 
 ##### Github > JavaScript > Angular 2 > Documentation tools
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/angular-2/documentation-tools** ](https://metaawesome.io/github/javascript/angular-2/documentation-tools)
 
@@ -2066,6 +2172,7 @@
  - (⭐ 29 x 🍴5 x 😁3) - **[ngmodule-viz](https://github.com/politie/ngmodule-viz)** (2017) - Visualize the dependencies between the NgModules in your Angular 2+ application
 
 #### Github > JavaScript > React
+[🏠 Go Home](#programming-languages)
 
  - [Development Tools](#github--javascript--react--development-tools)
  - [Styling](#github--javascript--react--styling)
@@ -2083,12 +2190,13 @@
  - [Data Structures](#github--javascript--react--data-structures)
  - [Maps](#github--javascript--react--maps)
  - [Charts](#github--javascript--react--charts)
- - [Redux & Flux](#github--javascript--react--redux-&-flux)
+ - [Redux & Flux](#github--javascript--react--redux-%26-flux)
  - [GraphQL](#github--javascript--react--graphql)
  - [Demos](#github--javascript--react--demos)
  - [Example Apps](#github--javascript--react--example-apps)
 
 ##### Github > JavaScript > React > Development Tools
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/development-tools** ](https://metaawesome.io/github/javascript/react/development-tools)
 
@@ -2103,6 +2211,7 @@
  - (⭐ 581 x 🍴23 x 😁14) - **[react-axe](https://github.com/dequelabs/react-axe)** (2016) - Accessibility auditing for React.js applications
 
 ##### Github > JavaScript > React > Styling
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/styling** ](https://metaawesome.io/github/javascript/react/styling)
 
@@ -2111,6 +2220,7 @@
  - (⭐ 4,957 x 🍴277 x 😁76) - **[jss](https://github.com/cssinjs/jss)** (2014) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 
 ##### Github > JavaScript > React > Routing
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/routing** ](https://metaawesome.io/github/javascript/react/routing)
 
@@ -2119,6 +2229,7 @@
  - (⭐ 221 x 🍴9 x 😁3) - **[curi](https://github.com/pshrmn/curi)** (2017) - A JavaScript router for single-page applications
 
 ##### Github > JavaScript > React > UI Libraries
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/ui-libraries** ](https://metaawesome.io/github/javascript/react/ui-libraries)
 
@@ -2126,6 +2237,7 @@
  - (⭐ 5,407 x 🍴1,120 x 😁100) - **[office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react)** (2016) - React components for building Microsoft web experiences.
 
 ##### Github > JavaScript > React > Components
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/components** ](https://metaawesome.io/github/javascript/react/components)
 
@@ -2221,6 +2333,7 @@
  - (⭐ 00 x 😁1) - **[folio](https://github.com/jalal246/folio)** (2018) - Legacy project.  Move out to  =>
 
 ##### Github > JavaScript > React > React for Command Line
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/react-for-command-line** ](https://metaawesome.io/github/javascript/react/react-for-command-line)
 
@@ -2228,6 +2341,7 @@
  - (⭐ 3,278 x 🍴138 x 😁17) - **[react-blessed](https://github.com/Yomguithereal/react-blessed)** (2015) - A react renderer for blessed.
 
 ##### Github > JavaScript > React > React Testing Libraries
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/react-testing-libraries** ](https://metaawesome.io/github/javascript/react/react-testing-libraries)
 
@@ -2236,47 +2350,48 @@
  - (⭐ 752 x 🍴30 x 😁16) - **[react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library)** (2018) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
 
 ##### Github > JavaScript > React > Animation Components
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/animation-components** ](https://metaawesome.io/github/javascript/react/animation-components)
 
- - (⭐ 17,076 x 🍴886 x 😁69) - **[react-motion](https://github.com/chenglou/react-motion)** (2015) - A spring that solves your animation problems.
+ - (⭐ 17,089 x 🍴887 x 😁69) - **[react-motion](https://github.com/chenglou/react-motion)** (2015) - A spring that solves your animation problems.
  - (⭐ 1,250 x 🍴72 x 😁9) - **[react-spinkit](https://github.com/KyleAMathews/react-spinkit)** (2014) - A collection of loading indicators animated with CSS for React
  - (⭐ 867 x 🍴114 x 😁9) - **[react-absolute-grid](https://github.com/jrowny/react-absolute-grid)** (2015) - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React.
- - (⭐ 733 x 🍴42 x 😁6) - **[react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton)** (2017) - Create skeleton screens that automatically adapt to your app!
+ - (⭐ 736 x 🍴42 x 😁6) - **[react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton)** (2017) - Create skeleton screens that automatically adapt to your app!
  - (⭐ 283 x 🍴14 x 😁7) - **[react-animate](https://github.com/elierotenberg/react-animate)** (2014) - React animation mixin.
  - (⭐ 173 x 🍴18 x 😁6) - **[react.animate](https://github.com/pleasetrythisathome/react.animate)** (2014) - state animation plugin for react.js
- - (⭐ 12 x 🍴2 x 😁2) - **[animated-number-react](https://github.com/Leocardoso94/animated-number-react)** (2018) - Super easy way to animate numbers with React
+ - (⭐ 13 x 🍴2 x 😁2) - **[animated-number-react](https://github.com/Leocardoso94/animated-number-react)** (2018) - Super easy way to animate numbers with React
  - (⭐ 12 x 🍴1 x 😁2) - **[react-singular-component](https://github.com/dor6/react-singular-component)** (2018) - move your react component around the dom
 
 ##### Github > JavaScript > React > Libraries
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/libraries** ](https://metaawesome.io/github/javascript/react/libraries)
 
- - (⭐ 16,297 x 🍴1,779 x 😁100) - **[draft-js](https://github.com/facebook/draft-js)** (2016) - A React framework for building text editors.
- - (⭐ 14,974 x 🍴1,330 x 😁100) - **[slate](https://github.com/ianstormtaylor/slate)** (2016) - A completely customizable framework for building rich text editors. (Currently in beta.)
- - (⭐ 13,824 x 🍴1,022 x 😁100) - **[riotjs](https://github.com/muut/riotjs)** (2013) - Simple and elegant component-based UI library
- - (⭐ 11,163 x 🍴456 x 😁52) - **[react-helmet](https://github.com/nfl/react-helmet)** (2015) - A document head manager for React
- - (⭐ 8,470 x 🍴1,049 x 😁100) - **[react-toolbox](https://github.com/react-toolbox/react-toolbox)** (2015) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
+ - (⭐ 16,313 x 🍴1,781 x 😁100) - **[draft-js](https://github.com/facebook/draft-js)** (2016) - A React framework for building text editors.
+ - (⭐ 14,988 x 🍴1,335 x 😁100) - **[slate](https://github.com/ianstormtaylor/slate)** (2016) - A completely customizable framework for building rich text editors. (Currently in beta.)
+ - (⭐ 13,827 x 🍴1,022 x 😁100) - **[riotjs](https://github.com/muut/riotjs)** (2013) - Simple and elegant component-based UI library
+ - (⭐ 11,187 x 🍴458 x 😁52) - **[react-helmet](https://github.com/nfl/react-helmet)** (2015) - A document head manager for React
+ - (⭐ 8,470 x 🍴1,050 x 😁100) - **[react-toolbox](https://github.com/react-toolbox/react-toolbox)** (2015) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
  - (⭐ 8,291 x 🍴419 x 😁20) - **[react-desktop](https://github.com/gabrielbull/react-desktop)** (2015) - React UI Components for macOS High Sierra and Windows 10
  - (⭐ 7,850 x 🍴336 x 😁31) - **[bit](https://github.com/teambit/bit)** (2017) - Easily share code between projects with your team.
- - (⭐ 3,927 x 🍴218 x 😁42) - **[react-responsive](https://github.com/wearefractal/react-responsive)** (2014) - CSS media queries in react - for responsive design, and more.
+ - (⭐ 3,932 x 🍴218 x 😁42) - **[react-responsive](https://github.com/wearefractal/react-responsive)** (2014) - CSS media queries in react - for responsive design, and more.
  - (⭐ 3,397 x 🍴169 x 😁16) - **[touchstonejs](https://github.com/touchstonejs/touchstonejs)** (2014) - Mobile App Framework powered by React
  - (⭐ 3,195 x 🍴303 x 😁36) - **[reactivesearch](https://github.com/appbaseio/reactivesearch)** (2017) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch
- - (⭐ 3,094 x 🍴232 x 😁37) - **[react-icons](https://github.com/gorangajic/react-icons)** (2015) - svg react icons of popular icon packs
- - (⭐ 2,727 x 🍴182 x 😁32) - **[react-snap](https://github.com/stereobooster/react-snap)** (2017) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
- - (⭐ 1,189 x 🍴56 x 😁12) - **[omniscient](https://github.com/omniscientjs/omniscient)** (2014) - A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js
- - (⭐ 1,066 x 🍴256 x 😁57) - **[primereact](https://github.com/primefaces/primereact)** (2016) - PrimeReact is a collection of rich UI components for React
+ - (⭐ 3,101 x 🍴232 x 😁37) - **[react-icons](https://github.com/gorangajic/react-icons)** (2015) - svg react icons of popular icon packs
+ - (⭐ 2,735 x 🍴185 x 😁32) - **[react-snap](https://github.com/stereobooster/react-snap)** (2017) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
+ - (⭐ 1,190 x 🍴56 x 😁12) - **[omniscient](https://github.com/omniscientjs/omniscient)** (2014) - A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js
+ - (⭐ 1,066 x 🍴259 x 😁57) - **[primereact](https://github.com/primefaces/primereact)** (2016) - PrimeReact is a collection of rich UI components for React
  - (⭐ 1,050 x 🍴53 x 😁15) - **[react-cursor](https://github.com/dustingetz/react-cursor)** (2014) - Immutable state for React.js
  - (⭐ 784 x 🍴84 x 😁18) - **[react-magic](https://github.com/reactjs/react-magic)** (2014) - Automatically AJAXify plain HTML with the power of React. It's magic!
- - (⭐ 705 x 🍴30 x 😁11) - **[refract](https://github.com/fanduel-oss/refract)** (2018) - Harness the power of reactive programming to supercharge your components
- - (⭐ 692 x 🍴50 x 😁11) - **[reapop](https://github.com/LouisBarranqueiro/reapop)** (2016) - :postbox: A React & Redux notifications system
+ - (⭐ 706 x 🍴30 x 😁11) - **[refract](https://github.com/fanduel-oss/refract)** (2018) - Harness the power of reactive programming to supercharge your components
  - (⭐ 427 x 🍴19 x 😁1) - **[Maple.js](https://github.com/Wildhoney/Maple.js)** (2015) - Maple.js is a React webcomponents based framework mixing ES6 with Custom Elements, HTML Imports and Shadow DOM. It has in-built support for SASS and JSX, including a Gulp task for vulcanizing your project.
  - (⭐ 312 x 🍴36 x 😁22) - **[react-i13n](https://github.com/yahoo/react-i13n)** (2015) - A performant, scalable and pluggable approach to instrumenting your React application.
  - (⭐ 242 x 🍴17 x 😁2) - **[react-lodash](https://github.com/typicode/react-lodash)** (2018) - ⚛️ 🔧 Lodash as React components
  - (⭐ 224 x 🍴12 x 😁3) - **[Keo](https://github.com/Wildhoney/Keo)** (2015) - Plain functions for a more functional Deku approach to creating stateless React components, with functional goodies such as compose, memoize, etc... for free.
  - (⭐ 195 x 🍴13 x 😁9) - **[tcomb-react](https://github.com/gcanti/tcomb-react)** (2014) - Alternative syntax for PropTypes
  - (⭐ 116 x 🍴2 x 😁1) - **[compose-state](https://github.com/tvler/compose-state)** (2018) - Compose multiple setState or getDerivedStateFromProps updaters in React
- - (⭐ 111 x 🍴2 x 😁2) - **[react-border-wrapper](https://github.com/Metroxe/react-border-wrapper)** (2019) - A wrapper for placing elements along div borders.
+ - (⭐ 112 x 🍴2 x 😁2) - **[react-border-wrapper](https://github.com/Metroxe/react-border-wrapper)** (2019) - A wrapper for placing elements along div borders.
  - (⭐ 106 x 🍴17 x 😁4) - **[react-json-schema](https://github.com/TechniqueSoftware/react-json-schema)** (2015) - Configure and build views using JSON schemas mapped to React components
  - (⭐ 360 x 😁1) - **[clearx](https://github.com/Autodesk/clearx)** (2019) - Fast & Effortless global state management for React, Preact and Inferno with zero learning curve
  - (⭐ 34 x 🍴6 x 😁2) - **[react-with-analytics](https://github.com/sonaye/react-with-analytics)** (2018) - Google Analytics for React apps with ease.
@@ -2285,5473 +2400,282 @@
  - (⭐ 11 x 🍴1 x 😁1) - **[react-animated-transitions](https://github.com/sonaye/react-animated-transitions)** (2018) - Easy animated transitions in React.
  - (⭐ 30 x 😁1) - **[react-is-responsive](https://github.com/sonaye/react-is-responsive)** (2018) - A utility to create responsive components in React.
  - (⭐ 20 x 😁1) - **[react-cache-me-outside](https://github.com/sonaye/react-cache-me-outside)** (2018) - OTA data updates for React apps. How bow dat!
+ - https://github.com/LouisBarranqueiro/reapopfalse
 
 ##### Github > JavaScript > React > Integration
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/integration** ](https://metaawesome.io/github/javascript/react/integration)
 
- - (⭐ 6,616 x 🍴373 x 😁16) - **[om](https://github.com/swannodette/om)** (2013) - ClojureScript interface to Facebook's React
- - (⭐ 6,027 x 🍴581 x 😁100) - **[react-dropzone](https://github.com/paramaggarwal/react-dropzone)** (2014) - Simple HTML5 drag-drop zone with React.js.
- - (⭐ 5,757 x 🍴652 x 😁100) - **[react-rails](https://github.com/reactjs/react-rails)** (2013) - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.
- - (⭐ 3,496 x 🍴288 x 😁52) - **[reagent](https://github.com/reagent-project/reagent)** (2013) - A minimalistic ClojureScript interface to React.js
- - (⭐ 2,620 x 🍴267 x 😁34) - **[ngReact](https://github.com/davidchang/ngReact)** (2013) - Use React Components in Angular
- - (⭐ 2,275 x 🍴222 x 😁19) - **[express-react-views](https://github.com/reactjs/express-react-views)** (2014) - This is an Express view engine which renders React components on server. It renders static markup and *does not* support mounting those views on the client.
  - (⭐ 1,742 x 🍴672 x 😁58) - **[React.NET](https://github.com/reactjs/React.NET)** (2014) - .NET library for JSX compilation and server-side rendering of React components
- - (⭐ 1,490 x 🍴250 x 😁26) - **[reactfire](https://github.com/firebase/reactfire)** (2014) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
- - (⭐ 1,474 x 🍴130 x 😁18) - **[react-three](https://github.com/Izzimach/react-three)** (2014) - React bindings to create and control a 3D scene using three.js
- - (⭐ 1,463 x 🍴158 x 😁22) - **[react-three-renderer](https://github.com/toxicFork/react-three-renderer)** (2015) - Render into a three.js canvas using React.
  - (⭐ 1,207 x 🍴207 x 😁60) - **[scalajs-react](https://github.com/japgolly/scalajs-react)** (2014) - Facebook's React on Scala.JS
- - (⭐ 893 x 🍴93 x 😁9) - **[react-laravel](https://github.com/talyssonoc/react-laravel)** (2015) - Package for using ReactJS with Laravel
- - (⭐ 856 x 🍴67 x 😁17) - **[react.backbone](https://github.com/usepropeller/react.backbone)** (2013) - Plugin for React to make Backbone migration easier
- - (⭐ 822 x 🍴82 x 😁20) - **[backbone-react-component](https://github.com/magalhas/backbone-react-component)** (2014) - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server
- - (⭐ 615 x 🍴35 x 😁8) - **[rx-react](https://github.com/fdecampredon/rx-react)** (2014) - ReactJS bindings for RxJS
- - (⭐ 608 x 🍴44 x 😁15) - **[quiescent](https://github.com/levand/quiescent)** (2014) - A lightweight ClojureScript abstraction over ReactJS
- - (⭐ 561 x 🍴43 x 😁12) - **[react-jade](https://github.com/ForbesLindesay/react-jade)** (2014) - DEPRECATED, see
- - (⭐ 462 x 🍴86 x 😁23) - **[react-recaptcha](https://github.com/appleboy/react-recaptcha)** (2014) - A react.js reCAPTCHA for Google
- - (⭐ 437 x 🍴58 x 😁16) - **[coffee-react-transform](https://github.com/jsdf/coffee-react-transform)** (2014) - DEPRECATED – Provides React JSX support for Coffeescript
- - (⭐ 375 x 🍴27 x 😁2) - **[msx](https://github.com/insin/msx)** (2014) - JSX for Mithril.js 0.x
- - (⭐ 333 x 🍴23 x 😁5) - **[react-haskell](https://github.com/joelburget/react-haskell)** (2014) - React bindings for Haskell
  - (⭐ 279 x 🍴44 x 😁7) - **[react-aspnet-boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)** (2016) - A starting point for building isomorphic React applications with ASP.NET Core, leveraging existing techniques.
- - (⭐ 271 x 🍴17 x 😁4) - **[turbo-react](https://github.com/ssorallen/turbo-react)** (2013) - A JavaScript library that transitions between static HTML pages on navigation; no app server required.
- - (⭐ 220 x 🍴26 x 😁2) - **[react-play](https://github.com/ssorallen/react-play)** (2014) - Render React components in the Play Framework with JDK8's JavaScript engine
- - (⭐ 219 x 🍴8 x 😁7) - **[reaptcha](https://github.com/sarneeh/reaptcha)** (2018) - Google reCAPTCHA v2 for React
- - (⭐ 163 x 🍴14 x 😁4) - **[react-masonry-css](https://github.com/paulcollett/react-masonry-css)** (2017) - React Masonry layout component powered by CSS, dependancy free
- - (⭐ 153 x 🍴11 x 😁1) - **[jade-react](https://github.com/duncanbeevers/jade-react)** (2014) - Compile Jade templates to React.DOM expressions
- - (⭐ 146 x 🍴14 x 😁3) - **[firedux](https://github.com/AndersDJohnson/firedux)** (2015) - :fire: :hatching_chick: Firebase + Redux for ReactJS
- - (⭐ 131 x 🍴10 x 😁2) - **[gsap-react-plugin](https://github.com/hzdg/gsap-react-plugin)** (2014) - A GSAP plugin for tweening React.js component state.
- - (⭐ 130 x 🍴5 x 😁2) - **[react-backbone](https://github.com/jhudson8/react-backbone)** (2014) - backbone-aware mixins for react and a whole lot more
- - (⭐ 117 x 🍴8 x 😁2) - **[react-bacon](https://github.com/jamesmacaulay/react-bacon)** (2014) - A little module for using React with Bacon.js
- - (⭐ 108 x 🍴12 x 😁3) - **[reactdown](https://github.com/andreypopp/reactdown)** (2014) - Markdown based live document format
- - (⭐ 106 x 🍴37 x 😁11) - **[react-page-middleware](https://github.com/reactjs/react-page-middleware)** (2013) - Connect/Express middleware to use React to generate whole websites
- - (⭐ 84 x 🍴29 x 😁2) - **[sprockets-coffee-react](https://github.com/jsdf/sprockets-coffee-react)** (2014) - DEPRECATED – Sprockets preprocessor for CJSX (Coffeescript with React JSX markup)
- - (⭐ 82 x 🍴1 x 😁1) - **[react-events](https://github.com/jhudson8/react-events)** (2014) - Declarative managed event bindings for react components
- - (⭐ 77 x 🍴23 x 😁8) - **[sbt-reactjs](https://github.com/ddispaltro/sbt-reactjs)** (2014) - React SBT Plugin using npm
- - (⭐ 660 x 😁1) - **[react.hiccup](https://github.com/lantiga/react.hiccup)** (2014) - React 0% JSX, 100% hiccup
- - (⭐ 52 x 🍴14 x 😁4) - **[react-clickdrag-mixin](https://github.com/tleunen/react-clickdrag-mixin)** (2014) - Easily click and drag a react component
- - (⭐ 51 x 🍴3 x 😁7) - **[react-threejs](https://github.com/fritx/react-threejs)** (2016) - WIP: Simplest bindings between React & Three.js
- - (⭐ 44 x 🍴1 x 😁1) - **[reactbone](https://github.com/andrejewski/reactbone)** (2014) - React extensions for Backbone
- - (⭐ 36 x 🍴4 x 😁2) - **[react-topcoat](https://github.com/plaxdan/react-topcoat)** (2014) - Topcoat components built with the React library
- - (⭐ 33 x 🍴2 x 😁2) - **[react-mixin-manager](https://github.com/jhudson8/react-mixin-manager)** (2014) - React mixin registration manager which allows mixins to have dependencies
- - (⭐ 29 x 🍴3 x 😁2) - **[react-with-di](https://github.com/vojtajina/react-with-di)** (2014) - A hacked prototype of React.js with DI ;-)
- - (⭐ 23 x 🍴6 x 😁2) - **[gulp-jade-react](https://github.com/duncanbeevers/gulp-jade-react)** (2014) - Compile Jade templates into React de-sugared JSX with Gulp
- - (⭐ 21 x 🍴4 x 😁2) - **[react-kup](https://github.com/snd/react-kup)** (2014) - react-kup is a simple, nonintrusive alternative to JSX for coffeescript
- - (⭐ 200 x 😁1) - **[backbone-reaction](https://github.com/jhudson8/backbone-reaction)** (2014) - react-backbone + more beefy react and backbone enhancements
- - (⭐ 17 x 🍴5 x 😁1) - **[backbone-react-ui](https://github.com/securingsincity/backbone-react-ui)** (2014) - React components for use with backbone and backbone paginator
- - (⭐ 70 x 😁1) - **[react-topcoat](https://github.com/arnemart/react-topcoat)** (2014) - A collection of React components for Topcoat.
- - (⭐ 5 x 🍴1 x 😁100) - **[aframe](https://github.com/ngokevin/aframe)** (2015) - Building Blocks for the VR Web
- - (⭐ 4 x 🍴1 x 😁1) - **[express-coffee-react-views](https://github.com/duereg/express-coffee-react-views)** (2014) - An Express view engine which renders React components written in Coffee-JSX or Harmony-JSX on the server.
- - (⭐ 3 x 🍴1 x 😁2) - **[react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works)** (2018) - ⚛ A reCAPTCHA bridge for React that works.
- - (⭐ 10 x 😁1) - **[React.withBackbone](https://github.com/beanworks/React.withBackbone)** (2017) - React Backbone Binding that works with React 16
+ - https://github.com/reactjs/react-railsfalse
+ - https://github.com/swannodette/omfalse
+ - https://github.com/levand/quiescentfalse
+ - https://github.com/reagent-project/reagentfalse
+ - https://github.com/joelburget/react-haskellfalse
+ - https://github.com/reactjs/express-react-viewsfalse
+ - https://github.com/duereg/express-coffee-react-viewsfalse
+ - https://github.com/reactjs/react-page-middlewarefalse
+ - https://github.com/davidchang/ngReactfalse
+ - https://github.com/talyssonoc/react-laravelfalse
+ - https://github.com/jsdf/coffee-react-transformfalse
+ - https://github.com/jsdf/sprockets-coffee-reactfalse
+ - https://github.com/snd/react-kupfalse
+ - https://github.com/ssorallen/turbo-reactfalse
+ - https://github.com/jamesmacaulay/react-baconfalse
+ - https://github.com/insin/msxfalse
+ - https://github.com/beanworks/React.withBackbonefalse
+ - https://github.com/magalhas/backbone-react-componentfalse
+ - https://github.com/jhudson8/react-backbonefalse
  - https://github.com/Volicon/NestedReact/false
+ - https://github.com/jhudson8/backbone-reactionfalse
+ - https://github.com/usepropeller/react.backbonefalse
+ - https://github.com/andrejewski/reactbonefalse
+ - https://github.com/securingsincity/backbone-react-uifalse
+ - https://github.com/jhudson8/react-eventsfalse
+ - https://github.com/jhudson8/react-mixin-managerfalse
+ - https://github.com/hzdg/gsap-react-pluginfalse
+ - https://github.com/plaxdan/react-topcoatfalse
+ - https://github.com/arnemart/react-topcoatfalse
+ - https://github.com/andreypopp/reactdownfalse
+ - https://github.com/ForbesLindesay/react-jadefalse
+ - https://github.com/duncanbeevers/jade-reactfalse
+ - https://github.com/duncanbeevers/gulp-jade-reactfalse
+ - https://github.com/ddispaltro/sbt-reactjsfalse
  - https://github.com/vjeux/react-xtags/false
+ - https://github.com/lantiga/react.hiccupfalse
+ - https://github.com/ssorallen/react-playfalse
+ - https://github.com/fdecampredon/rx-reactfalse
+ - https://github.com/vojtajina/react-with-difalse
+ - https://github.com/firebase/reactfirefalse
+ - https://github.com/AndersDJohnson/fireduxfalse
+ - https://github.com/tleunen/react-clickdrag-mixinfalse
  - https://github.com/keystonejs/keystone/issues/503false
+ - https://github.com/paramaggarwal/react-dropzonefalse
+ - https://github.com/ngokevin/aframefalse
+ - https://github.com/Izzimach/react-threefalse
+ - https://github.com/toxicFork/react-three-rendererfalse
+ - https://github.com/fritx/react-threejsfalse
+ - https://github.com/paulcollett/react-masonry-cssfalse
+ - https://github.com/appleboy/react-recaptchafalse
+ - https://github.com/sarneeh/reaptchafalse
+ - https://github.com/douglasjunior/react-recaptcha-that-worksfalse
 
 ##### Github > JavaScript > React > Forms
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/forms** ](https://metaawesome.io/github/javascript/react/forms)
 
- - (⭐ 17,053 x 🍴1,118 x 😁100) - **[formik](https://github.com/jaredpalmer/formik)** (2017) - Build forms in React, without the tears 😭 
- - (⭐ 7,227 x 🍴1,135 x 😁100) - **[react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)** (2015) - A React component for building Web forms from JSON Schema.
- - (⭐ 4,728 x 🍴256 x 😁62) - **[react-final-form](https://github.com/final-form/react-final-form)** (2017) - 🏁 High performance subscription-based form state management for React
- - (⭐ 2,558 x 🍴464 x 😁38) - **[formsy-react](https://github.com/christianalfoni/formsy-react)** (2014) - A form input builder and validator for React JS
- - (⭐ 2,277 x 🍴223 x 😁22) - **[unform](https://github.com/Rocketseat/unform)** (2018) - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!
- - (⭐ 1,180 x 🍴128 x 😁4) - **[react-forms](https://github.com/prometheusresearch/react-forms)** (2014) - Forms library for React.
- - (⭐ 1,162 x 🍴145 x 😁23) - **[tcomb-form](https://github.com/gcanti/tcomb-form)** (2014) - Forms library for react
- - (⭐ 751 x 🍴114 x 😁13) - **[Winterfell](https://github.com/andrewhathaway/Winterfell)** (2015) - Generate complex, validated and extendable JSON-based forms in React.
- - (⭐ 743 x 🍴131 x 😁47) - **[uniforms](https://github.com/vazco/uniforms)** (2016) - Bunch of React components and helpers to easily generate and validate forms.
- - (⭐ 648 x 🍴49 x 😁6) - **[newforms](https://github.com/insin/newforms)** (2011) - Isomorphic form-handling for React
- - (⭐ 434 x 🍴44 x 😁17) - **[react-formal](https://github.com/jquense/react-formal)** (2015) - Sophisticated HTML form management for React
- - (⭐ 290 x 🍴26 x 😁6) - **[wingspan-forms](https://github.com/wingspan/wingspan-forms)** (2013) - A dynamic form library for Facebook React, providing abstractions for building dynamic forms and controlled grids. Widgets provided by Telerik's KendoUI.
- - (⭐ 170 x 🍴17 x 😁4) - **[react-reactive-form](https://github.com/bietkul/react-reactive-form)** (2017) - Angular like reactive forms in React.
- - (⭐ 164 x 🍴9 x 😁6) - **[neoform](https://github.com/zero-plus-x/neoform)** (2017) - :white_check_mark: React form state management and validation
- - (⭐ 159 x 🍴22 x 😁5) - **[valuelink](https://github.com/Volicon/valuelink)** (2016) - Callback-free React forms with painless validation.
- - (⭐ 129 x 🍴27 x 😁5) - **[plexus-form](https://github.com/AppliedMathematicsANU/plexus-form)** (2014) - A dynamic form component for react using JSON-Schema.
- - (⭐ 110 x 🍴20 x 😁9) - **[redux-autoform](https://github.com/redux-autoform/redux-autoform)** (2016) - Create Redux-Forms dynamically out of metadata
- - (⭐ 52 x 🍴7 x 😁5) - **[react-form-builder](https://github.com/quri/react-form-builder)** (2014) - A Form Builder for React.js (deprecated)
- - (⭐ 47 x 🍴4 x 😁1) - **[formjs](https://github.com/zackify/formjs)** (2014) - A form generator for Reactjs "Alpachajs for React" Open the inspector on the demo page:
- - (⭐ 45 x 🍴7 x 😁4) - **[react-native-list-view-select](https://github.com/JamesWatling/react-native-list-view-select)** (2016) - List View Select is a designed to behave like a traditional `<select>` element in traditional HTML but with native components.
- - (⭐ 9 x 🍴3 x 😁3) - **[formland](https://github.com/indix/formland)** (2017) - A simple, super-flexible, extensible config based form generator for React.
+ - https://github.com/jquense/react-formalfalse
+ - https://github.com/prometheusresearch/react-formsfalse
+ - https://github.com/Volicon/valuelinkfalse
+ - https://github.com/wingspan/wingspan-formsfalse
+ - https://github.com/insin/newformsfalse
+ - https://github.com/zackify/formjsfalse
+ - https://github.com/quri/react-form-builderfalse
+ - https://github.com/AppliedMathematicsANU/plexus-formfalse
+ - https://github.com/gcanti/tcomb-formfalse
+ - https://github.com/christianalfoni/formsy-reactfalse
+ - https://github.com/andrewhathaway/Winterfellfalse
+ - https://github.com/redux-autoform/redux-autoformfalse
+ - https://github.com/vazco/uniformsfalse
+ - https://github.com/jaredpalmer/formikfalse
+ - https://github.com/zero-plus-x/neoformfalse
+ - https://github.com/mozilla-services/react-jsonschema-formfalse
+ - https://github.com/JamesWatling/react-native-list-view-selectfalse
+ - https://github.com/final-form/react-final-formfalse
+ - https://github.com/indix/formlandfalse
+ - https://github.com/bietkul/react-reactive-formfalse
+ - https://github.com/Rocketseat/unformfalse
 
 ##### Github > JavaScript > React > Autocomplete
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/autocomplete** ](https://metaawesome.io/github/javascript/react/autocomplete)
 
- - (⭐ 7,143 x 🍴537 x 😁100) - **[downshift](https://github.com/paypal/downshift)** (2017) - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
- - (⭐ 4,510 x 🍴483 x 😁37) - **[react-autosuggest](https://github.com/moroshko/react-autosuggest)** (2015) - WAI-ARIA compliant React autosuggest component
- - (⭐ 2,074 x 🍴482 x 😁19) - **[react-autocomplete](https://github.com/rackt/react-autocomplete)** (2014) - WAI-ARIA compliant React autocomplete (combobox) component
- - (⭐ 496 x 🍴249 x 😁20) - **[react-bootstrap-typeahead](https://github.com/ericgio/react-bootstrap-typeahead)** (2015) - React typeahead with Bootstrap styling
- - (⭐ 100 x 🍴11 x 😁3) - **[react-autocomplete](https://github.com/eliseumds/react-autocomplete)** (2014) - Just tasting some ReactJS + RxJS
- - (⭐ 46 x 🍴5 x 😁4) - **[instatype](https://github.com/gragland/instatype)** (2015) - ⚡️ Mobile-friendly React autocomplete component
- - (⭐ 36 x 🍴31 x 😁1) - **[react-autocomplete](https://github.com/prometheusresearch/react-autocomplete)** (2014) - Autocomplete widget based on Facebook React
+ - https://github.com/rackt/react-autocompletefalse
+ - https://github.com/moroshko/react-autosuggestfalse
+ - https://github.com/eliseumds/react-autocompletefalse
+ - https://github.com/prometheusresearch/react-autocompletefalse
+ - https://github.com/gragland/instatypefalse
+ - https://github.com/paypal/downshiftfalse
+ - https://github.com/ericgio/react-bootstrap-typeaheadfalse
 
 ##### Github > JavaScript > React > Graphics
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/graphics** ](https://metaawesome.io/github/javascript/react/graphics)
 
- - (⭐ 12,077 x 🍴944 x 😁17) - **[react-canvas](https://github.com/Flipboard/react-canvas)** (2015) - High performance <canvas> rendering for React components
- - (⭐ 1,933 x 🍴167 x 😁14) - **[react-art](https://github.com/facebook/react-art)** (2013) - React Bridge to the ART Drawing Library
- - (⭐ 663 x 🍴45 x 😁11) - **[react-svg-morph](https://github.com/gorangajic/react-svg-morph)** (2015) - :crystal_ball: morph your svg component one into another other
- - (⭐ 165 x 🍴18 x 😁1) - **[react-famous](https://github.com/pilwon/react-famous)** (2015) - React bridge to Famo.us
- - (⭐ 109 x 🍴2 x 😁3) - **[react-hooks-svgdrawing](https://github.com/kmkzt/react-hooks-svgdrawing)** (2019) - react svg drawing library.
- - (⭐ 65 x 🍴7 x 😁3) - **[react-kinetic](https://github.com/freiksenet/react-kinetic)** (2014) - HTML5 Canvas via KineticJS using React.
+ - https://github.com/facebook/react-artfalse
+ - https://github.com/Flipboard/react-canvasfalse
+ - https://github.com/pilwon/react-famousfalse
+ - https://github.com/freiksenet/react-kineticfalse
+ - https://github.com/gorangajic/react-svg-morphfalse
+ - https://github.com/kmkzt/react-hooks-svgdrawingfalse
 
 ##### Github > JavaScript > React > Data Structures
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/data-structures** ](https://metaawesome.io/github/javascript/react/data-structures)
 
- - (⭐ 28,012 x 🍴1,623 x 😁100) - **[immutable-js](https://github.com/immutable-js/immutable-js)** (2014) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
- - (⭐ 12,161 x 🍴310 x 😁60) - **[immer](https://github.com/immerjs/immer)** (2017) - Create the next immutable state by mutating the current one
- - (⭐ 5,744 x 🍴234 x 😁44) - **[WatermelonDB](https://github.com/Nozbe/WatermelonDB)** (2018) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
- - (⭐ 5,099 x 🍴217 x 😁40) - **[seamless-immutable](https://github.com/rtfeldman/seamless-immutable)** (2014) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
  - (⭐ 3,299 x 🍴213 x 😁44) - **[datascript](https://github.com/tonsky/datascript)** (2014) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
- - (⭐ 3,108 x 🍴143 x 😁19) - **[mori](https://github.com/swannodette/mori)** (2012) - ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript
- - (⭐ 2,957 x 🍴124 x 😁37) - **[baobab](https://github.com/Yomguithereal/baobab)** (2014) - JavaScript persistent and optionally immutable data tree with cursors.
- - (⭐ 1,638 x 🍴69 x 😁18) - **[react-resolver](https://github.com/ericclemmons/react-resolver)** (2015) - Async rendering & data-fetching for universal React applications.
- - (⭐ 1,321 x 🍴44 x 😁27) - **[effector](https://github.com/zerobias/effector)** (2018) - The state manager ☄️
- - (⭐ 1,259 x 🍴52 x 😁11) - **[reactn](https://github.com/CharlesStover/reactn)** (2018) - React, but with built-in global state management.
- - (⭐ 1,250 x 🍴50 x 😁14) - **[freezer](https://github.com/arqex/freezer)** (2015) - A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
- - (⭐ 1,068 x 🍴51 x 😁21) - **[cortex](https://github.com/mquan/cortex)** (2014) - An immutable data store for managing deeply nested structure with React
- - (⭐ 670 x 🍴41 x 😁12) - **[moreartyjs](https://github.com/moreartyjs/moreartyjs)** (2014) - Morearty.js - centralized state management for React in pure JavaScript
- - (⭐ 569 x 🍴43 x 😁11) - **[ReSub](https://github.com/Microsoft/ReSub)** (2016) - A library for writing React components that automatically manage subscriptions to data sources simply by accessing them
- - (⭐ 521 x 🍴23 x 😁6) - **[statty](https://github.com/vesparny/statty)** (2017) - A tiny and unobtrusive state management library for React and Preact apps
- - (⭐ 370 x 🍴23 x 😁15) - **[immstruct](https://github.com/omniscientjs/immstruct)** (2014) - Immutable data structures with history for top-to-bottom properties in component based libraries like React. Based on Immutable.js
- - (⭐ 294 x 🍴36 x 😁13) - **[baobab-react](https://github.com/Yomguithereal/baobab-react)** (2015) - React integration for Baobab.
- - (⭐ 179 x 🍴7 x 😁3) - **[hydux](https://github.com/hydux/hydux)** (2017) - A light-weight type-safe Elm-like alternative for Redux ecosystem, inspired by hyperapp and Elmish
- - (⭐ 101 x 🍴3 x 😁1) - **[valuable](https://github.com/josephsavona/valuable)** (2014)false
- - (⭐ 96 x 🍴18 x 😁4) - **[NestedTypes](https://github.com/Volicon/NestedTypes)** (2014) - BackboneJS compatibility layer for Type-R data framework.
- - (⭐ 86 x 🍴2 x 😁1) - **[imvvm](https://github.com/entrendipity/imvvm)** (2014) - Highly Composable MVVM Framework for React
- - (⭐ 58 x 🍴6 x 😁2) - **[extendable-immutable](https://github.com/philpl/extendable-immutable)** (2016) - Wrapper classes around Immutable.js that turn it inheritable
- - (⭐ 54 x 🍴3 x 😁1) - **[caplet.js](https://github.com/mojo-js/caplet.js)** (2015) - Universal models library
- - (⭐ 40 x 😁3) - **[avers](https://github.com/wereHamster/avers)** (2016)false
- - (⭐ 30 x 😁1) - **[qaf](https://github.com/sonaye/qaf)** (2018) - Components as stores. State management for React based on context.
+ - https://github.com/swannodette/morifalse
+ - https://github.com/Volicon/NestedTypesfalse
+ - https://github.com/mojo-js/caplet.jsfalse
+ - https://github.com/immutable-js/immutable-jsfalse
+ - https://github.com/mquan/cortexfalse
+ - https://github.com/wereHamster/aversfalse
+ - https://github.com/entrendipity/imvvmfalse
+ - https://github.com/moreartyjs/moreartyjsfalse
+ - https://github.com/josephsavona/valuablefalse
+ - https://github.com/ericclemmons/react-resolverfalse
+ - https://github.com/arqex/freezerfalse
+ - https://github.com/sonaye/qaffalse
+ - https://github.com/Yomguithereal/baobabfalse
+ - https://github.com/Yomguithereal/baobab-reactfalse
+ - https://github.com/omniscientjs/immstructfalse
+ - https://github.com/rtfeldman/seamless-immutablefalse
+ - https://github.com/philpl/extendable-immutablefalse
+ - https://github.com/vesparny/stattyfalse
+ - https://github.com/hydux/hyduxfalse
+ - https://github.com/Microsoft/ReSubfalse
+ - https://github.com/Nozbe/WatermelonDBfalse
+ - https://github.com/zerobias/effectorfalse
+ - https://github.com/CharlesStover/reactnfalse
+ - https://github.com/immerjs/immerfalse
 
 ##### Github > JavaScript > React > Maps
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/maps** ](https://metaawesome.io/github/javascript/react/maps)
 
- - (⭐ 4,670 x 🍴646 x 😁87) - **[react-map-gl](https://github.com/uber/react-map-gl)** (2015) - React friendly API wrapper around MapboxGL JS
- - (⭐ 4,172 x 🍴845 x 😁65) - **[react-google-maps](https://github.com/tomchentw/react-google-maps)** (2014) - React.js Google Maps integration component
- - (⭐ 3,722 x 🍴514 x 😁70) - **[google-map-react](https://github.com/istarkov/google-map-react)** (2015) - Google map library for react that allows rendering components as markers :tada:
- - (⭐ 2,870 x 🍴102 x 😁13) - **[pigeon-maps](https://github.com/mariusandra/pigeon-maps)** (2016) - ReactJS Maps without external dependencies
- - (⭐ 1,059 x 🍴566 x 😁58) - **[google-maps-react](https://github.com/fullstackreact/google-maps-react)** (2016) - Companion code to the "How to Write a Google Maps React Component" Tutorial
- - (⭐ 1,044 x 🍴292 x 😁63) - **[react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl)** (2016) - A React binding of mapbox-gl-js
- - (⭐ 305 x 🍴66 x 😁13) - **[react-gmaps](https://github.com/MicheleBertoli/react-gmaps)** (2015) - A Google Maps component for React.js
- - (⭐ 212 x 🍴66 x 😁5) - **[react-googlemaps](https://github.com/pieterv/react-googlemaps)** (2014) - A declarative React interface to Google Maps
- - (⭐ 90 x 🍴30 x 😁15) - **[react-geo](https://github.com/terrestris/react-geo)** (2017) - A set of geo related modules to use in combination with React, Ant Design and OpenLayers.
- - (⭐ 43 x 🍴16 x 😁3) - **[react-maps](https://github.com/matnel/react-maps)** (2013)false
+ - https://github.com/pieterv/react-googlemapsfalse
+ - https://github.com/matnel/react-mapsfalse
+ - https://github.com/tomchentw/react-google-mapsfalse
+ - https://github.com/MicheleBertoli/react-gmapsfalse
+ - https://github.com/uber/react-map-glfalse
+ - https://github.com/istarkov/google-map-reactfalse
+ - https://github.com/alex3165/react-mapbox-glfalse
+ - https://github.com/fullstackreact/google-maps-reactfalse
+ - https://github.com/terrestris/react-geofalse
+ - https://github.com/mariusandra/pigeon-mapsfalse
 
 ##### Github > JavaScript > React > Charts
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/charts** ](https://metaawesome.io/github/javascript/react/charts)
 
- - (⭐ 12,115 x 🍴926 x 😁100) - **[recharts](https://github.com/recharts/recharts)** (2015) - Redefined chart library built with React and D3
- - (⭐ 7,338 x 🍴311 x 😁100) - **[victory](https://github.com/FormidableLabs/victory)** (2015) - A collection of composable React components for building interactive data visualizations
- - (⭐ 2,915 x 🍴322 x 😁23) - **[react-chartjs](https://github.com/jhudson8/react-chartjs)** (2014) - common react charting components using chart.js
- - (⭐ 2,441 x 🍴604 x 😁43) - **[react-stockcharts](https://github.com/rrag/react-stockcharts)** (2015) - Highly customizable stock charts with ReactJS and d3
+ - https://github.com/jhudson8/react-chartjsfalse
+ - https://github.com/rrag/react-stockchartsfalse
+ - https://github.com/FormidableLabs/victoryfalse
+ - https://github.com/recharts/rechartsfalse
 
 ##### Github > JavaScript > React > Redux & Flux
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/redux-&-flux** ](https://metaawesome.io/github/javascript/react/redux-&-flux)
 
- - (⭐ 20,064 x 🍴1,226 x 😁100) - **[mobx](https://github.com/mobxjs/mobx)** (2015) - Simple, scalable state management.
- - (⭐ 18,545 x 🍴1,607 x 😁100) - **[redux-saga](https://github.com/yelouafi/redux-saga)** (2015) - An alternative side effect model for Redux apps
- - (⭐ 17,679 x 🍴2,619 x 😁100) - **[react-redux](https://github.com/reactjs/react-redux)** (2015) - Official React bindings for Redux
- - (⭐ 17,369 x 🍴697 x 😁53) - **[normalizr](https://github.com/paularmstrong/normalizr)** (2014) - Normalizes nested JSON according to a schema
- - (⭐ 15,235 x 🍴530 x 😁77) - **[reselect](https://github.com/reactjs/reselect)** (2015) - Selector library for Redux
- - (⭐ 12,860 x 🍴701 x 😁36) - **[redux-thunk](https://github.com/gaearon/redux-thunk)** (2015) - Thunk middleware for Redux
- - (⭐ 11,772 x 🍴1,533 x 😁100) - **[redux-form](https://github.com/erikras/redux-form)** (2015) - A Higher Order Component using react-redux to keep form state in a Redux store
- - (⭐ 10,949 x 🍴814 x 😁70) - **[redux-devtools](https://github.com/reduxjs/redux-devtools)** (2015) - DevTools for Redux with hot reloading, action replay, and customizable UI
- - (⭐ 8,636 x 🍴592 x 😁100) - **[redux-persist](https://github.com/rt2zz/redux-persist)** (2015) - persist and rehydrate a redux store
- - (⭐ 7,936 x 🍴712 x 😁74) - **[react-router-redux](https://github.com/reactjs/react-router-redux)** (2015) - Ruthlessly simple bindings to keep react-router and redux in sync
- - (⭐ 6,673 x 🍴425 x 😁86) - **[redux-observable](https://github.com/redux-observable/redux-observable)** (2016) - RxJS middleware for action side effects in Redux using "Epics"
- - (⭐ 5,435 x 🍴354 x 😁60) - **[refluxjs](https://github.com/spoike/refluxjs)** (2014) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux
- - (⭐ 4,712 x 🍴295 x 😁48) - **[redux-logger](https://github.com/theaqua/redux-logger)** (2015) - Logger for Redux
- - (⭐ 3,740 x 🍴307 x 😁70) - **[mobx-react](https://github.com/mobxjs/mobx-react)** (2015) - React bindings for MobX
- - (⭐ 3,488 x 🍴328 x 😁87) - **[alt](https://github.com/goatslacker/alt)** (2014) - Isomorphic flux implementation
- - (⭐ 2,758 x 🍴234 x 😁24) - **[flux-comparison](https://github.com/voronianski/flux-comparison)** (2015) - :pencil: Practical comparison of different Flux solutions
- - (⭐ 2,287 x 🍴150 x 😁26) - **[redux-undo](https://github.com/omnidan/redux-undo)** (2015) - :recycle: higher order reducer to add undo/redo functionality to redux state containers
- - (⭐ 2,084 x 🍴151 x 😁33) - **[nuclear-js](https://github.com/optimizely/nuclear-js)** (2014) - Reactive Flux built with ImmutableJS data structures. Framework agnostic.
- - (⭐ 1,956 x 🍴124 x 😁30) - **[redux-mock-store](https://github.com/arnaudbenard/redux-mock-store)** (2015) - A mock store for testing Redux async action creators and middleware.
- - (⭐ 1,816 x 🍴228 x 😁86) - **[fluxible](https://github.com/yahoo/fluxible)** (2014) - A pluggable container for universal flux applications.
- - (⭐ 1,763 x 🍴91 x 😁9) - **[redux-immutable](https://github.com/gajus/redux-immutable)** (2015) - redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
- - (⭐ 1,699 x 🍴129 x 😁32) - **[flummox](https://github.com/acdlite/flummox)** (2014) - Minimal, isomorphic Flux.
- - (⭐ 1,698 x 🍴159 x 😁16) - **[fluxxor](https://github.com/BinaryMuse/fluxxor)** (2014) - :hammer_and_wrench: Flux architecture tools for React
- - (⭐ 1,296 x 🍴72 x 😁9) - **[redux-search](https://github.com/treasure-data/redux-search)** (2015) - Redux bindings for client-side search
- - (⭐ 1,098 x 🍴95 x 😁41) - **[marty](https://github.com/martyjs/marty)** (2014) - A Javascript library for state management in React applications
- - (⭐ 765 x 🍴52 x 😁13) - **[mcfly](https://github.com/kenwheeler/mcfly)** (2014) - Flux architecture made easy
- - (⭐ 489 x 🍴20 x 😁2) - **[redux-analytics](https://github.com/markdalgleish/redux-analytics)** (2015) - Analytics middleware for Redux
- - (⭐ 63 x 🍴6 x 😁2) - **[redux-react-i18n](https://github.com/derzunov/redux-react-i18n)** (2016) - An i18n solution for React/Redux and React Native projects
- - (⭐ 530 x 😁1) - **[redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx)** (2017) - Declarative Side Effects for Redux
- - (⭐ 53 x 🍴1 x 😁2) - **[redux-actiontyper](https://github.com/alnorris/redux-actiontyper)** (2017) - Helper to create less verbose action types for Redux
- - (⭐ 11 x 🍴2 x 😁3) - **[coflux](https://github.com/blainekasten/coflux)** (2016) - Flux at the Component Level
- - (⭐ 4 x 🍴1 x 😁1) - **[sinux](https://github.com/jbpin/sinux)** (2015) - Javascript state container based on Signal/Command. Full async supported
- - (⭐ 20 x 😁1) - **[redux-state-validator](https://github.com/suyesh/redux-state-validator)** (2018)false
+ - https://github.com/voronianski/flux-comparisonfalse
+ - https://github.com/spoike/refluxjsfalse
+ - https://github.com/BinaryMuse/fluxxorfalse
+ - https://github.com/martyjs/martyfalse
+ - https://github.com/kenwheeler/mcflyfalse
+ - https://github.com/goatslacker/altfalse
+ - https://github.com/yahoo/fluxiblefalse
+ - https://github.com/optimizely/nuclear-jsfalse
+ - https://github.com/acdlite/flummoxfalse
+ - https://github.com/blainekasten/cofluxfalse
+ - https://github.com/jbpin/sinuxfalse
+ - https://github.com/reactjs/react-reduxfalse
+ - https://github.com/reduxjs/redux-devtoolsfalse
+ - https://github.com/reactjs/react-router-reduxfalse
+ - https://github.com/erikras/redux-formfalse
+ - https://github.com/gaearon/redux-thunkfalse
+ - https://github.com/theaqua/redux-loggerfalse
+ - https://github.com/reactjs/reselectfalse
+ - https://github.com/paularmstrong/normalizrfalse
+ - https://github.com/yelouafi/redux-sagafalse
+ - https://github.com/matthieu-beteille/redux-data-fxfalse
+ - https://github.com/redux-observable/redux-observablefalse
+ - https://github.com/markdalgleish/redux-analyticsfalse
+ - https://github.com/omnidan/redux-undofalse
+ - https://github.com/treasure-data/redux-searchfalse
+ - https://github.com/arnaudbenard/redux-mock-storefalse
+ - https://github.com/gajus/redux-immutablefalse
+ - https://github.com/derzunov/redux-react-i18nfalse
  - https://github.com/razodeh/r16n/false
+ - https://github.com/alnorris/redux-actiontyperfalse
+ - https://github.com/suyesh/redux-state-validatorfalse
+ - https://github.com/rt2zz/redux-persistfalse
+ - https://github.com/mobxjs/mobx-reactfalse
+ - https://github.com/mobxjs/mobxfalse
 
 ##### Github > JavaScript > React > GraphQL
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/graphql** ](https://metaawesome.io/github/javascript/react/graphql)
 
- - (⭐ 11,845 x 🍴770 x 😁86) - **[graphql](https://github.com/facebook/graphql)** (2015) - GraphQL is a query language and execution engine tied to any backend service.
- - (⭐ 4,865 x 🍴327 x 😁73) - **[graphql-playground](https://github.com/graphcool/graphql-playground)** (2017) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
- - (⭐ 188 x 🍴20 x 😁5) - **[mongoose-schema-to-graphql](https://github.com/sarkistlt/mongoose-schema-to-graphql)** (2016) - Use Mongoose schema to generate graphQL type.
- - (⭐ 60 x 🍴7 x 😁3) - **[apollo-bridge-link](https://github.com/dacz/apollo-bridge-link)** (2017) - When you don't have GraphQL server (yet) and want to use GraphQL on the client.
+ - https://github.com/facebook/graphqlfalse
+ - https://github.com/sarkistlt/mongoose-schema-to-graphqlfalse
+ - https://github.com/dacz/apollo-bridge-linkfalse
+ - https://github.com/graphcool/graphql-playgroundfalse
 
 ##### Github > JavaScript > React > Demos
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/demos** ](https://metaawesome.io/github/javascript/react/demos)
 
- - (⭐ 4,377 x 🍴903 x 😁100) - **[overreacted.io](https://github.com/gaearon/overreacted.io)** (2018) - Personal blog by Dan Abramov.
- - (⭐ 2,064 x 🍴318 x 😁5) - **[react-hn](https://github.com/insin/react-hn)** (2014) - React-powered Hacker News client
- - (⭐ 1,372 x 🍴398 x 😁12) - **[aqua](https://github.com/jedireza/aqua)** (2015) - :bulb: A website and user system starter
- - (⭐ 344 x 🍴41 x 😁4) - **[react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc)** (2014) - TodoMVC implementation with React and RxJS
- - (⭐ 291 x 🍴51 x 😁4) - **[todomvc-swarm](https://github.com/gritzko/todomvc-swarm)** (2014) - An example Swarm+React project
- - (⭐ 244 x 🍴20 x 😁1) - **[github-issues-viewer](https://github.com/jaredly/github-issues-viewer)** (2014) - A gitub issues viewer build in react + backbone
- - (⭐ 136 x 🍴300) - **[imgsible](https://github.com/BinaryMuse/imgsible)** (2014) - React-based Imgur-like isomorphic demo app
- - (⭐ 114 x 🍴17 x 😁3) - **[react-json-editor](https://github.com/dustingetz/react-json-editor)** (2014)false
- - (⭐ 58 x 🍴3 x 😁3) - **[react-pokemon](https://github.com/passy/react-pokemon)** (2014) - A React component for displaying Pokémon
- - (⭐ 48 x 🍴12 x 😁2) - **[wolfenstein3D-react](https://github.com/petehunt/wolfenstein3D-react)** (2013) - html5-wolfenstein3D
- - (⭐ 45 x 🍴7 x 😁1) - **[flux-immutable-todomvc](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)** (2015) - Uses ImmutableJS as described in the presentation by @leebyron at React Conf 2015.
- - (⭐ 44 x 🍴12 x 😁3) - **[react-mvc](https://github.com/ustun/react-mvc)** (2016) - React + MVC = Happy Developers
- - (⭐ 33 x 🍴13 x 😁1) - **[lifequote](https://github.com/insin/lifequote)** (2014) - React port of a life insurance quick quoting application
- - (⭐ 31 x 🍴10 x 😁1) - **[react-todos](https://github.com/ssorallen/react-todos)** (2013) - Backbone's example TODO app with React Components for views
- - (⭐ 26 x 🍴3 x 😁1) - **[react-lights-out](https://github.com/chenglou/react-lights-out)** (2013) - Simple demo of the React framework's power and flexibility.
- - (⭐ 25 x 🍴2 x 😁1) - **[reactodo](https://github.com/insin/reactodo)** (2014) - Multiple localStorage TODO lists, built with React
- - (⭐ 23 x 🍴3 x 😁1) - **[react-observe-todomvc](https://github.com/fdecampredon/react-observe-todomvc)** (2014) - TodoMVC implementation built on top of React and Object.observe
- - (⭐ 17 x 🍴4 x 😁2) - **[reactor-demo](https://github.com/natew/reactor-demo)** (2014) - Isomorphic Javascript app with React
- - (⭐ 13 x 🍴4 x 😁3) - **[react-color-wander](https://github.com/sonaye/react-color-wander)** (2018) - Generative art with React.
- - (⭐ 2 x 🍴2 x 😁6) - **[todomvc-nestedreact](https://github.com/gaperton/todomvc-nestedreact)** (2015) - Template used for creating TodoMVC apps
- - (⭐ 2 x 🍴20) - **[wow-realm-status-react](https://github.com/BinaryMuse/wow-realm-status-react)** (2014) - WoW Realm Status: React Edition
+ - https://github.com/insin/react-hnfalse
+ - https://github.com/passy/react-pokemonfalse
+ - https://github.com/gaperton/todomvc-nestedreactfalse
+ - https://github.com/fdecampredon/react-rxjs-todomvcfalse
+ - https://github.com/ustun/react-mvcfalse
+ - https://github.com/fdecampredon/react-observe-todomvcfalse
+ - https://github.com/chenglou/react-lights-outfalse
+ - https://github.com/gritzko/todomvc-swarmfalse
+ - https://github.com/insin/reactodofalse
+ - https://github.com/insin/lifequotefalse
+ - https://github.com/natew/reactor-demofalse
+ - https://github.com/BinaryMuse/imgsiblefalse
+ - https://github.com/BinaryMuse/wow-realm-status-reactfalse
+ - https://github.com/dustingetz/react-json-editorfalse
+ - https://github.com/ssorallen/react-todosfalse
+ - https://github.com/jaredly/github-issues-viewerfalse
+ - https://github.com/petehunt/wolfenstein3D-reactfalse
+ - https://github.com/MandarinConLaBarba/flux-immutable-todomvcfalse
+ - https://github.com/jedireza/aquafalse
  - https://github.com/gaearon/redux/tree/master/examples/todomvcfalse
  - https://github.com/arcseldon/react-babel-webpack-starter-app.gitfalse
  - https://github.com/cristianszwarc/react_crud_localStorage/false
  - https://github.com/pusher/react-slack-clone/false
+ - https://github.com/sonaye/react-color-wanderfalse
+ - https://github.com/gaearon/overreacted.iofalse
 
 ##### Github > JavaScript > React > Example Apps
+[🏠 Go Home](#programming-languages)
 
 [💯 **https://metaawesome.io/github/javascript/react/example-apps** ](https://metaawesome.io/github/javascript/react/example-apps)
 
- - (⭐ 7,230 x 🍴638 x 😁76) - **[spectrum](https://github.com/withspectrum/spectrum)** (2016) - Simple, powerful online communities.
- - (⭐ 7,230 x 🍴638 x 😁76) - **[spectrum](https://github.com/withspectrum/spectrum)** (2016) - Simple, powerful online communities.
- - (⭐ 6,681 x 🍴455 x 😁25) - **[winamp2-js](https://github.com/captbaritone/winamp2-js)** (2014) - Winamp 2 reimplemented for the browser
- - (⭐ 4,739 x 🍴905 x 😁17) - **[sound-redux](https://github.com/andrewngu/sound-redux)** (2015) - A Soundcloud client built with React / Redux
- - (⭐ 4,420 x 🍴838 x 😁100) - **[debugger.html](https://github.com/devtools-html/debugger.html)** (2016) - The Firefox debugger that works anywhere  :boom:
- - (⭐ 4,420 x 🍴838 x 😁100) - **[debugger.html](https://github.com/devtools-html/debugger.html)** (2016) - The Firefox debugger that works anywhere  :boom:
- - (⭐ 3,437 x 🍴355 x 😁4) - **[hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql)** (2017) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
- - (⭐ 2,036 x 🍴832 x 😁6) - **[coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template)** (2017) - CoreUI React is free React admin template based on Bootstrap 4 
- - (⭐ 1,450 x 🍴225 x 😁13) - **[favesound-redux](https://github.com/rwieruch/favesound-redux)** (2016) - 🎶 A SoundCloud Client in React + Redux running in production. Live Demo and Source Code to explore React + Redux as a beginner.
- - (⭐ 1,357 x 🍴196 x 😁12) - **[isomorphic500](https://github.com/gpbl/isomorphic500)** (2014) - A 500px app built with React and Fluxible with babeljs
- - (⭐ 789 x 🍴191 x 😁2) - **[react-reduction](https://github.com/reduction-admin/react-reduction)** (2018) - React Reduction - Free Admin Template Built with React and Bootstrap4
- - (⭐ 762 x 🍴394 x 😁5) - **[react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart)** (2018) - 🛍️ Simple ecommerce cart application built with React Redux
- - (⭐ 512 x 🍴985 x 😁100) - **[mattermost-webapp](https://github.com/mattermost/mattermost-webapp)** (2017) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
- - (⭐ 512 x 🍴985 x 😁100) - **[mattermost-webapp](https://github.com/mattermost/mattermost-webapp)** (2017) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
- - (⭐ 499 x 🍴56 x 😁7) - **[favesound-mobx](https://github.com/rwieruch/favesound-mobx)** (2016) - 🎶 A SoundCloud Client in React + MobX running in production. Live Demo and Source Code to explore React + MobX. Refactored from favesound-redux
- - (⭐ 321 x 🍴77 x 😁9) - **[react-pomodoro](https://github.com/afonsopacifer/react-pomodoro)** (2016) - :alarm_clock: Pomodoro timer built with ReactJS.
- - (⭐ 296 x 🍴44 x 😁1) - **[do](https://github.com/1ven/do)** (2016) - 📋 Notes management application built with React and Redux
  - (⭐ 281 x 🍴42 x 😁34) - **[remote_retro](https://github.com/stride-nyc/remote_retro)** (2016) - Agile retrospectives for distributed teams
  - (⭐ 281 x 🍴42 x 😁34) - **[remote_retro](https://github.com/stride-nyc/remote_retro)** (2016) - Agile retrospectives for distributed teams
- - (⭐ 74 x 🍴170) - **[comingOrNot#reactjs-redux-serverless-graphql-event-planner](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)** (2016) - A perfect event organizer
- - (⭐ 30 x 😁3) - **[flux-main-sample](https://github.com/tiarebalbi/flux-main-sample)** (2018) - Code Splitting with Flux and React
-
-### Github > C
-
- - [Standard Libraries](#github--c--standard-libraries)
- - [Frameworks](#github--c--frameworks)
- - [Artificial Intelligence](#github--c--artificial-intelligence)
- - [Asynchronous Event Loop](#github--c--asynchronous-event-loop)
- - [Audio](#github--c--audio)
- - [Biology](#github--c--biology)
- - [BitTorrent](#github--c--bittorrent)
- - [CLI](#github--c--cli)
- - [Compression](#github--c--compression)
- - [Concurrency](#github--c--concurrency)
- - [Containers](#github--c--containers)
- - [Cryptography](#github--c--cryptography)
- - [CSV](#github--c--csv)
- - [Database](#github--c--database)
- - [Debug](#github--c--debug)
- - [Game Engine](#github--c--game-engine)
- - [GUI](#github--c--gui)
- - [Graphics](#github--c--graphics)
- - [Image Processing](#github--c--image-processing)
- - [Internationalization](#github--c--internationalization)
- - [Inter-process communication](#github--c--inter-process-communication)
- - [JSON](#github--c--json)
- - [Logging](#github--c--logging)
- - [Machine Learning](#github--c--machine-learning)
- - [Math](#github--c--math)
- - [Memory Allocation](#github--c--memory-allocation)
- - [Multimedia](#github--c--multimedia)
- - [Networking](#github--c--networking)
- - [PDF](#github--c--pdf)
- - [Physics](#github--c--physics)
- - [Reflection](#github--c--reflection)
- - [Regular Expression](#github--c--regular-expression)
- - [Robotics](#github--c--robotics)
- - [Scientific Computing](#github--c--scientific-computing)
- - [Scripting](#github--c--scripting)
- - [Serialization](#github--c--serialization)
- - [Sorting](#github--c--sorting)
- - [Video](#github--c--video)
- - [Virtual Machines](#github--c--virtual-machines)
- - [Web Application Framework](#github--c--web-application-framework)
- - [XML](#github--c--xml)
- - [Miscellaneous](#github--c--miscellaneous)
-
-#### Github > C > Standard Libraries
-
-[💯 **https://metaawesome.io/github/c/standard-libraries** ](https://metaawesome.io/github/c/standard-libraries)
-
- - https://github.com/cplusplusfalse
-
-#### Github > C > Frameworks
-
-[💯 **https://metaawesome.io/github/c/frameworks** ](https://metaawesome.io/github/c/frameworks)
-
- - (⭐ 13,230 x 🍴3,180 x 😁297) - **[folly](https://github.com/facebook/folly)** (2012) - An open-source C++ library developed and used at Facebook.
- - (⭐ 7,490 x 🍴2,232 x 😁124) - **[dlib](https://github.com/davisking/dlib)** (2014) - A toolkit for making real world machine learning and data analysis applications in C++
- - (⭐ 7,059 x 🍴2,276 x 😁285) - **[openFrameworks](https://github.com/openframeworks/openFrameworks)** (2009) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
- - (⭐ 5,560 x 🍴774 x 😁48) - **[abseil-cpp](https://github.com/abseil/abseil-cpp)** (2017) - Abseil Common Libraries (C++)
- - (⭐ 4,011 x 🍴461 x 😁54) - **[EASTL](https://github.com/electronicarts/EASTL)** (2015) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
- - (⭐ 2,893 x 🍴379 x 😁10) - **[tbox](https://github.com/tboox/tbox)** (2011) - 🎁 A glib-like multi-platform c library
- - (⭐ 1,628 x 🍴376 x 😁14) - **[libphenom](https://github.com/facebook/libphenom)** (2012) - An eventing framework for building high performance and high scalability systems in C.
- - (⭐ 1,603 x 🍴666 x 😁23) - **[JUCE](https://github.com/julianstorer/JUCE)** (2012) - The JUCE cross-platform C++ framework
- - (⭐ 1,011 x 🍴216 x 😁41) - **[bde](https://github.com/bloomberg/bde)** (2012) - Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
- - (⭐ 937 x 🍴280 x 😁16) - **[libsourcey](https://github.com/sourcey/libsourcey)** (2012) - C++14 evented IO libraries for high performance networking and media based applications
- - (⭐ 899 x 🍴72 x 😁20) - **[FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus)** (2015) - Functional Programming Library for C++. Write concise and readable C++ code.
- - (⭐ 419 x 🍴81 x 😁24) - **[etl](https://github.com/ETLCPP/etl)** (2014) - Embedded Template Library
- - (⭐ 310 x 🍴112 x 😁1) - **[ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp)** (2012) - Framework for Enterprise Application Development, c++ framework, c++ web framework, c++ application framework, c++ rest framework, c++ soap framework, c++ web sites,c++ web applications, c++ driven web development - c++
- - (⭐ 249 x 🍴62 x 😁5) - **[libu](https://github.com/koanlogic/libu)** (2010) - LibU is a multiplatform utility library written in C, with APIs for handling memory allocation, networking and URI parsing, string manipulation, debugging, and logging in a very compact way, plus many other miscellaneous tasks
- - (⭐ 98 x 🍴4 x 😁1) - **[yomm2](https://github.com/jll63/yomm2)** (2017) - Fast, orthogonal, open multi-methods. Supersedes yomm11.
- - https://github.com/boostorgfalse
-
-#### Github > C > Artificial Intelligence
-
-[💯 **https://metaawesome.io/github/c/artificial-intelligence** ](https://metaawesome.io/github/c/artificial-intelligence)
-
- - (⭐ 130,254 x 🍴75,819 x 😁389) - **[tensorflow](https://github.com/tensorflow/tensorflow)** (2015) - An Open Source Machine Learning Framework for Everyone
- - (⭐ 29,481 x 🍴7,146 x 😁339) - **[pytorch](https://github.com/pytorch/pytorch)** (2016) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
- - (⭐ 17,273 x 🍴6,132 x 😁385) - **[incubator-mxnet](https://github.com/apache/incubator-mxnet)** (2015) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
- - (⭐ 16,245 x 🍴4,312 x 😁198) - **[CNTK](https://github.com/Microsoft/CNTK)** (2015) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
- - (⭐ 6,225 x 🍴2,967 x 😁264) - **[kaldi](https://github.com/kaldi-asr/kaldi)** (2015) - This is the official location of the Kaldi project.
- - (⭐ 4,788 x 🍴1,254 x 😁70) - **[tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)** (2012) - header only, dependency-free deep learning framework in C++14
- - (⭐ 2,676 x 🍴790 x 😁42) - **[recastnavigation](https://github.com/recastnavigation/recastnavigation)** (2013) - Navigation-mesh Toolset for Games
- - (⭐ 878 x 🍴184 x 😁10) - **[veles](https://github.com/Samsung/veles)** (2015) - Distributed machine learning platform
- - (⭐ 876 x 🍴106 x 😁5) - **[genann](https://github.com/codeplea/genann)** (2016) - simple neural network library in ANSI C
- - (⭐ 450 x 🍴102 x 😁12) - **[frugally-deep](https://github.com/Dobiasd/frugally-deep)** (2016) - Header-only library for using Keras models in C++.
- - (⭐ 288 x 🍴100 x 😁1) - **[btsk](https://github.com/aigamedev/btsk)** (2012) - Behavior Tree Starter Kit
- - (⭐ 65 x 🍴13 x 😁1) - **[ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU)** (2013) - A GPU (CUDA) based Artificial Neural Network library
-
-#### Github > C > Asynchronous Event Loop
-
-[💯 **https://metaawesome.io/github/c/asynchronous-event-loop** ](https://metaawesome.io/github/c/asynchronous-event-loop)
-
- - (⭐ 12,837 x 🍴2,074 x 😁338) - **[libuv](https://github.com/libuv/libuv)** (2013) - Cross-platform asynchronous I/O
- - (⭐ 1,899 x 🍴348 x 😁44) - **[actor-framework](https://github.com/actor-framework/actor-framework)** (2011) - An Open Source Implementation of the Actor Model in C++
- - (⭐ 666 x 🍴86 x 😁18) - **[uvw](https://github.com/skypjack/uvw)** (2016) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++
- - https://github.com/chriskohlhoff/asio/false
-
-#### Github > C > Audio
-
-[💯 **https://metaawesome.io/github/c/audio** ](https://metaawesome.io/github/c/audio)
-
- - (⭐ 848 x 🍴189 x 😁11) - **[Maximilian](https://github.com/micknoise/Maximilian)** (2011) - C++ Audio and Music DSP Library
- - (⭐ 633 x 🍴89 x 😁24) - **[soloud](https://github.com/jarikomppa/soloud)** (2013) - Free, easy, portable audio engine for games
- - (⭐ 517 x 🍴51 x 😁11) - **[minimp3](https://github.com/lieff/minimp3)** (2018) - Minimalistic MP3 decoder single header library
- - (⭐ 488 x 🍴31 x 😁9) - **[miniaudio](https://github.com/dr-soft/miniaudio)** (2016) - Single file audio playback and capture library.
- - (⭐ 379 x 🍴52 x 😁6) - **[Tonic](https://github.com/TonicAudio/Tonic)** (2013) - Easy and efficient audio synthesis in C++
- - (⭐ 182 x 🍴18 x 😁2) - **[sela](https://github.com/sahaRatul/sela)** (2015) - SimplE Lossless Audio
- - https://github.com/erikd/libsndfile/false
- - https://github.com/facebookresearch/wav2letter/false
-
-#### Github > C > Biology
-
-[💯 **https://metaawesome.io/github/c/biology** ](https://metaawesome.io/github/c/biology)
-
- - (⭐ 317 x 🍴159 x 😁30) - **[vcflib](https://github.com/ekg/vcflib)** (2010) - a simple C++ library for parsing and manipulating VCF files, + many command-line utilities
- - (⭐ 61 x 🍴16 x 😁9) - **[wham](https://github.com/zeeev/wham)** (2013) - Structural variant detection and association testing
-
-#### Github > C > BitTorrent
-
-[💯 **https://metaawesome.io/github/c/bittorrent** ](https://metaawesome.io/github/c/bittorrent)
-
- - (⭐ 1,865 x 🍴502 x 😁74) - **[libtorrent](https://github.com/arvidn/libtorrent)** (2015) - an efficient feature complete C++ bittorrent implementation
- - (⭐ 779 x 🍴202 x 😁18) - **[libutp](https://github.com/bittorrent/libutp)** (2010) - uTorrent Transport Protocol library
- - (⭐ 747 x 🍴177 x 😁17) - **[libtorrent](https://github.com/rakshasa/libtorrent)** (2011) - libTorrent BitTorrent library
- - (⭐ 518 x 🍴148 x 😁8) - **[dht](https://github.com/jech/dht)** (2011) - BitTorrent DHT library
-
-#### Github > C > CLI
-
-[💯 **https://metaawesome.io/github/c/cli** ](https://metaawesome.io/github/c/cli)
-
- - (⭐ 2,231 x 🍴433 x 😁12) - **[linenoise](https://github.com/antirez/linenoise)** (2010) - A small self-contained alternative to readline and libedit
- - (⭐ 1,489 x 🍴113 x 😁41) - **[termbox](https://github.com/nsf/termbox)** (2010) - Library for writing text-based user interfaces
- - (⭐ 1,350 x 🍴225 x 😁35) - **[cxxopts](https://github.com/jarro2783/cxxopts)** (2014) - Lightweight C++ command line option parser
- - (⭐ 707 x 🍴80 x 😁24) - **[CLI11](https://github.com/CLIUtils/CLI11)** (2017) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
- - (⭐ 674 x 🍴88 x 😁17) - **[docopt.cpp](https://github.com/docopt/docopt.cpp)** (2013) - C++11 port of docopt
- - (⭐ 605 x 🍴79 x 😁14) - **[args](https://github.com/taywee/args)** (2016) -   A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
- - (⭐ 597 x 🍴64 x 😁10) - **[Clara](https://github.com/catchorg/Clara)** (2014) - A simple to use, composable, command line parser for C++ 11 and beyond
- - (⭐ 446 x 🍴39 x 😁13) - **[argh](https://github.com/adishavit/argh)** (2016) - Argh! A minimalist argument handler.
- - (⭐ 361 x 🍴103 x 😁17) - **[PDCurses](https://github.com/wmcbrine/PDCurses)** (2015) - PDCurses - a curses library for environments that don't fit the termcap/terminfo model.
- - (⭐ 252 x 🍴17 x 😁6) - **[cli](https://github.com/daniele77/cli)** (2016) - A library for interactive command line interfaces in modern C++
- - (⭐ 251 x 🍴37 x 😁26) - **[replxx](https://github.com/AmokHuginnsson/replxx)** (2017) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
- - (⭐ 232 x 🍴29 x 😁14) - **[linenoise-ng](https://github.com/arangodb/linenoise-ng)** (2015) - A small self-contained alternative to readline and libedit that supports UTF-8 and Windows and is BSD licensed.
-
-#### Github > C > Compression
-
-[💯 **https://metaawesome.io/github/c/compression** ](https://metaawesome.io/github/c/compression)
-
- - (⭐ 10,090 x 🍴883 x 😁120) - **[zstd](https://github.com/facebook/zstd)** (2015) - Zstandard - Fast real-time compression algorithm
- - (⭐ 7,419 x 🍴704 x 😁52) - **[brotli](https://github.com/google/brotli)** (2014) - Brotli compression format
- - (⭐ 4,099 x 🍴661 x 😁76) - **[lz4](https://github.com/lz4/lz4)** (2014) - Extremely Fast Compression algorithm
- - (⭐ 1,476 x 🍴147 x 😁9) - **[lzfse](https://github.com/lzfse/lzfse)** (2016) - LZFSE compression library and command line tool
- - (⭐ 1,046 x 🍴357 x 😁143) - **[libarchive](https://github.com/libarchive/libarchive)** (2012) - Multi-format archive and compression library
- - (⭐ 791 x 🍴78 x 😁8) - **[FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy)** (2013) - New generation entropy codecs : Finite State Entropy and Huff0
- - (⭐ 727 x 🍴87 x 😁1) - **[smaz](https://github.com/antirez/smaz)** (2009) - Small strings compression library
- - (⭐ 660 x 🍴121 x 😁16) - **[miniz](https://github.com/richgel999/miniz)** (2015) - miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz
- - (⭐ 511 x 🍴67 x 😁53) - **[zlib-ng](https://github.com/Dead2/zlib-ng)** (2014) - zlib replacement with optimizations for "next generation" systems.
- - (⭐ 464 x 🍴208 x 😁48) - **[minizip](https://github.com/nmoinvaz/minizip)** (2012) - Fork of the popular zip manipulation library found in the zlib distribution.
-
-#### Github > C > Concurrency
-
-[💯 **https://metaawesome.io/github/c/concurrency** ](https://metaawesome.io/github/c/concurrency)
-
- - (⭐ 3,619 x 🍴735 x 😁15) - **[concurrentqueue](https://github.com/cameron314/concurrentqueue)** (2014) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
- - (⭐ 2,727 x 🍴385 x 😁56) - **[arrayfire](https://github.com/arrayfire/arrayfire)** (2014) - ArrayFire: a general purpose GPU library.
- - (⭐ 1,895 x 🍴194 x 😁14) - **[cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)** (2018) - Modern C++ Parallel Task Programming Library
- - (⭐ 1,570 x 🍴310 x 😁59) - **[swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch)** (2015) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
- - (⭐ 1,531 x 🍴207 x 😁33) - **[ck](https://github.com/concurrencykit/ck)** (2014) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.
- - (⭐ 1,392 x 🍴326 x 😁12) - **[readerwriterqueue](https://github.com/cameron314/readerwriterqueue)** (2013) - A fast single-producer, single-consumer lock-free queue for C++
- - (⭐ 1,348 x 🍴240 x 😁10) - **[libcds](https://github.com/khizmax/libcds)** (2014) - A C++ library of Concurrent Data Structures
- - (⭐ 1,005 x 🍴235 x 😁54) - **[compute](https://github.com/boostorg/compute)** (2013) - A C++ GPU Computing Library for OpenCL
- - (⭐ 988 x 🍴221 x 😁4) - **[moderngpu](https://github.com/moderngpu/moderngpu)** (2013) - Patterns and behaviors for GPU computing
- - (⭐ 983 x 🍴265 x 😁25) - **[nccl](https://github.com/NVIDIA/nccl)** (2015) - Optimized primitives for collective multi-GPU communication
- - (⭐ 960 x 🍴113 x 😁4) - **[junction](https://github.com/preshing/junction)** (2016) - Concurrent data structures in C++
- - (⭐ 815 x 🍴115 x 😁1) - **[cpp.react](https://github.com/schlangster/cpp.react)** (2014) - C++React: A reactive programming library for C++11.
- - (⭐ 622 x 🍴106 x 😁6) - **[asyncplusplus](https://github.com/Amanieu/asyncplusplus)** (2013) - Async++ concurrency framework for C++11
- - (⭐ 575 x 🍴167 x 😁4) - **[cub](https://github.com/NVlabs/cub)** (2013) - CUB is a flexible library of cooperative threadblock primitives and other utilities for CUDA kernel programming.
- - (⭐ 560 x 🍴72 x 😁25) - **[vexcl](https://github.com/ddemidov/vexcl)** (2012) - VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP
- - (⭐ 461 x 🍴51 x 😁8) - **[FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib)** (2015) - A library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.
- - (⭐ 458 x 🍴37 x 😁2) - **[parallelstl](https://github.com/intel/parallelstl)** (2017)false
- - (⭐ 333 x 🍴17 x 😁3) - **[transwarp](https://github.com/bloomen/transwarp)** (2017) - A header-only C++ library for task concurrency
- - (⭐ 323 x 🍴58 x 😁8) - **[Bolt](https://github.com/HSA-Libraries/Bolt)** (2012) - Bolt is a C++ template library optimized for GPUs. Bolt provides high-performance library implementations for common algorithms such as scan, reduce, transform, and sort.
- - (⭐ 195 x 🍴12 x 😁1) - **[GTS-GamesTaskScheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler)** (2019) - A task scheduling framework designed for the needs of game developers.
- - (⭐ 76 x 🍴13 x 😁3) - **[quantum](https://github.com/bloomberg/quantum)** (2018) - Powerful multi-threaded coroutine dispatcher and parallel execution engine
- - (⭐ 74 x 🍴28 x 😁15) - **[alpaka](https://github.com/ComputationalRadiationPhysics/alpaka)** (2014) - Abstraction Library for Parallel Kernel Acceleration :horse:
- - (⭐ 40 x 🍴7 x 😁2) - **[libclsph](https://github.com/libclsph/libclsph)** (2013) - OpenCL based GPU accelerated SPH fluid simulation library
- - (⭐ 18 x 🍴14 x 😁5) - **[cupla](https://github.com/ComputationalRadiationPhysics/cupla)** (2016) - C++ User interface for the Platform independent Library Alpaka :arrows_clockwise:
- - https://github.com/sustrik/libdill/false
- - https://github.com/sustrik/libmill/false
- - https://github.com/STEllAR-GROUP/hpx/false
-
-#### Github > C > Containers
-
-[💯 **https://metaawesome.io/github/c/containers** ](https://metaawesome.io/github/c/containers)
-
- - (⭐ 899 x 🍴100 x 😁10) - **[sparsepp](https://github.com/greg7mdp/sparsepp)** (2016) - A fast, memory efficient hash map for C++
- - (⭐ 306 x 🍴29 x 😁4) - **[hopscotch-map](https://github.com/Tessil/hopscotch-map)** (2016) - C++ implementation of a fast hash map and hash set using hopscotch hashing
- - (⭐ 249 x 🍴23 x 😁4) - **[robin-map](https://github.com/Tessil/robin-map)** (2017) -  C++ implementation of a fast hash map and hash set using robin hood hashing
- - (⭐ 210 x 🍴13 x 😁5) - **[robin-hood-hashing](https://github.com/martinus/robin-hood-hashing)** (2013) - Fast & memory efficient hashtable based on robin hood hashing for C++11, C++14 etc
- - (⭐ 209 x 🍴69 x 😁4) - **[LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX)** (2014) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support python and matlab.
- - (⭐ 191 x 🍴76 x 😁2) - **[hashmap](https://github.com/goossaert/hashmap)** (2013) - Various open addressing hashmap algorithms in C++
- - (⭐ 150 x 🍴11 x 😁2) - **[plf_colony](https://github.com/mattreecebentley/plf_colony)** (2015) - An unordered C++ data container providing fast iteration/insertion/erasure while maintaining pointer/iterator validity to non-erased elements regardless of insertions/erasures. Provides higher-performance than std:: library containers for h…
- - (⭐ 75 x 🍴22 x 😁6) - **[forest](https://github.com/xorz57/forest)** (2017) - Template Library of Tree Data Structures in C++17
- - (⭐ 60 x 🍴5 x 😁1) - **[plf_list](https://github.com/mattreecebentley/plf_list)** (2017) - A drop-in replacement for std::list with 293% faster insertion, 57% faster erasure, 17% faster iteration and 77% faster sorting on average. 20-24% speed increase in use-case testing.
- - (⭐ 49 x 🍴5 x 😁2) - **[ring-span-lite](https://github.com/martinmoene/ring-span-lite)** (2017) - ring-span lite - A C++yy-like ring_span type for C++98, C++11 and later in a single-file header-only library
- - (⭐ 22 x 🍴2 x 😁1) - **[plf_stack](https://github.com/mattreecebentley/plf_stack)** (2016) - A C++ data container replicating std::stack functionality but with better performance than standard library containers in a stack context.
- - (⭐ 20 x 🍴1 x 😁1) - **[dynamic_bitset](https://github.com/pinam45/dynamic_bitset)** (2019) - A C++17 header-only dynamic bitset
-
-#### Github > C > Cryptography
-
-[💯 **https://metaawesome.io/github/c/cryptography** ](https://metaawesome.io/github/c/cryptography)
-
- - (⭐ 10,737 x 🍴4,668 x 😁357) - **[openssl](https://github.com/openssl/openssl)** (2013) - TLS/SSL and crypto library
- - (⭐ 7,857 x 🍴587 x 😁41) - **[tink](https://github.com/google/tink)** (2014) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
- - (⭐ 7,061 x 🍴1,126 x 😁85) - **[libsodium](https://github.com/jedisct1/libsodium)** (2013) - A modern, portable, easy to use crypto library
- - (⭐ 3,470 x 🍴399 x 😁84) - **[s2n](https://github.com/awslabs/s2n)** (2014) - s2n : an implementation of the TLS/SSL protocols
- - (⭐ 1,969 x 🍴1,127 x 😁106) - **[mbedtls](https://github.com/ARMmbed/mbedtls)** (2012) - An open source, portable, easy to use, readable and flexible SSL library
- - (⭐ 1,788 x 🍴572 x 😁56) - **[cryptopp](https://github.com/weidai11/cryptopp)** (2015) - free C++ class library of cryptographic schemes
- - (⭐ 1,600 x 🍴620 x 😁13) - **[tiny-AES-c](https://github.com/kokke/tiny-AES-c)** (2012) - Small portable AES128/192/256 in C
- - (⭐ 1,034 x 🍴108 x 😁10) - **[sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)** (2017) - Library and command line tool to detect SHA-1 collision in a file
- - (⭐ 847 x 🍴290 x 😁31) - **[libtomcrypt](https://github.com/libtom/libtomcrypt)** (2010) - LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, pub…
- - (⭐ 798 x 🍴65 x 😁14) - **[themis](https://github.com/cossacklabs/themis)** (2015) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across ten platforms.
- - (⭐ 432 x 🍴40 x 😁7) - **[libhydrogen](https://github.com/jedisct1/libhydrogen)** (2017) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
- - (⭐ 432 x 🍴40 x 😁7) - **[libhydrogen](https://github.com/jedisct1/libhydrogen)** (2017) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
- - (⭐ 62 x 🍴9 x 😁1) - **[digestpp](https://github.com/kerukuro/digestpp)** (2017) - C++11 header-only message digest library
- - (⭐ 42 x 🍴160) - **[retter](https://github.com/MaciejCzyzewski/retter)** (2016) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography & security. :closed_lock_with_key::closed_lock_with_key::closed_lock_with_key::closed_lock_with_key::closed_lock_with_key: (project was renamed…
-
-#### Github > C > CSV
-
-[💯 **https://metaawesome.io/github/c/csv** ](https://metaawesome.io/github/c/csv)
-
- - (⭐ 663 x 🍴182 x 😁5) - **[fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser)** (2015) - fast-cpp-csv-parser
- - (⭐ 132 x 🍴10 x 😁4) - **[csv-parser](https://github.com/vincentlaucsb/csv-parser)** (2017) - A modern C++ library for reading, writing, and analyzing CSV (and similar) files.
- - (⭐ 121 x 🍴9 x 😁3) - **[csv](https://github.com/p-ranav/csv)** (2019) - CSV for Modern C++
-
-#### Github > C > Database
-
-[💯 **https://metaawesome.io/github/c/database** ](https://metaawesome.io/github/c/database)
-
- - (⭐ 17,953 x 🍴4,254 x 😁32) - **[leveldb](https://github.com/google/leveldb)** (2014) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
- - (⭐ 14,237 x 🍴3,110 x 😁328) - **[rocksdb](https://github.com/facebook/rocksdb)** (2012) - A library that provides an embeddable, persistent key-value store for fast storage.
- - (⭐ 3,825 x 🍴1,264 x 😁89) - **[hiredis](https://github.com/redis/hiredis)** (2010) - Minimalistic C client for Redis >= 1.2
- - (⭐ 1,325 x 🍴205 x 😁29) - **[sqlpp11](https://github.com/rbock/sqlpp11)** (2013) - A type safe SQL template library for C++
- - (⭐ 750 x 🍴294 x 😁62) - **[soci](https://github.com/SOCI/soci)** (2011) - SOCI - The C++ Database Access Library. This is official repository the SOCI project.
- - (⭐ 722 x 🍴246 x 😁42) - **[SQLiteCpp](https://github.com/SRombauts/SQLiteCpp)** (2012) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
- - (⭐ 634 x 🍴401 x 😁55) - **[mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver)** (2014) - C++ Driver for MongoDB
- - (⭐ 579 x 🍴84 x 😁16) - **[sqlite_orm](https://github.com/fnc12/sqlite_orm)** (2016) - ❤️ SQLite ORM light header only library for modern C++
- - (⭐ 532 x 🍴310 x 😁76) - **[mongo-c-driver](https://github.com/mongodb/mongo-c-driver)** (2013) - A high-performance MongoDB driver for C
- - (⭐ 493 x 🍴94 x 😁7) - **[hiberlite](https://github.com/paulftw/hiberlite)** (2011) - C++ ORM for SQLite
- - (⭐ 461 x 🍴54 x 😁20) - **[TileDB](https://github.com/TileDB-Inc/TileDB)** (2017) - TileDB array data management
- - (⭐ 448 x 🍴94 x 😁18) - **[sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)** (2014) - The C++14 wrapper around sqlite library
- - (⭐ 315 x 🍴37 x 😁1) - **[simdb](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb)** (2017) - A high performance, shared memory, lock free, cross platform, single file, no dependencies, C++11 key-value store
- - (⭐ 303 x 🍴175 x 😁55) - **[libbson](https://github.com/mongodb/libbson)** (2013) - ARCHIVED - libbson has moved to https://github.com/mongodb/mongo-c-driver/tree/master/src/libbson
- - (⭐ 186 x 🍴57 x 😁2) - **[lmdbxx](https://github.com/bendiken/lmdbxx)** (2015) - C++11 wrapper for the LMDB embedded B+ tree database library.
- - (⭐ 154 x 🍴67 x 😁8) - **[redis3m](https://github.com/luca3m/redis3m)** (2014) - A C++ Redis client
- - (⭐ 87 x 🍴17 x 😁19) - **[nanodbc](https://github.com/nanodbc/nanodbc)** (2017) - A small C++ wrapper for the native C ODBC API | Requires C++14 since v2.12
-
-#### Github > C > Debug
-
-[💯 **https://metaawesome.io/github/c/debug** ](https://metaawesome.io/github/c/debug)
-
- - (⭐ 11,992 x 🍴4,910 x 😁223) - **[googletest](https://github.com/google/googletest)** (2015) - Googletest - Google Testing and Mocking Framework
- - (⭐ 9,378 x 🍴1,552 x 😁185) - **[Catch](https://github.com/philsquared/Catch)** (2010) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
- - (⭐ 9,378 x 🍴1,552 x 😁185) - **[Catch2](https://github.com/catchorg/Catch2)** (2010) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
- - (⭐ 3,525 x 🍴659 x 😁139) - **[benchmark](https://github.com/google/benchmark)** (2013) - A microbenchmark support library
- - (⭐ 1,770 x 🍴155 x 😁30) - **[doctest](https://github.com/onqtam/doctest)** (2014) - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
- - (⭐ 1,292 x 🍴140 x 😁27) - **[Remotery](https://github.com/Celtoys/Remotery)** (2014) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
- - (⭐ 1,252 x 🍴185 x 😁33) - **[backward-cpp](https://github.com/bombela/backward-cpp)** (2013) - A beautiful stack trace pretty printer for C++
- - (⭐ 1,156 x 🍴386 x 😁69) - **[Unity](https://github.com/ThrowTheSwitch/Unity)** (2012) - Simple Unit Testing for C
- - (⭐ 656 x 🍴325 x 😁82) - **[cpputest](https://github.com/cpputest/cpputest)** (2012) - CppUTest unit testing and mocking framework for C/C++
- - (⭐ 479 x 🍴107 x 😁25) - **[check](https://github.com/libcheck/check)** (2015) - A unit testing framework for C
- - (⭐ 454 x 🍴67 x 😁21) - **[Celero](https://github.com/DigitalInBlue/Celero)** (2013) - C++ Benchmark Authoring Library/Framework
- - (⭐ 385 x 🍴137 x 😁25) - **[unittest-cpp](https://github.com/unittest-cpp/unittest-cpp)** (2012) - A lightweight unit testing framework for C++
- - (⭐ 270 x 🍴38 x 😁11) - **[nonius](https://github.com/libnonius/nonius)** (2013) - A C++ micro-benchmarking framework
- - (⭐ 261 x 🍴63 x 😁11) - **[fff](https://github.com/meekrosoft/fff)** (2010) - A testing micro framework for creating function test doubles
- - (⭐ 254 x 🍴53 x 😁12) - **[minunit](https://github.com/siu/minunit)** (2012) - Minimal unit testing framework for C
- - (⭐ 173 x 🍴40 x 😁17) - **[libtap](https://github.com/zorgnax/libtap)** (2010) - Write tests in C
- - (⭐ 129 x 🍴13 x 😁2) - **[ig-debugheap](https://github.com/deplinenoise/ig-debugheap)** (2014) - Debug heap useful for tracking down memory errors.
- - (⭐ 121 x 🍴1 x 😁3) - **[utest.h](https://github.com/sheredom/utest.h)** (2015) - single header unit testing framework for C and C++
- - (⭐ 28 x 🍴1 x 😁1) - **[plf_nanotimer](https://github.com/mattreecebentley/plf_nanotimer)** (2016) - A simple C++ 03/11/etc timer class for ~microsecond-precision cross-platform benchmarking. The implementation is as limited and as simple as possible to create the lowest amount of overhead.
- - https://github.com/google/googletest/blob/master/googlemock/README.mdfalse
-
-#### Github > C > Game Engine
-
-[💯 **https://metaawesome.io/github/c/game-engine** ](https://metaawesome.io/github/c/game-engine)
-
- - (⭐ 23,007 x 🍴4,502 x 😁437) - **[godot](https://github.com/godotengine/godot)** (2014) - Godot Engine – Multi-platform 2D and 3D game engine
- - (⭐ 2,999 x 🍴1,222 x 😁80) - **[Torque3D](https://github.com/GarageGames/Torque3D)** (2012) - MIT Licensed Open Source version of Torque 3D from GarageGames
- - (⭐ 2,759 x 🍴330 x 😁18) - **[BansheeEngine](https://github.com/BearishSun/BansheeEngine)** (2014) - Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting
- - (⭐ 2,751 x 🍴1,104 x 😁60) - **[GamePlay](https://github.com/gameplay3d/GamePlay)** (2011) - Open-source, cross-platform, C++ game engine for creating 2D/3D games.
- - (⭐ 2,351 x 🍴351 x 😁31) - **[Polycode](https://github.com/ivansafrin/Polycode)** (2010) - Polycode is a cross-platform framework for creative code.
- - (⭐ 2,182 x 🍴441 x 😁33) - **[AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine)** (2015) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
- - (⭐ 2,111 x 🍴244 x 😁86) - **[raylib](https://github.com/raysan5/raylib)** (2013) - A simple and easy-to-use library to enjoy videogames programming
- - (⭐ 2,061 x 🍴87 x 😁11) - **[halley](https://github.com/amzeratul/halley)** (2015) - A lightweight game engine written in modern C++
- - (⭐ 1,727 x 🍴442 x 😁82) - **[panda3d](https://github.com/panda3d/panda3d)** (2013) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
- - (⭐ 1,687 x 🍴580 x 😁78) - **[spring](https://github.com/spring/spring)** (2008) - A powerful free cross-platform RTS game engine
- - (⭐ 1,663 x 🍴152 x 😁21) - **[entt](https://github.com/skypjack/entt)** (2017) - Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more
- - (⭐ 1,500 x 🍴1,677 x 😁27) - **[Torque2D](https://github.com/GarageGames/Torque2D)** (2013) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
- - (⭐ 1,192 x 🍴249 x 😁17) - **[KlayGE](https://github.com/gongminmin/KlayGE)** (2015) - KlayGE is a cross-platform open source game engine with plugin-based architecture.
- - (⭐ 868 x 🍴233 x 😁59) - **[xray-16](https://github.com/OpenXRay/xray-16)** (2014) - X-Ray Engine 1.6 expansion. Original version was used in S.T.A.L.K.E.R.: Call of Pripyat.
- - (⭐ 370 x 🍴36 x 😁7) - **[Acid](https://github.com/Equilibrium-Games/Acid)** (2017) - A high speed C++17 Vulkan game engine
- - (⭐ 293 x 🍴88 x 😁1) - **[olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)** (2018) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects
-
-#### Github > C > GUI
-
-[💯 **https://metaawesome.io/github/c/gui** ](https://metaawesome.io/github/c/gui)
-
- - (⭐ 15,738 x 🍴2,395 x 😁164) - **[imgui](https://github.com/ocornut/imgui)** (2014) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
- - (⭐ 12,509 x 🍴965 x 😁94) - **[nuklear](https://github.com/vurtun/nuklear)** (2015) - A single-header ANSI C gui library
- - (⭐ 8,671 x 🍴471 x 😁31) - **[libui](https://github.com/andlabs/libui)** (2015) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
- - (⭐ 2,812 x 🍴456 x 😁33) - **[nanogui](https://github.com/wjakob/nanogui)** (2015) - Minimalistic GUI library for OpenGL
- - (⭐ 2,113 x 🍴91 x 😁11) - **[yue](https://github.com/yue/yue)** (2016) - A library for creating native cross-platform GUI apps
- - (⭐ 1,587 x 🍴239 x 😁2) - **[GacUI](https://github.com/vczh-libraries/GacUI)** (2015) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features.
-
-#### Github > C > Graphics
-
-[💯 **https://metaawesome.io/github/c/graphics** ](https://metaawesome.io/github/c/graphics)
-
- - (⭐ 6,445 x 🍴1,039 x 😁127) - **[bgfx](https://github.com/bkaradzic/bgfx)** (2012) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
- - (⭐ 5,147 x 🍴1,480 x 😁129) - **[glfw](https://github.com/glfw/glfw)** (2013) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
- - (⭐ 4,333 x 🍴1,360 x 😁297) - **[assimp](https://github.com/assimp/assimp)** (2010) - Official Open Asset Import Library Repository. Loads 40+ 3D file formats into one unified and clean data structure. 
- - (⭐ 3,168 x 🍴646 x 😁180) - **[skia](https://github.com/google/skia)** (2014) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
- - (⭐ 3,123 x 🍴500 x 😁35) - **[nanovg](https://github.com/memononen/nanovg)** (2013) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
- - (⭐ 2,791 x 🍴753 x 😁121) - **[Urho3D](https://github.com/urho3d/Urho3D)** (2013) - Cross-platform 2D and 3D game engine.
- - (⭐ 2,506 x 🍴260 x 😁33) - **[magnum](https://github.com/mosra/magnum)** (2010) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
- - (⭐ 2,211 x 🍴442 x 😁40) - **[OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)** (2012) - An Open-Source subdivision surface library.
- - (⭐ 1,826 x 🍴582 x 😁83) - **[libigl](https://github.com/libigl/libigl)** (2014) - Simple C++ geometry processing library.
- - (⭐ 1,423 x 🍴61 x 😁5) - **[herebedragons](https://github.com/kosua20/herebedragons)** (2016) - A basic 3D scene implemented with various engines, frameworks or APIs.
- - (⭐ 1,348 x 🍴81 x 😁2) - **[ion](https://github.com/google/ion)** (2016) - Ion
- - (⭐ 1,310 x 🍴131 x 😁32) - **[bsf](https://github.com/GameFoundry/bsf)** (2018) - Modern C++14 library for the development of real-time graphical applications
- - (⭐ 1,263 x 🍴304 x 😁4) - **[DirectXTK](https://github.com/Microsoft/DirectXTK)** (2015) - The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++
- - (⭐ 838 x 🍴242 x 😁18) - **[Horde3D](https://github.com/horde3d/Horde3D)** (2013) - Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.
- - (⭐ 814 x 🍴81 x 😁8) - **[yocto-gl](https://github.com/xelatihy/yocto-gl)** (2016) - Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics
- - (⭐ 663 x 🍴71 x 😁5) - **[DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine)** (2015) - A modern cross-platform low-level graphics library and rendering framework
- - (⭐ 546 x 🍴23 x 😁5) - **[blend2d](https://github.com/blend2d/blend2d)** (2014) - 2D Vector Graphics Engine Powered by a JIT Compiler
- - (⭐ 422 x 🍴80 x 😁7) - **[tinyspline](https://github.com/msteinbeck/tinyspline)** (2014) - ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Java, Lua, Octave, PHP, Python, R, and Ruby
- - (⭐ 282 x 🍴108 x 😁21) - **[partio](https://github.com/wdas/partio)** (2010) - C++ (with python bindings) library for easily reading/writing/manipulating common animation particle formats such as PDB, BGEO, PTC.   See the discussion group @ http://groups.google.com/group/partio-discuss
-
-#### Github > C > Image Processing
-
-[💯 **https://metaawesome.io/github/c/image-processing** ](https://metaawesome.io/github/c/image-processing)
-
- - (⭐ 7,490 x 🍴2,232 x 😁124) - **[dlib](https://github.com/davisking/dlib)** (2014) - A toolkit for making real world machine learning and data analysis applications in C++
- - (⭐ 7,112 x 🍴1,979 x 😁11) - **[libfacedetection](https://github.com/ShiqiYu/libfacedetection)** (2015) - An open source library for face detection in images. The face detection speed can reach 1500FPS. 
- - (⭐ 1,548 x 🍴438 x 😁25) - **[libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo)** (2015) - Main libjpeg-turbo repository
- - (⭐ 935 x 🍴350 x 😁112) - **[oiio](https://github.com/OpenImageIO/oiio)** (2011) - OpenImageIO
- - (⭐ 776 x 🍴200 x 😁11) - **[Simd](https://github.com/ermig1979/Simd)** (2015) - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
- - (⭐ 569 x 🍴83 x 😁3) - **[vpp](https://github.com/matt-42/vpp)** (2014) - Video++, a C++14 high performance video and image processing library.
- - (⭐ 445 x 🍴160 x 😁39) - **[libgd](https://github.com/libgd/libgd)** (2015) - GD Graphics Library
- - (⭐ 302 x 🍴159 x 😁43) - **[vigra](https://github.com/ukoethe/vigra)** (2011) - a generic C++ library for image analysis
- - (⭐ 64 x 🍴7 x 😁31) - **[libvips](https://github.com/jcupitt/libvips)** (2018) - personal copy of https://github.com/libvips/libvips
- - (⭐ 30 x 🍴8 x 😁1) - **[TinyEXIF](https://github.com/cdcseacave/TinyEXIF)** (2016) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG.
- - https://github.com/nothings/stb/blob/master/stb_image.hfalse
- - https://github.com/tesseract-ocrfalse
-
-#### Github > C > Internationalization
-
-[💯 **https://metaawesome.io/github/c/internationalization** ](https://metaawesome.io/github/c/internationalization)
-
- - (⭐ 539 x 🍴47 x 😁11) - **[utf8.h](https://github.com/sheredom/utf8.h)** (2015) - single header utf8 string functions for C and C++
- - (⭐ 432 x 🍴68 x 😁29) - **[utf8proc](https://github.com/JuliaStrings/utf8proc)** (2014) - a clean C library for processing UTF-8 Unicode data
-
-#### Github > C > Inter-process communication
-
-[💯 **https://metaawesome.io/github/c/inter-process-communication** ](https://metaawesome.io/github/c/inter-process-communication)
-
- - (⭐ 21,891 x 🍴5,089 x 😁349) - **[grpc](https://github.com/grpc/grpc)** (2014) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
- - (⭐ 4,636 x 🍴782 x 😁85) - **[nanomsg](https://github.com/nanomsg/nanomsg)** (2012) - nanomsg library
- - (⭐ 1,348 x 🍴453 x 😁22) - **[ice](https://github.com/zeroc-ice/ice)** (2015) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more.
- - (⭐ 1,036 x 🍴137 x 😁26) - **[nng](https://github.com/nanomsg/nng)** (2016) - nanomsg-next-generation -- light-weight brokerless messaging
- - (⭐ 657 x 🍴156 x 😁5) - **[rpclib](https://github.com/rpclib/rpclib)** (2015) - rpclib is a modern C++ msgpack-RPC server and client library
- - (⭐ 512 x 🍴227 x 😁39) - **[libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp)** (2013) - C++ framework for json-rpc (json remote procedure call)
- - (⭐ 18 x 🍴7 x 😁1) - **[simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp)** (2015) - Automatically exported from code.google.com/p/simple-rpc-cpp
-
-#### Github > C > JSON
-
-[💯 **https://metaawesome.io/github/c/json** ](https://metaawesome.io/github/c/json)
-
- - (⭐ 14,391 x 🍴2,431 x 😁132) - **[json](https://github.com/nlohmann/json)** (2013) - JSON for Modern C++
- - (⭐ 7,886 x 🍴2,158 x 😁126) - **[rapidjson](https://github.com/miloyip/rapidjson)** (2014) - A fast JSON parser/generator for C++ with both SAX/DOM style API
- - (⭐ 3,809 x 🍴1,552 x 😁133) - **[jsoncpp](https://github.com/open-source-parsers/jsoncpp)** (2014) - A C++ library for interacting with JSON.
- - (⭐ 1,983 x 🍴561 x 😁62) - **[jansson](https://github.com/akheron/jansson)** (2009) - C library for encoding, decoding and manipulating JSON data
- - (⭐ 1,847 x 🍴380 x 😁21) - **[yajl](https://github.com/lloyd/yajl)** (2008) - A fast streaming JSON parsing library in C.
- - (⭐ 1,824 x 🍴438 x 😁24) - **[json11](https://github.com/dropbox/json11)** (2013) - A tiny JSON library for C++11.
- - (⭐ 1,598 x 🍴458 x 😁15) - **[jsmn](https://github.com/zserge/jsmn)** (2015) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
- - (⭐ 1,596 x 🍴743 x 😁90) - **[json-c](https://github.com/json-c/json-c)** (2010) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
- - (⭐ 1,104 x 🍴94 x 😁26) - **[libucl](https://github.com/vstakhov/libucl)** (2013) - Universal configuration library parser
- - (⭐ 775 x 🍴162 x 😁21) - **[picojson](https://github.com/kazuho/picojson)** (2011) - a header-file-only, JSON parser serializer in C++
- - (⭐ 422 x 🍴28 x 😁11) - **[sajson](https://github.com/chadaustin/sajson)** (2012) - Lightweight, extremely high-performance JSON parser for C++11
- - (⭐ 354 x 🍴101 x 😁9) - **[frozen](https://github.com/cesanta/frozen)** (2013) - JSON parser and generator for C/C++ with scanf/printf like interface. Targeting embedded systems.
- - (⭐ 328 x 🍴109 x 😁12) - **[jsonxx](https://github.com/hjiang/jsonxx)** (2008) - A JSON parser in C++
- - (⭐ 236 x 🍴84 x 😁15) - **[qt-json](https://github.com/gaudecker/qt-json)** (2011) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa.
- - (⭐ 219 x 🍴29 x 😁7) - **[json.h](https://github.com/sheredom/json.h)** (2015) - json parser for C and C++
- - (⭐ 218 x 🍴109 x 😁29) - **[qjson](https://github.com/flavio/qjson)** (2012) - QJson is a qt-based library that maps JSON data to QVariant objects.
- - (⭐ 212 x 🍴35 x 😁7) - **[json](https://github.com/taocpp/json)** (2015) - C++ header-only JSON library
- - (⭐ 209 x 🍴78 x 😁9) - **[libjson](https://github.com/vincenthz/libjson)** (2009) - a JSON parser and printer library in C. easy to integrate with any model.
- - (⭐ 115 x 🍴14 x 😁6) - **[json-voorhees](https://github.com/tgockel/json-voorhees)** (2014) - A killer modern C++ library for interacting with JSON.
- - (⭐ 109 x 🍴15 x 😁6) - **[jeayeson](https://github.com/jeaye/jeayeson)** (2012) - A very sane (header only) C++14 JSON library
- - (⭐ 30 x 🍴3 x 😁1) - **[jbson](https://github.com/chrismanning/jbson)** (2013) - JSON & BSON parser/writer
- - (⭐ 22 x 🍴8 x 😁3) - **[jute](https://github.com/amir-s/jute)** (2013) - Very simple C++ JSON Parser
- - https://github.com/udp/json-parserfalse
-
-#### Github > C > Logging
-
-[💯 **https://metaawesome.io/github/c/logging** ](https://metaawesome.io/github/c/logging)
-
- - (⭐ 6,124 x 🍴1,343 x 😁140) - **[spdlog](https://github.com/gabime/spdlog)** (2014) - Fast C++ logging library.
- - (⭐ 3,119 x 🍴1,215 x 😁54) - **[glog](https://github.com/google/glog)** (2015) - C++ implementation of the Google logging module
- - (⭐ 2,138 x 🍴594 x 😁19) - **[easyloggingpp](https://github.com/easylogging/easyloggingpp)** (2012) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also pr…
- - (⭐ 748 x 🍴330 x 😁20) - **[log4cplus](https://github.com/log4cplus/log4cplus)** (2014) - log4cplus is a simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. It is modelled after the Java log4j API.
- - (⭐ 703 x 🍴167 x 😁13) - **[plog](https://github.com/SergiusTheBest/plog)** (2014) - Portable, simple and extensible C++ logging library
- - (⭐ 677 x 🍴104 x 😁27) - **[loguru](https://github.com/emilk/loguru)** (2015) - A lightweight C++ logging library
- - (⭐ 488 x 🍴187 x 😁45) - **[g3log](https://github.com/KjellKod/g3log)** (2014) - G3log is  an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.  G3log is made with plain C++14 (C++11 support up to release 1.3.2)  with no external libraries (except gtest used for u…
- - (⭐ 278 x 🍴28 x 😁1) - **[reckless](https://github.com/mattiasflodin/reckless)** (2014) - Reckless logging. Low-latency, high-throughput, asynchronous logging library for C++.
- - (⭐ 148 x 🍴34 x 😁13) - **[blackhole](https://github.com/3Hren/blackhole)** (2013) - Yet another logging library.
-
-#### Github > C > Machine Learning
-
-[💯 **https://metaawesome.io/github/c/machine-learning** ](https://metaawesome.io/github/c/machine-learning)
-
- - (⭐ 36,122 x 🍴26,451 x 😁308) - **[opencv](https://github.com/Itseez/opencv)** (2012) - Open Source Computer Vision Library
- - (⭐ 28,441 x 🍴17,182 x 😁265) - **[caffe](https://github.com/BVLC/caffe)** (2013) - Caffe: a fast open framework for deep learning.
- - (⭐ 16,467 x 🍴6,774 x 😁365) - **[xgboost](https://github.com/dmlc/xgboost)** (2014) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
- - (⭐ 7,490 x 🍴2,232 x 😁124) - **[dlib](https://github.com/davisking/dlib)** (2014) - A toolkit for making real world machine learning and data analysis applications in C++
- - (⭐ 6,502 x 🍴1,676 x 😁9) - **[ccv](https://github.com/liuliu/ccv)** (2010) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
- - (⭐ 2,865 x 🍴1,033 x 😁144) - **[mlpack](https://github.com/mlpack/mlpack)** (2014) - mlpack: a scalable C++ machine learning library -- 
- - (⭐ 2,479 x 🍴931 x 😁157) - **[shogun](https://github.com/shogun-toolbox/shogun)** (2011) - Shōgun
- - (⭐ 1,202 x 🍴543 x 😁18) - **[vlfeat](https://github.com/vlfeat/vlfeat)** (2009) - An open library of computer vision algorithms
- - (⭐ 887 x 🍴96 x 😁14) - **[flashlight](https://github.com/facebookresearch/flashlight)** (2018) - A C++ standalone library for machine learning
- - (⭐ 742 x 🍴216 x 😁1) - **[rnnlib](https://github.com/szcom/rnnlib)** (2015) - RNNLIB is a recurrent neural network library for sequence learning problems. Forked from Alex Graves work http://sourceforge.net/projects/rnnl/
- - (⭐ 657 x 🍴174 x 😁10) - **[minerva](https://github.com/dmlc/minerva)** (2014) - Minerva: a fast and flexible tool for deep learning on multi-GPU. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code can be run on CPU or GPU. Multi-GPU suppor…
- - (⭐ 534 x 🍴194 x 😁9) - **[meta](https://github.com/meta-toolkit/meta)** (2014) - A Modern C++ Data Sciences Toolkit
- - (⭐ 382 x 🍴69 x 😁6) - **[Fido](https://github.com/FidoProject/Fido)** (2015) - A lightweight C++ machine learning library for embedded electronics and robotics.
- - (⭐ 210 x 🍴54 x 😁2) - **[Recommender](https://github.com/GHamrouni/Recommender)** (2012) - A C library for product recommendations/suggestions using collaborative filtering (CF)
-
-#### Github > C > Math
-
-[💯 **https://metaawesome.io/github/c/math** ](https://metaawesome.io/github/c/math)
-
- - (⭐ 7,490 x 🍴2,232 x 😁124) - **[dlib](https://github.com/davisking/dlib)** (2014) - A toolkit for making real world machine learning and data analysis applications in C++
- - (⭐ 3,235 x 🍴749 x 😁114) - **[glm](https://github.com/g-truc/glm)** (2012) - OpenGL Mathematics (GLM)
- - (⭐ 2,772 x 🍴766 x 😁121) - **[OpenBLAS](https://github.com/xianyi/OpenBLAS)** (2011) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
- - (⭐ 1,493 x 🍴754 x 😁88) - **[quantlib](https://github.com/lballabio/quantlib)** (2015) - The QuantLib C++ library
- - (⭐ 1,412 x 🍴171 x 😁56) - **[xtensor](https://github.com/QuantStack/xtensor)** (2016) - C++ tensors with broadcasting and lazy computing
- - (⭐ 1,402 x 🍴546 x 😁95) - **[cgal](https://github.com/CGAL/cgal)** (2014) - The public CGAL repository, see the README below
- - (⭐ 736 x 🍴85 x 😁21) - **[Vc](https://github.com/VcDevel/Vc)** (2014) - SIMD Vector Classes for C++
- - (⭐ 532 x 🍴73 x 😁4) - **[tinyexpr](https://github.com/codeplea/tinyexpr)** (2016) - tiny recursive descent expression parser, compiler, and evaluation engine for math expressions
- - (⭐ 455 x 🍴188 x 😁57) - **[symengine](https://github.com/symengine/symengine)** (2008) - SymEngine is a fast symbolic manipulation library, written in C++
- - (⭐ 410 x 🍴24 x 😁2) - **[linalg](https://github.com/sgorsten/linalg)** (2016) - linalg.h is a single header, public domain, short vector math library for C++
- - (⭐ 389 x 🍴80 x 😁11) - **[linmath.h](https://github.com/datenwolf/linmath.h)** (2012) - a lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions
- - (⭐ 323 x 🍴107 x 😁26) - **[libtommath](https://github.com/libtom/libtommath)** (2010) - LibTomMath is a free open source portable number theoretic multiple-precision integer library written entirely in C.
- - (⭐ 283 x 🍴106 x 😁4) - **[MIRACL](https://github.com/CertiVox/MIRACL)** (2012) - MIRACL Cryptographic SDK: Multiprecision Integer and Rational Arithmetic Cryptographic Library is a C software library that is widely regarded by developers as the gold standard open source SDK for elliptic curve cryptography (ECC).
- - (⭐ 147 x 🍴21 x 😁6) - **[apophenia](https://github.com/b-k/apophenia)** (2011) - A C library for statistical and scientific computing
- - (⭐ 140 x 🍴21 x 😁2) - **[stats](https://github.com/kthohr/stats)** (2017) - A C++ header-only library of statistical distribution functions.
- - (⭐ 90 x 🍴14 x 😁8) - **[universal](https://github.com/stillwater-sc/universal)** (2017) - Universal Number Arithmetic
- - https://github.com/Mathieu-/nt2false
-
-#### Github > C > Memory Allocation
-
-[💯 **https://metaawesome.io/github/c/memory-allocation** ](https://metaawesome.io/github/c/memory-allocation)
-
- - (⭐ 4,041 x 🍴778 x 😁90) - **[jemalloc](https://github.com/jemalloc/jemalloc)** (2013)false
- - (⭐ 2,684 x 🍴110 x 😁14) - **[mimalloc](https://github.com/microsoft/mimalloc)** (2019) - mimalloc is a compact general purpose allocator with excellent performance.
- - (⭐ 1,276 x 🍴215 x 😁100) - **[bdwgc](https://github.com/ivmai/bdwgc)** (2011) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc) 
- - (⭐ 821 x 🍴63 x 😁4) - **[libcsptr](https://github.com/Snaipe/libcsptr)** (2015) - Smart pointers for the (GNU) C programming language
- - (⭐ 595 x 🍴63 x 😁10) - **[memory](https://github.com/foonathan/memory)** (2015) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
- - (⭐ 521 x 🍴81 x 😁7) - **[Hoard](https://github.com/emeryberger/Hoard)** (2012) - The Hoard Memory Allocator: A Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac.
- - (⭐ 487 x 🍴58 x 😁4) - **[memory-allocators](https://github.com/mtrebi/memory-allocators)** (2016) - Custom memory allocators in C++ to improve the performance of dynamic memory allocation
-
-#### Github > C > Multimedia
-
-[💯 **https://metaawesome.io/github/c/multimedia** ](https://metaawesome.io/github/c/multimedia)
-
- - (⭐ 5,211 x 🍴1,058 x 😁114) - **[SFML](https://github.com/SFML/SFML)** (2011) - Simple and Fast Multimedia Library
- - (⭐ 1,997 x 🍴941 x 😁38) - **[QtAV](https://github.com/wang-bin/QtAV)** (2012) - A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架
- - (⭐ 717 x 🍴324 x 😁237) - **[libav](https://github.com/libav/libav)** (2011) - Libav github mirror, clone of git://git.libav.org/libav
- - (⭐ 662 x 🍴234 x 😁97) - **[taglib](https://github.com/taglib/taglib)** (2011) - TagLib Audio Meta-Data Library
- - (⭐ 354 x 🍴103 x 😁24) - **[libass](https://github.com/libass/libass)** (2013) - libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.
- - (⭐ 197 x 🍴69 x 😁37) - **[MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)** (2014) - Convenient unified display of the most relevant technical and tag data for video and audio files.
-
-#### Github > C > Networking
-
-[💯 **https://metaawesome.io/github/c/networking** ](https://metaawesome.io/github/c/networking)
-
- - (⭐ 10,668 x 🍴1,016 x 😁4) - **[uWebSockets](https://github.com/uNetworking/uWebSockets)** (2016) - Simple, secure & standards compliant web I/O for the most demanding of applications
- - (⭐ 8,535 x 🍴642 x 😁97) - **[h2o](https://github.com/h2o/h2o)** (2014) - H2O - the optimized HTTP/1, HTTP/2 server
- - (⭐ 6,217 x 🍴1,199 x 😁135) - **[proxygen](https://github.com/facebook/proxygen)** (2014) - A collection of C++ HTTP libraries including an easy to use HTTP server.
- - (⭐ 5,978 x 🍴3,046 x 😁39) - **[muduo](https://github.com/chenshuo/muduo)** (2010) - A C++ non-blocking network library for multi-threaded server in Linux
- - (⭐ 5,495 x 🍴1,606 x 😁81) - **[mongoose](https://github.com/cesanta/mongoose)** (2012) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broke…
- - (⭐ 5,321 x 🍴1,571 x 😁363) - **[libzmq](https://github.com/zeromq/libzmq)** (2009) - ZeroMQ core engine in C++, implements ZMTP/3.1
- - (⭐ 4,768 x 🍴1,239 x 😁77) - **[http-parser](https://github.com/nodejs/http-parser)** (2009) - http request/response parser for c
- - (⭐ 4,125 x 🍴1,027 x 😁118) - **[cpprestsdk](https://github.com/Microsoft/cpprestsdk)** (2014) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
- - (⭐ 3,239 x 🍴1,470 x 😁138) - **[librdkafka](https://github.com/edenhill/librdkafka)** (2012) - The Apache Kafka C/C++ library
- - (⭐ 3,157 x 🍴1,089 x 😁41) - **[websocketpp](https://github.com/zaphoyd/websocketpp)** (2011) - C++ websocket client/server library
- - (⭐ 2,975 x 🍴553 x 😁95) - **[nghttp2](https://github.com/nghttp2/nghttp2)** (2013) - nghttp2 - HTTP/2 C Library and tools
- - (⭐ 2,653 x 🍴860 x 😁7) - **[RakNet](https://github.com/OculusVR/RakNet)** (2014) - RakNet is a cross platform, open source, C++ networking engine for game programmers. 
- - (⭐ 2,338 x 🍴357 x 😁40) - **[wdt](https://github.com/facebook/wdt)** (2014) - Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
- - (⭐ 2,284 x 🍴388 x 😁30) - **[cpr](https://github.com/whoshuu/cpr)** (2015) - C++ Requests: Curl for People, a spiritual port of Python Requests
- - (⭐ 2,280 x 🍴413 x 😁100) - **[wangle](https://github.com/facebook/wangle)** (2014) - Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
- - (⭐ 2,139 x 🍴855 x 😁187) - **[libwebsockets](https://github.com/warmcat/libwebsockets)** (2013) - canonical libwebsockets.org websocket library
- - (⭐ 2,103 x 🍴351 x 😁77) - **[beast](https://github.com/boostorg/beast)** (2013) - HTTP and WebSocket built on Boost.Asio in C++11
- - (⭐ 1,774 x 🍴582 x 😁14) - **[evpp](https://github.com/Qihoo360/evpp)** (2017) - A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.
- - (⭐ 1,541 x 🍴202 x 😁29) - **[onion](https://github.com/davidmoreno/onion)** (2010) - C library to create simple HTTP servers and Web Applications.
- - (⭐ 1,341 x 🍴380 x 😁5) - **[enet](https://github.com/lsalzman/enet)** (2012) - ENet reliable UDP networking library 
- - (⭐ 1,295 x 🍴337 x 😁16) - **[mtcp](https://github.com/mtcp-stack/mtcp)** (2014) - mTCP: A Highly Scalable User-level TCP Stack for Multicore Systems
- - (⭐ 1,183 x 🍴201 x 😁8) - **[libquic](https://github.com/devsisters/libquic)** (2015) - QUIC, a multiplexed stream transport over UDP
- - (⭐ 1,108 x 🍴468 x 😁89) - **[libpcap](https://github.com/the-tcpdump-group/libpcap)** (2013) - the LIBpcap interface to various kernel packet capture mechanism
- - (⭐ 1,097 x 🍴146 x 😁2) - **[dyad](https://github.com/rxi/dyad)** (2014) - Asynchronous networking for C 
- - (⭐ 1,085 x 🍴133 x 😁16) - **[picohttpparser](https://github.com/h2o/picohttpparser)** (2009) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
- - (⭐ 1,042 x 🍴251 x 😁27) - **[restbed](https://github.com/corvusoft/restbed)** (2015) - Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++11 applications.
- - (⭐ 933 x 🍴231 x 😁18) - **[restclient-cpp](https://github.com/mrtazz/restclient-cpp)** (2010) - C++ client for making HTTP/REST requests
- - (⭐ 883 x 🍴318 x 😁70) - **[c-ares](https://github.com/c-ares/c-ares)** (2010) - A C library for asynchronous DNS requests
- - (⭐ 810 x 🍴202 x 😁21) - **[cpp-httplib](https://github.com/yhirose/cpp-httplib)** (2012) - A C++ header-only HTTP/HTTPS server and client library
- - (⭐ 716 x 🍴195 x 😁22) - **[PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)** (2014) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as li…
- - (⭐ 672 x 🍴67 x 😁8) - **[WAFer](https://github.com/riolet/WAFer)** (2014) - WAFer is a C language-based software platform for scalable server-side and networking applications. Think node.js for C programmers.
- - (⭐ 447 x 🍴138 x 😁13) - **[tufao](https://github.com/vinipsmaker/tufao)** (2012) - An asynchronous web framework for C++ built on top of Qt
- - (⭐ 400 x 🍴69 x 😁13) - **[seasocks](https://github.com/mattgodbolt/seasocks)** (2013) - Simple, small, C++ embeddable webserver with WebSockets support
- - (⭐ 388 x 🍴136 x 😁30) - **[curlcpp](https://github.com/JosephP91/curlcpp)** (2014) - An object oriented C++ wrapper for CURL (libcurl)
- - (⭐ 279 x 🍴83 x 😁18) - **[libhttpserver](https://github.com/etr/libhttpserver)** (2012) - C++ library for creating an embedded Rest HTTP server (and more)
- - (⭐ 232 x 🍴23 x 😁3) - **[restinio](https://github.com/Stiffstream/restinio)** (2017) - A header-only C++14 library that gives you an embedded HTTP/Websocket server
- - (⭐ 96 x 🍴23 x 😁14) - **[uriparser](https://github.com/uriparser/uriparser)** (2018) -  :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub
- - (⭐ 95 x 🍴47 x 😁4) - **[MQTT-C](https://github.com/LiamBindle/MQTT-C)** (2018) - A portable MQTT C client for embedded systems and PCs alike.
- - (⭐ 90 x 🍴46 x 😁20) - **[uri](https://github.com/cpp-netlib/uri)** (2013) - cpp-netlib URI
- - (⭐ 64 x 🍴13 x 😁2) - **[Breep](https://github.com/Organic-Code/Breep)** (2017) - C++ peer to peer library, built on the top of boost
- - https://github.com/pocoprojectfalse
-
-#### Github > C > PDF
-
-[💯 **https://metaawesome.io/github/c/pdf** ](https://metaawesome.io/github/c/pdf)
-
- - (⭐ 889 x 🍴313 x 😁12) - **[libharu](https://github.com/libharu/libharu)** (2008) - libharu - free PDF library
-
-#### Github > C > Physics
-
-[💯 **https://metaawesome.io/github/c/physics** ](https://metaawesome.io/github/c/physics)
-
- - (⭐ 5,081 x 🍴1,369 x 😁144) - **[bullet3](https://github.com/bulletphysics/bullet3)** (2011) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
- - (⭐ 3,617 x 🍴506 x 😁25) - **[liquidfun](https://github.com/google/liquidfun)** (2013) - 2D physics engine for games
- - (⭐ 3,406 x 🍴690 x 😁11) - **[Box2D](https://github.com/erincatto/Box2D)** (2015) - Box2D is a 2D physics engine for games
- - (⭐ 2,089 x 🍴176 x 😁3) - **[PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)** (2016) - NVIDIA PhysX SDK 3.4
- - (⭐ 1,367 x 🍴358 x 😁41) - **[simbody](https://github.com/simbody/simbody)** (2013) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
- - (⭐ 1,323 x 🍴250 x 😁40) - **[Chipmunk2D](https://github.com/slembcke/Chipmunk2D)** (2011) - A fast and lightweight 2D game physics library.
- - (⭐ 561 x 🍴172 x 😁37) - **[chrono](https://github.com/projectchrono/chrono)** (2013) - C++ library for multi-physics simulation
- - (⭐ 496 x 🍴112 x 😁14) - **[newton-dynamics](https://github.com/MADEAPPS/newton-dynamics)** (2014) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
- - (⭐ 272 x 🍴109 x 😁20) - **[ofxBox2d](https://github.com/vanderlin/ofxBox2d)** (2011) - Openframework wrapper for box2d
- - (⭐ 151 x 🍴44 x 😁3) - **[qpp](https://github.com/vsoftco/qpp)** (2014) - A modern C++11 quantum computing library
-
-#### Github > C > Reflection
-
-[💯 **https://metaawesome.io/github/c/reflection** ](https://metaawesome.io/github/c/reflection)
-
- - (⭐ 955 x 🍴131 x 😁13) - **[rttr](https://github.com/rttrorg/rttr)** (2015) - C++ Reflection Library
- - (⭐ 814 x 🍴96 x 😁14) - **[better-enums](https://github.com/aantron/better-enums)** (2015) - C++ compile-time enum to string, iteration, in a single header file.
- - (⭐ 424 x 🍴21 x 😁2) - **[nameof](https://github.com/Neargye/nameof)** (2018) - Nameof operator for modern C++
- - (⭐ 376 x 🍴57 x 😁1) - **[CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)** (2015) - C++ Reflection Parser / Runtime Skeleton
- - (⭐ 354 x 🍴15 x 😁3) - **[magic_enum](https://github.com/Neargye/magic_enum)** (2019) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
- - (⭐ 328 x 🍴58 x 😁11) - **[ponder](https://github.com/billyquith/ponder)** (2015) - C++ reflection library
- - (⭐ 162 x 🍴50 x 😁4) - **[cpgf](https://github.com/cpgf/cpgf)** (2014) - cpgf library
- - (⭐ 160 x 🍴16 x 😁4) - **[visit_struct](https://github.com/cbeck88/visit_struct)** (2016) - A miniature library for struct-field reflection in C++
- - (⭐ 133 x 🍴11 x 😁1) - **[meta](https://github.com/skypjack/meta)** (2018) - Header-only, non-intrusive and macro-free runtime reflection system in C++
-
-#### Github > C > Regular Expression
-
-[💯 **https://metaawesome.io/github/c/regular-expression** ](https://metaawesome.io/github/c/regular-expression)
-
- - (⭐ 3,670 x 🍴557 x 😁40) - **[re2](https://github.com/google/re2)** (2014) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
- - (⭐ 1,929 x 🍴281 x 😁11) - **[hyperscan](https://github.com/intel/hyperscan)** (2015) - High-performance regular expression matching library
- - (⭐ 858 x 🍴160 x 😁19) - **[oniguruma](https://github.com/kkos/oniguruma)** (2015) - regular expression library
- - (⭐ 767 x 🍴34 x 😁11) - **[compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions)** (2016) - A Compile time PCRE (almost) compatible regular expression matcher.
- - (⭐ 499 x 🍴82 x 😁3) - **[sregex](https://github.com/openresty/sregex)** (2012) - A non-backtracking NFA/DFA-based Perl-compatible regex engine matching on large data streams
- - (⭐ 433 x 🍴103 x 😁4) - **[slre](https://github.com/cesanta/slre)** (2013) - Super Light Regexp engine for C/C++
- - (⭐ 293 x 🍴39 x 😁6) - **[CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)** (2013) - C++ regular expressions made easy
- - (⭐ 287 x 🍴19 x 😁15) - **[pire](https://github.com/yandex/pire)** (2010) - Perl Incompatible Regular Expressions library
-
-#### Github > C > Robotics
-
-[💯 **https://metaawesome.io/github/c/robotics** ](https://metaawesome.io/github/c/robotics)
-
- - (⭐ 3,906 x 🍴2,774 x 😁332) - **[pcl](https://github.com/PointCloudLibrary/pcl)** (2013) - Point Cloud Library (PCL)
-
-#### Github > C > Scientific Computing
-
-[💯 **https://metaawesome.io/github/c/scientific-computing** ](https://metaawesome.io/github/c/scientific-computing)
-
- - (⭐ 8,331 x 🍴2,341 x 😁131) - **[torch7](https://github.com/torch/torch7)** (2013) - http://torch.ch
- - (⭐ 461 x 🍴54 x 😁20) - **[TileDB](https://github.com/TileDB-Inc/TileDB)** (2017) - TileDB array data management
- - (⭐ 417 x 🍴256 x 😁191) - **[Trilinos](https://github.com/trilinos/Trilinos)** (2015) - Primary repository for the Trilinos Project
- - (⭐ 241 x 🍴37 x 😁6) - **[amgcl](https://github.com/ddemidov/amgcl)** (2012) - C++ library for solving large sparse linear systems with algebraic multigrid method
-
-#### Github > C > Scripting
-
-[💯 **https://metaawesome.io/github/c/scripting** ](https://metaawesome.io/github/c/scripting)
-
- - (⭐ 7,878 x 🍴1,140 x 😁130) - **[ChakraCore](https://github.com/Microsoft/ChakraCore)** (2016) - ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
- - (⭐ 5,374 x 🍴703 x 😁122) - **[pybind11](https://github.com/pybind/pybind11)** (2015) - Seamless operability between C++11 and Python
- - (⭐ 4,189 x 🍴856 x 😁296) - **[cython](https://github.com/cython/cython)** (2010) - The most widely used Python to C compiler
- - (⭐ 3,789 x 🍴386 x 😁48) - **[duktape](https://github.com/svaarala/duktape)** (2014) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
- - (⭐ 2,952 x 🍴752 x 😁176) - **[swig](https://github.com/swig/swig)** (2012) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
- - (⭐ 2,824 x 🍴381 x 😁26) - **[javacpp](https://github.com/bytedeco/javacpp)** (2014) - The missing bridge between Java and native C++
- - (⭐ 2,383 x 🍴380 x 😁58) - **[djinni](https://github.com/dropbox/djinni)** (2014) - A tool for generating cross-language type declarations and interface bindings.
- - (⭐ 1,668 x 🍴172 x 😁84) - **[sol2](https://github.com/ThePhD/sol2)** (2016) - Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
- - (⭐ 1,540 x 🍴86 x 😁8) - **[nbind](https://github.com/charto/nbind)** (2014) - :sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:
- - (⭐ 1,517 x 🍴284 x 😁50) - **[CppSharp](https://github.com/mono/CppSharp)** (2013) - Tools and libraries to glue C/C++ APIs to high-level languages
- - (⭐ 1,408 x 🍴354 x 😁95) - **[libffi](https://github.com/libffi/libffi)** (2009) - A portable foreign-function interface library.
- - (⭐ 1,269 x 🍴61 x 😁5) - **[ctypes.sh](https://github.com/taviso/ctypes.sh)** (2015) - A foreign function interface for bash.
- - (⭐ 1,203 x 🍴149 x 😁18) - **[v7](https://github.com/cesanta/v7)** (2013) - Embedded JavaScript engine for C/C++
- - (⭐ 1,143 x 🍴261 x 😁28) - **[PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)** (2013) - Library to build PHP extensions with C++
- - (⭐ 793 x 🍴42 x 😁8) - **[cppimport](https://github.com/tbenthompson/cppimport)** (2016) - Import C++ files directly from Python!
- - (⭐ 781 x 🍴239 x 😁15) - **[LuaBridge](https://github.com/vinniefalco/LuaBridge)** (2012) - A lightweight, dependency-free library for binding Lua to C++
- - (⭐ 112 x 🍴16 x 😁1) - **[luacxx](https://github.com/dafrito/luacxx)** (2012) - C++11 API for creating Lua bindings
- - https://github.com/ChaiScript/ChaiScript/false
-
-#### Github > C > Serialization
-
-[💯 **https://metaawesome.io/github/c/serialization** ](https://metaawesome.io/github/c/serialization)
-
- - (⭐ 35,404 x 🍴9,616 x 😁402) - **[protobuf](https://github.com/protocolbuffers/protobuf)** (2014) - Protocol Buffers - Google's data interchange format
- - (⭐ 12,379 x 🍴1,951 x 😁336) - **[flatbuffers](https://github.com/google/flatbuffers)** (2014) - FlatBuffers: Memory Efficient Serialization Library
- - (⭐ 1,986 x 🍴271 x 😁35) - **[bond](https://github.com/Microsoft/bond)** (2014) - Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services. 
- - (⭐ 1,970 x 🍴383 x 😁33) - **[cereal](https://github.com/USCiLab/cereal)** (2013) - A C++11 library for serialization
- - (⭐ 1,919 x 🍴322 x 😁55) - **[simple-binary-encoding](https://github.com/real-logic/simple-binary-encoding)** (2013) - Simple Binary Encoding (SBE) - High Performance Message Codec
- - (⭐ 1,669 x 🍴594 x 😁106) - **[msgpack-c](https://github.com/msgpack/msgpack-c)** (2012) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
- - (⭐ 1,398 x 🍴335 x 😁47) - **[nanopb](https://github.com/nanopb/nanopb)** (2015) - Protocol Buffers with small code size
- - (⭐ 1,241 x 🍴402 x 😁24) - **[protobuf-c](https://github.com/protobuf-c/protobuf-c)** (2013) - Protocol Buffers implementation in C
- - (⭐ 1,007 x 🍴152 x 😁17) - **[upb](https://github.com/protocolbuffers/upb)** (2009) - a small protobuf implementation in C
- - (⭐ 250 x 🍴49 x 😁11) - **[cppcodec](https://github.com/tplgy/cppcodec)** (2015) - Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. MIT licensed with consistent, flexible API.
- - (⭐ 218 x 🍴25 x 😁4) - **[yas](https://github.com/niXman/yas)** (2012) - Yet Another Serialization
-
-#### Github > C > Sorting
-
-[💯 **https://metaawesome.io/github/c/sorting** ](https://metaawesome.io/github/c/sorting)
-
- - (⭐ 995 x 🍴40 x 😁4) - **[pdqsort](https://github.com/orlp/pdqsort)** (2015) - Pattern-defeating quicksort.
- - (⭐ 136 x 🍴25 x 😁5) - **[cpp-TimSort](https://github.com/gfx/cpp-TimSort)** (2011) - A C++ implementation of timsort
-
-#### Github > C > Video
-
-[💯 **https://metaawesome.io/github/c/video** ](https://metaawesome.io/github/c/video)
-
- - (⭐ 3,407 x 🍴1,232 x 😁84) - **[openh264](https://github.com/cisco/openh264)** (2013) - Open Source H.264 Codec 
- - (⭐ 799 x 🍴263 x 😁8) - **[libde265](https://github.com/strukturag/libde265)** (2013) - Open h.265 video codec implementation.
- - https://github.com/twitter/vireo/false
-
-#### Github > C > Virtual Machines
-
-[💯 **https://metaawesome.io/github/c/virtual-machines** ](https://metaawesome.io/github/c/virtual-machines)
-
- - (⭐ 8,653 x 🍴2,570 x 😁246) - **[micropython](https://github.com/micropython/micropython)** (2013) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
- - (⭐ 2,570 x 🍴215 x 😁11) - **[tinyvm](https://github.com/jakogut/tinyvm)** (2011) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
- - (⭐ 959 x 🍴80 x 😁10) - **[carp](https://github.com/tekknolagi/carp)** (2014) - "interesting" VM in C. Let's see how this goes.
-
-#### Github > C > Web Application Framework
-
-[💯 **https://metaawesome.io/github/c/web-application-framework** ](https://metaawesome.io/github/c/web-application-framework)
-
- - (⭐ 5,177 x 🍴652 x 😁34) - **[crow](https://github.com/ipkn/crow)** (2014) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
- - (⭐ 5,002 x 🍴524 x 😁35) - **[lwan](https://github.com/lpereira/lwan)** (2012) - Experimental, scalable, high performance HTTP server
- - (⭐ 1,480 x 🍴178 x 😁8) - **[oatpp](https://github.com/oatpp/oatpp)** (2018) - 🌱Light, high-performance web framework. Create bleedingly-fast web-services.  Organic. Pure C++
- - (⭐ 1,193 x 🍴523 x 😁146) - **[civetweb](https://github.com/civetweb/civetweb)** (2013) - Embedded C/C++ web server
- - (⭐ 1,056 x 🍴60 x 😁11) - **[facil.io](https://github.com/boazsegev/facil.io)** (2016) - Your high performance web application C framework
- - (⭐ 763 x 🍴53 x 😁8) - **[drogon](https://github.com/an-tao/drogon)** (2018) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix
- - (⭐ 646 x 🍴157 x 😁16) - **[treefrog-framework](https://github.com/treefrogframework/treefrog-framework)** (2012) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
- - (⭐ 510 x 🍴56 x 😁11) - **[cutelyst](https://github.com/cutelyst/cutelyst)** (2015) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework.
- - https://github.com/jlaine/qdjango/false
-
-#### Github > C > XML
-
-[💯 **https://metaawesome.io/github/c/xml** ](https://metaawesome.io/github/c/xml)
-
- - (⭐ 2,689 x 🍴1,104 x 😁73) - **[tinyxml2](https://github.com/leethomason/tinyxml2)** (2012) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
- - (⭐ 156 x 🍴61 x 😁2) - **[mxml](https://github.com/michaelrsweet/mxml)** (2017) - Tiny XML library.
- - (⭐ 52 x 🍴18 x 😁7) - **[ticpp](https://github.com/rjpcomputing/ticpp)** (2015) - Completely new interface to TinyXML
-
-#### Github > C > Miscellaneous
-
-[💯 **https://metaawesome.io/github/c/miscellaneous** ](https://metaawesome.io/github/c/miscellaneous)
-
- - (⭐ 9,999 x 🍴2,524 x 😁132) - **[stb](https://github.com/nothings/stb)** (2014) - stb single-file public domain libraries for C/C++
- - (⭐ 6,133 x 🍴738 x 😁145) - **[fmt](https://github.com/fmtlib/fmt)** (2012) - A modern formatting library
- - (⭐ 2,644 x 🍴350 x 😁17) - **[klib](https://github.com/attractivechaos/klib)** (2011) - A standalone and lightweight C library
- - (⭐ 2,569 x 🍴247 x 😁6) - **[sds](https://github.com/antirez/sds)** (2014) - Simple Dynamic Strings library for C
- - (⭐ 1,008 x 🍴77 x 😁6) - **[Mach7](https://github.com/solodon4/Mach7)** (2014) - Functional programming style pattern-matching library for C++
- - (⭐ 874 x 🍴111 x 😁25) - **[PEGTL](https://github.com/taocpp/PEGTL)** (2014) - Parsing Expression Grammar Template Library
- - (⭐ 801 x 🍴427 x 😁29) - **[serial](https://github.com/wjwwood/serial)** (2011) - Cross-platform, Serial Port library written in C++
- - (⭐ 777 x 🍴45 x 😁13) - **[mio](https://github.com/mandreyel/mio)** (2017) - Cross-platform C++11 header-only library for memory mapped file IO
- - (⭐ 741 x 🍴73 x 😁12) - **[cppitertools](https://github.com/ryanhaining/cppitertools)** (2013) - Implementation of python itertools and builtin iteration functions for C++17
- - (⭐ 545 x 🍴46 x 😁8) - **[stdman](https://github.com/jeaye/stdman)** (2014) - Formatted C++20 stdlib man pages (cppreference)
- - (⭐ 426 x 🍴28 x 😁4) - **[dynamix](https://github.com/iboB/dynamix)** (2016) - :fish_cake: A new take on polymorphism in C++
- - (⭐ 411 x 🍴59 x 😁2) - **[cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint)** (2011) - A header-only library for C++(0x) that allows automagic pretty-printing of any container.
- - (⭐ 367 x 🍴18 x 😁2) - **[value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet)** (2016) - A C++14 cheat-sheet on lvalues, rvalues, xvalues, and more
- - (⭐ 244 x 🍴125 x 😁14) - **[Stage](https://github.com/rtv/Stage)** (2010) - Mobile robot simulator
- - (⭐ 197 x 🍴53 x 😁13) - **[libcpuid](https://github.com/anrieff/libcpuid)** (2014) - a small C library for x86 CPU detection and feature extraction
- - (⭐ 186 x 🍴16 x 😁5) - **[kangaru](https://github.com/gracicot/kangaru)** (2015) - A dependency injection container for C++11, C++14 and later
- - (⭐ 147 x 🍴19 x 😁2) - **[gcc-poison](https://github.com/leafsr/gcc-poison)** (2013) - gcc-poison
- - (⭐ 129 x 🍴15 x 😁4) - **[ub-canaries](https://github.com/regehr/ub-canaries)** (2015) - collection of C/C++ programs that try to get compilers to exploit undefined behavior
- - (⭐ 122 x 🍴15 x 😁7) - **[semver.c](https://github.com/h2non/semver.c)** (2015) - Semantic version library written in ANSI C
- - (⭐ 91 x 🍴24 x 😁5) - **[SimpleSignal](https://github.com/larspensjo/SimpleSignal)** (2013) - High performance C++11 signals
- - (⭐ 67 x 🍴2 x 😁1) - **[icecream-cpp](https://github.com/renatoGarcia/icecream-cpp)** (2019) - 🍦 Sweet and creamy print debugging. C++ flavored.
- - (⭐ 55 x 🍴27 x 😁5) - **[libnih](https://github.com/keybuk/libnih)** (2013) - NIH Utility Library
- - (⭐ 52 x 🍴5 x 😁1) - **[access_profiler](https://github.com/arvidn/access_profiler)** (2013) - a tool to count accesses to member variables in c++ programs
- - (⭐ 37 x 🍴8 x 😁3) - **[QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions)** (2013)false
- - (⭐ 17 x 🍴10 x 😁2) - **[libevil](https://github.com/avati/libevil)** (2011) - The Evil License Manager
- - https://github.com/zxing/zxing/false
-
-### Github > cli
-
- - [Entertainment](#github--cli--entertainment)
- - [Development](#github--cli--development)
- - [Productivity](#github--cli--productivity)
- - [Utilities](#github--cli--utilities)
- - [Command Line Learning](#github--cli--command-line-learning)
- - [Data Manipulation](#github--cli--data-manipulation)
- - [Screensavers](#github--cli--screensavers)
- - [Graphics](#github--cli--graphics)
- - [Just for Fun](#github--cli--just-for-fun)
- - [Other](#github--cli--other)
- - [Other Awesome Lists](#github--cli--other-awesome-lists)
-
-#### Github > cli > Entertainment
-
-[💯 **https://metaawesome.io/github/cli/entertainment** ](https://metaawesome.io/github/cli/entertainment)
-
- - (⭐ 946 x 🍴81 x 😁6) - **[football-cli](https://github.com/ManrajGrover/football-cli)** (2016) - ⚽ Command line interface for Hackers who love football
- - (⭐ 789 x 🍴73 x 😁113) - **[newsboat](https://github.com/newsboat/newsboat)** (2017) - An RSS/Atom feed reader for text terminals
- - (⭐ 314 x 🍴22 x 😁5) - **[pockyt](https://github.com/arvindch/pockyt)** (2014) - Automate & manage your Pocket.com collection.
-
-#### Github > cli > Development
-
-[💯 **https://metaawesome.io/github/cli/development** ](https://metaawesome.io/github/cli/development)
-
- - (⭐ 9,809 x 🍴1,070 x 😁175) - **[cookiecutter](https://github.com/audreyr/cookiecutter)** (2013) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
- - (⭐ 3,995 x 🍴281 x 😁32) - **[grip](https://github.com/joeyespo/grip)** (2012) - Preview GitHub Markdown files like Readme locally before committing them.
- - (⭐ 2,825 x 🍴218 x 😁12) - **[rebound](https://github.com/shobrook/rebound)** (2018) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
- - (⭐ 2,822 x 🍴364 x 😁50) - **[yo](https://github.com/yeoman/yo)** (2013) - CLI tool for running Yeoman generators
- - (⭐ 921 x 🍴64 x 😁9) - **[boilr](https://github.com/tmrts/boilr)** (2015) - :zap: boilerplate template manager that generates files or directories from template repositories
- - (⭐ 500 x 🍴19 x 😁13) - **[legit](https://github.com/captainsafia/legit)** (2017) - Add licenses to projects at the command line
- - (⭐ 279 x 🍴18 x 😁2) - **[cgasm](https://github.com/bnagy/cgasm)** (2015) - We're insanely passionate about command line asm documentation in the cloud, and we're crushing it!
- - (⭐ 208 x 🍴16 x 😁8) - **[bcal](https://github.com/jarun/bcal)** (2016) - :1234: Storage and general-purpose calculator
- - (⭐ 99 x 🍴4 x 😁2) - **[mklicense](https://github.com/cezaraugusto/mklicense)** (2016) - :clipboard: :tada: CLI tool for generating Licenses. Easily.
- - (⭐ 29 x 🍴4 x 😁2) - **[bitwise](https://github.com/mellowcandle/bitwise)** (2019) - Terminal based bit manipulator in ncurses
-
-#### Github > cli > Productivity
-
-[💯 **https://metaawesome.io/github/cli/productivity** ](https://metaawesome.io/github/cli/productivity)
-
- - (⭐ 3,678 x 🍴346 x 😁18) - **[googler](https://github.com/jarun/googler)** (2015) - :eyes: Google from the terminal
- - (⭐ 2,789 x 🍴167 x 😁48) - **[Buku](https://github.com/jarun/Buku)** (2015) - :bookmark: Browser-independent bookmark manager
- - (⭐ 1,765 x 🍴207 x 😁34) - **[gcalcli](https://github.com/insanum/gcalcli)** (2012) - Google Calendar Command Line Interface
- - (⭐ 1,096 x 🍴54 x 😁5) - **[uber-cli](https://github.com/jaebradley/uber-cli)** (2016) - 🚗Uber, at your fingertips
- - (⭐ 815 x 🍴43 x 😁3) - **[ffscreencast](https://github.com/cytopia/ffscreencast)** (2015) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
- - (⭐ 584 x 🍴27 x 😁5) - **[terjira](https://github.com/keepcosmos/terjira)** (2016) - Terjira is a very interactive and easy to use CLI tool for Jira.
- - (⭐ 208 x 🍴17 x 😁1) - **[g3l](https://github.com/svtek/g3l)** (2016) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
- - (⭐ 32 x 🍴2 x 😁1) - **[meetup-cli](https://github.com/specious/meetup-cli)** (2016) - :pizza: An easy way to keep track of upcoming Meetup events
- - (⭐ 30 x 🍴4 x 😁1) - **[bitly-client](https://github.com/specious/bitly-client)** (2015) - :link: Create and manage your Bitly shortlinks from the command line
- - (⭐ 30 x 🍴6 x 😁1) - **[imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli)** (2015) - Upload images to imgur
- - (⭐ 24 x 🍴10 x 😁2) - **[AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader)** (2015) - Automagically captures the screenshot of the screen , uploads in imgurl , copies the url into clipboard , deletes the created image file from your desktop
- - (⭐ 5 x 🍴1 x 😁15) - **[ipt](https://github.com/drselump14/ipt)** (2017) - interactive pivotal tracker command line interface
- - https://github.com/ttscoff/doing/false
- - http://github.com/alejandrogallo/papisfalse
-
-#### Github > cli > Utilities
-
-[💯 **https://metaawesome.io/github/cli/utilities** ](https://metaawesome.io/github/cli/utilities)
-
- - (⭐ 15,331 x 🍴1,713 x 😁51) - **[aria2](https://github.com/tatsuhiro-t/aria2)** (2010) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
- - (⭐ 6,616 x 🍴419 x 😁92) - **[neofetch](https://github.com/dylanaraps/neofetch)** (2015) - 🖼️  A command-line system information tool written in bash 3.2+
- - (⭐ 5,843 x 🍴351 x 😁16) - **[wego](https://github.com/schachmat/wego)** (2014) - weather app for the terminal
- - (⭐ 5,642 x 🍴162 x 😁10) - **[fkill-cli](https://github.com/sindresorhus/fkill-cli)** (2015) - Fabulously kill processes. Cross-platform.
- - (⭐ 4,589 x 🍴97 x 😁5) - **[up](https://github.com/akavel/up)** (2018) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
- - (⭐ 4,111 x 🍴90 x 😁5) - **[carbon-now-cli](https://github.com/mixn/carbon-now-cli)** (2018) - 🎨 Beautiful images of your code — from right inside your terminal.
- - (⭐ 3,477 x 🍴130 x 😁5) - **[mapscii](https://github.com/rastapasta/mapscii)** (2016) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac and Linux, connect with PuTTY on Windows
- - (⭐ 1,666 x 🍴87 x 😁35) - **[s](https://github.com/zquestz/s)** (2016) - Open a web search in your terminal.
- - (⭐ 1,087 x 🍴67 x 😁9) - **[terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer)** (2015) - Styled Terminal Markdown Viewer
- - (⭐ 842 x 🍴34 x 😁13) - **[yank](https://github.com/mptre/yank)** (2015) - Yank terminal output to clipboard
- - (⭐ 387 x 🍴42 x 😁11) - **[shallow-backup](https://github.com/alichtman/shallow-backup)** (2018) - Git-integrated backup tool for macOS and Linux devs.
- - (⭐ 170 x 🍴6 x 😁5) - **[battery-level](https://github.com/gillstrom/battery-level)** (2015) - Get current battery level
- - (⭐ 159 x 🍴5 x 😁5) - **[brightness-cli](https://github.com/kevva/brightness-cli)** (2015) - Change the screen brightness
- - (⭐ 147 x 🍴15 x 😁2) - **[share-cli](https://github.com/marionebl/share-cli)** (2016) - 🌍  Quickly share files from your command line
- - (⭐ 135 x 🍴18 x 😁9) - **[has](https://github.com/kdabir/has)** (2014) - checks presence of various command line tools and their versions on the path
- - (⭐ 110 x 🍴10 x 😁5) - **[awesome-finder](https://github.com/mingrammer/awesome-finder)** (2017) - :sunglasses: Search the awesome curated list without browser
- - (⭐ 92 x 🍴7 x 😁5) - **[google-font-installer](https://github.com/lordgiotto/google-font-installer)** (2016) - Download and install Google Web Fonts on your local machine. Both CLI and API available.
- - (⭐ 74 x 🍴5 x 😁3) - **[text-meme-cli](https://github.com/beatfreaker/text-meme-cli)** (2015) - Generate text meme
- - (⭐ 66 x 🍴2 x 😁1) - **[getnews.tech](https://github.com/omgimanerd/getnews.tech)** (2017) - A web server that fetches data from the News API and formats it for display in the terminal.
- - (⭐ 28 x 🍴6 x 😁4) - **[weather-cli](https://github.com/riyadhalnur/weather-cli)** (2015) - Check the weather for your city from your terminal
- - (⭐ 26 x 🍴1 x 😁2) - **[screensaver](https://github.com/gillstrom/screensaver)** (2015) - Start the screensaver.
- - (⭐ 4 x 🍴1 x 😁2) - **[archive-type-cli](https://github.com/kevva/archive-type-cli)** (2015) - Detect the archive type of a file or stdin
- - http://github.com/mingrammer/flogfalse
-
-#### Github > cli > Command Line Learning
-
-[💯 **https://metaawesome.io/github/cli/command-line-learning** ](https://metaawesome.io/github/cli/command-line-learning)
-
- - (⭐ 44,571 x 🍴2,220 x 😁127) - **[thefuck](https://github.com/nvbn/thefuck)** (2015) - Magnificent app which corrects your previous console command.
- - (⭐ 22,841 x 🍴1,692 x 😁406) - **[tldr](https://github.com/tldr-pages/tldr)** (2013) - :books: Simplified and community-driven man pages
- - (⭐ 7,292 x 🍴677 x 😁37) - **[howdoi](https://github.com/gleitz/howdoi)** (2012) - instant coding answers via the command line
- - (⭐ 4,967 x 🍴151 x 😁13) - **[how2](https://github.com/santinic/how2)** (2016) - stackoverflow from the terminal
- - (⭐ 430 x 🍴22 x 😁6) - **[wat](https://github.com/dthree/wat)** (2015) - Instant, central, community-built docs
- - (⭐ 75 x 🍴4 x 😁2) - **[teachcode](https://github.com/madlabsinc/teachcode)** (2018) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
-
-#### Github > cli > Data Manipulation
-
-[💯 **https://metaawesome.io/github/cli/data-manipulation** ](https://metaawesome.io/github/cli/data-manipulation)
-
- - (⭐ 1,581 x 🍴90 x 😁11) - **[underscore-cli](https://github.com/ddopson/underscore-cli)** (2012) - Command-line utility-belt for hacking JSON and Javascript.
- - (⭐ 738 x 🍴24 x 😁6) - **[yq](https://github.com/kislyuk/yq)** (2017) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
- - (⭐ 441 x 🍴10 x 😁3) - **[ramda-cli](https://github.com/raine/ramda-cli)** (2015) - :ram: A CLI tool for processing data with functional pipelines
- - (⭐ 50 x 🍴5 x 😁1) - **[yaml-cli](https://github.com/pandastrike/yaml-cli)** (2016) - A simple CLI for querying and updating YAML files
-
-#### Github > cli > Screensavers
-
-[💯 **https://metaawesome.io/github/cli/screensavers** ](https://metaawesome.io/github/cli/screensavers)
-
- - (⭐ 961 x 🍴41 x 😁6) - **[pipes.sh](https://github.com/pipeseroni/pipes.sh)** (2014) - Animated pipes terminal screensaver
- - (⭐ 810 x 🍴99 x 😁14) - **[cmatrix](https://github.com/Treri/cmatrix)** (2013) - Terminal based "The Matrix" like implementation
- - (⭐ 320 x 😁1) - **[YuleLog](https://github.com/Duroktar/YuleLog)** (2016) - A terminal based Yule Log fireplace for all the kids in the corner with sweatpants.
- - (⭐ 70 x 😁1) - **[cli-fireplace](https://github.com/dolsup/cli-fireplace)** (2018) - 🎉Enjoy your 🎁Christmas🎅 watching digital fireplace🔥 on your own terminal🖥
-
-#### Github > cli > Graphics
-
-[💯 **https://metaawesome.io/github/cli/graphics** ](https://metaawesome.io/github/cli/graphics)
-
- - (⭐ 74 x 🍴3 x 😁3) - **[sparkly-cli](https://github.com/sindresorhus/sparkly-cli)** (2015) - Generate sparklines ▁▂▃▅▂▇
- - (⭐ 40 x 🍴2 x 😁1) - **[cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)** (2013) - :package: View the Mandelbrot set from your terminal
-
-#### Github > cli > Just for Fun
-
-[💯 **https://metaawesome.io/github/cli/just-for-fun** ](https://metaawesome.io/github/cli/just-for-fun)
-
- - (⭐ 3,614 x 🍴127 x 😁14) - **[lolcat](https://github.com/busyloop/lolcat)** (2011) - Rainbows and unicorns!
- - (⭐ 830 x 🍴59 x 😁29) - **[ponysay](https://github.com/erkin/ponysay)** (2012) - Pony rewrite of cowsay.
- - (⭐ 162 x 🍴43 x 😁10) - **[yosay](https://github.com/yeoman/yosay)** (2014) - Tell Yeoman what to say
- - (⭐ 81 x 🍴17 x 😁1) - **[rank-amateur-cowsay](https://github.com/tnalpgge/rank-amateur-cowsay)** (2016) - Fork me if you want to maintain cowsay.
- - (⭐ 69 x 🍴17 x 😁13) - **[fortune-mod](https://github.com/shlomif/fortune-mod)** (2016) - Implementation of the Unix fortune command for displaying a random quotation, for Linux and other systems.
- - (⭐ 41 x 🍴5 x 😁3) - **[quote-cli](https://github.com/riyadhalnur/quote-cli)** (2015) - Get a random quote or the quote of the day in your CLI
-
-#### Github > cli > Other
-
-[💯 **https://metaawesome.io/github/cli/other** ](https://metaawesome.io/github/cli/other)
-
- - (⭐ 6,483 x 🍴173 x 😁2) - **[maybe](https://github.com/p-e-w/maybe)** (2016) -  :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
- - (⭐ 5,630 x 🍴440 x 😁9) - **[gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)** (2015) - Modular visual interface for GDB in Python
- - (⭐ 3,083 x 🍴191 x 😁23) - **[alex](https://github.com/wooorm/alex)** (2015) - Catch insensitive, inconsiderate writing
- - (⭐ 892 x 🍴37 x 😁4) - **[xiringuito](https://github.com/ivanilves/xiringuito)** (2017) - SSH-based "VPN for poors"
- - (⭐ 585 x 🍴54 x 😁6) - **[medium-cli](https://github.com/djadmin/medium-cli)** (2016) - Medium for Hackers - :computer: A CLI for Medium Stories.
- - (⭐ 278 x 🍴12 x 😁2) - **[hget](https://github.com/bevacqua/hget)** (2014) - :clap: Render websites in plain text from your terminal
- - (⭐ 245 x 🍴12 x 😁3) - **[kill-tabs](https://github.com/sindresorhus/kill-tabs)** (2015) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
- - (⭐ 171 x 🍴17 x 😁2) - **[BibleApp](https://github.com/BibleJS/BibleApp)** (2014) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
- - (⭐ 171 x 🍴21 x 😁7) - **[libqalculate](https://github.com/Qalculate/libqalculate)** (2016) - Qalculate! library and CLI
- - (⭐ 127 x 🍴7 x 😁2) - **[gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)** (2015) - Get the gzipped size of a file or stdin
- - (⭐ 107 x 🍴11 x 😁2) - **[trino](https://github.com/eneserdogan/trino)** (2017) - Trino: Master your translations with command line!
- - (⭐ 83 x 🍴5 x 😁1) - **[mdlt](https://github.com/metadelta/mdlt)** (2017) - A command-line utility for quick math.
- - (⭐ 53 x 🍴2 x 😁1) - **[hasha-cli](https://github.com/sindresorhus/hasha-cli)** (2015) - Hashing made simple. Get the hash of text or stdin.
- - (⭐ 480 x 😁1) - **[calories](https://github.com/zupzup/calories)** (2016) - Calories Tracker for the Commandline
- - (⭐ 33 x 🍴1 x 😁1) - **[speed_read](https://github.com/sunsations/speed_read)** (2014) - speed_read: A simple terminal-based open source Spritz-alike 
- - (⭐ 30 x 🍴6 x 😁2) - **[birthday](https://github.com/IonicaBizau/birthday)** (2015) - :birthday: Know when a friend's birthday is coming.
- - (⭐ 28 x 🍴7 x 😁7) - **[nasa-cli](https://github.com/xxczaki/nasa-cli)** (2018) - 🚀 Download NASA Picture of the Day from your terminal!
- - (⭐ 270 x 😁1) - **[leven-cli](https://github.com/sindresorhus/leven-cli)** (2015) - Measure the difference between two strings using the Levenshtein distance algorithm
- - (⭐ 17 x 🍴2 x 😁2) - **[to-single-quotes-cli](https://github.com/sindresorhus/to-single-quotes-cli)** (2015) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns
- - (⭐ 16 x 🍴1 x 😁1) - **[detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli)** (2015) - Detect the indentation of code
- - (⭐ 130 x 😁1) - **[fullname-cli](https://github.com/sindresorhus/fullname-cli)** (2015) - Get the fullname of the current user
- - (⭐ 10 x 🍴1 x 😁1) - **[to-double-quotes-cli](https://github.com/sindresorhus/to-double-quotes-cli)** (2015) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns
- - (⭐ 10 x 🍴1 x 😁1) - **[googlr](https://github.com/Camji55/googlr)** (2018) - Googlr is a command line tool that lets you search Google from your terminal.
- - (⭐ 90 x 😁1) - **[google-wifi-status](https://github.com/joelgeorgev/google-wifi-status)** (2017) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
- - (⭐ 80 x 😁1) - **[open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli)** (2015) - Open the URL from a web shortcut file in the browser
- - (⭐ 70 x 😁1) - **[shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli)** (2015) - Get the URL from a web shortcut file
-
-#### Github > cli > Other Awesome Lists
-
-[💯 **https://metaawesome.io/github/cli/other-awesome-lists** ](https://metaawesome.io/github/cli/other-awesome-lists)
-
- - (⭐ 31,000 x 🍴3,799 x 😁1) - **[awesome-nodejs#command-line-apps](https://github.com/sindresorhus/awesome-nodejs#command-line-apps)** (2014) - :zap: Delightful Node.js packages and resources
- - (⭐ 21,296 x 🍴1,203 x 😁1) - **[awesome-macos-command-line#readme](https://github.com/herrbischoff/awesome-macos-command-line#readme)** (2015) - Use your macOS terminal shell to do awesome things.
- - (⭐ 16,434 x 🍴1,528 x 😁1) - **[awesome-shell#readme](https://github.com/alebcay/awesome-shell#readme)** (2014) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
- - (⭐ 8,117 x 🍴437 x 😁1) - **[terminals-are-sexy#readme](https://github.com/k4m4/terminals-are-sexy#readme)** (2017) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
- - (⭐ 6,310 x 🍴268 x 😁1) - **[awesome-zsh-plugins#readme](https://github.com/unixorn/awesome-zsh-plugins#readme)** (2014) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
- - (⭐ 2,244 x 🍴216 x 😁1) - **[awesome-command-line-apps#readme](https://github.com/herrbischoff/awesome-command-line-apps#readme)** (2015) - :shell: Use your terminal shell to do awesome things.
- - (⭐ 989 x 🍴67 x 😁1) - **[awesome-git-addons#readme](https://github.com/stevemao/awesome-git-addons#readme)** (2015) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-
-#### Github > cli > Files and Directories
-
- - [File Managers](#github--cli--files-and-directories--file-managers)
- - [Deleting, Copying, and Renaming](#github--cli--files-and-directories--deleting,-copying,-and-renaming)
- - [Files](#github--cli--files-and-directories--files)
- - [Directory Listing](#github--cli--files-and-directories--directory-listing)
- - [Directory Navigation](#github--cli--files-and-directories--directory-navigation)
- - [Search](#github--cli--files-and-directories--search)
-
-##### Github > cli > Files and Directories > File Managers
-
-[💯 **https://metaawesome.io/github/cli/files-and-directories/file-managers** ](https://metaawesome.io/github/cli/files-and-directories/file-managers)
-
- - (⭐ 5,862 x 🍴432 x 😁135) - **[ranger](https://github.com/ranger/ranger)** (2009) - A VIM-inspired filemanager for the console
- - (⭐ 5,807 x 🍴202 x 😁50) - **[nnn](https://github.com/jarun/nnn)** (2016) - :dolphin: Lean, fast, zero-config, full-featured file manager with batteries
- - (⭐ 994 x 🍴365 x 😁171) - **[mc](https://github.com/MidnightCommander/mc)** (2011) - Midnight Commander's repository
- - (⭐ 214 x 🍴10 x 😁4) - **[organize-cli](https://github.com/ManrajGrover/organize-cli)** (2016) - 📋 Organize your files, imagine cleaning up your downloads in an instant
-
-##### Github > cli > Files and Directories > Deleting, Copying, and Renaming
-
-[💯 **https://metaawesome.io/github/cli/files-and-directories/deleting,-copying,-and-renaming** ](https://metaawesome.io/github/cli/files-and-directories/deleting,-copying,-and-renaming)
-
- - (⭐ 583 x 🍴23 x 😁3) - **[trash-cli](https://github.com/sindresorhus/trash-cli)** (2015) - Move files and folders to the trash
- - (⭐ 116 x 🍴10 x 😁4) - **[cpy-cli](https://github.com/sindresorhus/cpy-cli)** (2016) - Copy files
- - (⭐ 71 x 🍴2 x 😁1) - **[empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli)** (2015) - Empty the trash
- - (⭐ 50 x 🍴9 x 😁1) - **[node-rename-cli](https://github.com/jhotmann/node-rename-cli)** (2017) - A tool for renaming files quickly, especially multiple files at once.
- - https://github.com/sindresorhus/del-clifalse
-
-##### Github > cli > Files and Directories > Files
-
-[💯 **https://metaawesome.io/github/cli/files-and-directories/files** ](https://metaawesome.io/github/cli/files-and-directories/files)
-
- - (⭐ 14,731 x 🍴1,167 x 😁230) - **[rclone](https://github.com/ncw/rclone)** (2014) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
- - (⭐ 14,219 x 🍴265 x 😁78) - **[bat](https://github.com/sharkdp/bat)** (2018) - A cat(1) clone with wings.
- - (⭐ 3,912 x 🍴83 x 😁17) - **[ffsend](https://github.com/timvisee/ffsend)** (2018) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
- - (⭐ 2,515 x 🍴348 x 😁19) - **[doctoc](https://github.com/thlorenz/doctoc)** (2012) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
- - (⭐ 482 x 🍴37 x 😁8) - **[chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli)** (2015) - Fast cross-platform cli utility to watch file system changes
- - (⭐ 413 x 🍴60 x 😁38) - **[webtorrent-cli](https://github.com/feross/webtorrent-cli)** (2016) - WebTorrent, the streaming torrent client. For the command line.
- - (⭐ 73 x 🍴3 x 😁1) - **[unix-permissions](https://github.com/ehmicky/unix-permissions)** (2018) - Swiss Army knife for Unix permissions
- - (⭐ 43 x 🍴1 x 😁1) - **[file-type-cli](https://github.com/sindresorhus/file-type-cli)** (2015) - Detect the file type of a file or stdin
-
-##### Github > cli > Files and Directories > Directory Listing
-
-[💯 **https://metaawesome.io/github/cli/files-and-directories/directory-listing** ](https://metaawesome.io/github/cli/files-and-directories/directory-listing)
-
- - (⭐ 6,635 x 🍴215 x 😁65) - **[exa](https://github.com/ogham/exa)** (2014) - A modern version of ‘ls’.
- - (⭐ 155 x 🍴15 x 😁6) - **[alder](https://github.com/aweary/alder)** (2017) - A minimal implementation of the UNIX tree command with colors!
-
-##### Github > cli > Files and Directories > Directory Navigation
-
-[💯 **https://metaawesome.io/github/cli/files-and-directories/directory-navigation** ](https://metaawesome.io/github/cli/files-and-directories/directory-navigation)
-
- - (⭐ 10,227 x 🍴812 x 😁19) - **[z](https://github.com/rupa/z)** (2009) - z - jump around
- - (⭐ 9,784 x 🍴481 x 😁53) - **[autojump](https://github.com/wting/autojump)** (2009) - A cd command that learns - easily navigate directories from the command line
- - (⭐ 4,525 x 🍴164 x 😁5) - **[fasd](https://github.com/clvv/fasd)** (2011) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
- - (⭐ 1,119 x 🍴38 x 😁11) - **[z.lua](https://github.com/skywind3000/z.lua)** (2018) - A new cd command that helps you navigate faster by learning your habits :zap:
- - (⭐ 519 x 🍴44 x 😁14) - **[goto](https://github.com/iridakos/goto)** (2018) - Alias and navigate to directories with autocomplete
- - (⭐ 236 x 🍴12 x 😁3) - **[fz](https://github.com/changyuheng/fz)** (2017) - Cli shell plugin, the missing fuzzy tab completion feature of z jump around command.
- - (⭐ 112 x 🍴11 x 😁5) - **[pm](https://github.com/Angelmmiguel/pm)** (2015) - The easy way to switch between your projects on ZSH
- - https://github.com/facebook/pathpicker/false
-
-##### Github > cli > Files and Directories > Search
-
-[💯 **https://metaawesome.io/github/cli/files-and-directories/search** ](https://metaawesome.io/github/cli/files-and-directories/search)
-
- - (⭐ 22,392 x 🍴868 x 😁101) - **[fzf](https://github.com/junegunn/fzf)** (2013) - :cherry_blossom: A command-line fuzzy finder
- - (⭐ 15,178 x 🍴610 x 😁199) - **[ripgrep](https://github.com/BurntSushi/ripgrep)** (2016) - ripgrep recursively searches directories for a regex pattern
- - (⭐ 1,262 x 🍴25 x 😁7) - **[fselect](https://github.com/jhspetersson/fselect)** (2018) - Find files with SQL-like queries
- - (⭐ 299 x 🍴9 x 😁3) - **[hf](https://github.com/hugows/hf)** (2015) - (another) Fuzzy file finder for the command line
- - (⭐ 17 x 🍴5 x 😁2) - **[find-up-cli](https://github.com/sindresorhus/find-up-cli)** (2015) - Find a file by walking up parent directories
-
-#### Github > cli > Images
-
- - [Gif Creation](#github--cli--images--gif-creation)
- - [Image Conversion](#github--cli--images--image-conversion)
- - [SVG](#github--cli--images--svg)
-
-##### Github > cli > Images > Gif Creation
-
-[💯 **https://metaawesome.io/github/cli/images/gif-creation** ](https://metaawesome.io/github/cli/images/gif-creation)
-
- - (⭐ 7,120 x 🍴623 x 😁34) - **[asciinema](https://github.com/asciinema/asciinema)** (2011) - Terminal session recorder 📹
- - (⭐ 3,124 x 🍴176 x 😁34) - **[ttygif](https://github.com/icholy/ttygif)** (2013) - Convert terminal recordings to animated gifs
- - (⭐ 3,074 x 🍴114 x 😁2) - **[ttystudio](https://github.com/chjj/ttystudio)** (2015) - A terminal-to-gif recorder minus the headaches.
- - (⭐ 1,831 x 🍴136 x 😁11) - **[gifsicle](https://github.com/kohler/gifsicle)** (2013) - Create, manipulate, and optimize GIF images and animations
- - (⭐ 328 x 🍴16 x 😁3) - **[gifgen](https://github.com/lukechilds/gifgen)** (2016) - Simple high quality GIF encoding
- - (⭐ 228 x 🍴14 x 😁1) - **[ttygif](https://github.com/sugyan/ttygif)** (2014) - ttyrec to gif
- - (⭐ 203 x 🍴6 x 😁2) - **[givegif](https://github.com/passy/givegif)** (2016) - GIFs on the command line
-
-##### Github > cli > Images > Image Conversion
-
-[💯 **https://metaawesome.io/github/cli/images/image-conversion** ](https://metaawesome.io/github/cli/images/image-conversion)
-
- - (⭐ 522 x 🍴26 x 😁7) - **[imgp](https://github.com/jarun/imgp)** (2016) - :camera_flash: High-performance batch image resizer & rotator
- - (⭐ 224 x 🍴4 x 😁1) - **[korkut](https://github.com/oguzhaninan/korkut)** (2018) - Quick and simple image processing at the command line. :hammer:
-
-##### Github > cli > Images > SVG
-
-[💯 **https://metaawesome.io/github/cli/images/svg** ](https://metaawesome.io/github/cli/images/svg)
-
- - (⭐ 12,080 x 🍴900 x 😁100) - **[svgo](https://github.com/svg/svgo)** (2012) - :tiger: Node.js tool for optimizing SVG files
-
-### Github > Clojure
-
- - [Advanced datastructures](#github--clojure--advanced-datastructures)
- - [Web Framework](#github--clojure--web-framework)
- - [Dependency injection](#github--clojure--dependency-injection)
- - [Build Automation and Package management](#github--clojure--build-automation-and-package-management)
- - [Date and Time](#github--clojure--date-and-time)
- - [GUI](#github--clojure--gui)
- - [Audio](#github--clojure--audio)
- - [HTTP](#github--clojure--http)
- - [Database](#github--clojure--database)
- - [Connection pools](#github--clojure--connection-pools)
- - [Structural Migrations](#github--clojure--structural-migrations)
- - [Redis](#github--clojure--redis)
- - [JSON](#github--clojure--json)
- - [ORM and SQL generation](#github--clojure--orm-and-sql-generation)
- - [Security](#github--clojure--security)
- - [RESTful API](#github--clojure--restful-api)
- - [Emails](#github--clojure--emails)
- - [HTML Manipulation](#github--clojure--html-manipulation)
- - [Data Validation](#github--clojure--data-validation)
- - [Type System](#github--clojure--type-system)
- - [Pattern Matching](#github--clojure--pattern-matching)
- - [Async processing](#github--clojure--async-processing)
- - [Monads](#github--clojure--monads)
- - [WebSocket](#github--clojure--websocket)
- - [Testing](#github--clojure--testing)
- - [Webdriver automation](#github--clojure--webdriver-automation)
- - [Code Analysis and Linter](#github--clojure--code-analysis-and-linter)
- - [Science and Data Analysis](#github--clojure--science-and-data-analysis)
- - [Machine Learning](#github--clojure--machine-learning)
- - [Computer Vision](#github--clojure--computer-vision)
- - [Natural Language Processing](#github--clojure--natural-language-processing)
- - [Parsing](#github--clojure--parsing)
- - [Exceptions and Error Handling](#github--clojure--exceptions-and-error-handling)
- - [Literate Programming](#github--clojure--literate-programming)
- - [Miscellaneous](#github--clojure--miscellaneous)
- - [Debugging](#github--clojure--debugging)
- - [CI](#github--clojure--ci)
- - [Project Management](#github--clojure--project-management)
- - [Terminal UI](#github--clojure--terminal-ui)
- - [Graphviz](#github--clojure--graphviz)
- - [Guides](#github--clojure--guides)
- - [Exercises](#github--clojure--exercises)
-
-#### Github > Clojure > Advanced datastructures
-
-[💯 **https://metaawesome.io/github/clojure/advanced-datastructures** ](https://metaawesome.io/github/clojure/advanced-datastructures)
-
- - (⭐ 972 x 🍴67 x 😁14) - **[hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree)** (2016) - Functional, persistent, off-heap, high performance data structure
- - (⭐ 754 x 🍴29 x 😁3) - **[bifurcan](https://github.com/lacuna/bifurcan)** (2016) - impure functional data structures
- - (⭐ 321 x 🍴24 x 😁4) - **[durable-queue](https://github.com/Factual/durable-queue)** (2013) - a disk-backed queue for clojure
- - (⭐ 183 x 🍴10 x 😁6) - **[data.finger-tree](https://github.com/clojure/data.finger-tree)** (2010) - Finger Tree data structure
- - (⭐ 142 x 🍴27 x 😁13) - **[ordered](https://github.com/amalloy/ordered)** (2011) - Ordered sets and maps, implemented in pure clojure
- - (⭐ 102 x 🍴16 x 😁6) - **[data.avl](https://github.com/clojure/data.avl)** (2013) - Persistent sorted maps and sets with log-time rank queries
- - (⭐ 75 x 🍴6 x 😁2) - **[duratom](https://github.com/jimpil/duratom)** (2016) - A durable atom type for Clojure
- - (⭐ 38 x 🍴2 x 😁2) - **[lazy-map-clojure](https://github.com/Malabarba/lazy-map-clojure)** (2015) - Create Clojure maps whose values are only calculated when accessed, either from data or from java objects.
- - (⭐ 4 x 🍴1 x 😁1) - **[hier-set](https://github.com/llasram/hier-set)** (2012) - A Clojure hierarchical set.
-
-#### Github > Clojure > Web Framework
-
-[💯 **https://metaawesome.io/github/clojure/web-framework** ](https://metaawesome.io/github/clojure/web-framework)
-
- - (⭐ 3,602 x 🍴243 x 😁33) - **[compojure](https://github.com/weavejester/compojure)** (2008) - A concise routing library for Ring/Clojure
- - (⭐ 2,072 x 🍴235 x 😁69) - **[pedestal](https://github.com/pedestal/pedestal)** (2013) - The Pedestal Server-side Libraries
- - (⭐ 936 x 🍴126 x 😁39) - **[compojure-api](https://github.com/metosin/compojure-api)** (2014) - Sweet web apis with Compojure & Swagger
- - (⭐ 830 x 🍴44 x 😁17) - **[duct](https://github.com/weavejester/duct)** (2014) - Server-side application framework for Clojure
- - (⭐ 625 x 🍴91 x 😁52) - **[yada](https://github.com/juxt/yada)** (2014) - A powerful Clojure web library, full HTTP, full async - see https://juxt.pro/yada/index.html
- - (⭐ 514 x 🍴66 x 😁56) - **[fulcro](https://github.com/fulcrologic/fulcro)** (2017) - A library for development of single-page full-stack web applications in clj/cljs
- - (⭐ 411 x 🍴62 x 😁38) - **[reitit](https://github.com/metosin/reitit)** (2017) - A fast data-driven router for Clojure(Script).
- - (⭐ 192 x 🍴24 x 😁7) - **[datsys](https://github.com/metasoarous/datsys)** (2016) - (+ clj cljs datomic datascript re-frame-esque-frp)
- - (⭐ 18 x 🍴2 x 😁2) - **[webnf](https://github.com/webnf/webnf)** (2013) - the web non-framework
- - (⭐ 3 x 🍴5 x 😁8) - **[joodoweb](https://github.com/slagyr/joodoweb)** (2011) - Site for Joodo: Clojure web framework
- - (⭐ 00 x 😁2) - **[coils](https://github.com/l4u/coils)** (2015) - Clojure web frameowrk
-
-#### Github > Clojure > Dependency injection
-
-[💯 **https://metaawesome.io/github/clojure/dependency-injection** ](https://metaawesome.io/github/clojure/dependency-injection)
-
- - (⭐ 1,642 x 🍴87 x 😁1) - **[component](https://github.com/stuartsierra/component)** (2013) - Managed lifecycle of stateful objects in Clojure
- - (⭐ 888 x 🍴69 x 😁25) - **[mount](https://github.com/tolitius/mount)** (2015) - managing Clojure and ClojureScript app state since (reset)
- - (⭐ 611 x 🍴32 x 😁9) - **[integrant](https://github.com/weavejester/integrant)** (2016) - Micro-framework for data-driven architecture
- - (⭐ 565 x 🍴69 x 😁35) - **[system](https://github.com/danielsz/system)** (2014) - Reloaded components à la carte
-
-#### Github > Clojure > Build Automation and Package management
-
-[💯 **https://metaawesome.io/github/clojure/build-automation-and-package-management** ](https://metaawesome.io/github/clojure/build-automation-and-package-management)
-
- - (⭐ 6,424 x 🍴1,489 x 😁335) - **[leiningen](https://github.com/technomancy/leiningen)** (2009) - Automate Clojure projects without setting your hair on fire.
- - (⭐ 1,587 x 🍴169 x 😁72) - **[boot](https://github.com/boot-clj/boot)** (2014) - Build tooling for Clojure.
- - (⭐ 87 x 🍴9 x 😁6) - **[clojurephant](https://github.com/clojurephant/clojurephant)** (2017) - Clojure and Clojurescript support for Gradle
-
-#### Github > Clojure > Date and Time
-
-[💯 **https://metaawesome.io/github/clojure/date-and-time** ](https://metaawesome.io/github/clojure/date-and-time)
-
- - (⭐ 671 x 🍴150 x 😁85) - **[clj-time](https://github.com/clj-time/clj-time)** (2011) - A date and time library for Clojure, wrapping the Joda Time library.
-
-#### Github > Clojure > GUI
-
-[💯 **https://metaawesome.io/github/clojure/gui** ](https://metaawesome.io/github/clojure/gui)
-
- - (⭐ 1,270 x 🍴141 x 😁35) - **[seesaw](https://github.com/daveray/seesaw)** (2011) - Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library
- - (⭐ 99 x 🍴8 x 😁2) - **[fx-clj](https://github.com/aaronc/fx-clj)** (2014) - A Clojure library for JavaFX
-
-#### Github > Clojure > Audio
-
-[💯 **https://metaawesome.io/github/clojure/audio** ](https://metaawesome.io/github/clojure/audio)
-
- - (⭐ 3,330 x 🍴199 x 😁25) - **[alda](https://github.com/alda-lang/alda)** (2014) - A music programming language for musicians. :notes:
-
-#### Github > Clojure > HTTP
-
-[💯 **https://metaawesome.io/github/clojure/http** ](https://metaawesome.io/github/clojure/http)
-
- - (⭐ 2,820 x 🍴432 x 😁108) - **[ring](https://github.com/ring-clojure/ring)** (2012) - Clojure HTTP server abstraction
- - (⭐ 2,161 x 🍴203 x 😁66) - **[aleph](https://github.com/ztellman/aleph)** (2010) - asynchronous communication for clojure
- - (⭐ 1,350 x 🍴350 x 😁127) - **[clj-http](https://github.com/dakrone/clj-http)** (2011) - An idiomatic clojure http client wrapping the apache client. Offically supported version.
- - (⭐ 71 x 🍴7 x 😁6) - **[kvlt](https://github.com/nervous-systems/kvlt)** (2015) - Multi-target Clojure/script HTTP client
-
-#### Github > Clojure > Database
-
-[💯 **https://metaawesome.io/github/clojure/database** ](https://metaawesome.io/github/clojure/database)
-
- - (⭐ 3,299 x 🍴213 x 😁44) - **[datascript](https://github.com/tonsky/datascript)** (2014) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
- - (⭐ 432 x 🍴17 x 😁36) - **[datahike](https://github.com/replikativ/datahike)** (2018) - A durable datalog implementation adaptable for distribution. 
- - (⭐ 195 x 🍴37 x 😁18) - **[alia](https://github.com/mpenet/alia)** (2013) - High performance Cassandra client for clojure
- - (⭐ 187 x 🍴39 x 😁23) - **[clj-rethinkdb](https://github.com/apa512/clj-rethinkdb)** (2014)false
- - (⭐ 104 x 🍴23 x 😁15) - **[clojure.jdbc](https://github.com/funcool/clojure.jdbc)** (2013) - JDBC library for Clojure
- - (⭐ 55 x 🍴4 x 😁1) - **[cravendb](https://github.com/robashton/cravendb)** (2013) - A document database written in Clojure
-
-#### Github > Clojure > Connection pools
-
-[💯 **https://metaawesome.io/github/clojure/connection-pools** ](https://metaawesome.io/github/clojure/connection-pools)
-
- - (⭐ 253 x 🍴44 x 😁22) - **[hikari-cp](https://github.com/tomekw/hikari-cp)** (2014) - A Clojure wrapper to HikariCP JDBC connection pool
-
-#### Github > Clojure > Structural Migrations
-
-[💯 **https://metaawesome.io/github/clojure/structural-migrations** ](https://metaawesome.io/github/clojure/structural-migrations)
-
- - (⭐ 438 x 🍴76 x 😁25) - **[ragtime](https://github.com/weavejester/ragtime)** (2011) - Database-independent migration library
- - (⭐ 351 x 🍴61 x 😁42) - **[migratus](https://github.com/yogthos/migratus)** (2011) - MIGRATE ALL THE THINGS!
- - (⭐ 295 x 🍴47 x 😁27) - **[joplin](https://github.com/juxt/joplin)** (2014) - Flexible datastore migration and seeding for Clojure projects
- - (⭐ 264 x 🍴57 x 😁13) - **[lobos](https://github.com/budu/lobos)** (2010) - A library to create and manipulate SQL database schemas with migrations support.
- - (⭐ 115 x 🍴19 x 😁13) - **[drift](https://github.com/macourtney/drift)** (2010) - A migration library for clojure
-
-#### Github > Clojure > Redis
-
-[💯 **https://metaawesome.io/github/clojure/redis** ](https://metaawesome.io/github/clojure/redis)
-
- - (⭐ 874 x 🍴95 x 😁14) - **[carmine](https://github.com/ptaoussanis/carmine)** (2012) - Redis client and message queue for Clojure
- - (⭐ 12 x 🍴5 x 😁3) - **[celtuce](https://github.com/lerouxrgd/celtuce)** (2016) - An idiomatic Clojure Redis client wrapping the Java client Lettuce
-
-#### Github > Clojure > JSON
-
-[💯 **https://metaawesome.io/github/clojure/json** ](https://metaawesome.io/github/clojure/json)
-
- - (⭐ 1,123 x 🍴117 x 😁35) - **[cheshire](https://github.com/dakrone/cheshire)** (2011) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding
- - (⭐ 152 x 🍴7 x 😁6) - **[jsonista](https://github.com/metosin/jsonista)** (2017) - Clojure library for fast JSON encoding and decoding.
-
-#### Github > Clojure > ORM and SQL generation
-
-[💯 **https://metaawesome.io/github/clojure/orm-and-sql-generation** ](https://metaawesome.io/github/clojure/orm-and-sql-generation)
-
- - (⭐ 980 x 🍴106 x 😁42) - **[honeysql](https://github.com/jkk/honeysql)** (2012) - Turn Clojure data structures into SQL
- - (⭐ 319 x 🍴20 x 😁10) - **[toucan](https://github.com/metabase/toucan)** (2017) - A classy high-level Clojure library for defining application models and retrieving them from a DB
- - (⭐ 286 x 🍴7 x 😁4) - **[walkable](https://github.com/walkable-server/walkable)** (2018) - A Clojure(script) SQL library for building APIs: Datomic® (GraphQL-ish) pull syntax, data driven configuration, dynamic filtering with relations in mind
- - (⭐ 179 x 🍴21 x 😁10) - **[sqlingvo](https://github.com/r0man/sqlingvo)** (2012) - A Clojure & ClojureScript DSL for SQL
- - (⭐ 30 x 🍴6 x 😁3) - **[sql](https://github.com/stch-library/sql)** (2014) - A DSL in Clojure for SQL query, DML, and DDL. Supports a majority of MySQL's statements.
- - https://github.com/tatut/specql/false
- - https://github.com/TheLadders/sqlium/false
-
-#### Github > Clojure > Security
-
-[💯 **https://metaawesome.io/github/clojure/security** ](https://metaawesome.io/github/clojure/security)
-
- - (⭐ 1,150 x 🍴120 x 😁32) - **[friend](https://github.com/cemerick/friend)** (2012) - An extensible authentication and authorization library for Clojure Ring web applications and services. 
- - (⭐ 677 x 🍴36 x 😁16) - **[buddy](https://github.com/funcool/buddy)** (2014) - Security library for Clojure
- - (⭐ 127 x 🍴8 x 😁3) - **[bolt](https://github.com/juxt/bolt)** (2014) - An integrated security system for applications built on component
-
-#### Github > Clojure > RESTful API
-
-[💯 **https://metaawesome.io/github/clojure/restful-api** ](https://metaawesome.io/github/clojure/restful-api)
-
- - (⭐ 936 x 🍴126 x 😁39) - **[compojure-api](https://github.com/metosin/compojure-api)** (2014) - Sweet web apis with Compojure & Swagger
- - (⭐ 625 x 🍴91 x 😁52) - **[yada](https://github.com/juxt/yada)** (2014) - A powerful Clojure web library, full HTTP, full async - see https://juxt.pro/yada/index.html
- - (⭐ 411 x 🍴62 x 😁38) - **[reitit](https://github.com/metosin/reitit)** (2017) - A fast data-driven router for Clojure(Script).
- - (⭐ 114 x 🍴14 x 😁10) - **[friboo](https://github.com/zalando/friboo)** (2015) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth
- - (⭐ 76 x 🍴2 x 😁1) - **[router](https://github.com/darkleaf/router)** (2016) - Bidirectional Ring router. REST oriented. Rails inspired.
-
-#### Github > Clojure > Emails
-
-[💯 **https://metaawesome.io/github/clojure/emails** ](https://metaawesome.io/github/clojure/emails)
-
- - (⭐ 451 x 🍴82 x 😁26) - **[postal](https://github.com/drewr/postal)** (2009) - Clojure email support
-
-#### Github > Clojure > HTML Manipulation
-
-[💯 **https://metaawesome.io/github/clojure/html-manipulation** ](https://metaawesome.io/github/clojure/html-manipulation)
-
- - (⭐ 1,922 x 🍴146 x 😁27) - **[hiccup](https://github.com/weavejester/hiccup)** (2009) - Fast library for rendering HTML in Clojure
- - (⭐ 667 x 🍴85 x 😁52) - **[Selmer](https://github.com/yogthos/Selmer)** (2013) - A fast, Django inspired template system in Clojure.
- - (⭐ 280 x 🍴41 x 😁15) - **[clostache](https://github.com/fhd/clostache)** (2010) - {{ mustache }} for Clojure
- - https://github.com/cgrand/enlive/wikifalse
-
-#### Github > Clojure > Data Validation
-
-[💯 **https://metaawesome.io/github/clojure/data-validation** ](https://metaawesome.io/github/clojure/data-validation)
-
- - (⭐ 1,967 x 🍴235 x 😁60) - **[schema](https://github.com/plumatic/schema)** (2013) - Clojure(Script) library for declarative data description and validation
- - (⭐ 454 x 🍴17 x 😁6) - **[orchestra](https://github.com/jeaye/orchestra)** (2017) - Complete instrumentation for clojure.spec
- - (⭐ 343 x 🍴37 x 😁12) - **[bouncer](https://github.com/leonardoborges/bouncer)** (2013) - A validation DSL for Clojure & Clojurescript applications
- - (⭐ 110 x 😁1) - **[clova](https://github.com/markwoodhall/clova)** (2015) - A simple validation library for Clojure and ClojureScript
- - (⭐ 500) - **[domaintypes](https://github.com/friemen/domaintypes)** (2013) - Modeling domain data on the basis of Clojure records.
-
-#### Github > Clojure > Type System
-
-[💯 **https://metaawesome.io/github/clojure/type-system** ](https://metaawesome.io/github/clojure/type-system)
-
- - (⭐ 1,093 x 🍴68 x 😁18) - **[core.typed](https://github.com/clojure/core.typed)** (2013) - An optional type system for Clojure
-
-#### Github > Clojure > Pattern Matching
-
-[💯 **https://metaawesome.io/github/clojure/pattern-matching** ](https://metaawesome.io/github/clojure/pattern-matching)
-
- - (⭐ 902 x 🍴53 x 😁11) - **[core.match](https://github.com/clojure/core.match)** (2011)false
- - (⭐ 383 x 🍴15 x 😁5) - **[defun](https://github.com/killme2008/defun)** (2014) - A macro to define clojure functions with parameter pattern matching just like erlang or elixir.
- - (⭐ 171 x 🍴11 x 😁4) - **[akar](https://github.com/missingfaktor/akar)** (2015) - First-class patterns for Clojure. Made with love, functions, and just the right amount of syntax.
- - (⭐ 91 x 🍴1 x 😁1) - **[Verbal-Exprejon](https://github.com/GuillaumeBadi/Verbal-Exprejon)** (2016) - Verbal-Exprejon is a Clojure library that helps you build complex regexes without any regex
- - (⭐ 45 x 🍴2 x 😁2) - **[cats.match](https://github.com/zalando/cats.match)** (2016) - Pattern matching for the monads in the cats Clojure library
-
-#### Github > Clojure > Async processing
-
-[💯 **https://metaawesome.io/github/clojure/async-processing** ](https://metaawesome.io/github/clojure/async-processing)
-
- - (⭐ 851 x 🍴50 x 😁17) - **[pulsar](https://github.com/puniverse/pulsar)** (2013) - Fibers, Channels and Actors for Clojure
- - (⭐ 704 x 🍴76 x 😁29) - **[manifold](https://github.com/ztellman/manifold)** (2014) - a compatibility layer for event-driven abstractions
- - https://github.com/clojure/core.async/false
-
-#### Github > Clojure > Monads
-
-[💯 **https://metaawesome.io/github/clojure/monads** ](https://metaawesome.io/github/clojure/monads)
-
- - (⭐ 758 x 🍴61 x 😁39) - **[cats](https://github.com/funcool/cats)** (2014) - Category Theory and Algebraic abstractions for Clojure and ClojureScript.
- - (⭐ 370 x 🍴37 x 😁9) - **[algo.monads](https://github.com/clojure/algo.monads)** (2011)false
- - (⭐ 361 x 🍴29 x 😁1) - **[fluokitten](https://github.com/uncomplicate/fluokitten)** (2013) - Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more.
-
-#### Github > Clojure > WebSocket
-
-[💯 **https://metaawesome.io/github/clojure/websocket** ](https://metaawesome.io/github/clojure/websocket)
-
- - (⭐ 2,161 x 🍴203 x 😁66) - **[aleph](https://github.com/ztellman/aleph)** (2010) - asynchronous communication for clojure
- - (⭐ 1,405 x 🍴140 x 😁23) - **[sente](https://github.com/ptaoussanis/sente)** (2014) - Realtime web comms for Clojure/Script
- - (⭐ 390 x 🍴34 x 😁12) - **[chord](https://github.com/jarohen/chord)** (2013) - A library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
-
-#### Github > Clojure > Testing
-
-[💯 **https://metaawesome.io/github/clojure/testing** ](https://metaawesome.io/github/clojure/testing)
-
- - (⭐ 1,493 x 🍴121 x 😁37) - **[Midje](https://github.com/marick/Midje)** (2010) - Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing
- - (⭐ 373 x 🍴25 x 😁13) - **[expectations](https://github.com/clojure-expectations/expectations)** (2010) - A minimalist's unit testing framework
- - (⭐ 286 x 🍴27 x 😁17) - **[kaocha](https://github.com/lambdaisland/kaocha)** (2018) - Full featured next gen Clojure test runner
- - (⭐ 31 x 🍴1 x 😁2) - **[test-doubles](https://github.com/GreenPowerMonitor/test-doubles)** (2018) - A small spying and stubbing library for Clojure and ClojureScript
-
-#### Github > Clojure > Webdriver automation
-
-[💯 **https://metaawesome.io/github/clojure/webdriver-automation** ](https://metaawesome.io/github/clojure/webdriver-automation)
-
- - (⭐ 390 x 🍴48 x 😁24) - **[etaoin](https://github.com/igrishaev/etaoin)** (2017) - Pure Clojure Webdriver protocol implementation
-
-#### Github > Clojure > Code Analysis and Linter
-
-[💯 **https://metaawesome.io/github/clojure/code-analysis-and-linter** ](https://metaawesome.io/github/clojure/code-analysis-and-linter)
-
- - (⭐ 1,531 x 🍴121 x 😁52) - **[kibit](https://github.com/jonase/kibit)** (2012) - There's a function for that!
- - (⭐ 902 x 🍴59 x 😁33) - **[eastwood](https://github.com/jonase/eastwood)** (2012) - Clojure lint tool
- - (⭐ 492 x 🍴17 x 😁7) - **[spectrum](https://github.com/arohner/spectrum)** (2016)false
- - (⭐ 406 x 🍴36 x 😁15) - **[slamhound](https://github.com/technomancy/slamhound)** (2011) - Slamhound rips your namespace form apart and reconstructs it.
- - (⭐ 357 x 🍴73 x 😁43) - **[cloverage](https://github.com/cloverage/cloverage)** (2012) - Clojure test coverage tool
- - (⭐ 203 x 🍴11 x 😁4) - **[yagni](https://github.com/venantius/yagni)** (2015) - A Leiningen plugin for finding dead code
- - (⭐ 163 x 🍴20 x 😁10) - **[lein-bikeshed](https://github.com/dakrone/lein-bikeshed)** (2012) - A Leiningen plugin designed to tell you your code is bad, and that you should feel bad
-
-#### Github > Clojure > Science and Data Analysis
-
-[💯 **https://metaawesome.io/github/clojure/science-and-data-analysis** ](https://metaawesome.io/github/clojure/science-and-data-analysis)
-
- - (⭐ 2,087 x 🍴281 x 😁93) - **[incanter](https://github.com/incanter/incanter)** (2009) - Clojure-based, R-like statistical computing and graphics environment for the JVM
- - (⭐ 1,888 x 🍴199 x 😁56) - **[onyx](https://github.com/onyx-platform/onyx)** (2013) - Distributed, masterless, high performance, fault tolerant data processing
- - (⭐ 731 x 🍴35 x 😁4) - **[neanderthal](https://github.com/uncomplicate/neanderthal)** (2014) - Fast Clojure Matrix Library
- - (⭐ 731 x 🍴35 x 😁4) - **[neanderthal](https://github.com/uncomplicate/neanderthal)** (2014) - Fast Clojure Matrix Library
- - (⭐ 653 x 🍴92 x 😁34) - **[loom](https://github.com/aysylu/loom)** (2013) - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj
- - (⭐ 592 x 🍴84 x 😁27) - **[flambo](https://github.com/yieldbot/flambo)** (2014) - A Clojure DSL for Apache Spark
- - (⭐ 375 x 🍴63 x 😁31) - **[sparkling](https://github.com/gorillalabs/sparkling)** (2015) - A Clojure library for Apache Spark: fast, fully-features, and developer friendly 
- - (⭐ 315 x 🍴17 x 😁1) - **[bayadera](https://github.com/uncomplicate/bayadera)** (2013) - High-performance Bayesian Data Analysis on the GPU in Clojure
- - (⭐ 240 x 🍴16 x 😁3) - **[clojurecl](https://github.com/uncomplicate/clojurecl)** (2015) - ClojureCL is a Clojure library for parallel computations with OpenCL.
- - (⭐ 144 x 🍴24 x 😁5) - **[histogram](https://github.com/bigmlcom/histogram)** (2011) - Streaming Histograms for Clojure/Java
- - (⭐ 134 x 🍴8 x 😁1) - **[clojurecuda](https://github.com/uncomplicate/clojurecuda)** (2017) - Clojure library for CUDA development
-
-#### Github > Clojure > Machine Learning
-
-[💯 **https://metaawesome.io/github/clojure/machine-learning** ](https://metaawesome.io/github/clojure/machine-learning)
-
- - (⭐ 10,945 x 🍴4,693 x 😁5) - **[deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)** (2013) - Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs + Spark
- - (⭐ 1,148 x 🍴96 x 😁22) - **[cortex](https://github.com/originrose/cortex)** (2016) - Machine learning in Clojure
- - (⭐ 175 x 🍴39 x 😁3) - **[infer](https://github.com/aria42/infer)** (2010) - inference and machine learning in clojure
- - (⭐ 146 x 🍴57 x 😁2) - **[clj-ml](https://github.com/antoniogarrote/clj-ml)** (2010) - A machine learning library for Clojure built on top of Weka and friends
- - (⭐ 139 x 🍴9 x 😁1) - **[enclog](https://github.com/jimpil/enclog)** (2012) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specialises in neural-nets)
- - (⭐ 101 x 🍴9 x 😁1) - **[k9](https://github.com/gigasquid/k9)** (2013) - Small library for using neural networks and core.matrix
- - (⭐ 91 x 🍴16 x 😁3) - **[clojure-tensorflow](https://github.com/kieranbrowne/clojure-tensorflow)** (2017) - An extremely light layer over TensorFlow's Java api
- - (⭐ 89 x 🍴9 x 😁1) - **[synaptic](https://github.com/japonophile/synaptic)** (2014) - Neural Networks in Clojure
- - (⭐ 67 x 🍴10 x 😁2) - **[clatern](https://github.com/rinuboney/clatern)** (2014) - Machine Learning in Clojure
- - (⭐ 59 x 🍴4 x 😁1) - **[lambda-ml](https://github.com/cloudkj/lambda-ml)** (2015) - A small machine learning library written in Lisp (Clojure) aimed at providing simple, concise implementations of machine learning techniques and utilities.
- - (⭐ 57 x 🍴6 x 😁5) - **[statistiker](https://github.com/clojurewerkz/statistiker)** (2014) - Minimalistic statistics library for Clojure
- - (⭐ 50 x 🍴12 x 😁5) - **[clj-bigml](https://github.com/bigmlcom/clj-bigml)** (2012) - Clojure bindings for the BigML.io API
-
-#### Github > Clojure > Computer Vision
-
-[💯 **https://metaawesome.io/github/clojure/computer-vision** ](https://metaawesome.io/github/clojure/computer-vision)
-
- - (⭐ 46 x 🍴8 x 😁1) - **[clj-tesseract](https://github.com/antoniogarrote/clj-tesseract)** (2011) - Clojure wrapper for the Tesseract OCR software
-
-#### Github > Clojure > Natural Language Processing
-
-[💯 **https://metaawesome.io/github/clojure/natural-language-processing** ](https://metaawesome.io/github/clojure/natural-language-processing)
-
- - (⭐ 681 x 🍴77 x 😁18) - **[clojure-opennlp](https://github.com/dakrone/clojure-opennlp)** (2010) - Natural Language Processing in Clojure (opennlp)
- - (⭐ 141 x 🍴13 x 😁10) - **[postagga](https://github.com/turbopape/postagga)** (2017) - A Library to parse natural language in pure Clojure and ClojureScript
-
-#### Github > Clojure > Parsing
-
-[💯 **https://metaawesome.io/github/clojure/parsing** ](https://metaawesome.io/github/clojure/parsing)
-
- - (⭐ 2,134 x 🍴124 x 😁23) - **[instaparse](https://github.com/Engelberg/instaparse)** (2013)false
- - (⭐ 1,301 x 🍴233 x 😁65) - **[duckling](https://github.com/wit-ai/duckling)** (2014) - Deprecated in favor of https://github.com/facebook/duckling
- - (⭐ 184 x 🍴8 x 😁1) - **[kern](https://github.com/blancas/kern)** (2013) - A Parser Combinators Library for Clojure
-
-#### Github > Clojure > Exceptions and Error Handling
-
-[💯 **https://metaawesome.io/github/clojure/exceptions-and-error-handling** ](https://metaawesome.io/github/clojure/exceptions-and-error-handling)
-
- - (⭐ 478 x 🍴18 x 😁8) - **[dire](https://github.com/MichaelDrogalis/dire)** (2012) - Erlang-style supervisor error handling for Clojure
- - (⭐ 128 x 🍴2 x 😁3) - **[perseverance](https://github.com/grammarly/perseverance)** (2016) - Flexible retries library for Clojure
- - (⭐ 140 x 😁1) - **[ex](https://github.com/mpenet/ex)** (2018) - Exception net
-
-#### Github > Clojure > Literate Programming
-
-[💯 **https://metaawesome.io/github/clojure/literate-programming** ](https://metaawesome.io/github/clojure/literate-programming)
-
- - (⭐ 1,879 x 🍴92 x 😁22) - **[klipse](https://github.com/viebel/klipse)** (2015) - Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, …
- - (⭐ 697 x 🍴77 x 😁29) - **[marginalia](https://github.com/gdeer81/marginalia)** (2010) - ultra-lightweight literate programming for clojure inspired by docco
-
-#### Github > Clojure > Miscellaneous
-
-[💯 **https://metaawesome.io/github/clojure/miscellaneous** ](https://metaawesome.io/github/clojure/miscellaneous)
-
- - (⭐ 538 x 🍴20 x 😁10) - **[slingshot](https://github.com/scgilardi/slingshot)** (2011) - Enhanced try and throw for Clojure leveraging Clojure's capabilities
- - (⭐ 432 x 🍴39 x 😁18) - **[potemkin](https://github.com/ztellman/potemkin)** (2010) - some ideas which are almost good
- - (⭐ 237 x 🍴10 x 😁9) - **[virgil](https://github.com/ztellman/virgil)** (2015) - your own personal JVM psychopomp
- - (⭐ 174 x 🍴16 x 😁5) - **[clj-tuple](https://github.com/ztellman/clj-tuple)** (2013) - efficient small collections for clojure
- - (⭐ 147 x 🍴18 x 😁9) - **[riddley](https://github.com/ztellman/riddley)** (2013) - code-walking without caveats
- - (⭐ 58 x 🍴3 x 😁1) - **[javastar](https://github.com/tailrecursion/javastar)** (2013) - Write Java inside Clojure
- - (⭐ 28 x 🍴1 x 😁1) - **[kezban](https://github.com/ertugrulcetin/kezban)** (2016) - Utility library for Clojure.
-
-#### Github > Clojure > Debugging
-
-[💯 **https://metaawesome.io/github/clojure/debugging** ](https://metaawesome.io/github/clojure/debugging)
-
- - (⭐ 2,722 x 🍴220 x 😁90) - **[lein-figwheel](https://github.com/bhauman/lein-figwheel)** (2014) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
- - (⭐ 1,167 x 🍴29 x 😁16) - **[ultra](https://github.com/venantius/ultra)** (2015) - A Leiningen plugin for a superior development environment
- - (⭐ 489 x 🍴25 x 😁11) - **[spyscope](https://github.com/dgrnbrg/spyscope)** (2012) - Trace-oriented debugging tools for Clojure
- - (⭐ 482 x 🍴21 x 😁13) - **[prone](https://github.com/magnars/prone)** (2014) - Better exception reporting middleware for Ring.
- - (⭐ 449 x 🍴18 x 😁12) - **[pretty](https://github.com/AvisoNovate/pretty)** (2013) - Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions
- - (⭐ 324 x 🍴32 x 😁13) - **[ritz](https://github.com/pallet/ritz)** (2010) - SWANK and nREPL servers for clojure providing JPDA based debuggers
- - (⭐ 275 x 🍴27 x 😁5) - **[tools.trace](https://github.com/clojure/tools.trace)** (2011) - 1.3 update of clojure.contrib.trace
- - (⭐ 229 x 🍴10 x 😁8) - **[clj-debugger](https://github.com/razum2um/clj-debugger)** (2014) - The missing tool
- - (⭐ 140 x 🍴11 x 😁3) - **[debug-repl](https://github.com/GeorgeJahad/debug-repl)** (2010) - Clojure REPL that is aware of surrounding lexical scope
- - (⭐ 121 x 🍴4 x 😁2) - **[aprint](https://github.com/razum2um/aprint)** (2014) - Awesome print: like clojure.pprint, but awesome
- - (⭐ 330 x 😁1) - **[packed-printer](https://github.com/cgrand/packed-printer)** (2017) - Compact pretty printer
- - (⭐ 32 x 🍴1 x 😁2) - **[redl](https://github.com/dgrnbrg/redl)** (2012) - A better IDE integration story for Clojure
- - (⭐ 16 x 🍴2 x 😁1) - **[limit-break](https://github.com/technomancy/limit-break)** (2012) - Basic REPL breakpoints.
-
-#### Github > Clojure > CI
-
-[💯 **https://metaawesome.io/github/clojure/ci** ](https://metaawesome.io/github/clojure/ci)
-
- - (⭐ 616 x 🍴54 x 😁14) - **[lambdacd](https://github.com/flosell/lambdacd)** (2014) - a library to define a continuous delivery pipeline in code
-
-#### Github > Clojure > Project Management
-
-[💯 **https://metaawesome.io/github/clojure/project-management** ](https://metaawesome.io/github/clojure/project-management)
-
- - (⭐ 89 x 🍴18 x 😁8) - **[milestones](https://github.com/turbopape/milestones)** (2014) - The Automagic Project Planner
-
-#### Github > Clojure > Terminal UI
-
-[💯 **https://metaawesome.io/github/clojure/terminal-ui** ](https://metaawesome.io/github/clojure/terminal-ui)
-
- - (⭐ 1,165 x 🍴32 x 😁10) - **[closh](https://github.com/dundalek/closh)** (2017) - Bash-like shell based on Clojure
- - (⭐ 52 x 🍴3 x 😁2) - **[trikl](https://github.com/lambdaisland/trikl)** (2018) - Terminal UI library for Clojure
- - (⭐ 29 x 🍴4 x 😁3) - **[zaffre](https://github.com/aaron-santos/zaffre)** (2016) - A fast clojure console library
-
-#### Github > Clojure > Graphviz
-
-[💯 **https://metaawesome.io/github/clojure/graphviz** ](https://metaawesome.io/github/clojure/graphviz)
-
- - (⭐ 392 x 🍴34 x 😁9) - **[rhizome](https://github.com/ztellman/rhizome)** (2013) - simple graph and tree visualization
- - (⭐ 180 x 🍴21 x 😁5) - **[dorothy](https://github.com/daveray/dorothy)** (2011) - Hiccup-style generation of Graphviz graphs in Clojure
- - (⭐ 42 x 🍴1 x 😁2) - **[fsmviz](https://github.com/jebberjeb/fsmviz)** (2017) - Generate Graphviz diagrams from FSM data
- - (⭐ 22 x 🍴3 x 😁1) - **[viz.cljc](https://github.com/jebberjeb/viz.cljc)** (2017) - Generate images from Graphviz dot strings in Clojure and Clojurescript
- - (⭐ 10 x 😁1) - **[zipper-viz](https://github.com/lambdaisland/zipper-viz)** (2018) - Visualize Clojure zippers using Graphviz
-
-#### Github > Clojure > Guides
-
-[💯 **https://metaawesome.io/github/clojure/guides** ](https://metaawesome.io/github/clojure/guides)
-
- - (⭐ 3,215 x 🍴241 x 😁44) - **[clojure-style-guide](https://github.com/bbatsov/clojure-style-guide)** (2013) - A community coding style guide for the Clojure programming language
- - (⭐ 2,165 x 🍴397 x 😁97) - **[clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)** (2013) - This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com
- - (⭐ 392 x 🍴23 x 😁11) - **[clojure-error-message-catalog](https://github.com/yogthos/clojure-error-message-catalog)** (2016) - a catalog of common Clojure errors and their meaning
-
-#### Github > Clojure > Exercises
-
-[💯 **https://metaawesome.io/github/clojure/exercises** ](https://metaawesome.io/github/clojure/exercises)
-
- - (⭐ 677 x 🍴418 x 😁51) - **[wonderland-clojure-katas](https://github.com/gigasquid/wonderland-clojure-katas)** (2014) - Clojure Katas inspired by Alice in Wonderland
-
-### Github > Crystal
-
- - [Algorithms and Data structures](#github--crystal--algorithms-and-data-structures)
- - [Api Builders](#github--crystal--api-builders)
- - [Blockchain](#github--crystal--blockchain)
- - [C bindings](#github--crystal--c-bindings)
- - [Caching](#github--crystal--caching)
- - [CLI Builders](#github--crystal--cli-builders)
- - [CLI Utils](#github--crystal--cli-utils)
- - [Code Analysis and Metrics](#github--crystal--code-analysis-and-metrics)
- - [Configuration](#github--crystal--configuration)
- - [Converters](#github--crystal--converters)
- - [Data Formats](#github--crystal--data-formats)
- - [Data Generators](#github--crystal--data-generators)
- - [Database Drivers/Clients](#github--crystal--database-drivers/clients)
- - [Database Tools](#github--crystal--database-tools)
- - [Development Tools](#github--crystal--development-tools)
- - [Email](#github--crystal--email)
- - [Environment Management](#github--crystal--environment-management)
- - [Examples and funny stuff](#github--crystal--examples-and-funny-stuff)
- - [Feature Flipping](#github--crystal--feature-flipping)
- - [Framework Components](#github--crystal--framework-components)
- - [Game Development](#github--crystal--game-development)
- - [GUI library](#github--crystal--gui-library)
- - [HTML Builders](#github--crystal--html-builders)
- - [HTML/XML Parsing](#github--crystal--html/xml-parsing)
- - [HTTP](#github--crystal--http)
- - [Image processing](#github--crystal--image-processing)
- - [Implementations/Compilers](#github--crystal--implementations/compilers)
- - [Logging and monitoring](#github--crystal--logging-and-monitoring)
- - [Machine Learning](#github--crystal--machine-learning)
- - [Markdown/Text Processors](#github--crystal--markdown/text-processors)
- - [Misc](#github--crystal--misc)
- - [Network Protocols](#github--crystal--network-protocols)
- - [Networking](#github--crystal--networking)
- - [ORM/ODM Extensions](#github--crystal--orm/odm-extensions)
- - [Package Management](#github--crystal--package-management)
- - [Processes and Threads](#github--crystal--processes-and-threads)
- - [Project Generators](#github--crystal--project-generators)
- - [Queues and Messaging](#github--crystal--queues-and-messaging)
- - [Routing](#github--crystal--routing)
- - [Scheduling](#github--crystal--scheduling)
- - [Science and Data analysis](#github--crystal--science-and-data-analysis)
- - [Search](#github--crystal--search)
- - [Serverless Computing](#github--crystal--serverless-computing)
- - [System](#github--crystal--system)
- - [Task management](#github--crystal--task-management)
- - [Template Engine](#github--crystal--template-engine)
- - [Testing](#github--crystal--testing)
- - [Third-party APIs](#github--crystal--third-party-apis)
- - [Validation](#github--crystal--validation)
- - [Web Frameworks](#github--crystal--web-frameworks)
- - [Web Servers](#github--crystal--web-servers)
-
-#### Github > Crystal > Algorithms and Data structures
-
-[💯 **https://metaawesome.io/github/crystal/algorithms-and-data-structures** ](https://metaawesome.io/github/crystal/algorithms-and-data-structures)
-
- - (⭐ 99 x 🍴18 x 😁11) - **[crystalline](https://github.com/jtomschroeder/crystalline)** (2014) - A collection of containers & algorithms for the Crystal programming language
- - (⭐ 66 x 🍴12 x 😁3) - **[radix](https://github.com/luislavena/radix)** (2016) - Radix Tree implementation for Crystal
- - (⭐ 31 x 🍴6 x 😁3) - **[crotp](https://github.com/philnash/crotp)** (2017) - CrOTP - One Time Passwords for Crystal
- - (⭐ 26 x 🍴6 x 😁3) - **[crystal-diff](https://github.com/MakeNowJust/crystal-diff)** (2016) - A Crystal sequence differencing implementation
- - (⭐ 16 x 🍴2 x 😁2) - **[crystalg](https://github.com/TobiasGSmollett/crystalg)** (2017) - A Generic Algorithm Library for Crystal
- - (⭐ 15 x 🍴2 x 😁2) - **[bitfields](https://github.com/elorest/bitfields)** (2018) - Bit Fields for Crystal Language
- - (⭐ 150 x 😁1) - **[markov](https://github.com/mccallofthewild/markov)** (2017) - ⛓ A Crystal library for building Markov Chains and running Markov Processes.
- - (⭐ 14 x 🍴4 x 😁3) - **[crystaledge](https://github.com/unn4m3d/crystaledge)** (2016) - A pure Crystal Vector Math library
- - (⭐ 100 x 😁1) - **[edits.cr](https://github.com/tcrouch/edits.cr)** (2016) - Edit distance algorithms inc. Jaro, Damerau-Levenshtein, and Optimal Alignment
- - (⭐ 8 x 🍴2 x 😁1) - **[delimiter_tree](https://github.com/drujensen/delimiter_tree)** (2016) - A crystal-lang tree structure that is built using a delimiter.
- - (⭐ 7 x 🍴2 x 😁2) - **[graphlb](https://github.com/mettuaditya/graphlb)** (2018) - graphlb is a crystal library which contains all the graph Data-Structures and Algorithms implemented in crystal-lang.
- - (⭐ 7 x 🍴1 x 😁1) - **[oak](https://github.com/obsidian/oak)** (2017) - A Crystal radix implementation
- - (⭐ 6 x 🍴1 x 😁2) - **[crystal-linked-list](https://github.com/abvdasker/crystal-linked-list)** (2016) - Simple linked list implementation in Crystal
- - (⭐ 60 x 😁1) - **[ksuid.cr](https://github.com/Sija/ksuid.cr)** (2018) - Crystal implementation of K-Sortable Globally Unique IDs
- - (⭐ 5 x 🍴10) - **[aho_corasick](https://github.com/chenkovsky/aho_corasick)** (2016) - aho_corasick for crystal-lang
- - (⭐ 3 x 🍴1 x 😁2) - **[bisect](https://github.com/spider-gazelle/bisect)** (2018) - Library for maintaining sorted Arrays
- - (⭐ 30 x 😁1) - **[hash_ring](https://github.com/TobiasGSmollett/hash_ring)** (2017) - Implementation of Consistent Hash Ring for Crystal
- - (⭐ 30 x 😁1) - **[haversine](https://github.com/mamantoha/haversine)** (2019) - Crystal implementation of the Haversine formula to calculate distances between two points given their latitudes and longitudes
- - (⭐ 30 x 😁1) - **[kd_tree](https://github.com/mamantoha/kd_tree)** (2018) - Crystal implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
- - (⭐ 2 x 🍴1 x 😁1) - **[murmur3](https://github.com/kuende/murmur3)** (2016) - Crystal implementation of Murmur3 hash algorithm used by Cassandra
- - (⭐ 2 x 🍴2 x 😁2) - **[ternary_search_tree](https://github.com/johnjansen/ternary_search_tree)** (2017) - A Crystal implementation of a Ternary Search Tree
- - (⭐ 10 x 😁1) - **[multiset.cr](https://github.com/tcrouch/multiset.cr)** (2016) - Multiset (bag) implementation in Crystal
-
-#### Github > Crystal > Api Builders
-
-[💯 **https://metaawesome.io/github/crystal/api-builders** ](https://metaawesome.io/github/crystal/api-builders)
-
- - (⭐ 44 x 🍴6 x 😁3) - **[kemal-rest-api](https://github.com/blocknotes/kemal-rest-api)** (2017) - Crystal library to create REST API with Kemal
-
-#### Github > Crystal > Blockchain
-
-[💯 **https://metaawesome.io/github/crystal/blockchain** ](https://metaawesome.io/github/crystal/blockchain)
-
- - (⭐ 146 x 🍴11 x 😁6) - **[SushiChain](https://github.com/SushiChain/SushiChain)** (2018) - To be the go to platform for building dApps quickly and cheaply for business and gaming
-
-#### Github > Crystal > C bindings
-
-[💯 **https://metaawesome.io/github/crystal/c-bindings** ](https://metaawesome.io/github/crystal/c-bindings)
-
- - (⭐ 82 x 🍴10 x 😁2) - **[duktape.cr](https://github.com/jessedoyle/duktape.cr)** (2015) - Evaluate JavaScript from Crystal!
- - (⭐ 38 x 🍴6 x 😁3) - **[termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal)** (2015) - Bindings, wrapper, and utilities for termbox (terminal interface library) in Crystal
- - (⭐ 26 x 🍴3 x 😁2) - **[clang.cr](https://github.com/ysbaddaden/clang.cr)** (2017) - libclang bindings for crystal (including automatic C bindings generator)
- - (⭐ 25 x 🍴5 x 😁2) - **[posix](https://github.com/ysbaddaden/posix)** (2016) - POSIX/C bindings generator for the Crystal programming language
- - (⭐ 20 x 🍴7 x 😁5) - **[crt.cr](https://github.com/maiha/crt.cr)** (2016) - Bindings for libncursesw and crt class
- - (⭐ 19 x 🍴2 x 😁1) - **[libnotify.cr](https://github.com/splattael/libnotify.cr)** (2016) - Libnotify for Crystal
- - (⭐ 19 x 🍴4 x 😁2) - **[pcap.cr](https://github.com/maiha/pcap.cr)** (2016) - Crystal bindings for libpcap
- - (⭐ 19 x 🍴2 x 😁3) - **[x11-cr](https://github.com/TamasSzekeres/x11-cr)** (2016) - X11 bindings for Crystal language.
- - (⭐ 130 x 😁1) - **[x_do.cr](https://github.com/woodruffw/x_do.cr)** (2017) - Crystal bindings for libxdo (xdotool)
- - (⭐ 12 x 🍴3 x 😁3) - **[crystal-gsl](https://github.com/ruivieira/crystal-gsl)** (2016) - GNU Scientific Library bindings for Crystal
- - (⭐ 9 x 🍴1 x 😁1) - **[crass](https://github.com/vonKingsley/crass)** (2016) - libsass bindings for Crystal-Lang
- - (⭐ 9 x 🍴30) - **[curl-crystal](https://github.com/blocknotes/curl-crystal)** (2017) - Crystal C bindings for libcurl
- - (⭐ 9 x 🍴2 x 😁1) - **[gphoto2.cr](https://github.com/Sija/gphoto2.cr)** (2016) - Crystal shard wrapping libgphoto2
- - (⭐ 8 x 🍴3 x 😁3) - **[cairo-cr](https://github.com/TamasSzekeres/cairo-cr)** (2016) - Cairo bindings for Crystal language.
- - (⭐ 7 x 🍴1 x 😁11) - **[ssh2.cr](https://github.com/spider-gazelle/ssh2.cr)** (2019) - libssh2 binding for Crystal language
- - (⭐ 6 x 🍴1 x 😁2) - **[icu.cr](https://github.com/olbat/icu.cr)** (2017) - A Cystal binding/wrapper to the ICU library
- - (⭐ 5 x 🍴2 x 😁1) - **[syslog.cr](https://github.com/chris-huxtable/syslog.cr)** (2018) - Adds syslog functionality to crystal via LibC bindings.
- - (⭐ 40 x 😁1) - **[asound-cr](https://github.com/TamasSzekeres/asound-cr)** (2017) - ALSA/libasound bindings for sound programming in Crystal language.
- - (⭐ 30 x 😁1) - **[soundfile](https://github.com/mjago/soundfile)** (2017) - libsndfile bindings for the Crystal Language
- - (⭐ 1 x 🍴1 x 😁2) - **[pledge.cr](https://github.com/chris-huxtable/pledge.cr)** (2018) - Adds pledge(2) to crystal.
- - (⭐ 00 x 😁1) - **[crystal-hunspell](https://github.com/mamantoha/crystal-hunspell)** (2019) - Crystal bindings for Hunspell.
-
-#### Github > Crystal > Caching
-
-[💯 **https://metaawesome.io/github/crystal/caching** ](https://metaawesome.io/github/crystal/caching)
-
- - (⭐ 91 x 🍴8 x 😁7) - **[bojack](https://github.com/marceloboeira/bojack)** (2016) - 🐴 The unreliable key-value store
- - (⭐ 27 x 🍴8 x 😁6) - **[crystal-memcached](https://github.com/comandeo/crystal-memcached)** (2015) - Memcached client for Crystal language
- - (⭐ 26 x 🍴2 x 😁5) - **[bloom_filter](https://github.com/crystal-community/bloom_filter)** (2016) - Bloom filter implementation in Crystal lang
- - (⭐ 23 x 🍴3 x 😁2) - **[Nuummite](https://github.com/CodeSteak/Nuummite)** (2016) - Nuummite is a tiny persistent embedded key-value store for Crystal!
- - (⭐ 16 x 🍴2 x 😁2) - **[cache-hash](https://github.com/samueleaton/cache-hash)** (2017) - A simple key/value store where pairs can expire after a specified interval
-
-#### Github > Crystal > CLI Builders
-
-[💯 **https://metaawesome.io/github/crystal/cli-builders** ](https://metaawesome.io/github/crystal/cli-builders)
-
- - (⭐ 88 x 🍴13 x 😁4) - **[admiral.cr](https://github.com/jwaldrip/admiral.cr)** (2017) - A robust DSL for writing command line interfaces written in Crystal.
- - (⭐ 82 x 🍴8 x 😁4) - **[cli](https://github.com/mosop/cli)** (2016) - Yet another Crystal library for building command-line interface applications.
- - (⭐ 80 x 🍴7 x 😁4) - **[commander](https://github.com/mrrooijen/commander)** (2015) - Command-line interface builder for the Crystal programming language.
- - (⭐ 63 x 🍴9 x 😁3) - **[completion](https://github.com/f/completion)** (2015) - Easy Command Line Completion for Crystal
- - (⭐ 62 x 🍴3 x 😁2) - **[clim](https://github.com/at-grandpa/clim)** (2017) - Slim command line interface builder for Crystal.
- - (⭐ 19 x 🍴2 x 😁1) - **[clicr](https://github.com/j8r/clicr)** (2018) - A simple declarative command line interface builder
- - (⭐ 19 x 🍴1 x 😁3) - **[optarg](https://github.com/mosop/optarg)** (2016) - Yet another Crystal library for parsing command-line options and arguments.
-
-#### Github > Crystal > CLI Utils
-
-[💯 **https://metaawesome.io/github/crystal/cli-utils** ](https://metaawesome.io/github/crystal/cli-utils)
-
- - (⭐ 28 x 🍴3 x 😁1) - **[cride](https://github.com/j8r/cride)** (2018) - A light CLI text editor/IDE written in Crystal
- - (⭐ 21 x 🍴5 x 😁1) - **[terminal_table.cr](https://github.com/benoist/terminal_table.cr)** (2016) - Terminal Table is a simple ASCII table generator written in Crystal.
- - (⭐ 15 x 🍴1 x 😁1) - **[tallboy](https://github.com/epoch/tallboy)** (2019) - draw ascii character tables in the terminal with crystal lang
- - (⭐ 90 x 😁1) - **[progress_bar.cr](https://github.com/TPei/progress_bar.cr)** (2017) - A ProgressBar implementation for the Crystal programming language
-
-#### Github > Crystal > Code Analysis and Metrics
-
-[💯 **https://metaawesome.io/github/crystal/code-analysis-and-metrics** ](https://metaawesome.io/github/crystal/code-analysis-and-metrics)
-
- - (⭐ 222 x 🍴14 x 😁9) - **[ameba](https://github.com/veelenga/ameba)** (2017) - A static code analysis tool for Crystal
- - (⭐ 180 x 😁2) - **[trashman](https://github.com/Groogy/trashman)** (2017) - Garbage Collector Profiler for Crystal
-
-#### Github > Crystal > Configuration
-
-[💯 **https://metaawesome.io/github/crystal/configuration** ](https://metaawesome.io/github/crystal/configuration)
-
- - (⭐ 50 x 🍴7 x 😁6) - **[cr-dotenv](https://github.com/gdotdesign/cr-dotenv)** (2016) - Loads `.env` file.
- - (⭐ 39 x 🍴4 x 😁6) - **[habitat](https://github.com/luckyframework/habitat)** (2017) - Easily configure settings for Crystal projects
- - (⭐ 23 x 🍴3 x 😁2) - **[totem](https://github.com/icyleaf/totem)** (2018) - Crystal configuration with spirit. Load and parse configuration in JSON, YAML, dotenv formats.
- - (⭐ 4 x 🍴2 x 😁1) - **[envyable.cr](https://github.com/philnash/envyable.cr)** (2016) -  The simplest YAML to ENV config loader in Crystal
-
-#### Github > Crystal > Converters
-
-[💯 **https://metaawesome.io/github/crystal/converters** ](https://metaawesome.io/github/crystal/converters)
-
- - (⭐ 20 x 🍴1 x 😁2) - **[moola](https://github.com/dorkrawk/moola)** (2017) - Deal with money in Crystal
- - (⭐ 15 x 🍴1 x 😁2) - **[sass.cr](https://github.com/straight-shoota/sass.cr)** (2017) - Compile Sass/SCSS to CSS in Crystal (libsass binding)
- - (⭐ 140 x 😁1) - **[ms](https://github.com/SuperPaintman/ms)** (2016) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format.
- - (⭐ 10 x 🍴1 x 😁1) - **[wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal)** (2016) - Crystal C bindings and wrapper for libwkhtmltox library
- - (⭐ 7 x 🍴4 x 😁1) - **[money](https://github.com/crystal-money/money)** (2017) - Crystal shard for dealing with money and currency conversion
- - (⭐ 7 x 🍴1 x 😁1) - **[turkish-number](https://github.com/izniburak/turkish-number)** (2017) - turn integers into the Turkish words for Crystal Language
- - (⭐ 2 x 🍴1 x 😁1) - **[base62.cr](https://github.com/Sija/base62.cr)** (2018) - Base62 encoder/decoder for Crystal
- - (⭐ 2 x 🍴1 x 😁1) - **[time_format.cr](https://github.com/vladfaust/time_format.cr)** (2017) - Time spans formatting made simple ⌚️
-
-#### Github > Crystal > Data Formats
-
-[💯 **https://metaawesome.io/github/crystal/data-formats** ](https://metaawesome.io/github/crystal/data-formats)
-
- - (⭐ 37 x 🍴9 x 😁8) - **[toml.cr](https://github.com/crystal-community/toml.cr)** (2015) - TOML parser for Crystal
- - (⭐ 17 x 🍴4 x 😁3) - **[crinder](https://github.com/c910335/crinder)** (2018) - Class based json renderer in Crystal
- - (⭐ 17 x 🍴2 x 😁1) - **[maxminddb.cr](https://github.com/delef/maxminddb.cr)** (2018) - MaxMind DB Reader for Crystal
- - (⭐ 1600) - **[bindata](https://github.com/spider-gazelle/bindata)** (2019) - BinData - Parsing Binary Data in Crystal Lang
- - (⭐ 12 x 🍴1 x 😁2) - **[json-tools](https://github.com/impatienttraveller/json-tools)** (2019) - An implementation of RFC-6901 and RFC-6902 in Crystal Lang
- - (⭐ 4 x 🍴1 x 😁1) - **[geoip2.cr](https://github.com/delef/geoip2.cr)** (2019) - MaxMind GeoIP2 Reader for Crystal
- - (⭐ 2 x 🍴2 x 😁1) - **[config.cr](https://github.com/chris-huxtable/config.cr)** (2018) - Easy to use configuration and parser.
- - (⭐ 2 x 🍴1 x 😁1) - **[zq](https://github.com/colstrom/zq)** (2016) - Command-line ZPL processor
- - (⭐ 00 x 😁1) - **[front_matter.cr](https://github.com/chris-huxtable/front_matter.cr)** (2018) - Separates a files front matter from its content
-
-#### Github > Crystal > Data Generators
-
-[💯 **https://metaawesome.io/github/crystal/data-generators** ](https://metaawesome.io/github/crystal/data-generators)
-
- - (⭐ 110 x 🍴9 x 😁6) - **[faker](https://github.com/askn/faker)** (2016) - Faker is a Crystal library that generates fake data for you
- - (⭐ 32 x 🍴6 x 😁2) - **[hashids.cr](https://github.com/splattael/hashids.cr)** (2016) - A Crystal shard to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
-
-#### Github > Crystal > Database Drivers/Clients
-
-[💯 **https://metaawesome.io/github/crystal/database-drivers/clients** ](https://metaawesome.io/github/crystal/database-drivers/clients)
-
- - (⭐ 316 x 🍴52 x 😁22) - **[crystal-pg](https://github.com/will/crystal-pg)** (2015) - a postgres driver for crystal
- - (⭐ 289 x 🍴33 x 😁14) - **[crystal-redis](https://github.com/stefanwille/crystal-redis)** (2015) - Full featured Redis client for Crystal
- - (⭐ 157 x 🍴33 x 😁19) - **[crystal-db](https://github.com/crystal-lang/crystal-db)** (2016) - Common db api for crystal
- - (⭐ 72 x 🍴23 x 😁8) - **[crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3)** (2015) - SQLite3 bindings for Crystal
- - (⭐ 67 x 🍴28 x 😁12) - **[crystal-mysql](https://github.com/crystal-lang/crystal-mysql)** (2014) - MySQL connector for Crystal
- - (⭐ 29 x 🍴4 x 😁6) - **[leveldb](https://github.com/crystal-community/leveldb)** (2016) - Crystal binding for LevelDB
- - (⭐ 25 x 🍴7 x 😁2) - **[rocksdb.cr](https://github.com/maiha/rocksdb.cr)** (2016) - RocksDB client for Crystal
- - (⭐ 13 x 🍴2 x 😁2) - **[tarantool-crystal](https://github.com/vladfaust/tarantool-crystal)** (2018) - The Tarantool driver (a.k.a. connector) 🕷
- - (⭐ 8 x 🍴6 x 😁4) - **[couchdb.cr](https://github.com/TechMagister/couchdb.cr)** (2016) - CouchDB client library written in crystal
- - (⭐ 7 x 🍴4 x 😁2) - **[crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb)** (2018) - driver for rethinkdb / rebirthdb
- - (⭐ 7 x 🍴1 x 😁1) - **[eventql-crystal](https://github.com/measurechina/eventql-crystal)** (2017) - EventQL crystal driver
- - (⭐ 6 x 🍴1 x 😁11) - **[mongo.cr](https://github.com/ambercommunity/mongo.cr)** (2019) - Crystal binding for MongoDB C Driver (Amber Community version)
- - (⭐ 10 x 😁1) - **[crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi)** (2016) - Crystal bindings for MonetDB
-
-#### Github > Crystal > Database Tools
-
-[💯 **https://metaawesome.io/github/crystal/database-tools** ](https://metaawesome.io/github/crystal/database-tools)
-
- - (⭐ 102 x 🍴15 x 😁6) - **[micrate](https://github.com/juanedi/micrate)** (2016) - Database migration tool written in Crystal
- - (⭐ 20 x 🍴5 x 😁3) - **[migrate.cr](https://github.com/vladfaust/migrate.cr)** (2017) - A database migration solution 🚜
- - (⭐ 7 x 🍴1 x 😁2) - **[migro](https://github.com/aisrael/migro)** (2018) - A database migration tool written in Crystal
-
-#### Github > Crystal > Development Tools
-
-[💯 **https://metaawesome.io/github/crystal/development-tools** ](https://metaawesome.io/github/crystal/development-tools)
-
- - (⭐ 239 x 🍴20 x 😁11) - **[guardian](https://github.com/f/guardian)** (2016) - Guardian watches over your files and run assigned tasks.
- - (⭐ 197 x 🍴18 x 😁6) - **[sentry](https://github.com/samueleaton/sentry)** (2016) - Build/Runs your crystal application, watches files, and rebuilds/restarts app on file changes
- - (⭐ 18 x 🍴2 x 😁2) - **[watcher](https://github.com/faustinoaq/watcher)** (2017) - Crystal shard to watch file changes using File.stat
- - (⭐ 14 x 🍴1 x 😁1) - **[kemal-watcher](https://github.com/faustinoaq/kemal-watcher)** (2017) - Kemal plugin to watch files and live-reload the browser
- - (⭐ 10 x 🍴1 x 😁1) - **[docker-crystal](https://github.com/aca-labs/docker-crystal)** (2019) - Docker wrapper for the Crystal CLI
- - (⭐ 10 x 🍴4 x 😁2) - **[sentry-run](https://github.com/faustinoaq/sentry-run)** (2017) - Use Sentry shard for reload your app
- - (⭐ 90 x 😁1) - **[warden](https://github.com/diggersheep/warden)** (2017) - Warden check periodically your files, run a specific command, and run a git command if you want and the command succeed.
-
-#### Github > Crystal > Email
-
-[💯 **https://metaawesome.io/github/crystal/email** ](https://metaawesome.io/github/crystal/email)
-
- - (⭐ 72 x 🍴5 x 😁5) - **[crystal-email](https://github.com/arcage/crystal-email)** (2016) - Simple e-mail sending library
- - (⭐ 39 x 🍴10 x 😁6) - **[carbon](https://github.com/luckyframework/carbon)** (2018) - Email library for Crystal. Testable, adapter-based, and catches bugs for you. Comes with an adapter for SendGrid.
- - (⭐ 180 x 😁1) - **[devmail](https://github.com/tijn/devmail)** (2016) - An SMTP/POP3-server that keeps every email you send it until you fetch it
- - (⭐ 5 x 🍴1 x 😁1) - **[sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr)** (2016) - Simple lib to send mail using Sendgrid in Crystal-Lang
-
-#### Github > Crystal > Environment Management
-
-[💯 **https://metaawesome.io/github/crystal/environment-management** ](https://metaawesome.io/github/crystal/environment-management)
-
- - (⭐ 194 x 🍴10 x 😁9) - **[crenv](https://github.com/pine/crenv)** (2015) - :gem: Crystal version manager like rbenv.
- - (⭐ 39 x 🍴4 x 😁2) - **[rcm.cr](https://github.com/maiha/rcm.cr)** (2016) - Redis Cluster Manager in Crystal
- - (⭐ 17 x 🍴3 x 😁4) - **[asdf-crystal](https://github.com/marciogm/asdf-crystal)** (2017) - Crystal plugin for asdf version manager
-
-#### Github > Crystal > Examples and funny stuff
-
-[💯 **https://metaawesome.io/github/crystal/examples-and-funny-stuff** ](https://metaawesome.io/github/crystal/examples-and-funny-stuff)
-
- - (⭐ 418 x 🍴38 x 😁10) - **[crystal-by-example](https://github.com/askn/crystal-by-example)** (2015) - Crystal By Example
- - (⭐ 175 x 🍴7 x 😁4) - **[crystal-patterns](https://github.com/crystal-community/crystal-patterns)** (2015) - :book: Examples of GOF patterns written in Crystal
- - (⭐ 140 x 🍴10 x 😁2) - **[card_game](https://github.com/jasonl99/card_game)** (2017) - An demo app for lattice-core
- - (⭐ 135 x 🍴7 x 😁3) - **[crystalized_ruby](https://github.com/phoffer/crystalized_ruby)** (2016) - Write native Ruby extensions in Crystal
- - (⭐ 97 x 🍴8 x 😁2) - **[rocky](https://github.com/codingphasedotcom/rocky)** (2017) - React Over Crystal Kemal and Yarn
- - (⭐ 77 x 🍴8 x 😁4) - **[crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game)** (2015) - Crystal implementations for The Computer Language Benchmarks Game
- - (⭐ 59 x 🍴5 x 😁4) - **[kemal-react-chat](https://github.com/f/kemal-react-chat)** (2016) - This demonstrates how easy it is to build Realtime Web applications with Kemal.
- - (⭐ 54 x 🍴28 x 😁26) - **[crystal](https://github.com/exercism/crystal)** (2016) - Exercism exercises in Crystal.
- - (⭐ 53 x 🍴9 x 😁1) - **[kemal-chat](https://github.com/sdogruyol/kemal-chat)** (2015) - Sample application to demonstrate how easy it is to build realtime applications with Kemal using WebSocket.
- - (⭐ 48 x 🍴4 x 😁1) - **[os-crystal](https://github.com/lbguilherme/os-crystal)** (2016) - x86 Kernel implemented in Crystal
- - (⭐ 46 x 🍴5 x 😁3) - **[crsfml-examples](https://github.com/oprypin/crsfml-examples)** (2015) - Simple games made with CrSFML
- - (⭐ 31 x 🍴10) - **[kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat)** (2018) - this is experimental repo for Kemal and Vue.js (+ WebSocket)
- - (⭐ 29 x 🍴3 x 😁2) - **[crystalworld](https://github.com/vladfaust/crystalworld)** (2018) - RealWorld back-end API implementation 👍
- - (⭐ 22 x 🍴3 x 😁3) - **[try.cr](https://github.com/maiha/try.cr)** (2016) - Try monad for crystal
- - (⭐ 18 x 🍴4 x 😁1) - **[realtime-todo-app](https://github.com/Angarsk8/realtime-todo-app)** (2016) - Realtime Todo application developed with Kemal, React, ES2015 and PostgreSQL
- - (⭐ 17 x 🍴10) - **[Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze)** (2017) - A* Path finding for PNG mazes, from Ruby now in Crystal. Using StumpyPNG
- - (⭐ 13 x 🍴3 x 😁1) - **[medley](https://github.com/jwoertink/medley)** (2016) - A crystal shard for doing music related stuff
- - (⭐ 9 x 🍴5 x 😁1) - **[breakout.cr](https://github.com/petoem/breakout.cr)** (2017) - Breakout Game in Crystal
- - (⭐ 700) - **[kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog)** (2017) - Crystal, Kemal, MySQL, Blog
- - (⭐ 5 x 🍴1 x 😁1) - **[battlesnake_crystal](https://github.com/nbw/battlesnake_crystal)** (2018) - A bounty battlesnake written in Crystal. 
- - (⭐ 5 x 🍴10) - **[chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes)** (2017) - An Chuck Norris Holy Quotes written in Crystal
- - (⭐ 4 x 🍴1 x 😁1) - **[kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example)** (2017) - Kemal is super simple web framework powered Crystal lang. These repo show's how to use with heroku.
- - (⭐ 3 x 🍴10) - **[jihantoro.sd](https://github.com/codenoid/jihantoro.sd)** (2017) - My personal blog
- - (⭐ 2 x 🍴1 x 😁1) - **[blackjack-cr](https://github.com/gdonald/blackjack-cr)** (2019) - Blackjack written in Crystal
- - (⭐ 10 x 😁1) - **[clamp](https://github.com/johnjansen/clamp)** (2017) - Clamp for Comparable in Crystal-Lang
- - (⭐ 1 x 🍴10) - **[crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example)** (2017) - Crystal MySQL CRUD Example
- - (⭐ 000) - **[jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql)** (2017) - An repo for jihantoro.net article
-
-#### Github > Crystal > Feature Flipping
-
-[💯 **https://metaawesome.io/github/crystal/feature-flipping** ](https://metaawesome.io/github/crystal/feature-flipping)
-
- - (⭐ 17 x 🍴3 x 😁3) - **[flipper](https://github.com/metaware/flipper)** (2017) - Feature Flipper, Feature Flags, Rollout Flags, Feature Toggles for Crystal
- - (⭐ 40 x 😁1) - **[can_use](https://github.com/rodrigopinto/can_use)** (2019) - 🤔Can I use? CanUse is a minimalist feature toggle/flag for crystal, based on yaml file.
-
-#### Github > Crystal > Framework Components
-
-[💯 **https://metaawesome.io/github/crystal/framework-components** ](https://metaawesome.io/github/crystal/framework-components)
-
- - (⭐ 158 x 🍴15 x 😁6) - **[graphql-crystal](https://github.com/ziprandom/graphql-crystal)** (2017) - a graphql implementation for crystal
- - (⭐ 63 x 🍴15 x 😁4) - **[multi_auth](https://github.com/msa7/multi_auth)** (2017) - Standardized multi-provider OAuth authentication
- - (⭐ 43 x 🍴2 x 😁1) - **[praetorian](https://github.com/ilanusse/praetorian)** (2018) - A minimalist Crystal authorization system inspired by https://github.com/varvet/pundit.
- - (⭐ 39 x 🍴13 x 😁5) - **[spec-kemal](https://github.com/kemalcr/spec-kemal)** (2016) - Easy testing for Kemal
- - (⭐ 38 x 🍴1 x 😁2) - **[exception_page](https://github.com/crystal-loot/exception_page)** (2018) - An exceptional exception page for Crystal web libraries and frameworks
- - (⭐ 36 x 🍴17 x 😁14) - **[kemal-session](https://github.com/kemalcr/kemal-session)** (2016) - Simple session handler for Kemal
- - (⭐ 36 x 🍴8 x 😁5) - **[tourmaline](https://github.com/watzon/tourmaline)** (2018) - Telegram Bot (and hopefully soon API) framework for Crystal
- - (⭐ 29 x 🍴4 x 😁3) - **[kave](https://github.com/jwoertink/kave)** (2016) - Kemal API Version Extension
- - (⭐ 230 x 😁1) - **[crystal-di](https://github.com/funk-yourself/crystal-di)** (2017) - Lightweight DI Container for Crystal
- - (⭐ 21 x 🍴3 x 😁1) - **[kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token)** (2016) - Kemal middleware to authentication via HTTP header token using JWT
- - (⭐ 19 x 🍴10 x 😁6) - **[crystal-mime](https://github.com/spalger/crystal-mime)** (2015) - Mimetypes for Crystal, based on node-mime.
- - (⭐ 110 x 😁1) - **[cr-melon](https://github.com/gdotdesign/cr-melon)** (2016) - Class based Http APIs in crystal
- - (⭐ 10 x 🍴4 x 😁3) - **[device_detector](https://github.com/creadone/device_detector)** (2018) - Crystal shard for device detection by User-Agent string
- - (⭐ 90 x 😁1) - **[mime-types.cr](https://github.com/jwaldrip/mime-types.cr)** (2017) - MIME Types for Crystal :: A port of the Ruby MIME::Types library
- - (⭐ 80 x 😁1) - **[response-time](https://github.com/SuperPaintman/response-time)** (2016) - Response time for Crystal servers.
- - (⭐ 5 x 🍴3 x 😁2) - **[request-id](https://github.com/SuperPaintman/request-id)** (2017) - Middleware for generates / pick up a unique request ID for Crystal servers.
- - (⭐ 0 x 🍴1 x 😁1) - **[kemal-monetdb](https://github.com/puppetpies/kemal-monetdb)** (2016) - MonetDB Data connection for Kemal
-
-#### Github > Crystal > Game Development
-
-[💯 **https://metaawesome.io/github/crystal/game-development** ](https://metaawesome.io/github/crystal/game-development)
-
- - (⭐ 222 x 🍴12 x 😁4) - **[crsfml](https://github.com/oprypin/crsfml)** (2015) - Crystal bindings to SFML multimedia/game library
- - (⭐ 57 x 🍴4 x 😁2) - **[glove](https://github.com/ddfreyne/glove)** (2016) - Crystal framework for making games
- - (⭐ 26 x 🍴1 x 😁2) - **[crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk)** (2016) - Crystal bindings to Chipmunk, a fast and lightweight 2D game physics library
- - (⭐ 15 x 🍴10) - **[mos_game](https://github.com/bararchy/mos_game)** (2015) - Mini Offline Singleplayer game in Crystal
- - (⭐ 140 x 😁1) - **[inari](https://github.com/ddfreyne/inari)** (2015) - A collection of games written in Crystal
-
-#### Github > Crystal > GUI library
-
-[💯 **https://metaawesome.io/github/crystal/gui-library** ](https://metaawesome.io/github/crystal/gui-library)
-
- - (⭐ 134 x 🍴12 x 😁5) - **[libui.cr](https://github.com/Fusion/libui.cr)** (2016) - Crystal-lang bindings for libui
- - (⭐ 133 x 🍴14 x 😁4) - **[qt5.cr](https://github.com/Papierkorb/qt5.cr)** (2017) - Qt5 bindings for Crystal, based on Bindgen
- - (⭐ 76 x 🍴5 x 😁5) - **[hedron](https://github.com/Qwerp-Derp/hedron)** (2018) - An extendable UI library in Crystal, with markup capabilities.
-
-#### Github > Crystal > HTML Builders
-
-[💯 **https://metaawesome.io/github/crystal/html-builders** ](https://metaawesome.io/github/crystal/html-builders)
-
- - (⭐ 36 x 🍴8 x 😁10) - **[html_builder](https://github.com/crystal-lang/html_builder)** (2015) - DSL for creating HTML
- - (⭐ 130 x 😁1) - **[form_builder.cr](https://github.com/westonganger/form_builder.cr)** (2019) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
-
-#### Github > Crystal > HTML/XML Parsing
-
-[💯 **https://metaawesome.io/github/crystal/html/xml-parsing** ](https://metaawesome.io/github/crystal/html/xml-parsing)
-
- - (⭐ 107 x 🍴6 x 😁3) - **[Crystagiri](https://github.com/madeindjs/Crystagiri)** (2016) - An Html parser library for Crystal (like Nokogiri for Ruby)
- - (⭐ 94 x 🍴8 x 😁5) - **[myhtml](https://github.com/kostya/myhtml)** (2016) - Fast HTML5 Parser, Css selectors
- - (⭐ 6 x 🍴1 x 😁1) - **[hq.cr](https://github.com/maiha/hq.cr)** (2016) - a simple wrapper for crystal-xml
- - (⭐ 1 x 🍴10) - **[gumbo-crystal](https://github.com/blocknotes/gumbo-crystal)** (2017) - Crystal C bindings for Gumbo library
-
-#### Github > Crystal > HTTP
-
-[💯 **https://metaawesome.io/github/crystal/http** ](https://metaawesome.io/github/crystal/http)
-
- - (⭐ 115 x 🍴8 x 😁8) - **[halite](https://github.com/icyleaf/halite)** (2017) - 💎HTTP Requests Client with a chainable REST API, built-in sessions and middlewares.
- - (⭐ 111 x 🍴14 x 😁2) - **[cryload](https://github.com/sdogruyol/cryload)** (2015) - HTTP benchmarking tool written in Crystal
- - (⭐ 104 x 🍴6 x 😁6) - **[crest](https://github.com/mamantoha/crest)** (2017) - Simple HTTP and REST client for Crystal, inspired by the Ruby's RestClient gem
- - (⭐ 103 x 🍴10 x 😁6) - **[crul](https://github.com/porras/crul)** (2015) - Command line HTTP client written in Crystal
- - (⭐ 89 x 🍴6 x 😁5) - **[cossack](https://github.com/crystal-community/cossack)** (2016) - Simple and flexible HTTP client for Crystal with middleware and test support.
- - (⭐ 71 x 🍴7 x 😁3) - **[http2](https://github.com/ysbaddaden/http2)** (2016) - HTTP/2 Protocol Implementation for the Crystal Language
- - (⭐ 43 x 🍴2 x 😁3) - **[http-protection](https://github.com/rogeriozambon/http-protection)** (2017) - This library protects against typical web attacks. It was inspired in rack-protection Ruby gem.
- - (⭐ 19 x 🍴4 x 😁3) - **[crystal-helmet](https://github.com/EvanHahn/crystal-helmet)** (2016) - a port of the Node Helmet module to the Crystal programming language
- - (⭐ 16 x 🍴1 x 😁1) - **[http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr)** (2017) - Mount multiple web applications 🚦
- - (⭐ 14 x 🍴1 x 😁1) - **[http-params-serializable](https://github.com/vladfaust/http-params-serializable)** (2018) - The HTTP params parsing module for Crystal 🤓
- - (⭐ 14 x 🍴1 x 😁1) - **[params.cr](https://github.com/vladfaust/params.cr)** (2018) - The HTTP params parsing module for Crystal 🤓
- - (⭐ 13 x 🍴1 x 😁2) - **[ngrok.cr](https://github.com/watzon/ngrok.cr)** (2018) - Ngrok wrapper for Crystal
- - (⭐ 8 x 🍴3 x 😁2) - **[resp-crystal](https://github.com/soveran/resp-crystal)** (2016) - Lightweight RESP client
- - (⭐ 0 x 🍴1 x 😁1) - **[keyer_cr](https://github.com/danielpclark/keyer_cr)** (2017) - HTTP Request Parameter Parsing
-
-#### Github > Crystal > Image processing
-
-[💯 **https://metaawesome.io/github/crystal/image-processing** ](https://metaawesome.io/github/crystal/image-processing)
-
- - (⭐ 69 x 🍴12 x 😁7) - **[stumpy_png](https://github.com/stumpycr/stumpy_png)** (2016) - Read/Write PNG images in pure Crystal
- - (⭐ 45 x 🍴3 x 😁1) - **[magickwand-crystal](https://github.com/blocknotes/magickwand-crystal)** (2017) - Crystal C bindings for MagickWand library
- - (⭐ 8 x 🍴2 x 😁2) - **[stumpy_gif](https://github.com/stumpycr/stumpy_gif)** (2016) - Write GIF images in pure Crystal
-
-#### Github > Crystal > Implementations/Compilers
-
-[💯 **https://metaawesome.io/github/crystal/implementations/compilers** ](https://metaawesome.io/github/crystal/implementations/compilers)
-
- - (⭐ 1,261 x 🍴40 x 😁18) - **[mint](https://github.com/mint-lang/mint)** (2018) - :leaves: A refreshing programming language for the front-end web.
- - (⭐ 63 x 🍴7 x 😁2) - **[NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS)** (2016) - An OS kernel written in Crystal.
- - (⭐ 57 x 🍴7 x 😁2) - **[cltk](https://github.com/ziprandom/cltk)** (2016) - A crystal port of the Ruby Language Toolkit
- - (⭐ 48 x 🍴2 x 😁1) - **[crow](https://github.com/geppetto-apps/crow)** (2016) - Transpile/compile Crystal to Flow
- - (⭐ 34 x 🍴1 x 😁1) - **[CIBYL](https://github.com/senselogic/CIBYL)** (2018) - Lightweight curly-bracket language which compiles to Ruby and Crystal.
- - (⭐ 28 x 🍴1 x 😁1) - **[cppize](https://github.com/unn4m3d/cppize)** (2016) - Crystal-to-C++ transpiler [WIP]
- - (⭐ 23 x 🍴4 x 😁3) - **[Crisp](https://github.com/rhysd/Crisp)** (2015) - Lisp dialect implemented with Crystal
- - https://github.com/charly-langfalse
- - https://github.com/LinCAS-langfalse
- - https://github.com/myst-lang/false
- - https://github.com/runic-langfalse
-
-#### Github > Crystal > Logging and monitoring
-
-[💯 **https://metaawesome.io/github/crystal/logging-and-monitoring** ](https://metaawesome.io/github/crystal/logging-and-monitoring)
-
- - (⭐ 21 x 🍴3 x 😁2) - **[katip](https://github.com/guvencenanguvenal/katip)** (2017) - Katip is JSONBase Logger for Crystal
- - (⭐ 21 x 🍴4 x 😁1) - **[statsd.cr](https://github.com/miketheman/statsd.cr)** (2015) - A statsd client library for Crystal.
- - (⭐ 15 x 🍴1 x 😁1) - **[crystal-sensor](https://github.com/instana/crystal-sensor)** (2017) - 🔮 Crystal Distributed Tracing & Metrics Sensor for Instana 
- - (⭐ 12 x 🍴3 x 😁2) - **[syslog.cr](https://github.com/comandeo/syslog.cr)** (2015) - Syslog client implementation for Crystal
- - (⭐ 4 x 🍴1 x 😁1) - **[fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal)** (2017) - A Fluentd client for Crystal.
- - (⭐ 10 x 😁1) - **[crystal-logreader](https://github.com/arcage/crystal-logreader)** (2016) - Reading lines in the text file which is growing and may be rotated, such as unix system log file.
-
-#### Github > Crystal > Machine Learning
-
-[💯 **https://metaawesome.io/github/crystal/machine-learning** ](https://metaawesome.io/github/crystal/machine-learning)
-
- - (⭐ 112 x 🍴11 x 😁3) - **[cadmium](https://github.com/watzon/cadmium)** (2018) - Natural Language Processing (NLP) library for Crystal
- - (⭐ 99 x 🍴15 x 😁5) - **[shainet](https://github.com/NeuraLegion/shainet)** (2017) - SHAInet - a pure Crystal machine learning library
- - (⭐ 74 x 🍴5 x 😁3) - **[crystal-fann](https://github.com/NeuraLegion/crystal-fann)** (2017) - FANN (Fast Artifical Neural Network) binding in Crystal
- - (⭐ 36 x 🍴4 x 😁1) - **[tensorflow.cr](https://github.com/fazibear/tensorflow.cr)** (2017) - Crystal binding for TensorFlow.
- - (⭐ 33 x 🍴5 x 😁1) - **[crystal-learn](https://github.com/pbrusco/crystal-learn)** (2016) - Machine Learning in Crystal 
- - (⭐ 14 x 🍴3 x 😁1) - **[ai4cr](https://github.com/drhuffman12/ai4cr)** (2017) - Artificial Intelligence for Crystal (based on https://github.com/SergioFierens/ai4r)
-
-#### Github > Crystal > Markdown/Text Processors
-
-[💯 **https://metaawesome.io/github/crystal/markdown/text-processors** ](https://metaawesome.io/github/crystal/markdown/text-processors)
-
- - (⭐ 29 x 🍴8 x 😁6) - **[markd](https://github.com/icyleaf/markd)** (2017) - Yet another markdown parser, Compliant to CommonMark specification, written in Crystal.
- - (⭐ 7 x 🍴1 x 😁2) - **[html-pipeline](https://github.com/huacnlee/html-pipeline)** (2017) - HTML processing filters and utilities for Crystal.
-
-#### Github > Crystal > Misc
-
-[💯 **https://metaawesome.io/github/crystal/misc** ](https://metaawesome.io/github/crystal/misc)
-
- - (⭐ 196 x 🍴8 x 😁5) - **[hoop](https://github.com/0x73/hoop)** (2015) - Building native OSX apps.
- - (⭐ 153 x 🍴8 x 😁3) - **[immutable](https://github.com/lucaong/immutable)** (2016) - Thread-safe, persistent, immutable collections for the Crystal language
- - (⭐ 88 x 🍴5 x 😁4) - **[tren](https://github.com/sdogruyol/tren)** (2016) - Give your SQL some love
- - (⭐ 57 x 🍴5 x 😁1) - **[crz](https://github.com/dhruvrajvanshi/crz)** (2017) - Functional programming library for https://github.com/crystal-lang/crystal
- - (⭐ 360 x 😁1) - **[raytracer](https://github.com/l3kn/raytracer)** (2016) - CPU Raytracer written in the crystal language
- - (⭐ 32 x 🍴4 x 😁2) - **[aasm.cr](https://github.com/veelenga/aasm.cr)** (2016) - :arrows_clockwise: Easy to use finite state machine for Crystal classes
- - (⭐ 30 x 🍴1 x 😁1) - **[inflector.cr](https://github.com/phoffer/inflector.cr)** (2016) - Inflector shard for Crystal. A port of ActiveSupport::Inflector
- - (⭐ 27 x 🍴1 x 😁3) - **[emoji.cr](https://github.com/veelenga/emoji.cr)** (2015) -  :green_heart: Emoji for Crystal
- - (⭐ 22 x 🍴1 x 😁1) - **[lirith](https://github.com/lirith-engine/lirith)** (2017) - Graphics engine written in Crystal.
- - (⭐ 19 x 🍴4 x 😁2) - **[burocracia.cr](https://github.com/vnbrs/burocracia.cr)** (2018) - No dependency Crystal shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
- - (⭐ 180 x 😁1) - **[any_hash.cr](https://github.com/Sija/any_hash.cr)** (2017) - Better JSON::Any for Crystal
- - (⭐ 18 x 🍴1 x 😁1) - **[circuit_breaker](https://github.com/TPei/circuit_breaker)** (2016) - Implementation of the circuit breaker pattern in crystal
- - (⭐ 17 x 🍴3 x 😁2) - **[ulid](https://github.com/SuperPaintman/ulid)** (2016) - Universally Unique Lexicographically Sortable Identifier (ULID) in Crystal
- - (⭐ 15 x 🍴1 x 😁1) - **[i18n.cr](https://github.com/vladfaust/i18n.cr)** (2017) - Internationalization shard 🌍
- - (⭐ 14 x 🍴3 x 😁1) - **[crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser)** (2016) - Binary parser for Crystal
- - (⭐ 13 x 🍴1 x 😁1) - **[message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr)** (2018) - Rails compatible MessageVerifier for Crystal-lang apps
- - (⭐ 10 x 🍴2 x 😁1) - **[retriable.cr](https://github.com/Sija/retriable.cr)** (2018) - Retriable.cr is a simple DSL to retry failed code blocks
- - (⭐ 7 x 🍴1 x 😁1) - **[atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr)** (2018) - Extends `File` to provide `atomic_write()`.
- - (⭐ 7 x 🍴1 x 😁1) - **[callbacks.cr](https://github.com/vladfaust/callbacks.cr)** (2018) - Expressive callbacks module for Crystal 🚉
- - (⭐ 50 x 😁1) - **[pinger](https://github.com/spider-gazelle/pinger)** (2019) - Microlibrary to perform ping requests with Crystal Lang
- - (⭐ 4 x 🍴2 x 😁2) - **[m3u8](https://github.com/akiicat/m3u8)** (2018) - Generate and parse m3u8 playlists for HTTP Live Streaming (HLS) in Crystal.
- - (⭐ 30 x 😁1) - **[compiled_license](https://github.com/elorest/compiled_license)** (2018) - Compiles all Licenses from project into binary for MIT compliance
- - (⭐ 30 x 😁1) - **[crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars)** (2019) - ⭐️ Web frameworks for Crystal, most starred on Github
- - (⭐ 20 x 😁1) - **[crystal_port_midi](https://github.com/jimm/crystal_port_midi)** (2019) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
- - (⭐ 10 x 😁1) - **[pangu.cr](https://github.com/isaced/pangu.cr)** (2019) - Paranoid text spacing in Crystal
- - (⭐ 000) - **[manual-generator](https://github.com/blocknotes/manual-generator)** (2017) - Crystal program to generate PDF manuals from HTML documentation sites
-
-#### Github > Crystal > Network Protocols
-
-[💯 **https://metaawesome.io/github/crystal/network-protocols** ](https://metaawesome.io/github/crystal/network-protocols)
-
- - (⭐ 121 x 🍴15 x 😁8) - **[jwt](https://github.com/crystal-community/jwt)** (2016) - JWT implementation in Crystal
- - (⭐ 99 x 🍴14 x 😁11) - **[msgpack-crystal](https://github.com/crystal-community/msgpack-crystal)** (2015) - MessagePack implementation in Crystal msgpack.org[Crystal]
- - (⭐ 21 x 🍴4 x 😁2) - **[bson.cr](https://github.com/jeromegn/bson.cr)** (2015) - BSON implementation written in Crystal
- - (⭐ 16 x 🍴3 x 😁3) - **[Crirc](https://github.com/Meoowww/Crirc)** (2016) - A crystal lib for irc client
- - (⭐ 12 x 🍴2 x 😁1) - **[socks](https://github.com/wontruefree/socks)** (2018) - SOCKS client and server for Crystal
- - (⭐ 11 x 🍴3 x 😁3) - **[fast_irc.cr](https://github.com/RX14/fast_irc.cr)** (2015) - A fast IRC parsing library for crystal.
- - (⭐ 7 x 🍴3 x 😁1) - **[crystal-json-socket](https://github.com/foi/crystal-json-socket)** (2018) -  JSON-socket client & server implementation. Inspired by and compatible with sebastianseilund/node-json-socket
- - (⭐ 3 x 🍴1 x 😁1) - **[gopher.cr](https://github.com/anicholson/gopher.cr)** (2018) - A fast, extensible, Gopher-protocol server written in Crystal
- - (⭐ 2 x 🍴1 x 😁2) - **[crystal-snmp](https://github.com/spider-gazelle/crystal-snmp)** (2019) - SNMP implementation for crystal lang
-
-#### Github > Crystal > Networking
-
-[💯 **https://metaawesome.io/github/crystal/networking** ](https://metaawesome.io/github/crystal/networking)
-
- - (⭐ 23 x 🍴2 x 😁2) - **[ipaddress.cr](https://github.com/Sija/ipaddress.cr)** (2017) - A Crystal library to handle IPv4 and IPv6 addresses in a modern and productive way.
-
-#### Github > Crystal > ORM/ODM Extensions
-
-[💯 **https://metaawesome.io/github/crystal/orm/odm-extensions** ](https://metaawesome.io/github/crystal/orm/odm-extensions)
-
- - (⭐ 218 x 🍴33 x 😁17) - **[jennifer.cr](https://github.com/imdrasil/jennifer.cr)** (2017) - Crystal ORM using ActiveRecord pattern with flexible query DSL
- - (⭐ 178 x 🍴59 x 😁33) - **[granite](https://github.com/amberframework/granite)** (2015) - ORM Model with Adapters for mysql, pg, sqlite in the Crystal Language.
- - (⭐ 114 x 🍴18 x 😁12) - **[clear](https://github.com/anykeyh/clear)** (2017) - Advanced ORM between postgreSQL and Crystal
- - (⭐ 80 x 🍴5 x 😁1) - **[sql](https://github.com/onyxframework/sql)** (2017) - A delightful SQL ORM ☺️
- - (⭐ 56 x 🍴8 x 😁3) - **[ohm-crystal](https://github.com/soveran/ohm-crystal)** (2016) - Ohm for Crystal
- - (⭐ 56 x 🍴6 x 😁3) - **[topaz](https://github.com/topaz-crystal/topaz)** (2016) - A simple and useful db wrapper for Crystal-lang
- - (⭐ 51 x 🍴27 x 😁14) - **[record](https://github.com/luckyframework/record)** (2017) - Renamed to Avram ->> https://github.com/luckyframework/avram
- - (⭐ 4 x 🍴1 x 😁1) - **[redis-tsv.cr](https://github.com/maiha/redis-tsv.cr)** (2016) - import and export data from Redis in TSV format
- - (⭐ 4 x 🍴2 x 😁1) - **[stal-crystal](https://github.com/soveran/stal-crystal)** (2016) - Set algebra solver for Redis
- - (⭐ 30 x 😁1) - **[rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm)** (2019) - RethinkDB ORM for Crystal lang
-
-#### Github > Crystal > Package Management
-
-[💯 **https://metaawesome.io/github/crystal/package-management** ](https://metaawesome.io/github/crystal/package-management)
-
- - (⭐ 549 x 🍴60 x 😁25) - **[shards](https://github.com/crystal-lang/shards)** (2015) - Dependency manager for the Crystal language
- - (⭐ 14 x 🍴2 x 😁1) - **[crelease](https://github.com/elorest/crelease)** (2017) - Application to simpify versioning and releasing crystal projects.
-
-#### Github > Crystal > Processes and Threads
-
-[💯 **https://metaawesome.io/github/crystal/processes-and-threads** ](https://metaawesome.io/github/crystal/processes-and-threads)
-
- - (⭐ 149 x 🍴3 x 😁3) - **[neph](https://github.com/tbrand/neph)** (2017) -  A modern command line job processor, similar with make command
- - (⭐ 50 x 🍴3 x 😁3) - **[crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures)** (2015) - Future type implementation for Crystal language
- - (⭐ 43 x 🍴3 x 😁2) - **[await_async](https://github.com/anykeyh/await_async)** (2018) - Provide await and async methods to Crystal Lang
- - (⭐ 15 x 🍴2 x 😁1) - **[promise](https://github.com/spider-gazelle/promise)** (2018) - Type aware promises for crystal lang
-
-#### Github > Crystal > Project Generators
-
-[💯 **https://metaawesome.io/github/crystal/project-generators** ](https://metaawesome.io/github/crystal/project-generators)
-
- - (⭐ 106 x 🍴20 x 😁13) - **[crystal_lib](https://github.com/crystal-lang/crystal_lib)** (2014) - Automatic binding generator for native libraries in Crystal
- - (⭐ 35 x 🍴7 x 😁4) - **[fez](https://github.com/jwoertink/fez)** (2016) - A Kemal application generator
- - (⭐ 35 x 🍴7 x 😁2) - **[libgen](https://github.com/olbat/libgen)** (2017) - Automatic Crystal C-bindings generator
- - (⭐ 12 x 🍴2 x 😁4) - **[kemalyst-generator](https://github.com/kemalyst/kemalyst-generator)** (2016) - Rails like command line for Kemalyst
- - (⭐ 11 x 🍴3 x 😁2) - **[wasp](https://github.com/icyleaf/wasp)** (2017) - A Static Site Generator written in Crystal.
- - (⭐ 1 x 🍴1 x 😁1) - **[bindgencr](https://github.com/TechMagister/bindgencr)** (2016) - Generator of binding for the crystal language, based on castxml output.
-
-#### Github > Crystal > Queues and Messaging
-
-[💯 **https://metaawesome.io/github/crystal/queues-and-messaging** ](https://metaawesome.io/github/crystal/queues-and-messaging)
-
- - (⭐ 571 x 🍴38 x 😁17) - **[sidekiq.cr](https://github.com/mperham/sidekiq.cr)** (2016) - Simple, efficient job processing for Crystal
- - (⭐ 51 x 🍴13 x 😁6) - **[amqp.cr](https://github.com/datanoise/amqp.cr)** (2015) - AMQP client for Crystal language
- - (⭐ 20 x 🍴1 x 😁1) - **[dispatch](https://github.com/bmulvihill/dispatch)** (2016) - Dispatch - in memory asynchronous job processing
- - https://github.com/robacarp/mosquito/false
-
-#### Github > Crystal > Routing
-
-[💯 **https://metaawesome.io/github/crystal/routing** ](https://metaawesome.io/github/crystal/routing)
-
- - (⭐ 193 x 🍴10 x 😁6) - **[router.cr](https://github.com/tbrand/router.cr)** (2017) - Minimum High Performance Middleware for Crystal Web Server.
- - (⭐ 68 x 🍴4 x 😁3) - **[toro](https://github.com/soveran/toro)** (2016) - Tree oriented routing
- - (⭐ 60 x 🍴3 x 😁2) - **[orion](https://github.com/obsidian/orion)** (2017) - A Crystal router
- - (⭐ 48 x 🍴6 x 😁3) - **[crouter](https://github.com/jreinert/crouter)** (2015) - a standalone router for crystal
-
-#### Github > Crystal > Scheduling
-
-[💯 **https://metaawesome.io/github/crystal/scheduling** ](https://metaawesome.io/github/crystal/scheduling)
-
- - (⭐ 53 x 🍴4 x 😁3) - **[schedule.cr](https://github.com/hugoabonizio/schedule.cr)** (2017) - :clock3: Run periodic tasks in Crystal
- - (⭐ 33 x 🍴2 x 😁1) - **[cron_scheduler](https://github.com/kostya/cron_scheduler)** (2015) - Simple job scheduler with crontab patterns for Crystal Language.
- - (⭐ 8 x 🍴2 x 😁1) - **[tasker](https://github.com/spider-gazelle/tasker)** (2018) - Scheduled tasks for crystal lang
-
-#### Github > Crystal > Science and Data analysis
-
-[💯 **https://metaawesome.io/github/crystal/science-and-data-analysis** ](https://metaawesome.io/github/crystal/science-and-data-analysis)
-
- - (⭐ 29 x 🍴2 x 😁1) - **[linalg](https://github.com/konovod/linalg)** (2017) - Linear algebra library based on LAPACK
- - (⭐ 11 x 🍴2 x 😁1) - **[predict.cr](https://github.com/RX14/predict.cr)** (2016) - Satellite prediction library for crystal using the sgp4 model
-
-#### Github > Crystal > Search
-
-[💯 **https://metaawesome.io/github/crystal/search** ](https://metaawesome.io/github/crystal/search)
-
- - (⭐ 44 x 🍴8 x 😁3) - **[query-builder](https://github.com/izniburak/query-builder)** (2016) - sql query builder library for crystal-lang
- - (⭐ 20 x 🍴2 x 😁1) - **[hermes.cr](https://github.com/imdrasil/hermes.cr)** (2017) - Datamapper like Crystal ORM and adapter for Elasticsearch
- - (⭐ 18 x 🍴3 x 😁1) - **[soegen](https://github.com/Ragmaanir/soegen)** (2015) - Elasticsearch client library for crystal, similar to rubys stretcher gem
- - (⭐ 13 x 🍴2 x 😁2) - **[query.cr](https://github.com/waterlink/query.cr)** (2016) - Query abstraction for Crystal Language. Used by active_record.cr library.
-
-#### Github > Crystal > Serverless Computing
-
-[💯 **https://metaawesome.io/github/crystal/serverless-computing** ](https://metaawesome.io/github/crystal/serverless-computing)
-
- - (⭐ 47 x 🍴1 x 😁1) - **[gcf.cr](https://github.com/sam0x17/gcf.cr)** (2018) - gcf.cr provides serverless execution and deployment of crystal language code in Google Cloud Functions
- - https://github.com/TPei/crystal_openfaas/false
-
-#### Github > Crystal > System
-
-[💯 **https://metaawesome.io/github/crystal/system** ](https://metaawesome.io/github/crystal/system)
-
- - (⭐ 104 x 🍴10 x 😁4) - **[baked_file_system](https://github.com/schovi/baked_file_system)** (2016) - Virtual File System for Crystal language. Embedding your assets into final binary.
- - (⭐ 36 x 🍴4 x 😁4) - **[rcpu](https://github.com/ddfreyne/rcpu)** (2014) - VM emulator and assembler written in Crystal
- - (⭐ 31 x 🍴3 x 😁3) - **[hardware](https://github.com/crystal-community/hardware)** (2017) - Get CPU, Memory and Network informations of the running OS and its processes
-
-#### Github > Crystal > Task management
-
-[💯 **https://metaawesome.io/github/crystal/task-management** ](https://metaawesome.io/github/crystal/task-management)
-
- - (⭐ 43 x 🍴2 x 😁1) - **[sam.cr](https://github.com/imdrasil/sam.cr)** (2017) - Rake-like task manager
- - (⭐ 29 x 🍴3 x 😁5) - **[cake](https://github.com/axvm/cake)** (2017) - Cake is a powerful and flexible Make-like utility tool. Make Tasks Great Again!
-
-#### Github > Crystal > Template Engine
-
-[💯 **https://metaawesome.io/github/crystal/template-engine** ](https://metaawesome.io/github/crystal/template-engine)
-
- - (⭐ 153 x 🍴21 x 😁12) - **[slang](https://github.com/jeromegn/slang)** (2016) - Slim-inspired templating language for Crystal
- - (⭐ 103 x 🍴13 x 😁8) - **[kilt](https://github.com/jeromegn/kilt)** (2016) - Generic template interface for Crystal
- - (⭐ 51 x 🍴8 x 😁3) - **[crustache](https://github.com/MakeNowJust/crustache)** (2015) - {{Mustache}} for Crystal :gem:
- - (⭐ 46 x 🍴5 x 😁2) - **[temel](https://github.com/f/temel)** (2015) - Extensible Markup DSL for Crystal
- - (⭐ 45 x 🍴7 x 😁2) - **[crinja](https://github.com/straight-shoota/crinja)** (2017) - Implementation of Jinja2 template language in Crystal
- - (⭐ 8 x 🍴8 x 😁2) - **[teeplate](https://github.com/mosop/teeplate)** (2016) - A Crystal library for rendering multiple template files.
-
-#### Github > Crystal > Testing
-
-[💯 **https://metaawesome.io/github/crystal/testing** ](https://metaawesome.io/github/crystal/testing)
-
- - (⭐ 94 x 🍴11 x 😁11) - **[minitest.cr](https://github.com/ysbaddaden/minitest.cr)** (2015) - Test Unit for the Crystal programming language
- - (⭐ 72 x 🍴17 x 😁12) - **[webmock.cr](https://github.com/manastech/webmock.cr)** (2015) - Mock HTTP::Client
- - (⭐ 37 x 🍴2 x 😁2) - **[crytic](https://github.com/hanneskaeufler/crytic)** (2018) - Mutation testing for crystal.
- - (⭐ 36 x 🍴6 x 😁4) - **[crystal-coverage](https://github.com/anykeyh/crystal-coverage)** (2018) - Coverage tool for Crystal lang
- - (⭐ 35 x 🍴10 x 😁6) - **[mocks.cr](https://github.com/waterlink/mocks.cr)** (2015) - General purpose mocking library for Crystal.
- - (⭐ 33 x 🍴2 x 😁3) - **[crystal-clear](https://github.com/Groogy/crystal-clear)** (2017) - Design by Contract for Crystal
- - (⭐ 33 x 🍴8 x 😁7) - **[lucky_flow](https://github.com/luckyframework/lucky_flow)** (2018) - Automated browser tests for web applications. Similar to Ruby's Capybara.
- - (⭐ 21 x 🍴4 x 😁3) - **[crotest](https://github.com/emancu/crotest)** (2016) - A tiny and simple test framework for crystal
- - (⭐ 18 x 🍴2 x 😁3) - **[microtest](https://github.com/Ragmaanir/microtest)** (2016) - Smaller test framework, because it has power asserts as the only assertion.
- - (⭐ 4 x 🍴1 x 😁1) - **[mass-spec](https://github.com/c910335/mass-spec)** (2018) - Web API testing library
- - (⭐ 3 x 🍴2 x 😁3) - **[timecop.cr](https://github.com/crystal-community/timecop.cr)** (2018) - A testing library which allows "time travel," "freezing time," and "time acceleration". Inspired by the ruby-timecop library.
- - (⭐ 00 x 😁1) - **[webdriver_pump](https://github.com/bwilczek/webdriver_pump)** (2018) - Page Object Model library for Crystal. A port (kind of) of Ruby's WatirPump
-
-#### Github > Crystal > Third-party APIs
-
-[💯 **https://metaawesome.io/github/crystal/third-party-apis** ](https://metaawesome.io/github/crystal/third-party-apis)
-
- - (⭐ 96 x 🍴36 x 😁14) - **[discordcr](https://github.com/meew0/discordcr)** (2016) - Minimalist Discord library for Crystal. (Still WIP, but usable)
- - (⭐ 68 x 🍴13 x 😁10) - **[telegram_bot](https://github.com/hangyas/telegram_bot)** (2015) - Telegram Bot API Wrapper for Crystal :gem:
- - (⭐ 68 x 🍴16 x 😁9) - **[twitter-crystal](https://github.com/sferik/twitter-crystal)** (2014) - A library to access the Twitter API using Crystal
- - (⭐ 59 x 🍴11 x 😁5) - **[raven.cr](https://github.com/sija/raven.cr)** (2017) - Raven is a Crystal client for Sentry
- - (⭐ 46 x 🍴19 x 😁9) - **[awscr-s3](https://github.com/taylorfinnell/awscr-s3)** (2017) - A Crystal shard for S3.
- - (⭐ 18 x 🍴2 x 😁1) - **[gitlab.cr](https://github.com/icyleaf/gitlab.cr)** (2016) - Gitlab.cr is a GitLab API wrapper written by Crystal
- - (⭐ 15 x 🍴6 x 😁6) - **[crystal_slack](https://github.com/manastech/crystal_slack)** (2014) - Parse Slack slash commands or send incoming web hooks from Crystal
- - (⭐ 15 x 🍴3 x 😁1) - **[slack.cr](https://github.com/DougEverly/slack.cr)** (2016) - Slack Real Time Messaging API in Crystal 
- - (⭐ 13 x 🍴2 x 😁1) - **[google_maps_api](https://github.com/fridgerator/google_maps_api)** (2016) - Crystal library for the Google Maps API.
- - (⭐ 10 x 🍴6 x 😁3) - **[awscr-signer](https://github.com/taylorfinnell/awscr-signer)** (2016) - AWS request signing in Crystal
- - (⭐ 10 x 🍴1 x 😁1) - **[open_exchange_rates](https://github.com/osfx/open_exchange_rates)** (2016) - A library for Open Exchange Rates API
- - (⭐ 7 x 🍴4 x 😁2) - **[aws-signer.cr](https://github.com/beanieboi/aws-signer.cr)** (2016) - This library signs your HTTP requests using AWS v4
- - (⭐ 6 x 🍴3 x 😁1) - **[crystal-github](https://github.com/felipeelias/crystal-github)** (2017) - Github API wrapper in Crystal! (work in progress)
- - (⭐ 5 x 🍴1 x 😁1) - **[bugsnag.cr](https://github.com/gewo/bugsnag.cr)** (2017) - bugsnag exception notifier written in crystal. Supports sidekiq.cr, kemal, HTTP::Server.
- - (⭐ 500) - **[crystal-darksky](https://github.com/sb89/crystal-darksky)** (2017) - Dark Sky API for Crystal
- - (⭐ 4 x 🍴1 x 😁1) - **[gdax](https://github.com/mccallofthewild/gdax)** (2017) - 📈 GDAX REST and WebSocket API wrapper to trade blockchain cryptocurrencies like bitcoin, Litecoin and Ethereum.
- - (⭐ 4 x 🍴1 x 😁1) - **[pinboard.cr](https://github.com/oz/pinboard.cr)** (2017) - A crystal client for the Pinboard API
- - (⭐ 3 x 🍴1 x 😁1) - **[hncr](https://github.com/Gangwolf/hncr)** (2016) - A concurrent Hacker News API wrapper for Crystal
- - (⭐ 2 x 🍴10) - **[crystal-swapi](https://github.com/sb89/crystal-swapi)** (2017) - Star Wars API (SWAPI) for Crystal
- - (⭐ 20 x 😁1) - **[ynab.cr](https://github.com/jaredsmithse/ynab.cr)** (2018) - YNAB Shard for Crystal
- - (⭐ 1 x 🍴1 x 😁1) - **[aws-credentials](https://github.com/y2k2mt/aws-credentials)** (2019) - Get AWS credentials in various ways.
- - (⭐ 1 x 🍴1 x 😁1) - **[nexmo-crystal](https://github.com/timcraft/nexmo-crystal)** (2016) - [UNMAINTAINED] Nexmo REST API client for Crystal
- - (⭐ 00 x 😁1) - **[crystal-monzo](https://github.com/barisbalic/crystal-monzo)** (2016) - A simple Crystal wrapper for the Monzo API.
- - (⭐ 00 x 😁1) - **[mixpanel-crystal](https://github.com/petoem/mixpanel-crystal)** (2017) - Track events on Mixpanel with Crystal
-
-#### Github > Crystal > Validation
-
-[💯 **https://metaawesome.io/github/crystal/validation** ](https://metaawesome.io/github/crystal/validation)
-
- - (⭐ 25 x 🍴2 x 😁2) - **[denetmen](https://github.com/izniburak/denetmen)** (2016) - useful micro check library for Crystal Language.
- - (⭐ 24 x 🍴1 x 😁1) - **[CrSerializer](https://github.com/blacksmoke16/CrSerializer)** (2018) - Extensible annotation based serialization/deserialization/validation library for Crystal
- - (⭐ 21 x 🍴2 x 😁1) - **[accord](https://github.com/neovintage/accord)** (2016) - Validations for Crystal Objects
- - (⭐ 9 x 🍴1 x 😁2) - **[validations.cr](https://github.com/vladfaust/validations.cr)** (2018) - Validations module for Crystal ✅
-
-#### Github > Crystal > Web Frameworks
-
-[💯 **https://metaawesome.io/github/crystal/web-frameworks** ](https://metaawesome.io/github/crystal/web-frameworks)
-
- - (⭐ 2,609 x 🍴140 x 😁56) - **[kemal](https://github.com/kemalcr/kemal)** (2015) - Fast, Effective, Simple Web Framework
- - (⭐ 1,776 x 🍴143 x 😁81) - **[amber](https://github.com/amberframework/amber)** (2017) - A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started with quick prototyping, less bugs, and blazing fast performance.
- - (⭐ 1,434 x 🍴74 x 😁44) - **[lucky](https://github.com/luckyframework/lucky)** (2017) - A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.
- - (⭐ 147 x 🍴8 x 😁3) - **[raze](https://github.com/samueleaton/raze)** (2017) - Modular, light web framework for Crystal
- - (⭐ 120 x 🍴12 x 😁2) - **[rest](https://github.com/onyxframework/rest)** (2017) - An opinionated framework for scalable web 🌎
- - (⭐ 64 x 🍴2 x 😁1) - **[spider-gazelle](https://github.com/spider-gazelle/spider-gazelle)** (2018) - A Rails esque web framework with a focus on speed and extensibility for crystal lang
- - (⭐ 55 x 🍴2 x 😁2) - **[lattice-core](https://github.com/jasonl99/lattice-core)** (2017) - A WebSocket-first object-oriented framework for Crystal
- - (⭐ 44 x 🍴2 x 😁1) - **[athena](https://github.com/blacksmoke16/athena)** (2018) - Modular, annotation based, API oriented framework with built in param conversion.
-
-#### Github > Crystal > Web Servers
-
-[💯 **https://metaawesome.io/github/crystal/web-servers** ](https://metaawesome.io/github/crystal/web-servers)
-
- - (⭐ 139 x 🍴9 x 😁6) - **[fast-http-server](https://github.com/sdogruyol/fast-http-server)** (2015) - Super fast, zero configuration command line HTTP Server.
- - (⭐ 130 x 🍴16 x 😁9) - **[prax.cr](https://github.com/ysbaddaden/prax.cr)** (2015) - Rack proxy server for development (Crystal port)
- - (⭐ 19 x 🍴2 x 😁1) - **[salt](https://github.com/icyleaf/salt)** (2017) - **Unmaintained** A Human Friendly Interface for HTTP server written in Crystal.
- - (⭐ 180 x 😁1) - **[serve](https://github.com/SuperPaintman/serve)** (2016) - Command line static HTTP server
-
-### Github > CSS
-
- - [Parsers :mag:](#github--css--parsers-:mag:)
- - [Preprocessors :pill:](#github--css--preprocessors-:pill:)
- - [Frameworks :art:](#github--css--frameworks-:art:)
- - [CSS Structure](#github--css--css-structure)
- - [Reset and Normalize](#github--css--reset-and-normalize)
- - [CSS Development at Large-Scale Websites](#github--css--css-development-at-large-scale-websites)
- - [Code Style Guidelines :book:](#github--css--code-style-guidelines-:book:)
- - [Style Guide](#github--css--style-guide)
- - [Style Guide Generators :slot_machine:](#github--css--style-guide-generators-:slot_machine:)
- - [Naming conventions & Methodologies :bulb:](#github--css--naming-conventions-&-methodologies-:bulb:)
- - [CSS in JS](#github--css--css-in-js)
- - [CSS Polyfills](#github--css--css-polyfills)
- - [Miscellaneous](#github--css--miscellaneous)
-
-#### Github > CSS > Parsers :mag:
-
-[💯 **https://metaawesome.io/github/css/parsers-:mag:** ](https://metaawesome.io/github/css/parsers-:mag:)
-
- - (⭐ 21,091 x 🍴1,152 x 😁281) - **[postcss](https://github.com/postcss/postcss)** (2013) - Transforming styles with JS plugins
- - (⭐ 2,786 x 🍴136 x 😁34) - **[rework](https://github.com/reworkcss/rework)** (2012) - Plugin framework for CSS preprocessing in Node.js
- - (⭐ 674 x 🍴45 x 😁8) - **[csstree](https://github.com/csstree/csstree)** (2016) - A tool set for working with CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
- - (⭐ 630 x 🍴79 x 😁16) - **[CSSOM](https://github.com/NV/CSSOM)** (2010) - CSS Object Model implemented in pure JavaScript. It's also a parser!
- - (⭐ 274 x 🍴83 x 😁45) - **[parser-lib](https://github.com/CSSLint/parser-lib)** (2009) - Collection of parsers written in JavaScript
- - (⭐ 260 x 🍴54 x 😁22) - **[gonzales-pe](https://github.com/tonyganch/gonzales-pe)** (2013) - CSS parser with support of preprocessors
- - (⭐ 135 x 🍴5 x 😁2) - **[stylecow](https://github.com/stylecow/stylecow)** (2014) - Modern CSS to all browsers
- - (⭐ 116 x 🍴15 x 😁4) - **[gonzales](https://github.com/css/gonzales)** (2012) - Fast CSS parser
- - (⭐ 94 x 🍴11 x 😁4) - **[mensch](https://github.com/brettstimmerman/mensch)** (2013) - A decent CSS parser.
-
-#### Github > CSS > Preprocessors :pill:
-
-[💯 **https://metaawesome.io/github/css/preprocessors-:pill:** ](https://metaawesome.io/github/css/preprocessors-:pill:)
-
- - (⭐ 21,091 x 🍴1,152 x 😁281) - **[postcss](https://github.com/postcss/postcss)** (2013) - Transforming styles with JS plugins
- - (⭐ 16,066 x 🍴3,455 x 😁217) - **[less.js](https://github.com/less/less.js)** (2010) - Less. The dynamic stylesheet language.
- - (⭐ 11,984 x 🍴1,927 x 😁4) - **[sass](https://github.com/sass/sass)** (2010) - Sass makes CSS fun!
- - (⭐ 713 x 🍴42 x 😁17) - **[stylis.js](https://github.com/thysultan/stylis.js)** (2016) - light – weight css preprocessor
-
-#### Github > CSS > Frameworks :art:
-
-[💯 **https://metaawesome.io/github/css/frameworks-:art:** ](https://metaawesome.io/github/css/frameworks-:art:)
-
- - (⭐ 12,838 x 🍴578 x 😁90) - **[tailwindcss](https://github.com/tailwindcss/tailwindcss)** (2017) - A utility-first CSS framework for rapid UI development.
- - (⭐ 12,754 x 🍴1,654 x 😁314) - **[material-components-web](https://github.com/material-components/material-components-web)** (2016) - Modular and customizable Material Design UI components for the web
- - (⭐ 1,853 x 🍴127 x 😁12) - **[awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)** (2017) - List of awesome CSS frameworks
- - (⭐ 73 x 🍴6 x 😁3) - **[strawberry](https://github.com/jfet97/strawberry)** (2018) - A new flexbox based CSS micro-framework.
-
-#### Github > CSS > CSS Structure
-
-[💯 **https://metaawesome.io/github/css/css-structure** ](https://metaawesome.io/github/css/css-structure)
-
- - (⭐ 3,654 x 🍴176 x 😁10) - **[rscss](https://github.com/rstacruz/rscss)** (2015) - Reasonable System for CSS Stylesheet Structure
-
-#### Github > CSS > Reset and Normalize
-
-[💯 **https://metaawesome.io/github/css/reset-and-normalize** ](https://metaawesome.io/github/css/reset-and-normalize)
-
- - (⭐ 35,424 x 🍴7,178 x 😁36) - **[normalize.css](https://github.com/necolas/normalize.css)** (2011) - A modern alternative to CSS resets
- - (⭐ 1,647 x 🍴229 x 😁4) - **[minireset.css](https://github.com/jgthms/minireset.css)** (2016) - A tiny modern CSS reset
- - (⭐ 805 x 🍴32 x 😁5) - **[normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css)** (2014) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
- - (⭐ 13 x 🍴4 x 😁2) - **[css-unstyle](https://github.com/Martin-Pitt/css-unstyle)** (2014) - Forget browser inconsistencies, lets start with a blank slate.
- - https://github.com/jonathantneal/sanitize.css/false
-
-#### Github > CSS > CSS Development at Large-Scale Websites
-
-[💯 **https://metaawesome.io/github/css/css-development-at-large-scale-websites** ](https://metaawesome.io/github/css/css-development-at-large-scale-websites)
-
- - (⭐ 1,320 x 🍴71 x 😁4) - **[scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)** (2014) - Collected dispatches from The Quest for Scalable CSS
-
-#### Github > CSS > Code Style Guidelines :book:
-
-[💯 **https://metaawesome.io/github/css/code-style-guidelines-:book:** ](https://metaawesome.io/github/css/code-style-guidelines-:book:)
-
- - (⭐ 5,833 x 🍴623 x 😁23) - **[idiomatic-css](https://github.com/necolas/idiomatic-css)** (2012) - Principles of writing consistent, idiomatic CSS.
- - (⭐ 377 x 🍴19 x 😁2) - **[css](https://github.com/grvcoelho/css)** (2015) - :book: Opinionated CSS styleguide for scalable applications
- - https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSSfalse
-
-#### Github > CSS > Style Guide
-
-[💯 **https://metaawesome.io/github/css/style-guide** ](https://metaawesome.io/github/css/style-guide)
-
- - https://gist.github.com/bobbygrace/9e961e8982f42eb91b80false
-
-#### Github > CSS > Style Guide Generators :slot_machine:
-
-[💯 **https://metaawesome.io/github/css/style-guide-generators-:slot_machine:** ](https://metaawesome.io/github/css/style-guide-generators-:slot_machine:)
-
- - (⭐ 2,177 x 🍴208 x 😁29) - **[hologram](https://github.com/trulia/hologram)** (2013) - A markdown based documentation system for style guides.
- - (⭐ 1,258 x 🍴169 x 😁48) - **[sc5-styleguide](https://github.com/SC5/sc5-styleguide)** (2014) - Styleguide generator is a handy little tool that helps you generate good looking styleguides from stylesheets using KSS notation
- - (⭐ 1,079 x 🍴124 x 😁27) - **[styledocco](https://github.com/jacobrask/styledocco)** (2012) - Automatically generate a style guide from your stylesheets.
- - (⭐ 672 x 🍴25 x 😁4) - **[mdcss](https://github.com/jonathantneal/mdcss)** (2015) - Easily create and maintain style guides using CSS comments
- - (⭐ 671 x 🍴62 x 😁2) - **[styledown](https://github.com/styledown/styledown)** (2014) - Markdown-based styleguide generator
- - https://github.com/Joony/styledoc/false
-
-#### Github > CSS > Naming conventions & Methodologies :bulb:
-
-[💯 **https://metaawesome.io/github/css/naming-conventions-&-methodologies-:bulb:** ](https://metaawesome.io/github/css/naming-conventions-&-methodologies-:bulb:)
-
- - (⭐ 5,833 x 🍴623 x 😁23) - **[idiomatic-css](https://github.com/necolas/idiomatic-css)** (2012) - Principles of writing consistent, idiomatic CSS.
- - https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilitynamefalse
-
-#### Github > CSS > CSS in JS
-
-[💯 **https://metaawesome.io/github/css/css-in-js** ](https://metaawesome.io/github/css/css-in-js)
-
- - (⭐ 24,615 x 🍴1,448 x 😁245) - **[styled-components](https://github.com/styled-components/styled-components)** (2016) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
- - (⭐ 4,957 x 🍴277 x 😁76) - **[jss](https://github.com/cssinjs/jss)** (2014) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
- - (⭐ 4,736 x 🍴205 x 😁46) - **[aphrodite](https://github.com/Khan/aphrodite)** (2015) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
- - (⭐ 4,543 x 🍴212 x 😁47) - **[styled-jsx](https://github.com/zeit/styled-jsx)** (2016) - Full CSS support for JSX without compromises
- - (⭐ 4,374 x 🍴227 x 😁41) - **[css-in-js](https://github.com/MicheleBertoli/css-in-js)** (2015) - React: CSS in JS techniques comparison
- - (⭐ 3,457 x 🍴470 x 😁81) - **[css-loader](https://github.com/webpack/css-loader)** (2012) - CSS Loader
- - (⭐ 1,480 x 🍴102 x 😁7) - **[react-with-styles](https://github.com/airbnb/react-with-styles)** (2016) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
- - (⭐ 559 x 🍴29 x 😁6) - **[csjs](https://github.com/rtsao/csjs)** (2015) - :sparkles: Modular, scoped CSS with ES6
- - (⭐ 287 x 🍴10 x 😁5) - **[babel-plugin-css-in-js](https://github.com/martinandert/babel-plugin-css-in-js)** (2015) - A plugin for Babel v6 which transforms inline styles defined in JavaScript modules into class names so they become available to, e.g. the `className` prop of React elements. While transforming, the plugin processes all JavaScript style defi…
- - (⭐ 34 x 🍴5 x 😁3) - **[react-styled](https://github.com/bloodyowl/react-styled)** (2015) - styled component for react & style-loader/usable
- - (⭐ 23 x 🍴2 x 😁2) - **[classy](https://github.com/inturn/classy)** (2015) - React styling. Plain and simple.
-
-#### Github > CSS > CSS Polyfills
-
-[💯 **https://metaawesome.io/github/css/css-polyfills** ](https://metaawesome.io/github/css/css-polyfills)
-
- - (⭐ 3,753 x 🍴743 x 😁34) - **[prefixfree](https://github.com/LeaVerou/prefixfree)** (2011) - Break free from CSS prefix hell!
- - (⭐ 2,845 x 🍴250 x 😁8) - **[PIE](https://github.com/lojjic/PIE)** (2010) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties
- - (⭐ 1,758 x 🍴276 x 😁4) - **[selectivizr](https://github.com/keithclark/selectivizr)** (2011) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
- - (⭐ 1,476 x 🍴161 x 😁15) - **[fixed-sticky](https://github.com/filamentgroup/fixed-sticky)** (2013) - DEPRECATED: A position: sticky polyfill that works with filamentgroup/fixed-fixed for a safer position:fixed fallback.
- - https://github.com/philipwalton/polyfill/false
-
-#### Github > CSS > Miscellaneous
-
-[💯 **https://metaawesome.io/github/css/miscellaneous** ](https://metaawesome.io/github/css/miscellaneous)
-
- - (⭐ 3,734 x 🍴225 x 😁4) - **[must-watch-css](https://github.com/AllThingsSmitty/must-watch-css)** (2014) - A useful list of must-watch talks about CSS
- - (⭐ 1,560 x 🍴110 x 😁38) - **[SingleDivProject](https://github.com/ManrajGrover/SingleDivProject)** (2016) - ☝️One <div>. Many possibilities.
- - (⭐ 550 x 🍴48 x 😁5) - **[REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS)** (2013) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
- - (⭐ 74 x 🍴15 x 😁2) - **[live-css-editor](https://github.com/webextensions/live-css-editor)** (2017) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
-
-### Github > D
-
- - [Package Management](#github--d--package-management)
- - [Compilers](#github--d--compilers)
- - [Build Tools](#github--d--build-tools)
- - [IDE](#github--d--ide)
- - [Lexers, Parsers, Parser Generators](#github--d--lexers,-parsers,-parser-generators)
- - [Preprocesors](#github--d--preprocesors)
- - [Javascript](#github--d--javascript)
- - [Basic](#github--d--basic)
- - [Containers](#github--d--containers)
- - [Web Frameworks](#github--d--web-frameworks)
- - [Database clients](#github--d--database-clients)
- - [Command Line](#github--d--command-line)
- - [GUI Libs](#github--d--gui-libs)
- - [OS](#github--d--os)
- - [Game Bindings](#github--d--game-bindings)
- - [Game Frameworks](#github--d--game-frameworks)
- - [Games](#github--d--games)
- - [Video applications](#github--d--video-applications)
- - [Image Processing](#github--d--image-processing)
- - [End-user applications](#github--d--end-user-applications)
- - [Machine Learning](#github--d--machine-learning)
- - [Parallel computing](#github--d--parallel-computing)
- - [Scientific](#github--d--scientific)
- - [Text Processing](#github--d--text-processing)
- - [Logging](#github--d--logging)
- - [Configuration](#github--d--configuration)
- - [Blog Engine](#github--d--blog-engine)
- - [Testing](#github--d--testing)
-
-#### Github > D > Package Management
-
-[💯 **https://metaawesome.io/github/d/package-management** ](https://metaawesome.io/github/d/package-management)
-
- - (⭐ 468 x 🍴169 x 😁92) - **[dub](https://github.com/dlang/dub)** (2012) - Package and build management system for D
-
-#### Github > D > Compilers
-
-[💯 **https://metaawesome.io/github/d/compilers** ](https://metaawesome.io/github/d/compilers)
-
- - (⭐ 2,071 x 🍴501 x 😁189) - **[dmd](https://github.com/dlang/dmd)** (2011) - dmd D Programming Language compiler
- - (⭐ 810 x 🍴169 x 😁71) - **[ldc](https://github.com/ldc-developers/ldc)** (2011) - The LLVM-based D Compiler.
- - (⭐ 364 x 🍴54 x 😁19) - **[GDC](https://github.com/D-Programming-GDC/GDC)** (2012) - GNU D Compiler
- - (⭐ 158 x 🍴45 x 😁27) - **[SDC](https://github.com/SDC-Developers/SDC)** (2010) - The Stupid D Compiler
-
-#### Github > D > Build Tools
-
-[💯 **https://metaawesome.io/github/d/build-tools** ](https://metaawesome.io/github/d/build-tools)
-
- - (⭐ 468 x 🍴169 x 😁92) - **[dub](https://github.com/dlang/dub)** (2012) - Package and build management system for D
- - (⭐ 61 x 🍴7 x 😁6) - **[reggae](https://github.com/atilaneves/reggae)** (2015) - Build system in D, Python, Ruby, Javascript or Lua
- - (⭐ 38 x 🍴7 x 😁7) - **[cmake-d](https://github.com/dcarp/cmake-d)** (2013) - cmake for D2
- - (⭐ 22 x 🍴1 x 😁3) - **[Cook2](https://github.com/gecko0307/Cook2)** (2013) - Build automation tool for D
- - (⭐ 18 x 🍴4 x 😁2) - **[MakefileForD](https://github.com/bioinfornatics/MakefileForD)** (2011) - Provides a template makefile for add quickly a build sytem for your project
- - (⭐ 7 x 🍴1 x 😁1) - **[Wild](https://github.com/Vild/Wild)** (2015) - Yet another buildsystem, but in D!
- - (⭐ 2 x 🍴3 x 😁4) - **[premake-dlang](https://github.com/premake/premake-dlang)** (2015)false
-
-#### Github > D > IDE
-
-[💯 **https://metaawesome.io/github/d/ide** ](https://metaawesome.io/github/d/ide)
-
- - (⭐ 294 x 🍴62 x 😁42) - **[DCD](https://github.com/Hackerpilot/DCD)** (2013) - The D Completion Daemon is an auto-complete program for the D programming language
- - (⭐ 293 x 🍴43 x 😁21) - **[dlangide](https://github.com/buggins/dlangide)** (2014) - D language IDE based on DlangUI
- - (⭐ 271 x 🍴27 x 😁9) - **[Coedit](https://github.com/BBasile/Coedit)** (2015) - IDE for the D programming language, its compilers, tools and libraries
- - (⭐ 230 x 🍴58 x 😁13) - **[visuald](https://github.com/dlang/visuald)** (2012) - Visual D - Visual Studio extension for the D programming language
- - (⭐ 113 x 🍴25 x 😁13) - **[Mono-D](https://github.com/aBothe/Mono-D)** (2011) - D Add-In for MonoDevelop
-
-#### Github > D > Lexers, Parsers, Parser Generators
-
-[💯 **https://metaawesome.io/github/d/lexers,-parsers,-parser-generators** ](https://metaawesome.io/github/d/lexers,-parsers,-parser-generators)
-
- - (⭐ 393 x 🍴53 x 😁22) - **[Pegged](https://github.com/PhilippeSigaud/Pegged)** (2012) - A Parsing Expression Grammar (PEG) module, using the D programming language.
- - (⭐ 75 x 🍴42 x 😁29) - **[libdparse](https://github.com/Hackerpilot/libdparse)** (2014) - Library for lexing and parsing D source code
- - (⭐ 39 x 🍴2 x 😁1) - **[ctpg](https://github.com/youxkei/ctpg)** (2011) - Compile-Time Parser Generator in D programming language.
- - (⭐ 25 x 🍴8 x 😁5) - **[D_Parser](https://github.com/aBothe/D_Parser)** (2012) - Parser & Resolver & Abstract Completion library for D
- - (⭐ 90 x 😁1) - **[dunnart](https://github.com/pwil3058/dunnart)** (2013) - LALR(1) Parser Generator for the D Programming Language
- - (⭐ 8 x 🍴1 x 😁1) - **[lexer](https://github.com/MartinNowak/lexer)** (2012) - lexer generator
-
-#### Github > D > Preprocesors
-
-[💯 **https://metaawesome.io/github/d/preprocesors** ](https://metaawesome.io/github/d/preprocesors)
-
- - (⭐ 476 x 🍴45 x 😁9) - **[warp](https://github.com/facebookarchive/warp)** (2014) - A fast preprocessor for C and C++
-
-#### Github > D > Javascript
-
-[💯 **https://metaawesome.io/github/d/javascript** ](https://metaawesome.io/github/d/javascript)
-
- - (⭐ 804 x 🍴63 x 😁21) - **[Higgs](https://github.com/higgsjs/Higgs)** (2012) - Higgs JavaScript Virtual Machine
-
-#### Github > D > Basic
-
-[💯 **https://metaawesome.io/github/d/basic** ](https://metaawesome.io/github/d/basic)
-
- - (⭐ 45 x 🍴5 x 😁8) - **[hunt](https://github.com/huntlabs/hunt)** (2017) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
- - (⭐ 00 x 😁3) - **[hunt-time](https://github.com/huntlabs/hunt-time)** (2019) - A time library for D programming language.
- - (⭐ 00 x 😁3) - **[hunt-validation](https://github.com/huntlabs/hunt-validation)** (2018)false
-
-#### Github > D > Containers
-
-[💯 **https://metaawesome.io/github/d/containers** ](https://metaawesome.io/github/d/containers)
-
- - (⭐ 160 x 🍴22 x 😁15) - **[dlib](https://github.com/gecko0307/dlib)** (2013) - Math, allocators, I/O streams, image and audio processing for D
- - (⭐ 108 x 🍴29 x 😁19) - **[containers](https://github.com/economicmodeling/containers)** (2014) - Containers backed by std.experimental.allocator
- - (⭐ 33 x 🍴13 x 😁5) - **[memutils](https://github.com/etcimon/memutils)** (2015) - Overhead allocators, allocator-aware containers and lifetime management for D objects
- - (⭐ 8 x 🍴2 x 😁1) - **[std.rcstring](https://github.com/burner/std.rcstring)** (2015) - A reference counted string implementation for D's build in string construct.
-
-#### Github > D > Web Frameworks
-
-[💯 **https://metaawesome.io/github/d/web-frameworks** ](https://metaawesome.io/github/d/web-frameworks)
-
- - (⭐ 370 x 🍴79 x 😁31) - **[arsd](https://github.com/adamdruppe/arsd)** (2011) - This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo. You may find some ddoc here:http://arsdnet.net/ddoc/ o…
- - (⭐ 130 x 🍴28 x 😁20) - **[libasync](https://github.com/etcimon/libasync)** (2014) - Cross-platform event loop library of asynchronous objects
- - (⭐ 59 x 🍴11 x 😁7) - **[collie](https://github.com/huntlabs/collie)** (2016) - An asynchronous event-driven network framework( port netty ) written in D.
- - (⭐ 34 x 🍴5 x 😁2) - **[libhttp2](https://github.com/etcimon/libhttp2)** (2015) - HTTP/2 library in D, translated from nghttp2
- - (⭐ 34 x 🍴4 x 😁3) - **[kissrpc](https://github.com/huntlabs/kissrpc)** (2017) - Ultra high performance RPC
- - (⭐ 26 x 🍴2 x 😁2) - **[hprose-d](https://github.com/hprose/hprose-d)** (2014) - Hprose for Dlang
- - (⭐ 16 x 🍴1 x 😁2) - **[Cmsed](https://github.com/rikkimax/Cmsed)** (2014) - A component library for Vibe that functions as a CMS.
- - (⭐ 16 x 🍴1 x 😁5) - **[grpc-dlang](https://github.com/huntlabs/grpc-dlang)** (2018) - Grpc for D programming language, hunt-http library based.
- - (⭐ 11 x 🍴2 x 😁3) - **[hunt-http](https://github.com/huntlabs/hunt-http)** (2018) - http library for D, support http 1.1 / http 2.0 (http2) / websocket server and client.
- - (⭐ 70 x 😁4) - **[hunt-net](https://github.com/huntlabs/hunt-net)** (2018) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
- - (⭐ 00 x 😁2) - **[hunt-stomp](https://github.com/huntlabs/hunt-stomp)** (2018) - STOMP implement in D
- - https://github.com/huntlabs/hunt-framework/false
- - (⭐ 00 x 😁2) - **[hunt-gossip](https://github.com/huntlabs/hunt-gossip)** (2019) - A Apache V2 gossip protocol implementation for D programming language.
- - (⭐ 00 x 😁5) - **[hunt-cache](https://github.com/huntlabs/hunt-cache)** (2018) - D language universal cache library.
-
-#### Github > D > Database clients
-
-[💯 **https://metaawesome.io/github/d/database-clients** ](https://metaawesome.io/github/d/database-clients)
-
- - (⭐ 987 x 🍴276 x 😁158) - **[vibe.d](https://github.com/rejectedsoftware/vibe.d)** (2012) - Official vibe.d development
- - (⭐ 370 x 🍴79 x 😁31) - **[arsd](https://github.com/adamdruppe/arsd)** (2011) - This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo. You may find some ddoc here:http://arsdnet.net/ddoc/ o…
- - (⭐ 76 x 🍴28 x 😁14) - **[hibernated](https://github.com/buggins/hibernated)** (2013) - HibernateD is ORM for D language (similar to Hibernate)
- - (⭐ 67 x 🍴27 x 😁19) - **[mysql-native](https://github.com/mysql-d/mysql-native)** (2012) - Native D client driver for MySQL/MariaDB, works with or without Vibe.d
- - (⭐ 55 x 🍴39 x 😁20) - **[ddbc](https://github.com/buggins/ddbc)** (2013) - DDBC is DB Connector for D language (similar to JDBC)
- - (⭐ 41 x 🍴30 x 😁16) - **[ddb](https://github.com/pszturmaj/ddb)** (2011) - Database access for D2. Currently, only PostgreSQL client.
- - (⭐ 36 x 🍴7 x 😁12) - **[hunt-entity](https://github.com/huntlabs/hunt-entity)** (2016) - An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL / MySQL / SQLite.
- - (⭐ 32 x 🍴3 x 😁8) - **[hunt-database](https://github.com/huntlabs/hunt-database)** (2017) - Database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
- - (⭐ 18 x 🍴3 x 😁3) - **[Dvorm](https://github.com/rikkimax/Dvorm)** (2013) - An orm for D with Vibe support.
-
-#### Github > D > Command Line
-
-[💯 **https://metaawesome.io/github/d/command-line** ](https://metaawesome.io/github/d/command-line)
-
- - (⭐ 3,365 x 🍴180 x 😁147) - **[tilix](https://github.com/gnunn1/tilix)** (2015) - A tiling terminal emulator for Linux using GTK+ 3
- - (⭐ 78 x 🍴9 x 😁3) - **[scriptlike](https://github.com/Abscissa/scriptlike)** (2014) - Utility library to help you write script-like programs in D
- - (⭐ 31 x 🍴6 x 😁4) - **[darg](https://github.com/jasonwhite/darg)** (2015) - Robust command line argument parsing for D.
- - (⭐ 11 x 🍴1 x 😁1) - **[todod](https://github.com/BlackEdder/todod)** (2014) - Command line based todo list manager
- - (⭐ 11 x 🍴1 x 😁2) - **[Argon](https://github.com/markuslaker/Argon)** (2016) - A processor for command-line arguments, an alternative to Getopt, written in D
- - (⭐ 6 x 🍴3 x 😁3) - **[argsd](https://github.com/burner/argsd)** (2017) - A command line and config file parser for DLang
- - (⭐ 30 x 😁2) - **[hunt-console](https://github.com/huntlabs/hunt-console)** (2018) - Hunt-console creation easier to create powerful command-line applications.
- - https://github.com/adamdruppe/arsd/blob/master/terminal.dfalse
- - https://github.com/grogancolin/dexpect/false
-
-#### Github > D > GUI Libs
-
-[💯 **https://metaawesome.io/github/d/gui-libs** ](https://metaawesome.io/github/d/gui-libs)
-
- - (⭐ 542 x 🍴89 x 😁42) - **[dlangui](https://github.com/buggins/dlangui)** (2014) - Cross Platform GUI for D programming language
- - (⭐ 242 x 🍴59 x 😁27) - **[GtkD](https://github.com/gtkd-developers/GtkD)** (2012) - GtkD is a D binding and OO wrapper of GTK+
- - (⭐ 104 x 🍴28 x 😁5) - **[dwt](https://github.com/d-widget-toolkit/dwt)** (2011) - A library for creating cross-platform GUI applications.
- - (⭐ 94 x 🍴14 x 😁6) - **[tkd](https://github.com/nomad-software/tkd)** (2014) - GUI toolkit for the D programming language based on Tcl/Tk
- - (⭐ 30 x 🍴2 x 😁2) - **[DerelictLibui](https://github.com/Extrawurst/DerelictLibui)** (2016) - Dynamic Binding for libui (https://github.com/andlabs/libui) in D
- - (⭐ 29 x 🍴10 x 😁4) - **[dqml](https://github.com/filcuc/dqml)** (2015) - Qt Qml bindings for the D programming language
- - (⭐ 260 x 😁1) - **[sciter-dport](https://github.com/midiway/sciter-dport)** (2015) - Port of Sciter headers for the D language
-
-#### Github > D > OS
-
-[💯 **https://metaawesome.io/github/d/os** ](https://metaawesome.io/github/d/os)
-
- - (⭐ 432 x 🍴35 x 😁6) - **[PowerNex](https://github.com/Vild/PowerNex)** (2014) - An operating system written in D
- - (⭐ 319 x 🍴82 x 😁5) - **[xomb](https://github.com/xomboverlord/xomb)** (2009) - An exokernel operating system written in D
- - (⭐ 79 x 🍴11 x 😁1) - **[Trinix](https://github.com/Bloodmanovski/Trinix)** (2013) - First operating system written in D lang v2
-
-#### Github > D > Game Bindings
-
-[💯 **https://metaawesome.io/github/d/game-bindings** ](https://metaawesome.io/github/d/game-bindings)
-
- - https://github.com/DerelictOrgfalse
-
-#### Github > D > Game Frameworks
-
-[💯 **https://metaawesome.io/github/d/game-frameworks** ](https://metaawesome.io/github/d/game-frameworks)
-
- - (⭐ 389 x 🍴71 x 😁14) - **[Dash](https://github.com/Circular-Studios/Dash)** (2014) - A free and open 3D game engine written in D.
- - (⭐ 169 x 🍴47 x 😁22) - **[gfm](https://github.com/d-gamedev-team/gfm)** (2012) - 3D maths for D gamedev
- - (⭐ 99 x 🍴5 x 😁5) - **[voxelman](https://github.com/MrSmith33/voxelman)** (2014) - Plugin-based client-server voxel game engine written in D language
- - (⭐ 87 x 🍴20 x 😁16) - **[DSFML](https://github.com/Jebbs/DSFML)** (2013) - DSFML is a D binding of SFML 
- - (⭐ 73 x 🍴72 x 😁6) - **[Dgame](https://github.com/Dgame/Dgame)** (2012) - A 2D framework for the D programming Language
- - (⭐ 14 x 🍴2 x 😁1) - **[libpp](https://github.com/PolyplexEngine/libpp)** (2018) - The main library of polyplex
- - https://github.com/SiegeLord/DAllegro5/tree/master/allegro5false
-
-#### Github > D > Games
-
-[💯 **https://metaawesome.io/github/d/games** ](https://metaawesome.io/github/d/games)
-
- - (⭐ 101 x 🍴6 x 😁4) - **[atrium](https://github.com/gecko0307/atrium)** (2012) - FPS with physics based puzzles
- - (⭐ 15 x 🍴4 x 😁1) - **[Spacecraft](https://github.com/Ingrater/Spacecraft)** (2012) - A 3d multiplayer deathmatch space game written in D 2.0
- - (⭐ 10 x 🍴1 x 😁1) - **[dtanks](https://github.com/kingsleyh/dtanks)** (2015) - dtanks
-
-#### Github > D > Video applications
-
-[💯 **https://metaawesome.io/github/d/video-applications** ](https://metaawesome.io/github/d/video-applications)
-
- - (⭐ 75 x 🍴19 x 😁11) - **[DerelictGL3](https://github.com/DerelictOrg/DerelictGL3)** (2013) - A dynamic binding to OpenGL for the D Programming Language.
-
-#### Github > D > Image Processing
-
-[💯 **https://metaawesome.io/github/d/image-processing** ](https://metaawesome.io/github/d/image-processing)
-
- - (⭐ 160 x 🍴22 x 😁15) - **[dlib](https://github.com/gecko0307/dlib)** (2013) - Math, allocators, I/O streams, image and audio processing for D
- - https://github.com/CyberShadow/ae/tree/master/utils/graphicsfalse
- - https://github.com/adamdruppe/arsd/blob/master/color.dfalse
-
-#### Github > D > End-user applications
-
-[💯 **https://metaawesome.io/github/d/end-user-applications** ](https://metaawesome.io/github/d/end-user-applications)
-
- - (⭐ 125 x 🍴9 x 😁5) - **[drill](https://github.com/yatima1460/drill)** (2019) - Search files without indexing, but clever crawling
-
-#### Github > D > Machine Learning
-
-[💯 **https://metaawesome.io/github/d/machine-learning** ](https://metaawesome.io/github/d/machine-learning)
-
- - (⭐ 1,004 x 🍴73 x 😁5) - **[vectorflow](https://github.com/Netflix/vectorflow)** (2017)false
-
-#### Github > D > Parallel computing
-
-[💯 **https://metaawesome.io/github/d/parallel-computing** ](https://metaawesome.io/github/d/parallel-computing)
-
- - (⭐ 78 x 🍴13 x 😁8) - **[dcompute](https://github.com/libmir/dcompute)** (2016) - DCompute: Native execution of D on GPUs and other Accelerators
- - (⭐ 18 x 🍴3 x 😁4) - **[DerelictCUDA](https://github.com/DerelictOrg/DerelictCUDA)** (2014) - Dynamic bindings to the CUDA library for the D Programming Language.
- - (⭐ 6 x 🍴2 x 😁3) - **[DerelictCL](https://github.com/DerelictOrg/DerelictCL)** (2014) - Dynamic bindings to the OpenCL library for the D Programming Language.
-
-#### Github > D > Scientific
-
-[💯 **https://metaawesome.io/github/d/scientific** ](https://metaawesome.io/github/d/scientific)
-
- - (⭐ 191 x 🍴19 x 😁10) - **[mir](https://github.com/libmir/mir)** (2015) - Mir Algorithm, Mir Random, Sparse tensors, Hoffman
- - (⭐ 191 x 🍴19 x 😁10) - **[mir](https://github.com/libmir/mir)** (2015) - Mir Algorithm, Mir Random, Sparse tensors, Hoffman
- - (⭐ 76 x 🍴30 x 😁8) - **[scid](https://github.com/DlangScience/scid)** (2011) - Scientific library for the D programming language
- - (⭐ 28 x 🍴10 x 😁8) - **[mir-random](https://github.com/libmir/mir-random)** (2016) - Advanced Random Number Generators
- - (⭐ 17 x 🍴7 x 😁7) - **[dstats](https://github.com/DlangScience/dstats)** (2014) - A statistics library for D.
- - (⭐ 10 x 🍴3 x 😁3) - **[decimal](https://github.com/rumbu13/decimal)** (2015) - D implementation of floating point decimal data type according to IEEE754-2008
-
-#### Github > D > Text Processing
-
-[💯 **https://metaawesome.io/github/d/text-processing** ](https://metaawesome.io/github/d/text-processing)
-
- - (⭐ 50 x 😁3) - **[hunt-markdown](https://github.com/huntlabs/hunt-markdown)** (2018) - A markdown parsing and rendering library for D programming language.
- - https://github.com/eBay/tsv-utils/false
-
-#### Github > D > Logging
-
-[💯 **https://metaawesome.io/github/d/logging** ](https://metaawesome.io/github/d/logging)
-
- - (⭐ 16 x 🍴4 x 😁1) - **[dlogg](https://github.com/NCrashed/dlogg)** (2014) - Logging utilities that aimed to be used in highly loaded applications
-
-#### Github > D > Configuration
-
-[💯 **https://metaawesome.io/github/d/configuration** ](https://metaawesome.io/github/d/configuration)
-
- - (⭐ 92 x 🍴28 x 😁21) - **[D-YAML](https://github.com/kiith-sa/D-YAML)** (2011) - YAML parser and emitter for the D programming language
- - (⭐ 61 x 🍴19 x 😁8) - **[SDLang-D](https://github.com/Abscissa/SDLang-D)** (2013) - An SDLang (Simple Declarative Language) library for D
- - (⭐ 18 x 🍴8 x 😁6) - **[inifiled](https://github.com/burner/inifiled)** (2014) - a compile time ini file parser and writter generator for D
-
-#### Github > D > Blog Engine
-
-[💯 **https://metaawesome.io/github/d/blog-engine** ](https://metaawesome.io/github/d/blog-engine)
-
- - (⭐ 43 x 🍴12 x 😁4) - **[mood](https://github.com/Dicebot/mood)** (2015) - Automatic mirror of https://gitlab.com/mihails.strasuns/mood
-
-#### Github > D > Testing
-
-[💯 **https://metaawesome.io/github/d/testing** ](https://metaawesome.io/github/d/testing)
-
- - (⭐ 93 x 🍴22 x 😁20) - **[unit-threaded](https://github.com/atilaneves/unit-threaded)** (2013) - Advanced unit test framework for D
- - (⭐ 61 x 🍴14 x 😁6) - **[dunit](https://github.com/nomad-software/dunit)** (2013) - Advanced unit testing toolkit for the D programming language
-
-### Github > .NET
-
- - [Roadmaps](#github--.net--roadmaps)
- - [Starter Kits](#github--.net--starter-kits)
- - [Sample Projects](#github--.net--sample-projects)
-
-#### Github > .NET > Roadmaps
-
-[💯 **https://metaawesome.io/github/.net/roadmaps** ](https://metaawesome.io/github/.net/roadmaps)
-
- - (⭐ 1,663 x 🍴270 x 😁9) - **[AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)** (2019) - Roadmap to becoming an ASP.NET Core developer in 2019
-
-#### Github > .NET > Starter Kits
-
-[💯 **https://metaawesome.io/github/.net/starter-kits** ](https://metaawesome.io/github/.net/starter-kits)
-
- - (⭐ 3,382 x 🍴295 x 😁25) - **[core](https://github.com/bitwarden/core)** (2015) - The core infrastructure backend (API, database, Docker, etc).
- - (⭐ 3,169 x 🍴541 x 😁72) - **[JavaScriptServices](https://github.com/aspnet/JavaScriptServices)** (2015) - [Archived] Microsoft ASP.NET Core JavaScript Services. Project moved to https://github.com/aspnet/AspNetCore
- - (⭐ 1,372 x 🍴479 x 😁48) - **[aspnetcore-angular2-universal](https://github.com/MarkPieszak/aspnetcore-angular2-universal)** (2016) - ASP.NET Core & Angular Universal advanced starter - PWA w/ server-side rendering for SEO, Bootstrap, i18n internationalization, TypeScript, unit testing, WebAPI REST setup, SignalR, Swagger docs, and more! By @TrilonIO
- - (⭐ 1,016 x 🍴195 x 😁8) - **[aspnet-starter-kit](https://github.com/kriasoft/aspnet-starter-kit)** (2014) - Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate.
- - (⭐ 975 x 🍴253 x 😁25) - **[aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter)** (2016) - *NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO
- - (⭐ 902 x 🍴189 x 😁53) - **[generator-aspnet](https://github.com/OmniSharp/generator-aspnet)** (2014) - yo generator for ASP.NET Core
- - (⭐ 750 x 🍴262 x 😁4) - **[saaskit](https://github.com/saaskit/saaskit)** (2013) - A developer toolkit for building SaaS applications
- - (⭐ 718 x 🍴113 x 😁5) - **[dotNetify](https://github.com/dsuryd/dotNetify)** (2015) - Simple, lightweight, yet powerful way to build real-time HTML + C# .NET web apps.
- - (⭐ 279 x 🍴44 x 😁7) - **[react-aspnet-boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)** (2016) - A starting point for building isomorphic React applications with ASP.NET Core, leveraging existing techniques.
- - (⭐ 264 x 🍴46 x 😁5) - **[AutoHistory](https://github.com/Arch/AutoHistory)** (2016) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
- - (⭐ 99 x 🍴28 x 😁1) - **[Nucleus](https://github.com/alirizaadiyahsi/Nucleus)** (2018) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
- - https://github.com/Archfalse
-
-#### Github > .NET > Sample Projects
-
-[💯 **https://metaawesome.io/github/.net/sample-projects** ](https://metaawesome.io/github/.net/sample-projects)
-
- - (⭐ 10,321 x 🍴4,151 x 😁92) - **[eShopOnContainers](https://github.com/dotnet/eShopOnContainers)** (2016) - Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.2, Docker engine and optionally Azure, Kubernetes or Service Fabric. Supports V…
- - (⭐ 3,029 x 🍴1,277 x 😁22) - **[eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)** (2017) - Sample ASP.NET Core 2.2 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download 130+ page eBook PDF from docs folder.
- - (⭐ 2,662 x 🍴323 x 😁11) - **[practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore)** (2016) - Practical samples of aspnet core 2.1, 2.2 and 3.0-preview-6 projects you can use. Readme contains explanations on all projects.
- - (⭐ 2,627 x 🍴800 x 😁8) - **[EquinoxProject](https://github.com/EduardoPires/EquinoxProject)** (2016) - Full ASP.NET Core 2.2 application with DDD, CQRS and Event Sourcing
- - (⭐ 2,297 x 🍴771 x 😁16) - **[NorthwindTraders](https://github.com/JasonGT/NorthwindTraders)** (2016) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
- - (⭐ 1,363 x 🍴958 x 😁56) - **[MusicStore](https://github.com/aspnet/MusicStore)** (2014) - [Archived] MusicStore test application that uses ASP.NET/EF Core. Project moved to https://github.com/aspnet/AspNetCore
- - (⭐ 1,159 x 🍴343 x 😁45) - **[ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)** (2015) - Real-time trading platform demo showcasing reactive programming principles applied across the full application stack.
- - (⭐ 911 x 🍴157 x 😁6) - **[coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices)** (2018) - :ferris_wheel: A Kubernetes-based polyglot microservices application with Istio service mesh
- - (⭐ 911 x 🍴195 x 😁6) - **[AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)** (2016) - A workshop for moving through the various new pieces in ASP.NET Core Authorization
- - (⭐ 911 x 🍴195 x 😁6) - **[AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)** (2016) - A workshop for moving through the various new pieces in ASP.NET Core Authorization
- - (⭐ 813 x 🍴573 x 😁164) - **[allReady](https://github.com/HTBox/allReady)** (2015) - This repo contains the code for allReady, an open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communitie…
- - (⭐ 785 x 🍴190 x 😁8) - **[cloudscribe](https://github.com/cloudscribe/cloudscribe)** (2014) - ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more 
- - (⭐ 457 x 🍴226 x 😁44) - **[Entropy](https://github.com/aspnet/Entropy)** (2014) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
- - (⭐ 443 x 🍴69 x 😁1) - **[StarWars](https://github.com/JacekKosciesza/StarWars)** (2017) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core
- - (⭐ 405 x 🍴155 x 😁1) - **[AlbumViewerVNext](https://github.com/RickStrahl/AlbumViewerVNext)** (2014) - West Wind Album Viewer ASP.NET Core and Angular Sample
- - (⭐ 358 x 🍴188 x 😁2) - **[aspnet5-angular2-typescript](https://github.com/chsakell/aspnet5-angular2-typescript)** (2015) - Cross-platform Single Page Applications with ASP.NET Core, Angular 4 & TypeScript
- - (⭐ 292 x 🍴88 x 😁5) - **[dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc)** (2018) - Very simplified insurance sales system made in a microservices architecture using .NET Core
- - (⭐ 240 x 🍴100 x 😁2) - **[DotNetClub](https://github.com/scheshan/DotNetClub)** (2015) - A tiny club written in Asp.Net Core
- - (⭐ 211 x 🍴46 x 😁1) - **[aspnet-servicediscovery-patterns](https://github.com/cecilphillip/aspnet-servicediscovery-patterns)** (2016) - Samples of simple service discovery patterns with ASP .NET Core
- - (⭐ 167 x 🍴33 x 😁1) - **[sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api)** (2019) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
- - (⭐ 124 x 🍴52 x 😁1) - **[magazine-website](https://github.com/thangchung/magazine-website)** (2013) - :mouse: A magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied...
- - (⭐ 124 x 🍴49 x 😁1) - **[microservices-in-dotnetcore](https://github.com/horsdal/microservices-in-dotnetcore)** (2016) - The code sample from my microservices book - https://manning.com/books/microservices-in-net-core
- - (⭐ 112 x 🍴45 x 😁1) - **[Demo-EFCore](https://github.com/rowanmiller/Demo-EFCore)** (2016)false
- - (⭐ 106 x 🍴39 x 😁1) - **[nlayerappv3](https://github.com/cesarcastrocuba/nlayerappv3)** (2017) - Domain Driven Design (DDD) N-LayeredArchitecture with .Net Core 2
- - (⭐ 96 x 🍴30 x 😁2) - **[OrchardCore.Samples](https://github.com/OrchardCMS/OrchardCore.Samples)** (2017) - Modules and Multi-Tenancy in ASP.NET samples using the Orchard Core framework
- - (⭐ 80 x 🍴17 x 😁2) - **[GenVue](https://github.com/herbat73/GenVue)** (2018) - GenVue is a hostable, web application that lets confidential users upload and share private files. Tech stack: Net Core 2.0 + Vue.js + Vuex + OpenIddict + Vuetifyjs + EF +  SQLServer/Postgress
- - (⭐ 57 x 🍴23 x 😁8) - **[guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps)** (2016) - How to manage user identities in a multitenant app on Microsoft Azure, using Azure Active Directory for authentication.
- - (⭐ 55 x 🍴30 x 😁4) - **[CoreCodeCamp](https://github.com/shawnwildermuth/CoreCodeCamp)** (2016) - An Open Source Website for running small, local development events
- - (⭐ 52 x 🍴9 x 😁1) - **[JustA.ML](https://github.com/mustakimali/JustA.ML)** (2017) - Web application to share files & texts between your devices without installing anything - written in #AspNetCore 2 and #SignalR
- - (⭐ 51 x 🍴7 x 😁1) - **[InMemoryCQRSReplication](https://github.com/Aaronontheweb/InMemoryCQRSReplication)** (2019) - Akka.NET Reference Architecture - CQRS + Sharding + In-Memory Replication
- - (⭐ 35 x 🍴6 x 😁1) - **[AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch)** (2015) - ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger
- - (⭐ 30 x 🍴3 x 😁1) - **[distributed-playground](https://github.com/jvandevelde/distributed-playground)** (2016) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core
- - (⭐ 25 x 🍴17 x 😁5) - **[BikeSharing360_BotApps](https://github.com/Microsoft/BikeSharing360_BotApps)** (2016) - BikeSharing360 Bot Demo Apps
- - (⭐ 24 x 🍴7 x 😁3) - **[MegaMine](https://github.com/Nootus/MegaMine)** (2015) - Open source mining solution that helps miners in extracting Gold, Quartz, Granite etc. This solution is built using ASP.NET Core and AngularJS utilizing multiple light weight components in a Microservices way
- - (⭐ 90 x 😁1) - **[minicompiler](https://github.com/ealsur/minicompiler)** (2016) - Minification, bundling and compiling sample
- - https://github.com/devmentorsfalse
- - https://gist.github.com/davidfowl/ed7564297c61fe9ab814false
- - https://github.com/trending?l=csharpfalse
-
-#### Github > .NET > Frameworks, Libraries and Tools
-
- - [API](#github--.net--frameworks,-libraries-and-tools--api)
- - [Application Frameworks](#github--.net--frameworks,-libraries-and-tools--application-frameworks)
- - [Application Templates](#github--.net--frameworks,-libraries-and-tools--application-templates)
- - [Authentication and Authorization](#github--.net--frameworks,-libraries-and-tools--authentication-and-authorization)
- - [Blockchain](#github--.net--frameworks,-libraries-and-tools--blockchain)
- - [Bot](#github--.net--frameworks,-libraries-and-tools--bot)
- - [Build Automation](#github--.net--frameworks,-libraries-and-tools--build-automation)
- - [Bundling and Minification](#github--.net--frameworks,-libraries-and-tools--bundling-and-minification)
- - [Caching](#github--.net--frameworks,-libraries-and-tools--caching)
- - [CMS](#github--.net--frameworks,-libraries-and-tools--cms)
- - [Code Analysis and Metrics](#github--.net--frameworks,-libraries-and-tools--code-analysis-and-metrics)
- - [Compression](#github--.net--frameworks,-libraries-and-tools--compression)
- - [Compilers, Transpilers and Languages](#github--.net--frameworks,-libraries-and-tools--compilers,-transpilers-and-languages)
- - [Cryptography](#github--.net--frameworks,-libraries-and-tools--cryptography)
- - [Database](#github--.net--frameworks,-libraries-and-tools--database)
- - [Database Drivers](#github--.net--frameworks,-libraries-and-tools--database-drivers)
- - [Database Tools and Utilities](#github--.net--frameworks,-libraries-and-tools--database-tools-and-utilities)
- - [Date and Time](#github--.net--frameworks,-libraries-and-tools--date-and-time)
- - [Distributed Computing](#github--.net--frameworks,-libraries-and-tools--distributed-computing)
- - [E-Commerce and Payments](#github--.net--frameworks,-libraries-and-tools--e-commerce-and-payments)
- - [Exceptions](#github--.net--frameworks,-libraries-and-tools--exceptions)
- - [Functional Programming](#github--.net--frameworks,-libraries-and-tools--functional-programming)
- - [Graphics](#github--.net--frameworks,-libraries-and-tools--graphics)
- - [GUI](#github--.net--frameworks,-libraries-and-tools--gui)
- - [IDE](#github--.net--frameworks,-libraries-and-tools--ide)
- - [Internationalization](#github--.net--frameworks,-libraries-and-tools--internationalization)
- - [IOC](#github--.net--frameworks,-libraries-and-tools--ioc)
- - [Logging](#github--.net--frameworks,-libraries-and-tools--logging)
- - [Machine Learning and Data Science](#github--.net--frameworks,-libraries-and-tools--machine-learning-and-data-science)
- - [Mail](#github--.net--frameworks,-libraries-and-tools--mail)
- - [Mathematics](#github--.net--frameworks,-libraries-and-tools--mathematics)
- - [Misc](#github--.net--frameworks,-libraries-and-tools--misc)
- - [Networking](#github--.net--frameworks,-libraries-and-tools--networking)
- - [Office](#github--.net--frameworks,-libraries-and-tools--office)
- - [ORM](#github--.net--frameworks,-libraries-and-tools--orm)
- - [Profiling](#github--.net--frameworks,-libraries-and-tools--profiling)
- - [Query Builders](#github--.net--frameworks,-libraries-and-tools--query-builders)
- - [Queue and Messaging](#github--.net--frameworks,-libraries-and-tools--queue-and-messaging)
- - [Reporting](#github--.net--frameworks,-libraries-and-tools--reporting)
- - [Scheduler and Job](#github--.net--frameworks,-libraries-and-tools--scheduler-and-job)
- - [SDKs](#github--.net--frameworks,-libraries-and-tools--sdks)
- - [Security](#github--.net--frameworks,-libraries-and-tools--security)
- - [Searching](#github--.net--frameworks,-libraries-and-tools--searching)
- - [Serialization](#github--.net--frameworks,-libraries-and-tools--serialization)
- - [Template Engine](#github--.net--frameworks,-libraries-and-tools--template-engine)
- - [Testing](#github--.net--frameworks,-libraries-and-tools--testing)
- - [Tools](#github--.net--frameworks,-libraries-and-tools--tools)
- - [Web Framework](#github--.net--frameworks,-libraries-and-tools--web-framework)
- - [Web Socket](#github--.net--frameworks,-libraries-and-tools--web-socket)
- - [Windows Service](#github--.net--frameworks,-libraries-and-tools--windows-service)
- - [Workflow](#github--.net--frameworks,-libraries-and-tools--workflow)
-
-##### Github > .NET > Frameworks, Libraries and Tools > API
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/api** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/api)
-
- - (⭐ 6,442 x 🍴1,883 x 😁186) - **[RestSharp](https://github.com/restsharp/RestSharp)** (2009) - Simple REST and HTTP API Client for .NET
- - (⭐ 3,383 x 🍴561 x 😁99) - **[graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)** (2015) - GraphQL for .NET
- - (⭐ 3,346 x 🍴364 x 😁61) - **[refit](https://github.com/paulcbetts/refit)** (2013) - The automatic type-safe REST library for Xamarin and .NET
- - (⭐ 2,649 x 🍴531 x 😁110) - **[NSwag](https://github.com/RSuter/NSwag)** (2015) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. 
- - (⭐ 2,540 x 🍴865 x 😁402) - **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** (2018) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
- - (⭐ 2,434 x 🍴469 x 😁101) - **[autorest](https://github.com/Azure/autorest)** (2015) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
- - (⭐ 2,424 x 🍴587 x 😁86) - **[Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)** (2015) - Swagger tools for documenting API's built on ASP.NET Core
- - (⭐ 1,719 x 🍴197 x 😁11) - **[Flurl](https://github.com/tmenier/Flurl)** (2014) - Fluent URL builder and testable HTTP client for .NET
- - (⭐ 1,311 x 🍴366 x 😁11) - **[aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning)** (2016) - Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
- - (⭐ 849 x 🍴123 x 😁6) - **[AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit)** (2016) - ASP.NET Core rate limiting middleware
- - (⭐ 458 x 🍴54 x 😁8) - **[RestEase](https://github.com/canton7/RestEase)** (2015) - Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
- - (⭐ 453 x 🍴55 x 😁19) - **[hotchocolate](https://github.com/ChilliCream/hotchocolate)** (2018) - Hot Chocolate is a GraphQL server, written in C# for .Net Core and .Net Framework
- - (⭐ 377 x 🍴82 x 😁18) - **[WebAPIContrib.Core](https://github.com/WebApiContrib/WebAPIContrib.Core)** (2016) - Community Contributions for ASP.NET Core
- - (⭐ 313 x 🍴71 x 😁29) - **[json-api-dotnet-core](https://github.com/Research-Institute/json-api-dotnet-core)** (2016) - JSONAPI Framework for ASP.Net Core
- - (⭐ 276 x 🍴105 x 😁22) - **[RESTier](https://github.com/OData/RESTier)** (2014) - A turn-key library for building RESTful services
- - (⭐ 225 x 🍴34 x 😁12) - **[FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL)** (2016) - FSharp implementation of Facebook GraphQL query language.
- - (⭐ 193 x 🍴67 x 😁26) - **[server](https://github.com/graphql-dotnet/server)** (2017) - ASP.NET Core Server + WebSockets Transport
- - (⭐ 154 x 🍴23 x 😁7) - **[Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL)** (2017) - A .NET Core library designed to integrate the Dapper and graphql-dotnet projects with ease-of-use in mind and performance as the primary concern.
- - (⭐ 151 x 🍴37 x 😁13) - **[conventions](https://github.com/graphql-dotnet/conventions)** (2016) - GraphQL Conventions Library for .NET
- - (⭐ 146 x 🍴32 x 😁6) - **[LightNode](https://github.com/neuecc/LightNode)** (2013) - Micro RPC/REST Framework built on OWIN
- - (⭐ 140 x 🍴46 x 😁9) - **[Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters)** (2017) - A bunch of useful filters for Swashbuckle.AspNetCore
- - (⭐ 116 x 🍴25 x 😁3) - **[CondenserDotNet](https://github.com/Drawaes/CondenserDotNet)** (2016) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul lib
- - (⭐ 115 x 🍴28 x 😁11) - **[graphql-aspnetcore](https://github.com/JuergenGutsch/graphql-aspnetcore)** (2017) - ASP.NET Core MiddleWare to create a GraphQL end-point
- - (⭐ 111 x 🍴27 x 😁6) - **[graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet)** (2017) - GraphiQL middleware for ASP.NET Core
- - (⭐ 97 x 🍴25 x 😁5) - **[parser](https://github.com/graphql-dotnet/parser)** (2016) - A lexer and parser for GraphQL in .NET
- - (⭐ 94 x 🍴9 x 😁4) - **[graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore)** (2016) - GraphQL for .NET core based on https://github.com/graphql/graphql-js
- - (⭐ 82 x 🍴9 x 😁1) - **[RestLess](https://github.com/letsar/RestLess)** (2017) - The automatic type-safe-reflectionless REST API client library for .Net Standard
- - (⭐ 80 x 🍴16 x 😁4) - **[MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation)** (2018) - Use FluentValidation rules instead of ComponentModel attributes
- - (⭐ 61 x 🍴24 x 😁9) - **[halcyon](https://github.com/visualeyes/halcyon)** (2015) - A HAL implementation for ASP.NET
- - (⭐ 32 x 🍴4 x 😁2) - **[Proxy](https://github.com/NetCoreStack/Proxy)** (2016) - The type-safe REST library for .NET Standard 2.0 (NetCoreStack Flying Proxy)
- - (⭐ 11 x 🍴5 x 😁3) - **[RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net)** (2018) - Cross Platform REST Client for all C# platforms
- - https://github.com/OData/WebApi/tree/feature/netcorefalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > Application Frameworks
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/application-frameworks** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/application-frameworks)
-
- - (⭐ 6,973 x 🍴2,713 x 😁127) - **[aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate)** (2013) - ASP.NET Boilerplate - Web Application Framework
- - (⭐ 6,787 x 🍴1,462 x 😁100) - **[Nancy](https://github.com/NancyFx/Nancy)** (2010) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
- - (⭐ 5,771 x 🍴2,234 x 😁150) - **[Mvc](https://github.com/aspnet/Mvc)** (2013) - [Archived] ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. Project moved to https://github.com/aspnet/AspNetC…
- - (⭐ 5,094 x 🍴1,243 x 😁176) - **[orleans](https://github.com/dotnet/orleans)** (2014) - Orleans - Distributed Virtual Actor Model
- - (⭐ 4,498 x 🍴1,536 x 😁100) - **[ServiceStack](https://github.com/ServiceStack/ServiceStack)** (2011) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
- - (⭐ 4,448 x 🍴400 x 😁83) - **[fission](https://github.com/fission/fission)** (2016) - Fast Serverless Functions for Kubernetes
- - (⭐ 3,436 x 🍴283 x 😁22) - **[Electron.NET](https://github.com/ElectronNET/Electron.NET)** (2017) - Build cross platform desktop apps with ASP.NET Core.
- - (⭐ 3,297 x 🍴846 x 😁185) - **[akka.net](https://github.com/akkadotnet/akka.net)** (2013) - Port of Akka actors for .NET
- - (⭐ 2,801 x 🍴570 x 😁13) - **[CAP](https://github.com/dotnetcore/CAP)** (2016) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
- - (⭐ 2,442 x 🍴644 x 😁37) - **[DotNetty](https://github.com/Azure/DotNetty)** (2015) - DotNetty project – a port of netty, event-driven asynchronous network application framework
- - (⭐ 2,133 x 🍴850 x 😁100) - **[MassTransit](https://github.com/MassTransit/MassTransit)** (2010) - Distributed Application Framework for .NET
- - (⭐ 1,982 x 🍴610 x 😁16) - **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)** (2016) - DotnetSpider, a .NET Standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
- - (⭐ 1,772 x 🍴578 x 😁19) - **[ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)** (2014) - Lightweight and fast library written in C# for reading Microsoft Excel files
- - (⭐ 1,718 x 🍴205 x 😁3) - **[AsyncEx](https://github.com/StephenCleary/AsyncEx)** (2014) - A helper library for async/await.
- - (⭐ 1,697 x 🍴465 x 😁32) - **[opencvsharp](https://github.com/shimat/opencvsharp)** (2013) - .NET Framework wrapper for OpenCV 
- - (⭐ 1,652 x 🍴211 x 😁31) - **[MoreLINQ](https://github.com/morelinq/MoreLINQ)** (2015) - Extensions to LINQ to Objects
- - (⭐ 1,533 x 🍴128 x 😁11) - **[Chromely](https://github.com/mattkol/Chromely)** (2017) - Build HTML Desktop Apps on .NET/.NET Core using native GUI, HTML5, JavaScript, CSS
- - (⭐ 1,171 x 🍴247 x 😁35) - **[EventFlow](https://github.com/eventflow/EventFlow)** (2015) - Async/await first CQRS+ES and DDD framework for .NET
- - (⭐ 1,093 x 🍴154 x 😁12) - **[MagicOnion](https://github.com/neuecc/MagicOnion)** (2016) - Unified Realtime/API Engine for .NET Core and Unity.
- - (⭐ 935 x 🍴147 x 😁15) - **[microdot](https://github.com/gigya/microdot)** (2017) - Microdot: An open source .NET microservices framework
- - (⭐ 831 x 🍴180 x 😁37) - **[protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet)** (2017) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
- - (⭐ 693 x 🍴209 x 😁16) - **[CQRSlite](https://github.com/gautema/CQRSlite)** (2010) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
- - (⭐ 651 x 🍴88 x 😁32) - **[embedio](https://github.com/unosquare/embedio)** (2014) - A tiny, cross-platform, module based web server for .NET
- - (⭐ 496 x 🍴33 x 😁6) - **[resin](https://github.com/kreeben/resin)** (2016) - Search/NLU engine with pluggable vector space models.
- - (⭐ 491 x 🍴131 x 😁35) - **[X.PagedList](https://github.com/dncuug/X.PagedList)** (2013) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core
- - (⭐ 402 x 🍴69 x 😁36) - **[dotvvm](https://github.com/riganti/dotvvm)** (2014) - Open source MVVM framework for Web Apps
- - (⭐ 374 x 🍴57 x 😁28) - **[Carter](https://github.com/CarterCommunity/Carter)** (2017) - Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.
- - (⭐ 336 x 🍴54 x 😁6) - **[DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins)** (2018) - .NET Core library for loading assemblies as a plugin
- - (⭐ 273 x 🍴66 x 😁16) - **[Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET)** (2016) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
- - (⭐ 185 x 🍴35 x 😁22) - **[Halibut](https://github.com/OctopusDeploy/Halibut)** (2013) - A secure communication stack for .NET using JSON-RPC over SSL. 
- - (⭐ 177 x 🍴40 x 😁2) - **[ChoETL](https://github.com/Cinchoo/ChoETL)** (2016) - ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files)
- - (⭐ 172 x 🍴35 x 😁1) - **[Aggregates.NET](https://github.com/volak/Aggregates.NET)** (2014) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
- - (⭐ 159 x 🍴21 x 😁3) - **[butterfly-server-dotnet](https://github.com/firesharkstudios/butterfly-server-dotnet)** (2017) - The Everything is Real-Time C# Backend for Web and Desktop Apps
- - (⭐ 126 x 🍴39 x 😁5) - **[Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant)** (2017) - Finbuckle.MultiTenant is a multitenancy library for ASP.NET Core 2.1+. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.
- - (⭐ 89 x 🍴7 x 😁3) - **[Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs)** (2017) - A lightweight and easy-to-use CQRS + DDD library
- - (⭐ 85 x 🍴31 x 😁8) - **[dataaccess_aspnetcore](https://github.com/digipolisantwerp/dataaccess_aspnetcore)** (2015) - Generic repository/unit of work framework for ASP.NET Core with Entity Framework.
- - (⭐ 82 x 🍴19 x 😁1) - **[DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore)** (2019) - Lightweight and Extensible Infrastructure for Building Web Applications
- - (⭐ 59 x 🍴7 x 😁2) - **[Strathweb.TypedRouting.AspNetCore](https://github.com/filipw/Strathweb.TypedRouting.AspNetCore)** (2016) - A library enabling strongly typed routing in ASP.NET Core MVC projects.
- - (⭐ 44 x 🍴8 x 😁2) - **[RService.IO](https://github.com/Stoom/RService.IO)** (2016) - Light weight REST service framework for ASP.NET Core
- - https://github.com/Eastrall/Ether.Networkfalse
- - https://github.com/ExtCorefalse
- - https://github.com/grpc/grpc/tree/master/src/csharpfalse
- - https://github.com/SteelToeOSSfalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > Application Templates
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/application-templates** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/application-templates)
-
- - (⭐ 3,169 x 🍴541 x 😁72) - **[JavaScriptServices](https://github.com/aspnet/JavaScriptServices)** (2015) - [Archived] Microsoft ASP.NET Core JavaScript Services. Project moved to https://github.com/aspnet/AspNetCore
- - (⭐ 2,160 x 🍴1,729 x 😁100) - **[kendo-ui-core](https://github.com/telerik/kendo-ui-core)** (2014) - An HTML5, jQuery-based widget library for building modern web apps.
- - (⭐ 1,710 x 🍴337 x 😁17) - **[Templates](https://github.com/Dotnet-Boxed/Templates)** (2014) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
- - (⭐ 1,694 x 🍴577 x 😁21) - **[Serenity](https://github.com/volkanceylan/Serenity)** (2014) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
- - (⭐ 868 x 🍴336 x 😁11) - **[AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa)** (2016) - Asp.Net Core 2.2 & Angular 7 SPA Fullstack application with plenty of examples. Live demo: 
- - (⭐ 731 x 🍴364 x 😁3) - **[QuickApp](https://github.com/emonney/QuickApp)** (2017) - ASP.NET Core 2.2 / Angular 7 startup project template with complete login, user and role management. Plus other useful services for Quick Application Development
- - (⭐ 485 x 🍴135 x 😁7) - **[AngularWebpackVisualStudio](https://github.com/damienbod/AngularWebpackVisualStudio)** (2016) - Template for ASP.NET Core, Angular with Webpack and Visual Studio
- - (⭐ 384 x 🍴106 x 😁7) - **[aspnet-core-react-template](https://github.com/bradymholt/aspnet-core-react-template)** (2016) - ASP.NET Core 2.1 / React SPA Template App
- - (⭐ 226 x 🍴64 x 😁9) - **[ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template)** (2016) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
- - (⭐ 200 x 🍴27 x 😁1) - **[toucan](https://github.com/mrellipse/toucan)** (2017) - Boilerplate template using Vue.js, TypeScript and .NET Core 2.1, based on SOLID design principles
- - (⭐ 189 x 🍴45 x 😁8) - **[AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders)** (2016) - Enable feature folders for MVC controllers and views in ASP.NET Core
- - (⭐ 149 x 🍴20 x 😁1) - **[dotnet-new-caju](https://github.com/ivanpaulovich/dotnet-new-caju)** (2017) - This dotnet-new template for .NET Back-ends increases productivity on building applications with the Hexagonal, Clean or Event Sourcing architectures styles. This tool generates a .NET back-end with built-in best practices in 15 seconds!
- - (⭐ 15 x 🍴3 x 😁1) - **[DNTFrameworkCoreTemplate](https://github.com/rabbal/DNTFrameworkCoreTemplate)** (2019) - Boilerplate project templates based on DNTFrameworkCore
-
-##### Github > .NET > Frameworks, Libraries and Tools > Authentication and Authorization
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/authentication-and-authorization** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/authentication-and-authorization)
-
- - (⭐ 4,641 x 🍴1,356 x 😁100) - **[IdentityServer4](https://github.com/IdentityServer/IdentityServer4)** (2015) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
- - (⭐ 1,870 x 🍴826 x 😁89) - **[Identity](https://github.com/aspnet/Identity)** (2014) - [Archived] ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data. Project moved to https://github.com/aspnet/AspNetCore
- - (⭐ 1,225 x 🍴61 x 😁7) - **[Cierge](https://github.com/PwdLess/Cierge)** (2016) - 🗝️ Passwordless OIDC authentication done right
- - (⭐ 912 x 🍴179 x 😁15) - **[openiddict-core](https://github.com/openiddict/openiddict-core)** (2015) - Easy-to-use OpenID Connect server for ASP.NET Core
- - (⭐ 494 x 🍴131 x 😁7) - **[AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server)** (2014) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core
- - (⭐ 243 x 🍴29 x 😁10) - **[stuntman](https://github.com/ritterim/stuntman)** (2015) - Library for impersonating users during development leveraging ASP.NET Identity.
- - (⭐ 216 x 🍴50 x 😁11) - **[IdentityServer4.Templates](https://github.com/IdentityServer/IdentityServer4.Templates)** (2017) - dotnet new templates for IdentityServer4
- - (⭐ 208 x 🍴146 x 😁10) - **[IdentityServer4.EntityFramework](https://github.com/IdentityServer/IdentityServer4.EntityFramework)** (2016) - EntityFramework persistence layer for IdentityServer4
- - (⭐ 134 x 🍴110 x 😁41) - **[auth0.net](https://github.com/auth0/auth0.net)** (2013) - .NET client for the Auth0 Authentication & Management APIs.
- - (⭐ 69 x 🍴27 x 😁7) - **[IdentityServer4.MongoDB](https://github.com/diogodamiani/IdentityServer4.MongoDB)** (2016) - MongoDB persistence layer for IdentityServer4
- - (⭐ 54 x 🍴12 x 😁6) - **[stormpath-sdk-dotnet](https://github.com/stormpath/stormpath-sdk-dotnet)** (2015) - The Official Stormpath SDK for C# and Visual Basic.  Stormpath enables developers to build user authentication, user management, and security workflows quickly into their apps.
- - (⭐ 54 x 🍴12 x 😁6) - **[stormpath-sdk-dotnet](https://github.com/stormpath/stormpath-sdk-dotnet)** (2015) - The Official Stormpath SDK for C# and Visual Basic.  Stormpath enables developers to build user authentication, user management, and security workflows quickly into their apps.
- - (⭐ 48 x 🍴8 x 😁3) - **[oidc-debugger](https://github.com/nbarbettini/oidc-debugger)** (2017) - OAuth 2.0 and OpenID Connect debugging tool
- - (⭐ 41 x 🍴13 x 😁3) - **[TwentyTwenty.IdentityServer4.EntityFrameworkCore](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore)** (2016)false
-
-##### Github > .NET > Frameworks, Libraries and Tools > Blockchain
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/blockchain** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/blockchain)
-
- - (⭐ 2,837 x 🍴883 x 😁35) - **[neo](https://github.com/neo-project/neo)** (2015) - NEO Smart Economy
- - (⭐ 1,343 x 🍴639 x 😁67) - **[NBitcoin](https://github.com/MetacoSA/NBitcoin)** (2014) - Comprehensive Bitcoin library for the .NET framework.
- - (⭐ 1,008 x 🍴267 x 😁49) - **[btcpayserver](https://github.com/btcpayserver/btcpayserver)** (2017) - A cross platform, self-hosted server compatible with Bitpay API 
- - (⭐ 678 x 🍴298 x 😁64) - **[StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode)** (2016) - Bitcoin full node in C#
- - (⭐ 629 x 🍴137 x 😁33) - **[WalletWasabi](https://github.com/zkSNACKs/WalletWasabi)** (2016) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
- - (⭐ 130 x 🍴88 x 😁20) - **[NBXplorer](https://github.com/dgarage/NBXplorer)** (2017) - NBitcoin Explorer
- - (⭐ 99 x 🍴25 x 😁12) - **[nethermind](https://github.com/NethermindEth/nethermind)** (2017) - .NET Core Ethereum client for Linux, Windows, MacOs - full and actively developed
- - (⭐ 77 x 🍴14 x 😁5) - **[Meadow](https://github.com/MeadowSuite/Meadow)** (2018) - Integrated Ethereum implementation and tool suite focused on Solidity testing and development.
- - (⭐ 38 x 🍴10 x 😁2) - **[NBlockchain](https://github.com/danielgerlag/NBlockchain)** (2017) - .NET standard library for building blockchain enabled applications
- - (⭐ 20 x 🍴6 x 😁2) - **[Trezor.Net](https://github.com/MelbourneDeveloper/Trezor.Net)** (2018) - Cross platform C# library for talking to the Trezor hardwarewallet
- - https://github.com/Nethereumfalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > Bot
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/bot** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/bot)
-
- - (⭐ 1,038 x 🍴340 x 😁33) - **[Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot)** (2015) - .NET Client for Telegram Bot API
- - (⭐ 902 x 🍴786 x 😁67) - **[NadekoBot](https://github.com/Kwoth/NadekoBot)** (2015) - Open source, general-purpose Discord chat bot written in C#
- - (⭐ 675 x 🍴145 x 😁8) - **[BotSharp](https://github.com/SciSharp/BotSharp)** (2017) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
- - (⭐ 38 x 🍴11 x 😁5) - **[Funogram](https://github.com/Dolfik1/Funogram)** (2017) - F# Telegram Bot Api library
-
-##### Github > .NET > Frameworks, Libraries and Tools > Build Automation
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/build-automation** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/build-automation)
-
- - (⭐ 3,956 x 🍴918 x 😁100) - **[msbuild](https://github.com/Microsoft/msbuild)** (2015) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
- - (⭐ 3,740 x 🍴742 x 😁51) - **[Opserver](https://github.com/opserver/Opserver)** (2013) - Stack Exchange's Monitoring System
- - (⭐ 2,257 x 🍴556 x 😁100) - **[cake](https://github.com/cake-build/cake)** (2014) - Cake (C# Make) is a cross platform build automation system.
- - (⭐ 1,674 x 🍴626 x 😁30) - **[dotnet-docker](https://github.com/dotnet/dotnet-docker)** (2015) - This repo contains the base Docker images for working with .NET Core and the .NET Core Tools.
- - (⭐ 668 x 🍴82 x 😁11) - **[Colorful.Console](https://github.com/tomakita/Colorful.Console)** (2015) - Style your .NET console output!
- - (⭐ 432 x 🍴54 x 😁27) - **[nuke](https://github.com/nuke-build/nuke)** (2017) - Build Automation System for C#/.NET
- - (⭐ 343 x 🍴46 x 😁10) - **[flubu.core](https://github.com/flubu-core/flubu.core)** (2017) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
- - (⭐ 295 x 🍴67 x 😁35) - **[Nerdbank.GitVersioning](https://github.com/AArnott/Nerdbank.GitVersioning)** (2015) - Stamp your assemblies and NuGet packages with a version from a single, simple version.txt file and include git commit IDs for non-official builds.
- - (⭐ 290 x 🍴17 x 😁3) - **[go-dotnet](https://github.com/matiasinsaurralde/go-dotnet)** (2016) - Go wrapper for the .NET Core Runtime.
- - (⭐ 273 x 🍴70 x 😁5) - **[communitytools-image2docker-win](https://github.com/docker/communitytools-image2docker-win)** (2016)false
- - (⭐ 162 x 🍴36 x 😁14) - **[GitInfo](https://github.com/kzu/GitInfo)** (2015) - Git and SemVer Info from MSBuild, C# and VB
- - (⭐ 144 x 🍴5 x 😁1) - **[Dockerize.NET](https://github.com/brthor/Dockerize.NET)** (2017) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
- - (⭐ 87 x 🍴16 x 😁2) - **[LocalAppVeyor](https://github.com/joaope/LocalAppVeyor)** (2016) - Run your AppVeyor builds, locally
- - https://github.com/Microsoft/vsts-agent/blob/master/README.mdfalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > Bundling and Minification
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/bundling-and-minification** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/bundling-and-minification)
-
- - (⭐ 379 x 🍴94 x 😁29) - **[BundlerMinifier](https://github.com/madskristensen/BundlerMinifier)** (2015) - Visual Studio extension
- - (⭐ 223 x 🍴22 x 😁1) - **[WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin)** (2015) - The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
- - (⭐ 66 x 🍴13 x 😁6) - **[JavaScriptViewEngine](https://github.com/pauldotknopf/JavaScriptViewEngine)** (2016) - An ASP.NET MVC ViewEngine for rendering markup in a JavaScript environment. Ideal for React and Angular server-side rendering.
- - https://github.com/Shazwazza/Smidge/false
-
-##### Github > .NET > Frameworks, Libraries and Tools > Caching
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/caching** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/caching)
-
- - (⭐ 3,583 x 🍴1,056 x 😁100) - **[StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)** (2014) - General purpose redis client
- - (⭐ 1,450 x 🍴339 x 😁8) - **[CacheManager](https://github.com/MichaCo/CacheManager)** (2015) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
- - (⭐ 1,067 x 🍴184 x 😁23) - **[Foundatio](https://github.com/exceptionless/Foundatio)** (2015) - Pluggable foundation blocks for building distributed apps.
- - (⭐ 525 x 🍴104 x 😁8) - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)** (2017) - :boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
- - (⭐ 466 x 🍴199 x 😁45) - **[Caching](https://github.com/aspnet/Caching)** (2014) - [Archived] Libraries for in-memory caching and distributed caching. Project moved to https://github.com/aspnet/Extensions
- - https://github.com/Microsoft/FASTER/tree/master/csfalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > CMS
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/cms** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/cms)
-
- - (⭐ 2,811 x 🍴975 x 😁100) - **[OrchardCore](https://github.com/OrchardCMS/OrchardCore)** (2014) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that application framework.
- - (⭐ 1,640 x 🍴472 x 😁8) - **[ZKEACMS.Core](https://github.com/SeriaWei/ZKEACMS.Core)** (2017) - ZKEACMS for .Net Core (.Net Core CMS)可视化设计在线编辑内容管理系统
- - (⭐ 1,065 x 🍴190 x 😁60) - **[Wyam](https://github.com/Wyamio/Wyam)** (2014) - A modular static content and static site generator.
- - (⭐ 729 x 🍴261 x 😁14) - **[Miniblog.Core](https://github.com/madskristensen/Miniblog.Core)** (2017) - An ASP.NET Core blogging engine
- - (⭐ 684 x 🍴150 x 😁19) - **[squidex](https://github.com/Squidex/squidex)** (2016) - Headless CMS and Content Managment Hub
- - (⭐ 679 x 🍴208 x 😁8) - **[Weapsy](https://github.com/Weapsy/Weapsy)** (2016) - ASP.NET Core CMS
- - (⭐ 525 x 🍴190 x 😁19) - **[piranha.core](https://github.com/piranhacms/piranha.core)** (2016) - Piranha.Core is the current version of Piranha CMS, completely rewritten for NetStandard & ASP.NET Core.
- - (⭐ 394 x 🍴59 x 😁1) - **[cofoundry](https://github.com/cofoundry-cms/cofoundry)** (2016) - Cofoundry is an extensible and flexible .NET Core CMS & application framework focusing on code first development
- - (⭐ 369 x 🍴168 x 😁11) - **[Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core)** (2017) - Blogifier is simple, beautiful, light-weight open source blog written in ASP.NET Core
- - (⭐ 255 x 🍴58 x 😁4) - **[cloudscribe.SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent)** (2016) - A simple, yet flexible content and blog engine for ASP.NET Core that can work with or without a database, supports markdown or html editing
- - (⭐ 254 x 🍴121 x 😁42) - **[CoreWiki](https://github.com/csharpfritz/CoreWiki)** (2018) - A simple ASP.NET Core wiki that we are working on during live coding streams
- - (⭐ 229 x 🍴86 x 😁3) - **[Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core)** (2018) - Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Background Job, Message Queue.
- - (⭐ 137 x 🍴15 x 😁1) - **[lyniconanc](https://github.com/jamesej/lyniconanc)** (2017) - Lynicon CMS for ASP.Net Core for .Net Standard 2.0/2.1 and .Net 4.6.1/4.6
- - (⭐ 130 x 🍴47 x 😁4) - **[NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS)** (2017) - NetCoreCMS is a modular theme supported Content Management System developed using ASP.Net Core 2.0 MVC. Which is also usable as web application framework. This project is still under development. Please do not use before it's first release.…
- - (⭐ 102 x 🍴39 x 😁2) - **[Swastika-IO-Core](https://github.com/Swastika-IO/Swastika-IO-Core)** (2017) - ✔ [ SIOC ] Swastika I/O Core is an all in one platform (e.g CMS, eCommerce, Forum, Q&A, CRM...) ASP.NET Core / Dotnet Core System based on SIOH Framework.
- - https://github.com/Platformusfalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > Code Analysis and Metrics
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/code-analysis-and-metrics** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/code-analysis-and-metrics)
-
- - (⭐ 5,601 x 🍴651 x 😁145) - **[awesome-static-analysis](https://github.com/mre/awesome-static-analysis)** (2015) - Static analysis tools for all programming languages
- - (⭐ 4,207 x 🍴444 x 😁100) - **[BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)** (2013) - Powerful .NET library for benchmarking
- - (⭐ 1,291 x 🍴286 x 😁67) - **[StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)** (2014) - An implementation of StyleCop rules using the .NET Compiler Platform
- - (⭐ 1,256 x 🍴145 x 😁21) - **[AppMetrics](https://github.com/alhardy/AppMetrics)** (2016) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
- - (⭐ 1,204 x 🍴143 x 😁45) - **[coverlet](https://github.com/tonerdo/coverlet)** (2018) - Cross platform code coverage for .NET
- - (⭐ 1,078 x 🍴222 x 😁26) - **[opencover](https://github.com/OpenCover/opencover)** (2011) - A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points
- - (⭐ 1,067 x 🍴184 x 😁1) - **[Foundatio#metrics](https://github.com/exceptionless/Foundatio#metrics)** (2015) - Pluggable foundation blocks for building distributed apps.
- - (⭐ 842 x 🍴153 x 😁13) - **[Audit.NET](https://github.com/thepirat000/Audit.NET)** (2016) - An extensible framework to audit executing operations in .NET and .NET Core.
- - (⭐ 616 x 🍴124 x 😁26) - **[RefactoringEssentials](https://github.com/icsharpcode/RefactoringEssentials)** (2015) - Refactoring Essentials for Visual Studio
- - (⭐ 539 x 🍴186 x 😁90) - **[roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers)** (2015)false
- - (⭐ 456 x 🍴41 x 😁10) - **[NBench](https://github.com/petabridge/NBench)** (2015) - Performance benchmarking and testing framework for .NET applications
- - (⭐ 336 x 🍴104 x 😁19) - **[prometheus-net](https://github.com/prometheus-net/prometheus-net)** (2015) - .net client for prometheus.io
- - (⭐ 282 x 🍴37 x 😁9) - **[DevSkim](https://github.com/Microsoft/DevSkim)** (2016) - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
- - (⭐ 156 x 🍴27 x 😁15) - **[minicover](https://github.com/lucaslorentz/minicover)** (2017) - Minimalist Code Coverage Tool for .NET Core
- - (⭐ 100 x 🍴31 x 😁4) - **[PerformanceMonitor](https://github.com/dotnet-architecture/PerformanceMonitor)** (2018) - .NET Core Application Performance Monitor
- - (⭐ 49 x 🍴7 x 😁8) - **[Nexogen.Libraries.Metrics](https://github.com/nexogen-international/Nexogen.Libraries.Metrics)** (2017) - Library for collecting application metrics in .NET and exporting them to Prometheus
- - (⭐ 41 x 🍴17 x 😁3) - **[Prometheus.Client](https://github.com/PrometheusClientNet/Prometheus.Client)** (2017) - .Net client for Prometheus
- - (⭐ 7 x 🍴10 x 😁6) - **[Prometheus.Client.MetricServer](https://github.com/PrometheusClientNet/Prometheus.Client.MetricServer)** (2017) - MetricServer for the Prometheus.Client
- - (⭐ 6 x 🍴4 x 😁1) - **[Prometheus.Client.HttpRequestDurations](https://github.com/PrometheusClientNet/Prometheus.Client.HttpRequestDurations)** (2017) - Metrics logging of request durations
- - (⭐ 5 x 🍴4 x 😁4) - **[Prometheus.Client.MetricPusher](https://github.com/PrometheusClientNet/Prometheus.Client.MetricPusher)** (2017) - Push metrics to a PushGateaway for the Prometheus.Client
- - (⭐ 2 x 🍴3 x 😁4) - **[Prometheus.Client.AspNetCore](https://github.com/PrometheusClientNet/Prometheus.Client.AspNetCore)** (2018) - Middleware for the Prometheus.Client 
-
-##### Github > .NET > Frameworks, Libraries and Tools > Compression
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/compression** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/compression)
-
- - (⭐ 1,044 x 🍴292 x 😁59) - **[sharpcompress](https://github.com/adamhathcock/sharpcompress)** (2013) - SharpCompress is a fully managed C# library to deal with many compression types and formats.
- - (⭐ 108 x 🍴16 x 😁3) - **[K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4)** (2018) - LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net) 
-
-##### Github > .NET > Frameworks, Libraries and Tools > Compilers, Transpilers and Languages
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/compilers,-transpilers-and-languages** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/compilers,-transpilers-and-languages)
-
- - (⭐ 11,544 x 🍴2,683 x 😁100) - **[roslyn](https://github.com/dotnet/roslyn)** (2015) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
- - (⭐ 1,643 x 🍴210 x 😁93) - **[Fable](https://github.com/fable-compiler/Fable)** (2016) - F# to JavaScript Compiler
- - (⭐ 1,328 x 🍴163 x 😁21) - **[Sprache](https://github.com/sprache/Sprache)** (2012) - A tiny, friendly, C# parser construction library
- - (⭐ 1,286 x 🍴111 x 😁19) - **[peachpie](https://github.com/peachpiecompiler/peachpie)** (2016) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
- - (⭐ 255 x 🍴21 x 😁3) - **[Pidgin](https://github.com/benjamin-hodgson/Pidgin)** (2017) - C#'s fastest parser combinator library, developed at Stack Overflow.
- - (⭐ 214 x 🍴23 x 😁8) - **[fparsec](https://github.com/stephan-tolksdorf/fparsec)** (2016) - A parser combinator library for F#
- - (⭐ 179 x 🍴13 x 😁7) - **[Mond](https://github.com/Rohansi/Mond)** (2014) - A scripting language for .NET
-
-##### Github > .NET > Frameworks, Libraries and Tools > Cryptography
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/cryptography** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/cryptography)
-
- - (⭐ 248 x 🍴36 x 😁10) - **[bcrypt.net](https://github.com/BcryptNet/bcrypt.net)** (2016) - BCrypt.Net - Bringing updates to the original bcrypt package
- - (⭐ 141 x 🍴20 x 😁1) - **[nsec](https://github.com/ektrah/nsec)** (2017) - A modern and easy-to-use cryptographic library for .NET Core based on libsodium
- - (⭐ 140 x 🍴18 x 😁3) - **[BCrypt.Net-Core](https://github.com/neoKushan/BCrypt.Net-Core)** (2016) - A .net Core port of BCrypt.net
- - (⭐ 93 x 🍴24 x 😁12) - **[BouncyCastle-PCL](https://github.com/onovotny/BouncyCastle-PCL)** (2014) - This version is deprecated. Please use my other repo for the latest https://github.com/onovotny/bc-csharp
- - (⭐ 32 x 🍴6 x 😁3) - **[cs-multihash](https://github.com/multiformats/cs-multihash)** (2016) - Multihash implementation in C#
-
-##### Github > .NET > Frameworks, Libraries and Tools > Database
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/database** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/database)
-
- - (⭐ 4,018 x 🍴672 x 😁46) - **[LiteDB](https://github.com/mbdavid/LiteDB)** (2014) - LiteDB - A .NET NoSQL Document Store in a single data file - www.litedb.org
- - (⭐ 1,020 x 🍴210 x 😁96) - **[marten](https://github.com/JasperFx/marten)** (2015) - Postgresql as a Document Database and Event Store for .Net Applications
- - (⭐ 544 x 🍴99 x 😁14) - **[yessql](https://github.com/sebastienros/yessql)** (2012) - A .NET document database working on any RDBMS
- - (⭐ 293 x 🍴37 x 😁1) - **[DBreeze](https://github.com/hhblaze/DBreeze)** (2013) - C# .NET MONO NOSQL ( key value store embedded ) ACID multi-paradigm database management system.
- - (⭐ 145 x 🍴18 x 😁1) - **[NoDb](https://github.com/joeaudette/NoDb)** (2016) - a "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database
- - (⭐ 121 x 🍴23 x 😁3) - **[json-flatfile-datastore](https://github.com/ttu/json-flatfile-datastore)** (2017) - Simple JSON flat file data store with support for typed and dynamic data.
-
-##### Github > .NET > Frameworks, Libraries and Tools > Database Drivers
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/database-drivers** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/database-drivers)
-
- - (⭐ 2,183 x 🍴997 x 😁68) - **[mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver)** (2010) - .NET Driver for MongoDB
- - (⭐ 1,649 x 🍴560 x 😁100) - **[npgsql](https://github.com/npgsql/npgsql)** (2011) - Npgsql is the .NET data provider for PostgreSQL.
- - (⭐ 1,062 x 🍴339 x 😁43) - **[confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet)** (2016) - Confluent's Apache Kafka .NET client
- - (⭐ 647 x 🍴152 x 😁28) - **[MySqlConnector](https://github.com/mysql-net/MySqlConnector)** (2016) - Async MySQL Connector for .NET and .NET Core
- - (⭐ 354 x 🍴201 x 😁42) - **[csharp-driver](https://github.com/datastax/csharp-driver)** (2013) - DataStax C# Driver for Apache Cassandra
- - (⭐ 333 x 🍴114 x 😁29) - **[couchbase-lite-net](https://github.com/couchbase/couchbase-lite-net)** (2013) - A lightweight, document-oriented (NoSQL), syncable database engine for .NET
- - (⭐ 295 x 🍴58 x 😁9) - **[RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver)** (2015) - :headphones: A NoSQL C#/.NET RethinkDB database driver with 100% ReQL API coverage.
- - (⭐ 291 x 🍴119 x 😁37) - **[Neo4jClient](https://github.com/Readify/Neo4jClient)** (2013) - .NET client binding for Neo4j
- - (⭐ 97 x 🍴38 x 😁15) - **[neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver)** (2016) - Neo4j Bolt driver for .NET
- - (⭐ 39 x 🍴8 x 😁7) - **[progaudi.tarantool](https://github.com/progaudi/progaudi.tarantool)** (2016) - .net connector for Tarantool NoSql database.
- - https://github.com/mysql/mysql-connector-net/tree/8.0false
- - https://github.com/ayende/ravendb/tree/v4.0false
-
-##### Github > .NET > Frameworks, Libraries and Tools > Database Tools and Utilities
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/database-tools-and-utilities** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/database-tools-and-utilities)
-
- - (⭐ 1,944 x 🍴539 x 😁100) - **[fluentmigrator](https://github.com/fluentmigrator/fluentmigrator)** (2010) - Fluent migrations framework for .NET
- - (⭐ 972 x 🍴337 x 😁68) - **[DbUp](https://github.com/DbUp/DbUp)** (2012) - DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.  
- - (⭐ 649 x 🍴222 x 😁49) - **[roundhouse](https://github.com/chucknorris/roundhouse)** (2009) - RoundhousE is a Database Migration Utility for .NET using sql files and versioning based on source control
- - (⭐ 432 x 🍴136 x 😁14) - **[SharpRepository](https://github.com/SharpRepository/SharpRepository)** (2012) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.
- - (⭐ 285 x 🍴73 x 😁7) - **[monitor-table-change-with-sqltabledependency](https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency)** (2017) - Get SQL Server notification on record table change
- - (⭐ 236 x 🍴38 x 😁5) - **[Evolve](https://github.com/lecaillon/Evolve)** (2016) - Database migration tool for .NET and .NET Core projects. Inspired by Flyway.
- - (⭐ 51 x 🍴10 x 😁4) - **[Mongo.Migration](https://github.com/SRoddis/Mongo.Migration)** (2017) - On-the-fly migrations with MongoDB C# Driver
- - (⭐ 38 x 🍴7 x 😁1) - **[TrackableEntities.Core](https://github.com/TrackableEntities/TrackableEntities.Core)** (2017) - Change-tracking across service boundaries with .NET Core.
-
-##### Github > .NET > Frameworks, Libraries and Tools > Date and Time
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/date-and-time** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/date-and-time)
-
- - (⭐ 1,292 x 🍴203 x 😁34) - **[nodatime](https://github.com/nodatime/nodatime)** (2015) - A better date and time API for .NET
- - (⭐ 224 x 🍴37 x 😁9) - **[FluentDateTime](https://github.com/FluentDateTime/FluentDateTime)** (2012) - Allows you to write cleaner DateTime expressions and operation.
- - (⭐ 81 x 🍴15 x 😁2) - **[Exceptionless.DateTimeExtensions](https://github.com/exceptionless/Exceptionless.DateTimeExtensions)** (2014) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods
-
-##### Github > .NET > Frameworks, Libraries and Tools > Distributed Computing
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/distributed-computing** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/distributed-computing)
-
- - (⭐ 6,123 x 🍴623 x 😁51) - **[Polly](https://github.com/App-vNext/Polly)** (2013) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Pol…
- - (⭐ 3,810 x 🍴833 x 😁94) - **[Ocelot](https://github.com/ThreeMammals/Ocelot)** (2016) - .NET core API Gateway
- - (⭐ 1,067 x 🍴184 x 😁23) - **[Foundatio](https://github.com/exceptionless/Foundatio)** (2015) - Pluggable foundation blocks for building distributed apps.
- - (⭐ 699 x 🍴127 x 😁35) - **[AspNetCore.Diagnostics.HealthChecks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks)** (2018) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
- - (⭐ 576 x 🍴59 x 😁12) - **[BeatPulse](https://github.com/Xabaril/BeatPulse)** (2018) - Liveness, health check library for ASP.NET Core Applications
- - (⭐ 307 x 🍴48 x 😁15) - **[opentracing-csharp](https://github.com/opentracing/opentracing-csharp)** (2016) - OpenTracing API for C# (.NET)
- - (⭐ 219 x 🍴35 x 😁7) - **[Obvs](https://github.com/christopherread/Obvs)** (2015) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces.
- - (⭐ 117 x 🍴23 x 😁2) - **[Rafty](https://github.com/ThreeMammals/Rafty)** (2017) - Implementation of RAFT consensus in .NET core 
-
-##### Github > .NET > Frameworks, Libraries and Tools > E-Commerce and Payments
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/e-commerce-and-payments** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/e-commerce-and-payments)
-
- - (⭐ 3,713 x 🍴2,217 x 😁61) - **[nopCommerce](https://github.com/nopSolutions/nopCommerce)** (2014) - Free open-source ecommerce shopping cart (ASP.NET Core)
- - (⭐ 2,152 x 🍴761 x 😁45) - **[SimplCommerce](https://github.com/simplcommerce/SimplCommerce)** (2016) - A simple, cross platform, modularized ecommerce system built on .NET Core
- - (⭐ 676 x 🍴269 x 😁14) - **[grandnode](https://github.com/grandnode/grandnode)** (2015) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
- - (⭐ 441 x 🍴447 x 😁29) - **[PayPal-NET-SDK](https://github.com/paypal/PayPal-NET-SDK)** (2013) - .NET SDK for PayPal's RESTful APIs
- - (⭐ 162 x 🍴51 x 😁10) - **[Stripe](https://github.com/ServiceStack/Stripe)** (2014) - Typed .NET clients for stripe.com REST APIs
-
-##### Github > .NET > Frameworks, Libraries and Tools > Exceptions
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/exceptions** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/exceptions)
-
- - (⭐ 1,274 x 🍴46 x 😁18) - **[Ben.Demystifier](https://github.com/benaadams/Ben.Demystifier)** (2017) - High performance understanding for stack traces (Make error logs more productive)
- - (⭐ 256 x 🍴89 x 😁27) - **[Exceptionless.Net](https://github.com/exceptionless/Exceptionless.Net)** (2015) - Exceptionless clients for the .NET platform
- - (⭐ 163 x 🍴15 x 😁6) - **[GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet)** (2017) - Exception handling as a convention in ASP.NET Core request pipeline
-
-##### Github > .NET > Frameworks, Libraries and Tools > Functional Programming
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/functional-programming** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/functional-programming)
-
- - (⭐ 4,671 x 🍴870 x 😁100) - **[ReactiveUI](https://github.com/reactiveui/ReactiveUI)** (2010) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express…
- - (⭐ 3,700 x 🍴503 x 😁50) - **[Rx.NET](https://github.com/Reactive-Extensions/Rx.NET)** (2013) - The Reactive Extensions for .NET
- - (⭐ 2,451 x 🍴195 x 😁45) - **[language-ext](https://github.com/louthy/language-ext)** (2014) - C# functional language extensions - a base class library for functional programming
- - (⭐ 1,150 x 🍴148 x 😁50) - **[Giraffe](https://github.com/dustinmoris/Giraffe)** (2017) - A native functional ASP.NET Core web framework for F# developers.
- - (⭐ 746 x 🍴108 x 😁31) - **[DynamicData](https://github.com/RolandPheasant/DynamicData)** (2014) - Reactive collections based on Rx.Net
- - (⭐ 665 x 🍴128 x 😁58) - **[FsCheck](https://github.com/fscheck/FsCheck)** (2013) - Random Testing for .NET
- - (⭐ 504 x 🍴45 x 😁8) - **[Optional](https://github.com/nlkl/Optional)** (2014) - A robust option type for C#
- - (⭐ 457 x 🍴81 x 😁22) - **[CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)** (2016) - Functional extensions for C#
- - (⭐ 241 x 🍴81 x 😁3) - **[functional-csharp-code](https://github.com/la-yumba/functional-csharp-code)** (2016) - Code samples for Functional Programming in C#
- - (⭐ 139 x 🍴18 x 😁7) - **[reactive-streams-dotnet](https://github.com/reactive-streams/reactive-streams-dotnet)** (2016) - Reactive Streams for .NET
- - (⭐ 130 x 🍴15 x 😁1) - **[Qactive](https://github.com/RxDave/Qactive)** (2016) - Reactive queryable observable framework.
- - (⭐ 57 x 🍴7 x 😁4) - **[echo-process](https://github.com/louthy/echo-process)** (2017) - Actor library for C# with additional modules that support persistence to Redis, as well as JS integration
- - (⭐ 52 x 🍴13 x 😁6) - **[NetMQ.ReactiveExtensions](https://github.com/NetMQ/NetMQ.ReactiveExtensions)** (2016) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
- - https://github.com/SodiumFRP/sodium/tree/master/false
-
-##### Github > .NET > Frameworks, Libraries and Tools > Graphics
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/graphics** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/graphics)
-
- - (⭐ 3,094 x 🍴402 x 😁76) - **[ImageSharp](https://github.com/SixLabors/ImageSharp)** (2016) - :camera: A cross-platform library for the processing of image files; written in C#
- - (⭐ 2,108 x 🍴452 x 😁53) - **[ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)** (2012) - :camera: A fluent wrapper around System.Drawing for the processing of image files.
- - (⭐ 1,410 x 🍴432 x 😁26) - **[QRCoder](https://github.com/codebude/QRCoder)** (2013) - A pure C# Open Source QR Code implementation
- - (⭐ 983 x 🍴165 x 😁20) - **[Magick.NET](https://github.com/dlemstra/Magick.NET)** (2015) - The .NET library for ImageMagick
- - (⭐ 879 x 🍴74 x 😁20) - **[veldrid](https://github.com/mellinoe/veldrid)** (2016) - A low-level, portable graphics library for .NET.
- - (⭐ 371 x 🍴53 x 😁7) - **[libvlcsharp](https://github.com/videolan/libvlcsharp)** (2018) - Cross-platform .NET/Mono bindings for libVLC
- - (⭐ 128 x 🍴26 x 😁5) - **[SharpBgfx](https://github.com/MikePopoloski/SharpBgfx)** (2014) - C# bindings for the bgfx graphics library
- - (⭐ 109 x 🍴18 x 😁2) - **[PhotoSauce](https://github.com/saucecontrol/PhotoSauce)** (2017) - MagicScaler high-performance, high-quality image processing pipeline for .NET
- - (⭐ 66 x 🍴2 x 😁1) - **[Structure.Sketching](https://github.com/JaCraig/Structure.Sketching)** (2016) - Image processing library for use in .Net applications that supports .Net Core.
- - (⭐ 26 x 🍴7 x 😁2) - **[GLFWDotNet](https://github.com/smack0007/GLFWDotNet)** (2016) - .NET bindings for GLFW.
-
-##### Github > .NET > Frameworks, Libraries and Tools > GUI
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/gui** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/gui)
-
- - (⭐ 6,724 x 🍴615 x 😁100) - **[Avalonia](https://github.com/AvaloniaUI/Avalonia)** (2013) - A multi-platform .NET UI framework
- - (⭐ 698 x 🍴47 x 😁10) - **[Qml.Net](https://github.com/pauldotknopf/Qml.Net)** (2017) - Qml.Net - Qt/QML integration/support for .NET
- - (⭐ 451 x 🍴56 x 😁5) - **[WinApi](https://github.com/prasannavl/WinApi)** (2016) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop
- - https://github.com/AvaloniaUI/AvaloniaEdit/false
-
-##### Github > .NET > Frameworks, Libraries and Tools > IDE
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/ide** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/ide)
-
- - (⭐ 79,031 x 🍴11,020 x 😁100) - **[vscode](https://github.com/Microsoft/vscode)** (2015) - Visual Studio Code
- - (⭐ 2,362 x 🍴861 x 😁100) - **[monodevelop](https://github.com/mono/monodevelop)** (2010) - MonoDevelop is a cross platform .NET IDE
- - (⭐ 1,435 x 🍴532 x 😁72) - **[SharpDevelop](https://github.com/icsharpcode/SharpDevelop)** (2010) - #develop (short for SharpDevelop) is a free IDE for .NET programming languages.
-
-##### Github > .NET > Frameworks, Libraries and Tools > Internationalization
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/internationalization** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/internationalization)
-
- - (⭐ 421 x 🍴106 x 😁7) - **[Westwind.Globalization](https://github.com/RickStrahl/Westwind.Globalization)** (2013) - Database driven resource localization for .NET applications
- - (⭐ 153 x 🍴56 x 😁27) - **[Localization](https://github.com/aspnet/Localization)** (2015) - [Archived] Localization abstractions and implementations for ASP.NET Core applications. Project moved to https://github.com/aspnet/AspNetCore
- - (⭐ 51 x 🍴6 x 😁2) - **[Localization](https://github.com/NetCoreStack/Localization)** (2018) - 🌏 Database Resource Localization for .NET Core with Entity Framework and In Memory Cache
-
-##### Github > .NET > Frameworks, Libraries and Tools > IOC
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/ioc** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/ioc)
-
- - (⭐ 2,601 x 🍴615 x 😁47) - **[Autofac](https://github.com/autofac/Autofac)** (2014) - An addictive .NET IoC container
- - (⭐ 1,083 x 🍴404 x 😁76) - **[Windsor](https://github.com/castleproject/Windsor)** (2011) - Castle Windsor is a best of breed, mature Inversion of Control container available for .NET
- - (⭐ 846 x 🍴286 x 😁70) - **[structuremap](https://github.com/structuremap/structuremap)** (2010) - A Dependency Injection/Inversion of Control tool for .NET
- - (⭐ 800 x 🍴116 x 😁10) - **[SimpleInjector](https://github.com/simpleinjector/SimpleInjector)** (2015) - An easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
- - (⭐ 382 x 🍴106 x 😁19) - **[LightInject](https://github.com/seesharper/LightInject)** (2011) - An ultra lightweight IoC container 
- - (⭐ 241 x 🍴33 x 😁24) - **[DryIoc](https://github.com/dadhi/DryIoc)** (2018) - DryIoc is fast, small, full-featured IoC Container for .NET
- - (⭐ 185 x 🍴22 x 😁6) - **[Grace](https://github.com/ipjohnson/Grace)** (2014) - Grace is a feature rich dependency injection container  library
- - (⭐ 62 x 🍴15 x 😁8) - **[AutoDI](https://github.com/Keboo/AutoDI)** (2016) - Dependency injection made simple.
- - (⭐ 59 x 🍴7 x 😁1) - **[stashbox](https://github.com/z4kn4fein/stashbox)** (2015) - A lightweight, portable dependency injection framework for .NET based solutions
- - (⭐ 130 x 😁1) - **[Inyector](https://github.com/davidrevoledo/Inyector)** (2017) - Library to Implement Automatic dependency injection by Configuration over Scaned Assemblies
-
-##### Github > .NET > Frameworks, Libraries and Tools > Logging
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/logging** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/logging)
-
- - (⭐ 3,886 x 🍴1,053 x 😁100) - **[NLog](https://github.com/NLog/NLog)** (2012) - NLog - Advanced and Structured Logging for Various .NET Platforms
- - (⭐ 2,819 x 🍴429 x 😁91) - **[serilog](https://github.com/serilog/serilog)** (2013) - Simple .NET logging with fully-structured events
- - (⭐ 1,067 x 🍴184 x 😁1) - **[Foundatio#logging](https://github.com/exceptionless/Foundatio#logging)** (2015) - Pluggable foundation blocks for building distributed apps.
- - (⭐ 835 x 🍴141 x 😁55) - **[LibLog](https://github.com/damianh/LibLog)** (2012) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction. 
- - (⭐ 605 x 🍴202 x 😁29) - **[common-logging](https://github.com/net-commons/common-logging)** (2011) - A portable logging abstraction for .NET
- - (⭐ 348 x 🍴142 x 😁3) - **[logging-log4net](https://github.com/apache/logging-log4net)** (2017) - Mirror of This is the Apache log4net logging project git repository.
- - (⭐ 294 x 🍴45 x 😁7) - **[serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)** (2017) - Serilog integration for ASP.NET Core 2+
- - (⭐ 256 x 🍴89 x 😁27) - **[Exceptionless.Net](https://github.com/exceptionless/Exceptionless.Net)** (2015) - Exceptionless clients for the .NET platform
- - (⭐ 148 x 🍴21 x 😁10) - **[Serilog.Exceptions](https://github.com/RehanSaeed/Serilog.Exceptions)** (2015) - Log exception details and custom properties that are not output in Exception.ToString().
- - (⭐ 100 x 🍴51 x 😁19) - **[serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)** (2015) - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration
- - (⭐ 6 x 🍴3 x 😁1) - **[dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash)** (2016) - A Logstash logging extension for .NET Core applications with UDP and Redis transports
- - (⭐ 2 x 🍴1 x 😁1) - **[Q42.Logging.ApplicationInsights](https://github.com/Q42/Q42.Logging.ApplicationInsights)** (2016) - Log to ApplicationInsights using the default ILogger
-
-##### Github > .NET > Frameworks, Libraries and Tools > Machine Learning and Data Science
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/machine-learning-and-data-science** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/machine-learning-and-data-science)
-
- - (⭐ 12,073 x 🍴603 x 😁13) - **[WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)** (2016) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
- - (⭐ 6,183 x 🍴1,267 x 😁100) - **[machinelearning](https://github.com/dotnet/machinelearning)** (2018) - ML.NET is an open source and cross-platform machine learning framework for .NET.
- - (⭐ 3,463 x 🍴1,621 x 😁78) - **[framework](https://github.com/accord-net/framework)** (2012) - Machine learning, computer vision, statistics and general scientific computing for .NET
- - (⭐ 2,648 x 🍴494 x 😁24) - **[TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp)** (2017) - TensorFlow API for .NET languages
- - (⭐ 299 x 🍴76 x 😁6) - **[SiaNet](https://github.com/SciSharp/SiaNet)** (2017) - A C# deep learning library, human friendly, CUDA/OpenCL supported, well structured, easy to extend
- - https://github.com/Spreads/Spreads/false
-
-##### Github > .NET > Frameworks, Libraries and Tools > Mail
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/mail** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/mail)
-
- - (⭐ 2,651 x 🍴444 x 😁25) - **[MailKit](https://github.com/jstedfast/MailKit)** (2013) - A cross-platform .NET library for IMAP, POP3, and SMTP.
- - (⭐ 911 x 🍴195 x 😁19) - **[MimeKit](https://github.com/jstedfast/MimeKit)** (2012) - A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
- - (⭐ 815 x 🍴160 x 😁22) - **[FluentEmail](https://github.com/lukencode/FluentEmail)** (2010) - .NET Core email sending
- - (⭐ 411 x 🍴91 x 😁23) - **[PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net)** (2011) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
- - (⭐ 221 x 🍴64 x 😁13) - **[SmtpServer](https://github.com/cosullivan/SmtpServer)** (2016) - A SMTP Server component written in C#
- - (⭐ 134 x 🍴6 x 😁2) - **[MailBody](https://github.com/doxakis/MailBody)** (2016) - Create transactional email with a fluent interface (.net)
- - (⭐ 80 x 🍴23 x 😁12) - **[StrongGrid](https://github.com/Jericho/StrongGrid)** (2016) - Strongly typed library for the entire SendGrid v3 API, including webhooks
- - (⭐ 73 x 🍴20 x 😁1) - **[MailMergeLib](https://github.com/axuno/MailMergeLib)** (2016) - MailMergeLib is a mail message client library which provides comfortable mail merge capabilities for text, inline images and attachments, as well as good throughput and fault tolerance for sending mail messages.
- - (⭐ 73 x 🍴26 x 😁6) - **[netDumbster](https://github.com/cmendible/netDumbster)** (2011) - netDumbster is a .Net Fake SMTP Server clone of the popular Dumbster (http://quintanasoft.com/dumbster/)
- - (⭐ 15 x 🍴1 x 😁1) - **[sendgrid-dotnet](https://github.com/0xdeafcafe/sendgrid-dotnet)** (2016)false
-
-##### Github > .NET > Frameworks, Libraries and Tools > Mathematics
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/mathematics** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/mathematics)
-
- - (⭐ 98 x 🍴20 x 😁5) - **[UnitConversion](https://github.com/Stratajet/UnitConversion)** (2016) - Expansible Unit Conversion Library for .Net Core and .Net Framework
- - (⭐ 32 x 🍴3 x 😁3) - **[autodiff](https://github.com/alexshtf/autodiff)** (2017) - A .NET library that provides fast, accurate and automatic differentiation (computes derivative /  gradient) of mathematical functions.
-
-##### Github > .NET > Frameworks, Libraries and Tools > Misc
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/misc** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/misc)
-
- - (⭐ 6,434 x 🍴1,424 x 😁100) - **[AutoMapper](https://github.com/AutoMapper/AutoMapper)** (2010) - A convention-based object-object mapper in .NET. 
- - (⭐ 4,498 x 🍴740 x 😁100) - **[FluentValidation](https://github.com/JeremySkinner/FluentValidation)** (2009) - A popular .NET validation library for building strongly-typed validation rules.
- - (⭐ 4,080 x 🍴623 x 😁100) - **[Humanizer](https://github.com/Humanizr/Humanizer)** (2012) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
- - (⭐ 2,643 x 🍴315 x 😁68) - **[Fody](https://github.com/Fody/Fody)** (2012) - Extensible tool for weaving .net assemblies
- - (⭐ 2,640 x 🍴343 x 😁31) - **[AngleSharp](https://github.com/AngleSharp/AngleSharp)** (2013) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
- - (⭐ 1,562 x 🍴194 x 😁40) - **[markdig](https://github.com/lunet-io/markdig)** (2016) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
- - (⭐ 1,066 x 🍴96 x 😁20) - **[Scientist.net](https://github.com/github/Scientist.net)** (2016) - A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library
- - (⭐ 963 x 🍴64 x 😁18) - **[dotnet-script](https://github.com/filipw/dotnet-script)** (2016) - Run C# scripts from the .NET CLI.
- - (⭐ 926 x 🍴343 x 😁74) - **[Core](https://github.com/castleproject/Core)** (2011) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
- - (⭐ 895 x 🍴130 x 😁11) - **[CommonMark.NET](https://github.com/Knagis/CommonMark.NET)** (2014) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
- - (⭐ 793 x 🍴49 x 😁2) - **[Enums.NET](https://github.com/TylerBrinkley/Enums.NET)** (2015) - Enums.NET is a high-performance type-safe .NET enum utility library
- - (⭐ 718 x 🍴76 x 😁19) - **[Scrutor](https://github.com/khellang/Scrutor)** (2015) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
- - (⭐ 713 x 🍴113 x 😁23) - **[puppeteer-sharp](https://github.com/kblok/puppeteer-sharp)** (2017) - Headless Chrome .NET API
- - (⭐ 645 x 🍴47 x 😁6) - **[readline](https://github.com/tsolarin/readline)** (2017) - A Pure C# GNU-Readline like library for .NET/.NET Core
- - (⭐ 631 x 🍴147 x 😁14) - **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode)** (2016) - The ultimate dirty YouTube library
- - (⭐ 628 x 🍴43 x 😁2) - **[pose](https://github.com/tonerdo/pose)** (2017) - Replace any .NET method (including static and non-virtual) with a delegate
- - (⭐ 495 x 🍴91 x 😁14) - **[System.Linq.Dynamic.Core](https://github.com/StefH/System.Linq.Dynamic.Core)** (2016) - The .NET Standard / .NET Core version from the System Linq Dynamic functionality.
- - (⭐ 475 x 🍴66 x 😁12) - **[SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET)** (2010) - An extensible .NET replacement for String.Format
- - (⭐ 451 x 🍴113 x 😁23) - **[BaGet](https://github.com/loic-sharma/BaGet)** (2017) - A lightweight NuGet and symbol server
- - (⭐ 424 x 🍴35 x 😁13) - **[dotnet-outdated](https://github.com/jerriep/dotnet-outdated)** (2018) - A .NET Core global tool to display outdated NuGet packages in a project
- - (⭐ 411 x 🍴160 x 😁75) - **[UnitsNet](https://github.com/angularsen/UnitsNet)** (2013) - Makes life working with units of measurement just a little bit better.
- - (⭐ 365 x 🍴34 x 😁13) - **[FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler)** (2016) - Fast ExpressionTree compiler to delegate
- - (⭐ 357 x 🍴55 x 😁9) - **[Relinq](https://github.com/re-motion/Relinq)** (2014) - With re-linq, it's now easier than ever to create full-featured LINQ providers.
- - (⭐ 355 x 🍴106 x 😁2) - **[DinkToPdf](https://github.com/rdvojmoc/DinkToPdf)** (2017) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
- - (⭐ 344 x 🍴29 x 😁4) - **[CliWrap](https://github.com/Tyrrrz/CliWrap)** (2017) - Wrapper for command line interface executables
- - (⭐ 316 x 🍴21 x 😁6) - **[dotnet-serve](https://github.com/natemcmaster/dotnet-serve)** (2017) - Simple command-line HTTPS server for the .NET Core CLI
- - (⭐ 299 x 🍴20 x 😁6) - **[AdvanceDLSupport](https://github.com/Firwood-Software/AdvanceDLSupport)** (2017) - Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes.
- - (⭐ 287 x 🍴57 x 😁1) - **[Bleak](https://github.com/Akaion/Bleak)** (2018) - A Windows native DLL injection library written in C# that supports several methods of injection.
- - (⭐ 265 x 🍴97 x 😁10) - **[Trady](https://github.com/lppkarl/Trady)** (2016) - Trady is a handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading. It is built based on .NET Standard…
- - (⭐ 251 x 🍴20 x 😁8) - **[Valit](https://github.com/valit-stack/Valit)** (2017) - Valit is dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
- - (⭐ 202 x 🍴12 x 😁3) - **[AgileMapper](https://github.com/agileobjects/AgileMapper)** (2016) - A zero-configuration, highly-configurable object-object mapper with viewable execution plans. Projects queries, transforms, deep clones, updates and merges via extension methods, or a static or instance API. Targets .NET Standard 1.0+ and .…
- - (⭐ 201 x 🍴38 x 😁13) - **[WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker)** (2017)false
- - (⭐ 190 x 🍴43 x 😁1) - **[PdfReport.Core](https://github.com/VahidN/PdfReport.Core)** (2016) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries
- - (⭐ 185 x 🍴16 x 😁2) - **[guard](https://github.com/safakgur/guard)** (2017) - A high-performance, extensible argument validation library.
- - (⭐ 179 x 🍴32 x 😁7) - **[Otp.NET](https://github.com/kspearrin/Otp.NET)** (2017) - A .NET implementation of TOTP and HOTP for things like two-factor authentication codes.
- - (⭐ 153 x 🍴44 x 😁17) - **[Chessie](https://github.com/fsprojects/Chessie)** (2015) - Railway-oriented programming for .NET
- - (⭐ 149 x 🍴35 x 😁8) - **[Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg)** (2017) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from dotnet core application.
- - (⭐ 142 x 🍴13 x 😁4) - **[DotNet.Glob](https://github.com/dazinator/DotNet.Glob)** (2016) - A fast globbing library for .NET / .NETStandard applications. Outperforms Regex.
- - (⭐ 122 x 🍴22 x 😁1) - **[AspNetCore](https://github.com/sgjsakura/AspNetCore)** (2015) - ASP.NET Core Extension Library
- - (⭐ 115 x 🍴18 x 😁3) - **[lambdaparser](https://github.com/nreco/lambdaparser)** (2016) - Runtime parser for string expressions (formulas, method calls). Builds dynamic LINQ expression tree and compiles it to lambda delegate.
- - (⭐ 105 x 🍴6 x 😁4) - **[commanddotnet](https://github.com/bilal-fazlani/commanddotnet)** (2017) - Model your command line application interface in a class
- - (⭐ 103 x 🍴17 x 😁4) - **[CoordinateSharp](https://github.com/Tronald/CoordinateSharp)** (2017) - A library designed to ease geographic coordinate format conversions, and determine sun/moon information in C#
- - (⭐ 99 x 🍴18 x 😁3) - **[HdrHistogram.NET](https://github.com/HdrHistogram/HdrHistogram.NET)** (2015) - The .NET port of HdrHistogram
- - (⭐ 96 x 🍴24 x 😁7) - **[dotnet-env](https://github.com/tonerdo/dotnet-env)** (2016) - A .NET library to load environment variables from .env files
- - (⭐ 93 x 🍴9 x 😁2) - **[ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt)** (2017) - A fluent library to print out a nicely formatted table in a console application C# 
- - (⭐ 74 x 🍴15 x 😁6) - **[httpclient-interception](https://github.com/justeat/httpclient-interception)** (2017) - A .NET Standard library for intercepting server-side HTTP dependencies
- - (⭐ 65 x 🍴22 x 😁10) - **[reversemarkdown-net](https://github.com/mysticmind/reversemarkdown-net)** (2015) - ReverseMarkdown.Net is a Html to Markdown converter library in C#. Conversion is very reliable since HtmlAgilityPack (HAP) library is used for traversing the Html DOM
- - (⭐ 37 x 🍴2 x 😁2) - **[LibSassHost](https://github.com/Taritsyn/LibSassHost)** (2015) - .NET wrapper around the LibSass library with the ability to support a virtual file system.
- - (⭐ 34 x 🍴3 x 😁1) - **[Humidifier](https://github.com/jakejscott/Humidifier)** (2017) - AWS Cloudformation using C#
- - (⭐ 20 x 🍴1 x 😁1) - **[Eighty](https://github.com/benjamin-hodgson/Eighty)** (2018) - A fast HTML generation library, developed at Stack Overflow.
- - https://github.com/adamralph/bullseye/false
- - https://github.com/ALMMa/datatables.aspnet/tree/devfalse
- - https://github.com/robinrodricks/FluentFTP/false
- - https://github.com/warden-stackfalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > Networking
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/networking** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/networking)
-
- - (⭐ 310 x 🍴39 x 😁4) - **[Networker](https://github.com/MarkioE/Networker)** (2017) - A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
- - (⭐ 56 x 🍴17 x 😁4) - **[AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy)** (2017) - ASP.NET Core Proxies made easy.
- - (⭐ 23 x 🍴6 x 😁5) - **[NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener)** (2017) - HttpListener for .NET Core (NETStandard 1.3) and Universal Windows Platform (UWP) 
- - (⭐ 19 x 🍴4 x 😁2) - **[CurlThin](https://github.com/stil/CurlThin)** (2017) - Lightweight cURL wrapper for C# with support for curl_multi polling interface through libuv
-
-##### Github > .NET > Frameworks, Libraries and Tools > Office
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/office** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/office)
-
- - (⭐ 2,442 x 🍴792 x 😁37) - **[npoi](https://github.com/tonyqus/npoi)** (2013) - a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
- - (⭐ 2,257 x 🍴495 x 😁21) - **[EPPlus](https://github.com/JanKallman/EPPlus)** (2017) - Create advanced Excel spreadsheets using .NET
- - (⭐ 2,058 x 🍴345 x 😁17) - **[Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK)** (2014) - Open XML SDK by Microsoft
-
-##### Github > .NET > Frameworks, Libraries and Tools > ORM
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/orm** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/orm)
-
- - (⭐ 10,922 x 🍴2,881 x 😁100) - **[Dapper](https://github.com/StackExchange/Dapper)** (2011) - Dapper - a simple object mapper for .Net
- - (⭐ 7,746 x 🍴1,991 x 😁100) - **[EntityFramework](https://github.com/aspnet/EntityFramework)** (2014) - Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology
- - (⭐ 1,627 x 🍴820 x 😁100) - **[nhibernate-core](https://github.com/nhibernate/nhibernate-core)** (2011) - NHibernate Object Relational Mapper
- - (⭐ 1,549 x 🍴532 x 😁27) - **[PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)** (2011) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
- - (⭐ 1,364 x 🍴331 x 😁44) - **[NEventStore](https://github.com/NEventStore/NEventStore)** (2010) - A persistence agnostic Event Store for .NET
- - (⭐ 1,311 x 🍴647 x 😁100) - **[ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite)** (2011) - Fast, Simple, Typed ORM for .NET
- - (⭐ 1,198 x 🍴217 x 😁16) - **[EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)** (2015) - Entity Framework Utilities | Bulk Operations | Batch Delete | Batch Update | Query Cache | Query Filter | Query Future | Query Include | Audit
- - (⭐ 1,184 x 🍴245 x 😁40) - **[Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)** (2016) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
- - (⭐ 979 x 🍴391 x 😁2) - **[Chloe](https://github.com/shuxinqin/Chloe)** (2016) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
- - (⭐ 978 x 🍴154 x 😁20) - **[querybuilder](https://github.com/sqlkata/querybuilder)** (2017) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
- - (⭐ 709 x 🍴116 x 😁15) - **[EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)** (2017) - Entity Framework Core Bulk Batch Extensions for Insert Update Delete and Read (CRUD) operations on SQL Server
- - (⭐ 671 x 🍴276 x 😁13) - **[NPoco](https://github.com/schotime/NPoco)** (2012) - Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco
- - (⭐ 580 x 🍴98 x 😁18) - **[LINQKit](https://github.com/scottksmith95/LINQKit)** (2013) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
- - (⭐ 494 x 🍴80 x 😁20) - **[Npgsql.EntityFrameworkCore.PostgreSQL](https://github.com/npgsql/Npgsql.EntityFrameworkCore.PostgreSQL)** (2016) - Entity Framework Core provider for PostgreSQL
- - (⭐ 473 x 🍴115 x 😁3) - **[SmartSql](https://github.com/Ahoo-Wang/SmartSql)** (2017) - SmartSql = MyBatis .NET Core+ Cache(Memory | Redis) + R/W Splitting +Dynamic Repository + Diagnostics
- - (⭐ 289 x 🍴98 x 😁9) - **[MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories)** (2015) - CRUD for Dapper
- - (⭐ 247 x 🍴35 x 😁1) - **[EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers)** (2014) - Adds events for entity inserting, inserted, updating, updated, deleting, and deleted
- - (⭐ 221 x 🍴44 x 😁6) - **[Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap)** (2014) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
- - (⭐ 221 x 🍴56 x 😁12) - **[SqlFu](https://github.com/sapiens/SqlFu)** (2012) - Fast and versatile .net core data mapper/micro-orm
- - (⭐ 210 x 🍴79 x 😁22) - **[SQLStreamStore](https://github.com/SQLStreamStore/SQLStreamStore)** (2015) - Stream Store library targeting RDBMS based implementations for .NET
- - (⭐ 171 x 🍴47 x 😁13) - **[Dommel](https://github.com/henkmollema/Dommel)** (2014) - Simple CRUD operations for Dapper.
- - (⭐ 153 x 🍴21 x 😁4) - **[RepoDb](https://github.com/mikependon/RepoDb)** (2018) - A hybrid ORM library for .NET.
- - (⭐ 116 x 🍴35 x 😁3) - **[data](https://github.com/nreco/data)** (2016) - Fast DB-independent DAL for .NET Core:  abstract queries, SQL commands builder, schema-less data access, POCO mapping (micro-ORM).
- - (⭐ 104 x 🍴9 x 😁1) - **[EntityFramework.Rx](https://github.com/NickStrupat/EntityFramework.Rx)** (2015) - Reactive extension wrappers for *hot* observables of Entity Framework
- - (⭐ 37 x 🍴7 x 😁1) - **[EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey)** (2015) - Retrieve the primary key (including composite keys) from any entity
- - (⭐ 24 x 🍴2 x 😁1) - **[EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues)** (2015) - Get typed access to the DbEntityEntry<T>.OriginalValues property bag
- - (⭐ 22 x 🍴1 x 😁1) - **[EntityFramework.VersionedProperties](https://github.com/NickStrupat/EntityFramework.VersionedProperties)** (2012)false
-
-##### Github > .NET > Frameworks, Libraries and Tools > Profiling
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/profiling** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/profiling)
-
- - (⭐ 1,646 x 🍴423 x 😁100) - **[dotnet](https://github.com/MiniProfiler/dotnet)** (2013) - A simple but effective mini-profiler for ASP.NET (and Core) websites
- - (⭐ 147 x 🍴38 x 😁11) - **[Glimpse.Prototype](https://github.com/Glimpse/Glimpse.Prototype)** (2014) - Glimpse v2 prototype
-
-##### Github > .NET > Frameworks, Libraries and Tools > Query Builders
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/query-builders** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/query-builders)
-
- - (⭐ 978 x 🍴154 x 😁20) - **[querybuilder](https://github.com/sqlkata/querybuilder)** (2017) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
-
-##### Github > .NET > Frameworks, Libraries and Tools > Queue and Messaging
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/queue-and-messaging** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/queue-and-messaging)
-
- - (⭐ 3,473 x 🍴486 x 😁37) - **[MediatR](https://github.com/jbogard/MediatR)** (2014) - Simple, unambitious mediator implementation in .NET
- - (⭐ 3,329 x 🍴508 x 😁79) - **[EventStore](https://github.com/EventStore/EventStore)** (2012) - The stream database optimised for event sourcing
- - (⭐ 1,700 x 🍴528 x 😁75) - **[netmq](https://github.com/zeromq/netmq)** (2012) - A 100% native C# implementation of ZeroMQ for .NET
- - (⭐ 1,077 x 🍴251 x 😁62) - **[Rebus](https://github.com/rebus-org/Rebus)** (2011) - :bus: Simple and lean service bus implementation for .NET
- - (⭐ 1,067 x 🍴184 x 😁1) - **[Foundatio#queues](https://github.com/exceptionless/Foundatio#queues)** (2015) - Pluggable foundation blocks for building distributed apps.
- - (⭐ 962 x 🍴337 x 😁45) - **[rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client)** (2010) - RabbitMQ .NET client for .NET Core and .NET 4.5.1+.
- - (⭐ 907 x 🍴262 x 😁28) - **[MQTTnet](https://github.com/chkr1011/MQTTnet)** (2017) - MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.
- - (⭐ 539 x 🍴102 x 😁18) - **[RawRabbit](https://github.com/pardahlman/RawRabbit)** (2015) - A modern .NET framework for communication over RabbitMq
- - (⭐ 270 x 🍴69 x 😁3) - **[OpenCQRS](https://github.com/OpenCQRS/OpenCQRS)** (2017) - .NET Core framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
- - (⭐ 158 x 🍴29 x 😁4) - **[Mediator.Net](https://github.com/mayuanyang/Mediator.Net)** (2016) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported 
- - (⭐ 158 x 🍴19 x 😁2) - **[Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus)** (2015) - MicroBus is a simple in process Mediator for .NET
- - (⭐ 72 x 🍴32 x 😁8) - **[MediatR.Extensions.Microsoft.DependencyInjection](https://github.com/jbogard/MediatR.Extensions.Microsoft.DependencyInjection)** (2016) - MediatR extensions for Microsoft.Extensions.DependencyInjection
- - (⭐ 50 x 🍴6 x 😁2) - **[tossit](https://github.com/turgayozgur/tossit)** (2017) - Library for distributed job/worker logic.
-
-##### Github > .NET > Frameworks, Libraries and Tools > Reporting
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/reporting** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/reporting)
-
- - (⭐ 596 x 🍴114 x 😁5) - **[FastReport](https://github.com/FastReports/FastReport)** (2018) - Reporting tool for .NET Core/.NET Framework that helps your application generate document-like reports
-
-##### Github > .NET > Frameworks, Libraries and Tools > Scheduler and Job
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/scheduler-and-job** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/scheduler-and-job)
-
- - (⭐ 4,825 x 🍴1,098 x 😁99) - **[Hangfire](https://github.com/HangfireIO/Hangfire)** (2013) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
- - (⭐ 2,832 x 🍴439 x 😁36) - **[stateless](https://github.com/dotnet-state-machine/stateless)** (2014) - A simple library for creating state machines in C# code
- - (⭐ 1,654 x 🍴296 x 😁14) - **[FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)** (2012) - Automated job scheduler with fluent interface for the .NET platform.
- - (⭐ 762 x 🍴65 x 😁10) - **[coravel](https://github.com/jamesmh/coravel)** (2018) - Near-zero config .NET Core micro-framework that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
- - (⭐ 307 x 🍴67 x 😁5) - **[NCrontab](https://github.com/atifaziz/NCrontab)** (2015) - Crontab for .NET
- - (⭐ 234 x 🍴24 x 😁2) - **[Gofer.NET](https://github.com/brthor/Gofer.NET)** (2017) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core.
- - (⭐ 144 x 🍴14 x 😁1) - **[Chroniton](https://github.com/leosperry/Chroniton)** (2016) - A library for running tasks(jobs) on schedules.
- - (⭐ 141 x 🍴19 x 😁2) - **[LiquidState](https://github.com/prasannavl/LiquidState)** (2014) - Efficient asynchronous and synchronous state machines for .NET
- - https://github.com/quartznet/quartznet/false
-
-##### Github > .NET > Frameworks, Libraries and Tools > SDKs
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/sdks** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/sdks)
-
- - (⭐ 1,706 x 🍴840 x 😁100) - **[octokit.net](https://github.com/octokit/octokit.net)** (2013) - A GitHub API client library for .NET 
- - (⭐ 1,241 x 🍴544 x 😁53) - **[aws-sdk-net](https://github.com/aws/aws-sdk-net)** (2012) - The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
- - (⭐ 874 x 🍴205 x 😁45) - **[Docker.DotNet](https://github.com/Microsoft/Docker.DotNet)** (2014) - :whale: .NET (C#) Client Library for Docker API
- - (⭐ 626 x 🍴433 x 😁82) - **[sendgrid-csharp](https://github.com/sendgrid/sendgrid-csharp)** (2012) - The Official Twilio SendGrid Led, Community Driven C#, .NetStandard, .NetCore API Library
- - (⭐ 604 x 🍴160 x 😁17) - **[tweetinvi](https://github.com/linvi/tweetinvi)** (2015) - Tweetinvi, an intuitive Twitter C# library for the REST and Stream API. It supports .NET, .NETCore, UAP and Portable Class Libraries (Xamarin)...
- - (⭐ 457 x 🍴211 x 😁33) - **[google-cloud-dotnet](https://github.com/GoogleCloudPlatform/google-cloud-dotnet)** (2015) - Google Cloud Client Libraries for .NET
- - (⭐ 457 x 🍴74 x 😁8) - **[Microphone](https://github.com/rogeralsing/Microphone)** (2015)false
- - (⭐ 243 x 🍴68 x 😁13) - **[csharp-nats](https://github.com/nats-io/csharp-nats)** (2015) - The official C# Client for NATS
- - (⭐ 114 x 🍴46 x 😁7) - **[Bittrex.Net](https://github.com/JKorf/Bittrex.Net)** (2017) - A C# .Net wrapper for the Bittrex web API including all features easily accessible and usable
- - (⭐ 108 x 🍴71 x 😁10) - **[Binance.Net](https://github.com/JKorf/Binance.Net)** (2017) - .Net API wrapper for the Binance web API
- - (⭐ 108 x 🍴111 x 😁18) - **[statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client)** (2012) - Statsd C# Client
- - (⭐ 80 x 🍴25 x 😁10) - **[Manatee.Trello](https://github.com/gregsdennis/Manatee.Trello)** (2016) - A fully object-oriented .Net wrapper for Trello's RESTful API written in C#. 
- - (⭐ 79 x 🍴59 x 😁22) - **[azure-event-hubs-dotnet](https://github.com/azure/azure-event-hubs-dotnet)** (2016) - ☁️ .NET Standard client library for Azure Event Hubs
- - (⭐ 73 x 🍴39 x 😁10) - **[firebase-admin-dotnet](https://github.com/firebase/firebase-admin-dotnet)** (2018) - Firebase Admin .NET SDK
- - (⭐ 38 x 🍴10 x 😁8) - **[dark-sky-core](https://github.com/amweiss/dark-sky-core)** (2016) - A .NET Standard Library for using the Dark Sky API.
- - (⭐ 140 x 😁1) - **[PreStorm](https://github.com/jshirota/PreStorm)** (2014) - A Parallel REST Client for ArcGIS Server
- - (⭐ 7 x 🍴4 x 😁2) - **[CakeMail.RestClient](https://github.com/Jericho/CakeMail.RestClient)** (2015) - .NET wrapper for the CakeMail API
- - https://github.com/PlayFab/consuldotnet/tree/developfalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > Security
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/security** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/security)
-
- - (⭐ 1,146 x 🍴527 x 😁79) - **[Security](https://github.com/aspnet/Security)** (2014) - [Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore
- - (⭐ 1,109 x 🍴286 x 😁28) - **[jwt](https://github.com/jwt-dotnet/jwt)** (2011) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET
- - (⭐ 625 x 🍴101 x 😁11) - **[HtmlSanitizer](https://github.com/mganss/HtmlSanitizer)** (2013) - Cleans HTML to avoid XSS attacks
- - (⭐ 565 x 🍴114 x 😁17) - **[jose-jwt](https://github.com/dvsekhvalnov/jose-jwt)** (2014) - Ultimate Javascript Object Signing and Encryption (JOSE) and JSON Web Token (JWT) Implementation for .NET and .NET Core
- - (⭐ 361 x 🍴42 x 😁2) - **[NWebsec](https://github.com/NWebsec/NWebsec)** (2015) - Security libraries for ASP.NET
- - (⭐ 212 x 🍴37 x 😁11) - **[roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard)** (2016) - Roslyn analyzers that aim to help security audit on .NET applications.
- - (⭐ 123 x 🍴20 x 😁3) - **[JWTSimpleServer](https://github.com/Xabaril/JWTSimpleServer)** (2018) - A lightweight, dynamic jwt server for ASP.NET Core 
- - (⭐ 115 x 🍴24 x 😁9) - **[aspnetcore-security-headers](https://github.com/juunas11/aspnetcore-security-headers)** (2017) - Middleware for adding security headers to an ASP.NET Core application.
- - (⭐ 113 x 🍴21 x 😁6) - **[NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)** (2016) - Small package to allow adding security headers to ASP.NET Core websites
- - (⭐ 102 x 🍴30 x 😁2) - **[reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA)** (2016) - reCAPTCHA 2.0 for ASPNET Core
- - (⭐ 87 x 🍴17 x 😁4) - **[OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core)** (2017) - A .NET Core middleware for injecting the Owasp recommended HTTP Headers for increased security
-
-##### Github > .NET > Frameworks, Libraries and Tools > Searching
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/searching** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/searching)
-
- - (⭐ 2,329 x 🍴881 x 😁100) - **[elasticsearch-net](https://github.com/elastic/elasticsearch-net)** (2010) - Elasticsearch.Net & NEST
- - (⭐ 146 x 🍴29 x 😁6) - **[SearchExtensions](https://github.com/ninjanye/SearchExtensions)** (2013) - Library of IQueryable extension methods to perform searching
- - (⭐ 121 x 🍴34 x 😁1) - **[ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD)** (2014) - Elasticsearch .NET netstandard API
- - (⭐ 118 x 🍴15 x 😁1) - **[autocomplete](https://github.com/omerfarukz/autocomplete)** (2015) - Persistent, simple, powerful and portable autocomplete library
- - (⭐ 69 x 🍴53 x 😁28) - **[algoliasearch-client-csharp](https://github.com/algolia/algoliasearch-client-csharp)** (2013) - 🔍 Algolia API Client written in C# for the .NET Framework
- - (⭐ 59 x 🍴19 x 😁13) - **[solr-express](https://github.com/solr-express/solr-express)** (2015) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way.
- - (⭐ 47 x 🍴6 x 😁1) - **[SimMetrics.Net](https://github.com/StefH/SimMetrics.Net)** (2017) - SimMetrics is a Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman). This library support multiple .NET versions including .NET Core (NETStandard 1.x)
-
-##### Github > .NET > Frameworks, Libraries and Tools > Serialization
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/serialization** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/serialization)
-
- - (⭐ 6,974 x 🍴2,385 x 😁90) - **[Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)** (2012) - Json.NET is a popular high-performance JSON framework for .NET
- - (⭐ 2,349 x 🍴682 x 😁49) - **[CsvHelper](https://github.com/JoshClose/CsvHelper)** (2009) - Library to help reading and writing CSV files
- - (⭐ 1,986 x 🍴271 x 😁35) - **[bond](https://github.com/Microsoft/bond)** (2014) - Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services. 
- - (⭐ 1,904 x 🍴289 x 😁27) - **[MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)** (2017) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
- - (⭐ 1,898 x 🍴236 x 😁18) - **[Jil](https://github.com/kevin-montrose/Jil)** (2013) - Fast .NET JSON (De)Serializer, Built On Sigil
- - (⭐ 1,713 x 🍴177 x 😁6) - **[ZeroFormatter](https://github.com/neuecc/ZeroFormatter)** (2016) - Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity.
- - (⭐ 1,310 x 🍴105 x 😁4) - **[Utf8Json](https://github.com/neuecc/Utf8Json)** (2017) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
- - (⭐ 1,029 x 🍴609 x 😁100) - **[ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text)** (2011) - .NET's fastest JSON, JSV and CSV Text Serializers 
- - (⭐ 914 x 🍴212 x 😁42) - **[YamlDotNet](https://github.com/aaubry/YamlDotNet)** (2012) - YamlDotNet is a .NET library for YAML
- - (⭐ 673 x 🍴146 x 😁39) - **[msgpack-cli](https://github.com/msgpack/msgpack-cli)** (2012) - MessagePack implementation for Common Language Infrastructure / msgpack.org[C#]
- - (⭐ 356 x 🍴57 x 😁15) - **[Wire](https://github.com/rogeralsing/Wire)** (2015) - Binary serializer for POCO objects
- - (⭐ 291 x 🍴36 x 😁10) - **[Channels](https://github.com/davidfowl/Channels)** (2016) - Push based .NET Streams
- - (⭐ 193 x 🍴33 x 😁10) - **[Schema.NET](https://github.com/RehanSaeed/Schema.NET)** (2017) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
- - (⭐ 166 x 🍴64 x 😁11) - **[EDI.Net](https://github.com/indice-co/EDI.Net)** (2015) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
- - (⭐ 130 x 🍴37 x 😁5) - **[TinyCsvParser](https://github.com/bytefish/TinyCsvParser)** (2015) - Easy to use, easy to extend and high-performance library for CSV parsing with .NET
- - (⭐ 111 x 🍴29 x 😁4) - **[ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer)** (2016) - Extended Xml Serializer for .Net
- - (⭐ 103 x 🍴33 x 😁7) - **[YAXLib](https://github.com/sinairv/YAXLib)** (2012) - Yet Another XML Serialization Library for the .NET Framework and .NET Core
- - https://github.com/mgravell/protobuf-net/false
-
-##### Github > .NET > Frameworks, Libraries and Tools > Template Engine
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/template-engine** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/template-engine)
-
- - (⭐ 880 x 🍴244 x 😁53) - **[Razor](https://github.com/aspnet/Razor)** (2014) - [Archived] Parser and code generator for CSHTML files used in view pages for MVC web apps. Project moved to https://github.com/aspnet/AspNetCore
- - (⭐ 644 x 🍴217 x 😁50) - **[dotliquid](https://github.com/dotliquid/dotliquid)** (2010) - .NET Port of Tobias Lütke's Liquid template language.
- - (⭐ 633 x 🍴131 x 😁15) - **[RazorLight](https://github.com/toddams/RazorLight)** (2016) - Template engine based on Microsoft's Razor parsing engine for .NET Core
- - (⭐ 238 x 🍴49 x 😁15) - **[fluid](https://github.com/sebastienros/fluid)** (2017) - Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language.
- - (⭐ 119 x 🍴35 x 😁12) - **[Portable.Xaml](https://github.com/cwensley/Portable.Xaml)** (2015) - Portable .NET library for reading/writing xaml files.
-
-##### Github > .NET > Frameworks, Libraries and Tools > Testing
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/testing** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/testing)
-
- - (⭐ 2,995 x 🍴526 x 😁74) - **[moq4](https://github.com/Moq/moq4)** (2012) - Repo for managing Moq 4.x 
- - (⭐ 2,170 x 🍴553 x 😁89) - **[xunit](https://github.com/xunit/xunit)** (2013) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
- - (⭐ 2,034 x 🍴149 x 😁32) - **[Bogus](https://github.com/bchavez/Bogus)** (2015) - :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
- - (⭐ 1,201 x 🍴206 x 😁46) - **[NSubstitute](https://github.com/nsubstitute/NSubstitute)** (2009) - A friendly substitute for .NET mocking libraries.
- - (⭐ 1,108 x 🍴300 x 😁74) - **[shouldly](https://github.com/shouldly/shouldly)** (2010) - Should testing for .NET - the way Asserting *Should* be!
- - (⭐ 1,028 x 🍴162 x 😁4) - **[Netling](https://github.com/hallatore/Netling)** (2013) - Netling is a load tester client for easy web testing.
- - (⭐ 873 x 🍴139 x 😁36) - **[FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)** (2011) - The easy mocking library for .NET
- - (⭐ 782 x 🍴59 x 😁2) - **[MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc)** (2015) - Fluent testing framework for ASP.NET Core MVC.
- - (⭐ 758 x 🍴182 x 😁59) - **[machine.specifications](https://github.com/machine/machine.specifications)** (2009) - Machine.Specifications is a Context/Specification framework geared towards removing language noise and simplifying tests.
- - (⭐ 489 x 🍴78 x 😁15) - **[GenFu](https://github.com/MisterJames/GenFu)** (2012) - GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can…
- - (⭐ 407 x 🍴38 x 😁7) - **[mockhttp](https://github.com/richardszalay/mockhttp)** (2014) - Testing layer for Microsoft's HttpClient library. Create canned responses using a fluent API.
- - (⭐ 309 x 🍴64 x 😁14) - **[TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy)** (2012) - BDDfy is the simplest BDD framework EVER!
- - (⭐ 271 x 🍴32 x 😁9) - **[xbehave.net](https://github.com/xbehave/xbehave.net)** (2012) - ✖ An xUnit.net extension for describing each step in a test with natural language.
- - (⭐ 237 x 🍴58 x 😁32) - **[Storyteller](https://github.com/storyteller/Storyteller)** (2012) - Executable Specifications for .Net
- - (⭐ 223 x 🍴59 x 😁22) - **[NSpec](https://github.com/nspec/NSpec)** (2011) - A battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
- - (⭐ 121 x 🍴31 x 😁4) - **[LightBDD](https://github.com/LightBDD/LightBDD)** (2013) - BDD framework allowing to create easy to read and maintain tests.
- - (⭐ 65 x 🍴23 x 😁9) - **[dotnet-test-nunit](https://github.com/nunit/dotnet-test-nunit)** (2016) - Deprecated test runner for .NET Core. For use with project.json only. For recent releases of .NET Core, use the NUnit 3 Visual Studio Adapter
- - (⭐ 35 x 🍴4 x 😁3) - **[Testavior](https://github.com/geeklearningio/Testavior)** (2016) - Testavior is a lightweight solution to help you develop Behavior Tests for ASP.NET Core
- - (⭐ 28 x 🍴3 x 😁74) - **[FluentAssertions](https://github.com/dennisdoomen/FluentAssertions)** (2017) - Fluent Assertions is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test. We currently use it in all our internal and client projects, and it is used in many open-source p…
- - (⭐ 6 x 🍴1 x 😁1) - **[CoreBDD](https://github.com/stevenknox/CoreBDD)** (2018) - BDD framework for xUnit.net
- - https://github.com/techtalk/SpecFlow/tree/DotNetCorefalse
-
-##### Github > .NET > Frameworks, Libraries and Tools > Tools
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/tools** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/tools)
-
- - (⭐ 10,323 x 🍴1,574 x 😁100) - **[ShareX](https://github.com/ShareX/ShareX)** (2013) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can…
- - (⭐ 7,952 x 🍴732 x 😁100) - **[scoop](https://github.com/lukesampson/scoop)** (2013) - A command-line installer for Windows.
- - (⭐ 4,679 x 🍴405 x 😁100) - **[gitignore.io](https://github.com/joeblau/gitignore.io)** (2013) - Create useful .gitignore files for your project
- - (⭐ 3,684 x 🍴241 x 😁35) - **[browser-extension](https://github.com/OctoLinker/browser-extension)** (2013) - OctoLinker — Links together, what belongs together
- - (⭐ 3,329 x 🍴623 x 😁45) - **[mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)** (2010) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
- - (⭐ 2,958 x 🍴496 x 😁45) - **[letsencrypt-win-simple](https://github.com/Lone-Coder/letsencrypt-win-simple)** (2015) - win-acme - A Simple ACME Client for Windows (for use with Let's Encrypt)
- - (⭐ 1,786 x 🍴615 x 😁41) - **[SharpZipLib](https://github.com/icsharpcode/SharpZipLib)** (2010) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
- - (⭐ 1,766 x 🍴457 x 😁100) - **[docfx](https://github.com/dotnet/docfx)** (2015) - Tools for building and publishing API documentation for .NET projects
- - (⭐ 1,252 x 🍴243 x 😁39) - **[NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer)** (2015) - Create, update and deploy Nuget Packages with a GUI
- - (⭐ 904 x 🍴115 x 😁72) - **[CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils)** (2017) - Command line parsing and utilities for .NET Core and .NET Framework.
- - (⭐ 880 x 🍴127 x 😁93) - **[dotnet-tools](https://github.com/natemcmaster/dotnet-tools)** (2016) - A list of tools to extend the .NET Core command line (dotnet)
- - (⭐ 570 x 🍴50 x 😁12) - **[SharpLab](https://github.com/ashmind/SharpLab)** (2014) - SharpLab (previously known as TryRoslyn)
- - (⭐ 510 x 🍴240 x 😁73) - **[NJsonSchema](https://github.com/RSuter/NJsonSchema)** (2014) - JSON Schema reader, generator and validator for .NET
- - (⭐ 414 x 🍴42 x 😁17) - **[sourcelink](https://github.com/dotnet/sourcelink)** (2018) - Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets
- - (⭐ 299 x 🍴77 x 😁5) - **[SmartCode](https://github.com/Ahoo-Wang/SmartCode)** (2018) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!!
- - (⭐ 271 x 🍴53 x 😁30) - **[NuKeeper](https://github.com/NuKeeperDotNet/NuKeeper)** (2017) - Automagically update nuget packages in .NET projects
- - (⭐ 230 x 🍴38 x 😁14) - **[LibraryManager](https://github.com/aspnet/LibraryManager)** (2017)false
- - (⭐ 193 x 🍴6 x 😁1) - **[Rin](https://github.com/mayuki/Rin)** (2018) - Request/response Inspector middleware for ASP.NET Core
- - (⭐ 152 x 🍴36 x 😁12) - **[dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server)** (2017) - Fake JSON Server is a Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End.
- - (⭐ 140 x 🍴11 x 😁6) - **[SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer)** (2016) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
- - (⭐ 119 x 🍴4 x 😁2) - **[EntryPoint](https://github.com/Nick-Lucas/EntryPoint)** (2016) - Composable CLI Argument Parser for all modern .Net platforms. 
- - (⭐ 62 x 🍴10 x 😁9) - **[ICanHasDotnetCore](https://github.com/OctopusDeploy/ICanHasDotnetCore)** (2016) - Scans uploaded packages.config files or GitHub repository and determines whether the nuget packages target .NETStandard
- - (⭐ 42 x 🍴15 x 😁5) - **[X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap)** (2013) - Simple sitemap generator for .NET and .NET Core
- - (⭐ 18 x 🍴1 x 😁1) - **[posh-dotnet](https://github.com/bergmeister/posh-dotnet)** (2017) - PowerShell tab completion and tooltip support for the dotnet CLI.
- - (⭐ 15 x 🍴3 x 😁5) - **[X.Web.RSS](https://github.com/dncuug/X.Web.RSS)** (2013) - Library to read and write valid rss
- - (⭐ 140 x 😁2) - **[NugetVisualizer](https://github.com/sepharg/NugetVisualizer)** (2017) - Tool intended to help visualize all of the nuget packages and their corresponding versions for a set of given git repositories
-
-##### Github > .NET > Frameworks, Libraries and Tools > Web Framework
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/web-framework** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/web-framework)
-
- - (⭐ 1,772 x 🍴127 x 😁13) - **[Blazor](https://github.com/SteveSanderson/Blazor)** (2017) - MOVED: Please see the new repo at https://github.com/aspnet/blazor
- - (⭐ 1,742 x 🍴672 x 😁58) - **[React.NET](https://github.com/reactjs/React.NET)** (2014) - .NET library for JSX compilation and server-side rendering of React components
- - (⭐ 1,238 x 🍴132 x 😁17) - **[Ooui](https://github.com/praeclarum/Ooui)** (2017) - A small cross-platform UI library that brings the simplicity of native UI development to the web
- - (⭐ 614 x 🍴72 x 😁6) - **[redux.NET](https://github.com/GuillaumeSalles/redux.NET)** (2015) - Redux.NET is a predictable state container for .NET apps. Inspired by https://github.com/reactjs/redux.
- - (⭐ 326 x 🍴23 x 😁2) - **[blazor-redux](https://github.com/torhovland/blazor-redux)** (2018) - Connecting a Redux state store with Blazor.
-
-##### Github > .NET > Frameworks, Libraries and Tools > Web Socket
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/web-socket** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/web-socket)
-
- - (⭐ 2,404 x 🍴427 x 😁60) - **[signalr](https://github.com/aspnet/signalr)** (2016) - [Archived] Incredibly simple real-time web for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore
- - (⭐ 1,929 x 🍴727 x 😁8) - **[SuperSocket](https://github.com/kerryjiang/SuperSocket)** (2012) - SuperSocket is a light weight, cross platform and extensible socket server application framework.
- - (⭐ 1,258 x 🍴416 x 😁26) - **[Fleck](https://github.com/statianzo/Fleck)** (2010) - C# Websocket Implementation
- - (⭐ 331 x 🍴141 x 😁13) - **[websocket-manager](https://github.com/radu-matei/websocket-manager)** (2016) - Real-Time library for ASP .NET Core
- - (⭐ 307 x 🍴76 x 😁14) - **[WampSharp](https://github.com/Code-Sharp/WampSharp)** (2013) - A C# implementation of WAMP (The Web Application Messaging Protocol)
-
-##### Github > .NET > Frameworks, Libraries and Tools > Windows Service
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/windows-service** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/windows-service)
-
- - (⭐ 2,909 x 🍴614 x 😁74) - **[Topshelf](https://github.com/Topshelf/Topshelf)** (2010) - An easy service hosting framework for building Windows services using .NET
- - (⭐ 396 x 🍴50 x 😁6) - **[dotnet-win32-service](https://github.com/dasMulli/dotnet-win32-service)** (2016) - Helper classes to set up and run as windows services directly on .net core. A ServiceBase alternative.
-
-##### Github > .NET > Frameworks, Libraries and Tools > Workflow
-
-[💯 **https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/workflow** ](https://metaawesome.io/github/.net/frameworks,-libraries-and-tools/workflow)
-
- - (⭐ 1,192 x 🍴290 x 😁11) - **[workflow-core](https://github.com/danielgerlag/workflow-core)** (2016) - Lightweight workflow engine for .NET Standard
- - (⭐ 1,111 x 🍴310 x 😁8) - **[Wexflow](https://github.com/aelassas/Wexflow)** (2017) - A high-performance, extensible, modular and cross-platform workflow engine.
- - (⭐ 414 x 🍴140 x 😁3) - **[WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET)** (2014) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service).
- - https://github.com/dmetzgar/corewf/false
-
-### Github > Elixir
-
- - [Actors](#github--elixir--actors)
- - [Algorithms and Data structures](#github--elixir--algorithms-and-data-structures)
- - [Applications](#github--elixir--applications)
- - [Artificial Intelligence](#github--elixir--artificial-intelligence)
- - [Audio and Sounds](#github--elixir--audio-and-sounds)
- - [Authentication](#github--elixir--authentication)
- - [Authorization](#github--elixir--authorization)
- - [Behaviours and Interfaces](#github--elixir--behaviours-and-interfaces)
- - [Benchmarking](#github--elixir--benchmarking)
- - [Bittorrent](#github--elixir--bittorrent)
- - [BSON](#github--elixir--bson)
- - [Build Tools](#github--elixir--build-tools)
- - [Caching](#github--elixir--caching)
- - [Chatting](#github--elixir--chatting)
- - [Cloud Infrastructure and Management](#github--elixir--cloud-infrastructure-and-management)
- - [Code Analysis](#github--elixir--code-analysis)
- - [Command Line Applications](#github--elixir--command-line-applications)
- - [Configuration](#github--elixir--configuration)
- - [Cryptography](#github--elixir--cryptography)
- - [CSV](#github--elixir--csv)
- - [Date and Time](#github--elixir--date-and-time)
- - [Debugging](#github--elixir--debugging)
- - [Deployment](#github--elixir--deployment)
- - [Documentation](#github--elixir--documentation)
- - [Domain-specific language](#github--elixir--domain-specific-language)
- - [ECMAScript](#github--elixir--ecmascript)
- - [Email](#github--elixir--email)
- - [Encoding and Compression](#github--elixir--encoding-and-compression)
- - [Errors and Exception Handling](#github--elixir--errors-and-exception-handling)
- - [Eventhandling](#github--elixir--eventhandling)
- - [Examples and funny stuff](#github--elixir--examples-and-funny-stuff)
- - [Feature Flags and Toggles](#github--elixir--feature-flags-and-toggles)
- - [Feeds](#github--elixir--feeds)
- - [Files and Directories](#github--elixir--files-and-directories)
- - [Formulars](#github--elixir--formulars)
- - [Framework Components](#github--elixir--framework-components)
- - [Frameworks](#github--elixir--frameworks)
- - [Games](#github--elixir--games)
- - [Geolocation](#github--elixir--geolocation)
- - [GUI](#github--elixir--gui)
- - [Hardware](#github--elixir--hardware)
- - [HTML](#github--elixir--html)
- - [HTTP](#github--elixir--http)
- - [Images](#github--elixir--images)
- - [Instrumenting / Monitoring](#github--elixir--instrumenting-/-monitoring)
- - [JSON](#github--elixir--json)
- - [Languages](#github--elixir--languages)
- - [Lexical analysis](#github--elixir--lexical-analysis)
- - [Logging](#github--elixir--logging)
- - [Macros](#github--elixir--macros)
- - [Markdown](#github--elixir--markdown)
- - [Miscellaneous](#github--elixir--miscellaneous)
- - [Native Implemented Functions](#github--elixir--native-implemented-functions)
- - [Natural Language Processing (NLP)](#github--elixir--natural-language-processing-(nlp))
- - [Networking](#github--elixir--networking)
- - [Office](#github--elixir--office)
- - [ORM and Datamapping](#github--elixir--orm-and-datamapping)
- - [OTP](#github--elixir--otp)
- - [Package Management](#github--elixir--package-management)
- - [PDF](#github--elixir--pdf)
- - [Protocols](#github--elixir--protocols)
- - [Queue](#github--elixir--queue)
- - [Release Management](#github--elixir--release-management)
- - [REST and API](#github--elixir--rest-and-api)
- - [Search](#github--elixir--search)
- - [Security](#github--elixir--security)
- - [Static Page Generation](#github--elixir--static-page-generation)
- - [Statistics](#github--elixir--statistics)
- - [Templating](#github--elixir--templating)
- - [Testing](#github--elixir--testing)
- - [Text and Numbers](#github--elixir--text-and-numbers)
- - [Third Party APIs](#github--elixir--third-party-apis)
- - [Translations and Internationalizations](#github--elixir--translations-and-internationalizations)
- - [Utilities](#github--elixir--utilities)
- - [Validations](#github--elixir--validations)
- - [Version Control](#github--elixir--version-control)
- - [Video](#github--elixir--video)
- - [XML](#github--elixir--xml)
- - [YAML](#github--elixir--yaml)
- - [Books](#github--elixir--books)
- - [Cheat Sheets](#github--elixir--cheat-sheets)
- - [Editors](#github--elixir--editors)
- - [Other Awesome Lists](#github--elixir--other-awesome-lists)
- - [Reading](#github--elixir--reading)
- - [Styleguides](#github--elixir--styleguides)
- - [Websites](#github--elixir--websites)
-
-#### Github > Elixir > Actors
-
-[💯 **https://metaawesome.io/github/elixir/actors** ](https://metaawesome.io/github/elixir/actors)
-
- - (⭐ 1,218 x 🍴290 x 😁27) - **[poolboy](https://github.com/devinus/poolboy)** (2010) - A hunky Erlang worker pool factory
- - (⭐ 623 x 🍴24 x 😁11) - **[exactor](https://github.com/sasa1977/exactor)** (2013) - Helpers for simpler implementation of GenServer based processes
- - (⭐ 286 x 🍴13 x 😁3) - **[flowex](https://github.com/antonmi/flowex)** (2016) - Flow-Based Programming framework for Elixir
- - (⭐ 268 x 🍴73 x 😁14) - **[pooler](https://github.com/seth/pooler)** (2011) - An OTP Process Pool Application
- - (⭐ 139 x 🍴7 x 😁3) - **[sbroker](https://github.com/fishcakez/sbroker)** (2014) - Sojourn-time based active queue management library
- - (⭐ 67 x 🍴5 x 😁2) - **[workex](https://github.com/sasa1977/workex)** (2013) - Load control in BEAM processes.
- - (⭐ 58 x 🍴6 x 😁3) - **[exos](https://github.com/awetzel/exos)** (2014) - Exos is a simple Port Wrapper : a GenServer which forwards cast and call to a linked Port.
- - (⭐ 7 x 🍴3 x 😁3) - **[dflow](https://github.com/dalmatinerdb/dflow)** (2014) - Dalmatiner flow processing library.
- - (⭐ 20 x 😁1) - **[pool_ring](https://github.com/camshaft/pool_ring)** (2015) - create a pool based on a hash ring
- - (⭐ 10 x 😁1) - **[mon_handler](https://github.com/tattdcodemonkey/mon_handler)** (2015) - Elixir GenServer used to monitor a GenEvent event handler  
-
-#### Github > Elixir > Algorithms and Data structures
-
-[💯 **https://metaawesome.io/github/elixir/algorithms-and-data-structures** ](https://metaawesome.io/github/elixir/algorithms-and-data-structures)
-
- - (⭐ 643 x 🍴18 x 😁7) - **[witchcraft](https://github.com/expede/witchcraft)** (2015) - Monads and other dark magic for Elixir
- - (⭐ 364 x 🍴40 x 😁6) - **[fuse](https://github.com/jlouis/fuse)** (2014) - A Circuit Breaker for Erlang
- - (⭐ 305 x 🍴20 x 😁5) - **[fsm](https://github.com/sasa1977/fsm)** (2013) - Finite State Machine data structure
- - (⭐ 270 x 🍴12 x 😁3) - **[MonadEx](https://github.com/rob-brown/MonadEx)** (2015) - Upgrade your pipelines with monads.
- - (⭐ 265 x 🍴17 x 😁5) - **[matrex](https://github.com/versilov/matrex)** (2018) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
- - (⭐ 205 x 🍴25 x 😁11) - **[machinery](https://github.com/joaomdmoura/machinery)** (2016) - State machine thin layer for structs (+ GUI for Phoenix apps)
- - (⭐ 202 x 🍴12 x 😁3) - **[exconstructor](https://github.com/appcues/exconstructor)** (2016) - An Elixir library for generating struct constructors that handle external data with ease.
- - (⭐ 196 x 🍴12 x 😁2) - **[loom](https://github.com/asonge/loom)** (2014) - A CRDT library with δ-CRDT support.
- - (⭐ 190 x 🍴18 x 😁2) - **[elixir-datastructures](https://github.com/meh/elixir-datastructures)** (2013) - Datastructures for Elixir.
- - (⭐ 143 x 🍴14 x 😁7) - **[monad](https://github.com/rmies/monad)** (2013) - Monads and do-syntax for Elixir
- - (⭐ 128 x 🍴11 x 😁4) - **[remodel](https://github.com/stavro/remodel)** (2015) - :necktie: An Elixir presenter package used to transform map structures.  "ActiveModel::Serializer for Elixir"
- - (⭐ 120 x 🍴28 x 😁3) - **[erlang-algorithms](https://github.com/aggelgian/erlang-algorithms)** (2013) - Implementations of popular data structures and algorithms
- - (⭐ 110 x 🍴27 x 😁4) - **[trie](https://github.com/okeuday/trie)** (2011) - Erlang Trie Implementation
- - (⭐ 80 x 🍴17 x 😁3) - **[ecto_state_machine](https://github.com/asiniy/ecto_state_machine)** (2016) - State machine pattern for Ecto
- - (⭐ 73 x 🍴15 x 😁11) - **[merkle_tree](https://github.com/yosriady/merkle_tree)** (2016) - :evergreen_tree: Merkle Tree implementation in pure Elixir
- - (⭐ 70 x 🍴4 x 😁5) - **[bloomex](https://github.com/gmcabrita/bloomex)** (2014) - :hibiscus: A pure Elixir implementation of Scalable Bloom Filters
- - (⭐ 69 x 🍴14 x 😁6) - **[parallel_stream](https://github.com/beatrichartz/parallel_stream)** (2015) - A parallelized stream implementation for Elixir
- - (⭐ 62 x 🍴3 x 😁4) - **[parex](https://github.com/StevenJL/parex)** (2015) - An elixir module for parallel execution of functions/processes
- - (⭐ 57 x 🍴30 x 😁4) - **[erlang-lz4](https://github.com/szktty/erlang-lz4)** (2012) - LZ4 bindings for Erlang
- - (⭐ 55 x 🍴13 x 😁7) - **[exmatrix](https://github.com/a115/exmatrix)** (2015) - Elixir library implementing a parallel matrix multiplication algorithm and other utilities for working with matrices. Used for benchmarking computationally intensive concurrent code. 
- - (⭐ 52 x 🍴7 x 😁6) - **[graphmath](https://github.com/crertel/graphmath)** (2014) - An Elixir library for performing 2D and 3D mathematics.
- - (⭐ 48 x 🍴7 x 😁4) - **[the_fuzz](https://github.com/smashedtoatoms/the_fuzz)** (2014) - String metrics and phonetic algorithms for Elixir (e.g. Dice/Sorensen, Hamming, Jaccard, Jaro, Jaro-Winkler, Levenshtein, Metaphone, N-Gram, NYSIIS, Overlap, Ratcliff/Obershelp, Refined NYSIIS, Refined Soundex, Soundex, Weighted Levenshtein…
- - (⭐ 44 x 🍴8 x 😁6) - **[BlockingQueue](https://github.com/joekain/BlockingQueue)** (2015) - A blocking queue written in Elixir.
- - (⭐ 38 x 🍴7 x 😁2) - **[dataframe](https://github.com/JordiPolo/dataframe)** (2016) - Package providing functionality similar to Python's Pandas or R's data.frame()
- - (⭐ 36 x 🍴2 x 😁2) - **[gen_fsm](https://github.com/pavlos/gen_fsm)** (2016) - Elixir wrapper around OTP's gen_fsm
- - (⭐ 35 x 🍴1 x 😁1) - **[emel](https://github.com/mrdimosthenis/emel)** (2018) - Turn data into functions! A simple and functional machine learning library written in elixir.
- - (⭐ 33 x 🍴6 x 😁1) - **[ecto_materialized_path](https://github.com/asiniy/ecto_materialized_path)** (2017) - Tree structure & hierarchy for ecto models
- - (⭐ 32 x 🍴13 x 😁3) - **[red_black_tree](https://github.com/SenecaSystems/red_black_tree)** (2015) - Red-black tree implementation for Elixir.
- - (⭐ 31 x 🍴2 x 😁1) - **[cuid](https://github.com/duailibe/cuid)** (2015) - Collision-resistant ids, in Elixir
- - (⭐ 300 x 😁2) - **[cuckoo](https://github.com/gmcabrita/cuckoo)** (2014) - :bird: Cuckoo Filters in Elixir
- - (⭐ 29 x 🍴5 x 😁6) - **[DefMemo](https://github.com/os6sense/DefMemo)** (2015) - DefMemo - Ryuk's little puppy! Bring apples.
- - (⭐ 28 x 🍴4 x 😁3) - **[bitmap-elixir](https://github.com/hashd/bitmap-elixir)** (2015) - Bitmap implementation in Elixir using binaries and integers. Fast space efficient data structure for lookups
- - (⭐ 25 x 🍴2 x 😁3) - **[murmur](https://github.com/gmcabrita/murmur)** (2014) - :speech_balloon: An implementation of the non-cryptographic hash Murmur3
- - (⭐ 25 x 🍴2 x 😁2) - **[elixir-paratize](https://github.com/seantanly/elixir-paratize)** (2015) - Elixir library providing some handy parallel processing facilities that supports configuring number of workers and timeout.
- - (⭐ 23 x 🍴8 x 😁1) - **[elixir-array](https://github.com/takscape/elixir-array)** (2014) - An Elixir wrapper library for Erlang's array
- - (⭐ 22 x 🍴20) - **[aruspex](https://github.com/dkendal/aruspex)** (2015) - A configurable constraint solver
- - (⭐ 21 x 🍴19 x 😁4) - **[hash-ring-ex](https://github.com/reset/hash-ring-ex)** (2014) - A consistent hash ring implemention for Elixir
- - (⭐ 21 x 🍴1 x 😁2) - **[sleeplocks](https://github.com/whitfin/sleeplocks)** (2019) - BEAM friendly spinlocks for Elixir/Erlang
- - (⭐ 18 x 🍴6 x 😁2) - **[sorted_set](https://github.com/SenecaSystems/sorted_set)** (2015) - Sorted Set library for Elixir
- - (⭐ 170 x 😁1) - **[elixir-combination](https://github.com/seantanly/elixir-combination)** (2016) - A simple combinatorics library providing combination and permutation.
- - (⭐ 15 x 🍴5 x 😁4) - **[elixir-rational](https://github.com/Qqwy/elixir-rational)** (2016) - Rational number library for Elixir.
- - (⭐ 15 x 🍴3 x 😁2) - **[tf-idf](https://github.com/OCannings/tf-idf)** (2015) - tf-idf elixir
- - (⭐ 150 x 😁1) - **[zipper_tree](https://github.com/Dkendal/zipper_tree)** (2015) - Variadic aritity tree with a zipper for Elixir!
- - (⭐ 14 x 🍴4 x 😁3) - **[eastar](https://github.com/herenowcoder/eastar)** (2013) - A* graph pathfinding in pure Elixir
- - (⭐ 140 x 😁1) - **[indifferent](https://github.com/vic/indifferent)** (2016) - Elixir Indifferent access on maps/lists/tuples with custom key transforms.
- - (⭐ 14 x 🍴3 x 😁2) - **[simhash-ex](https://github.com/UniversalAvenue/simhash-ex)** (2016) - Elixir implementation of Simhash
- - (⭐ 12 x 🍴1 x 😁1) - **[clope](https://github.com/ayrat555/clope)** (2017) - Elixir implementation of CLOPE: A Fast and Effective Clustering Algorithm for Transactional Data
- - (⭐ 120 x 😁1) - **[elistrix](https://github.com/tobz/elistrix)** (2015) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
- - (⭐ 10 x 🍴2 x 😁1) - **[hypex](https://github.com/whitfin/hypex)** (2016) - Fast HyperLogLog implementation for Elixir/Erlang
- - (⭐ 10 x 🍴6 x 😁4) - **[luhn_ex](https://github.com/ma2gedev/luhn_ex)** (2015) - Luhn algorithm in Elixir
- - (⭐ 10 x 🍴1 x 😁2) - **[elixir-queue](https://github.com/princemaple/elixir-queue)** (2016) - Queue data structure for Elixir-lang
- - (⭐ 100 x 😁1) - **[structurez](https://github.com/hamiltop/structurez)** (2014) - A playground for data structures in Elixir
- - (⭐ 9 x 🍴1 x 😁1) - **[supermemo](https://github.com/edubkendo/supermemo)** (2014) - An Elixir implementation of the Supermemo 2 algorithm
- - (⭐ 8 x 🍴1 x 😁1) - **[natural_sort](https://github.com/DanCouper/natural_sort)** (2015) - Elixir natural sort implementation for lists of strings.
- - (⭐ 7 x 🍴3 x 😁3) - **[Rendezvous](https://github.com/timdeputter/Rendezvous)** (2015) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in the Elixir Programming Language
- - (⭐ 6 x 🍴3 x 😁4) - **[exfsm](https://github.com/awetzel/exfsm)** (2014) - Simple elixir library to define a static FSM.
- - (⭐ 50 x 😁1) - **[lfsr](https://github.com/pma/lfsr)** (2014) - Elixir implementation of a binary Galois LFSR
- - (⭐ 50 x 😁2) - **[nary_tree](https://github.com/medhiwidjaja/nary_tree)** (2018) - An Elixir implementation of generic n-ary tree data structure
- - (⭐ 5 x 🍴3 x 😁1) - **[rock](https://github.com/ayrat555/rock)** (2017) - Elixir implementation of ROCK: A Robust Clustering Algorithm for Categorical Attributes
- - (⭐ 4 x 🍴2 x 😁3) - **[elixir-bimap](https://github.com/mkaput/elixir-bimap)** (2017) - Elixir implementation of bidirectional map and multimap
- - (⭐ 4 x 🍴1 x 😁1) - **[key2value](https://github.com/okeuday/key2value)** (2013) - Erlang 2-way map
- - (⭐ 40 x 😁1) - **[mason](https://github.com/spacepilots/mason)** (2018) -  Mason uses superpowers to coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.
- - (⭐ 4 x 🍴1 x 😁2) - **[elixir-minmaxlist](https://github.com/seantanly/elixir-minmaxlist)** (2015) - Extension of Enum functions like min_by, max_by, min_max_by, returning a list of results instead of just one.
- - (⭐ 4 x 🍴6 x 😁6) - **[mmath](https://github.com/dalmatinerdb/mmath)** (2014) - Metric stream related math functions.
- - (⭐ 20 x 😁1) - **[count_buffer](https://github.com/camshaft/count_buffer)** (2015) - buffer a large set of counters and flush periodically
- - (⭐ 20 x 😁1) - **[dlist](https://github.com/stocks29/dlist)** (2015) - Deque implementations in elixir
- - (⭐ 2 x 🍴3 x 😁4) - **[fnv.ex](https://github.com/asaaki/fnv.ex)** (2015) - Pure Elixir implementation of Fowler–Noll–Vo hash functions
- - (⭐ 2 x 🍴1 x 😁1) - **[elixir-isaac](https://github.com/arianvp/elixir-isaac)** (2015)false
- - (⭐ 20 x 😁1) - **[jumper](https://github.com/whitfin/jumper)** (2018) - Jump consistent hash implementation in Elixir (without NIFs)
- - (⭐ 20 x 😁1) - **[spacesaving](https://github.com/rozap/spacesaving)** (2016) - stream count distinct element estimation
- - (⭐ 10 x 😁1) - **[elixir-navigation-tree](https://github.com/gutschilla/elixir-navigation-tree)** (2015) - A navigation tree representation with helpers to generate HTML out of it - depending of userroles
- - (⭐ 0 x 🍴1 x 😁1) - **[exkad](https://github.com/rozap/exkad)** (2016) - kademlia 
- - (⭐ 0 x 🍴1 x 😁2) - **[ezcryptex](https://github.com/stocks29/ezcryptex)** (2014) - Thin layer on top of Cryptex for more easily encrypting/decrypting, signing/verifying data in elixir
- - https://github.com/jj1bdx/sfmt-erlang/false
- - https://github.com/jj1bdx/tinymt-erlang/false
-
-#### Github > Elixir > Applications
-
-[💯 **https://metaawesome.io/github/elixir/applications** ](https://metaawesome.io/github/elixir/applications)
-
- - (⭐ 2,383 x 🍴433 x 😁15) - **[phoenix-trello](https://github.com/bigardone/phoenix-trello)** (2016) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
- - (⭐ 1,192 x 🍴159 x 😁51) - **[n2o](https://github.com/synrc/n2o)** (2013) - ⭕ N2O: Distributed Application Server
- - (⭐ 771 x 🍴74 x 😁20) - **[poxa](https://github.com/edgurgel/poxa)** (2013) - Pusher server implementation compatible with Pusher client libraries.
- - (⭐ 466 x 🍴51 x 😁4) - **[phoenix-battleship](https://github.com/bigardone/phoenix-battleship)** (2016) - The Good Old game, built with Elixir, Phoenix, React and Redux
- - (⭐ 281 x 🍴42 x 😁34) - **[remote_retro](https://github.com/stride-nyc/remote_retro)** (2016) - Agile retrospectives for distributed teams
- - (⭐ 231 x 🍴31 x 😁1) - **[exchat](https://github.com/tony612/exchat)** (2015) - A Slack-like app by Elixir, Phoenix & React(redux)
- - (⭐ 190 x 🍴24 x 😁1) - **[ex-shop](https://github.com/authentic-pixels/ex-shop)** (2016) - Digital goods shop & blog created using Elixir (Phoenix framework)
- - (⭐ 172 x 🍴17 x 😁2) - **[phoenix-toggl](https://github.com/bigardone/phoenix-toggl)** (2016) - Toggl tribute done with Elixir, Phoenix Framework, React and Redux.
- - (⭐ 170 x 🍴25 x 😁2) - **[sprint-poker](https://github.com/elpassion/sprint-poker)** (2015) - Online estimation tool for Agile teams.
- - (⭐ 144 x 🍴18 x 😁2) - **[tty2048](https://github.com/lexmag/tty2048)** (2014) - Terminal-based 2048 game written in Elixir
- - (⭐ 124 x 🍴31 x 😁9) - **[bpe](https://github.com/spawnproc/bpe)** (2014) - 💼 BPE: Business Processes Engine
- - (⭐ 99 x 🍴6 x 😁2) - **[consolex](https://github.com/sivsushruth/consolex)** (2016) - Consolex is a tool that allows you to attach a web based console to any mix project
- - (⭐ 76 x 🍴15 x 😁1) - **[job_search](https://github.com/tsurupin/job_search)** (2016) - An app to search startup jobs scraped from websites written in Elixir, Phoenix, React and styled-components. 
- - (⭐ 71 x 🍴15 x 😁10) - **[captain-fact-api](https://github.com/CaptainFact/captain-fact-api)** (2018) - 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io
- - (⭐ 50 x 🍴3 x 😁1) - **[hydra](https://github.com/doomspork/hydra)** (2015) - Open source API gateway with integrated cache and data transformations.
- - (⭐ 39 x 🍴5 x 😁2) - **[dragonfly-server](https://github.com/cloud8421/dragonfly-server)** (2014) - Elixir app to serve Dragonfly images
- - (⭐ 28 x 🍴6 x 😁2) - **[uai_shot](https://github.com/sergioaugrod/uai_shot)** (2017) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser. :rocket:
- - (⭐ 24 x 🍴5 x 😁1) - **[Queerlink](https://github.com/Queertoo/Queerlink)** (2015) - A simple yet efficient URL shortening service written in Elixir
- - (⭐ 18 x 🍴3 x 😁1) - **[Exon](https://github.com/tchoutri/Exon)** (2016) - Exon is a “mess manager” developed in Elixir and provides a simple API to manage & document your stuff.
- - (⭐ 11 x 🍴1 x 😁1) - **[Nvjorn](https://github.com/tchoutri/Nvjorn)** (2016) - A multi-protocol network services monitor written in Elixir using Poolboy.
- - (⭐ 7 x 🍴1 x 😁1) - **[medex](https://github.com/xerions/medex)** (2015) -  Medical Examination - application for register health check callbacks and represent their state via HTTP.
- - (⭐ 2 x 🍴1 x 😁2) - **[medusa_server](https://github.com/IcaliaLabs/medusa_server)** (2017) - A simple web server written in elixir to stack images
-
-#### Github > Elixir > Artificial Intelligence
-
-[💯 **https://metaawesome.io/github/elixir/artificial-intelligence** ](https://metaawesome.io/github/elixir/artificial-intelligence)
-
- - (⭐ 352 x 🍴23 x 😁3) - **[simple_bayes](https://github.com/fredwu/simple_bayes)** (2016) - A Naive Bayes machine learning implementation in Elixir.
- - (⭐ 83 x 🍴16 x 😁3) - **[exnn](https://github.com/zampino/exnn)** (2015) - An Elixir Evolutive Neural Network framework à la G.Sher
-
-#### Github > Elixir > Audio and Sounds
-
-[💯 **https://metaawesome.io/github/elixir/audio-and-sounds** ](https://metaawesome.io/github/elixir/audio-and-sounds)
-
- - (⭐ 34 x 🍴8 x 😁3) - **[synthex](https://github.com/bitgamma/synthex)** (2015) - A signal synthesis library
- - (⭐ 30 x 🍴8 x 😁3) - **[firmata](https://github.com/entone/firmata)** (2015) - Firmata protocol in Elixir
- - (⭐ 21 x 🍴5 x 😁1) - **[erlaudio](https://github.com/asonge/erlaudio)** (2013) - Erlang PortAudio bindings
-
-#### Github > Elixir > Authentication
-
-[💯 **https://metaawesome.io/github/elixir/authentication** ](https://metaawesome.io/github/elixir/authentication)
-
- - (⭐ 2,572 x 🍴301 x 😁116) - **[guardian](https://github.com/ueberauth/guardian)** (2015) - Elixir Authentication
- - (⭐ 1,043 x 🍴211 x 😁65) - **[coherence](https://github.com/smpallen99/coherence)** (2016) - Coherence is a full featured, configurable authentication system for Phoenix
- - (⭐ 987 x 🍴68 x 😁30) - **[ueberauth](https://github.com/ueberauth/ueberauth)** (2014) - An Elixir Authentication System for Plug-based Web Applications
- - (⭐ 515 x 🍴100 x 😁34) - **[oauth2](https://github.com/scrogson/oauth2)** (2014) - An Elixir OAuth 2.0 Client Library
- - (⭐ 306 x 🍴20 x 😁8) - **[phauxth](https://github.com/riverrun/phauxth)** (2017) - Authentication library for Phoenix, and other Plug-based, web applications
- - (⭐ 195 x 🍴31 x 😁4) - **[shield](https://github.com/mustafaturan/shield)** (2016) - Deprecated in favor of authable lib
- - (⭐ 138 x 🍴27 x 😁21) - **[basic_auth](https://github.com/CultivateHQ/basic_auth)** (2015) - Elixir Plug to easily add HTTP basic authentication to an app
- - (⭐ 115 x 🍴57 x 😁21) - **[goth](https://github.com/peburrows/goth)** (2016) - Elixir package for Oauth authentication via Google Cloud APIs
- - (⭐ 101 x 🍴11 x 😁9) - **[doorman](https://github.com/BlakeWilliams/doorman)** (2016) - Tools to make Plug, and Phoenix authentication simple and flexible.
- - (⭐ 80 x 🍴54 x 😁23) - **[ueberauth_google](https://github.com/ueberauth/ueberauth_google)** (2015) - Google OAuth2 Strategy for Überauth.
- - (⭐ 60 x 🍴36 x 😁17) - **[ueberauth_github](https://github.com/ueberauth/ueberauth_github)** (2015) - GitHub OAuth2 Strategy for Überauth
- - (⭐ 59 x 🍴18 x 😁10) - **[ueberauth_identity](https://github.com/ueberauth/ueberauth_identity)** (2015) - A username/password Strategy for Überauth
- - (⭐ 58 x 🍴35 x 😁14) - **[aws_auth](https://github.com/bryanjos/aws_auth)** (2014) - AWS Signature Version 4 Signing Library for Elixir
- - (⭐ 57 x 🍴14 x 😁8) - **[oauth2ex](https://github.com/parroty/oauth2ex)** (2014) - An OAuth 2.0 client library for elixir.
- - (⭐ 55 x 🍴44 x 😁12) - **[ueberauth_Facebook](https://github.com/ueberauth/ueberauth_Facebook)** (2015) - Facebook OAuth2 Strategy for Überauth.
- - (⭐ 54 x 🍴17 x 😁4) - **[samly](https://github.com/handnot2/samly)** (2017) - Elixir Plug library to enable SAML 2.0 SP SSO in Phoenix/Plug applications.
- - (⭐ 49 x 🍴16 x 😁5) - **[oauther](https://github.com/lexmag/oauther)** (2014) - An OAuth 1.0 for Elixir
- - (⭐ 33 x 🍴3 x 😁1) - **[aeacus](https://github.com/zmoshansky/aeacus)** (2015) - A simple, secure, and highly configurable Elixir identity [username | email | id | etc.]/password authentication module to use with Ecto.
- - (⭐ 32 x 🍴1 x 😁2) - **[passwordless_auth](https://github.com/madebymany/passwordless_auth)** (2018) - A library for simple passwordless authentication
- - (⭐ 28 x 🍴28 x 😁12) - **[ueberauth_twitter](https://github.com/ueberauth/ueberauth_twitter)** (2015) - Twitter Strategy for Überauth
- - (⭐ 18 x 🍴29 x 😁16) - **[ueberauth_slack](https://github.com/ueberauth/ueberauth_slack)** (2015) - Slack OAuth2 Strategy for Überauth
- - (⭐ 15 x 🍴12 x 😁10) - **[ueberauth_vk](https://github.com/sobolevn/ueberauth_vk)** (2016) - vk.com OAuth2 Strategy for Überauth.
- - (⭐ 12 x 🍴3 x 😁3) - **[phoenix-client-ssl](https://github.com/jshmrtn/phoenix-client-ssl)** (2017) - Set of Plugs / Lib to help with SSL Client Auth.
- - (⭐ 12 x 🍴5 x 😁3) - **[ueberauth_microsoft](https://github.com/swelham/ueberauth_microsoft)** (2017) - Microsoft Strategy for Überauth
- - (⭐ 12 x 🍴2 x 😁2) - **[ueberauth_weibo](https://github.com/he9qi/ueberauth_weibo)** (2016) - Weibo OAuth2 strategy for Überauth.
- - (⭐ 11 x 🍴1 x 😁1) - **[sesamex](https://github.com/khusnetdinov/sesamex)** (2016) - [WIP] Another authentication hex for Phoenix.
- - (⭐ 11 x 🍴3 x 😁1) - **[ueberauth_cas](https://github.com/marceldegraaf/ueberauth_cas)** (2016) - Central Authentication Service strategy for Überauth
- - (⭐ 7 x 🍴1 x 😁2) - **[sigaws](https://github.com/handnot2/sigaws)** (2017) - An Elixir library to sign and verify HTTP requests using AWS Signature V4
- - (⭐ 400) - **[Apache.PasswdMD5](https://github.com/kevinmontuori/Apache.PasswdMD5)** (2014) - Apache/APR Style Password Hashing
- - (⭐ 4 x 🍴2 x 😁1) - **[github_oauth](https://github.com/lidashuang/github_oauth)** (2015) - A simple github oauth library
- - (⭐ 4 x 🍴1 x 😁1) - **[oauth2_facebook](https://github.com/chrislaskey/oauth2_facebook)** (2017) - A Facebook OAuth2 Provider for Elixir
- - (⭐ 3 x 🍴1 x 😁1) - **[Apache.htpasswd](https://github.com/kevinmontuori/Apache.htpasswd)** (2014) - Apache httpasswd file reader/writer in Elixir
- - (⭐ 30 x 😁1) - **[mojo-auth.ex](https://github.com/mojolingo/mojo-auth.ex)** (2015) - MojoAuth implementation in Elixir
- - (⭐ 3 x 🍴1 x 😁3) - **[oauth2cli-elixir](https://github.com/mgamini/oauth2cli-elixir)** (2015) - Simple OAuth2 client written for elixir
- - (⭐ 2 x 🍴1 x 😁1) - **[oauth2_github](https://github.com/chrislaskey/oauth2_github)** (2017) - A GitHub OAuth2 Provider for Elixir
- - (⭐ 2 x 🍴1 x 😁2) - **[ueberauth_line](https://github.com/alexfilatov/ueberauth_line)** (2016) - LINE strategy for Ueberauth
- - (⭐ 10 x 😁1) - **[ueberauth_foursquare](https://github.com/borodiychuk/ueberauth_foursquare)** (2017) - Foursquare OAuth2 Strategy for Überauth
-
-#### Github > Elixir > Authorization
-
-[💯 **https://metaawesome.io/github/elixir/authorization** ](https://metaawesome.io/github/elixir/authorization)
-
- - (⭐ 420 x 🍴48 x 😁12) - **[canary](https://github.com/cpjk/canary)** (2015) - :hatching_chick: Elixir authorization and resource-loading library for Plug applications.
- - (⭐ 344 x 🍴21 x 😁10) - **[bodyguard](https://github.com/schrockwell/bodyguard)** (2016) - Simple authorization conventions for Phoenix apps
- - (⭐ 298 x 🍴22 x 😁11) - **[canada](https://github.com/jarednorman/canada)** (2014) - Easy permission definitions in Elixir apps!
- - (⭐ 66 x 🍴3 x 😁3) - **[authorize](https://github.com/jfrolich/authorize)** (2016) - Rule based authorization for Elixir
- - (⭐ 32 x 🍴2 x 😁1) - **[speakeasy](https://github.com/coryodaniel/speakeasy)** (2018) - Middleware based authorization for Absinthe GraphQL powered by Bodyguard
- - (⭐ 20 x 🍴1 x 😁1) - **[terminator](https://github.com/MilosMosovsky/terminator)** (2019) - 🛡 Modern elixir ACL/ABAC library for managing granular user abilities and permissions
-
-#### Github > Elixir > Behaviours and Interfaces
-
-[💯 **https://metaawesome.io/github/elixir/behaviours-and-interfaces** ](https://metaawesome.io/github/elixir/behaviours-and-interfaces)
-
- - (⭐ 205 x 🍴16 x 😁8) - **[connection](https://github.com/fishcakez/connection)** (2015) - Connection behaviour for connection processes
- - (⭐ 191 x 🍴22 x 😁9) - **[gen_state_machine](https://github.com/antipax/gen_state_machine)** (2016) - An idiomatic Elixir wrapper for gen_statem in OTP 19 (and above).
- - (⭐ 18 x 🍴7 x 😁2) - **[stockastic](https://github.com/shanewilton/stockastic)** (2015) - Simple Elixir wrapper for the Stockfighter API
-
-#### Github > Elixir > Benchmarking
-
-[💯 **https://metaawesome.io/github/elixir/benchmarking** ](https://metaawesome.io/github/elixir/benchmarking)
-
- - (⭐ 722 x 🍴37 x 😁20) - **[benchee](https://github.com/PragTob/benchee)** (2016) - Easy and extensible benchmarking in Elixir providing you with lots of statistics!
- - (⭐ 409 x 🍴23 x 😁10) - **[benchfella](https://github.com/alco/benchfella)** (2014) - Microbenchmarking tool for Elixir
- - (⭐ 65 x 🍴3 x 😁3) - **[bmark](https://github.com/joekain/bmark)** (2015) - A benchmarking tool for Elixir
-
-#### Github > Elixir > Bittorrent
-
-[💯 **https://metaawesome.io/github/elixir/bittorrent** ](https://metaawesome.io/github/elixir/bittorrent)
-
- - (⭐ 54 x 🍴9 x 😁3) - **[bento](https://github.com/folz/bento)** (2016) - :bento: A fast, correct, pure-Elixir library for reading and writing Bencoded metainfo files.
- - (⭐ 14 x 🍴2 x 😁2) - **[wire](https://github.com/alehander42/wire)** (2014) - encode and decode bittorrent peer wire protocol messages with elixir
- - (⭐ 120 x 😁1) - **[tracker_request](https://github.com/alehander42/tracker_request)** (2014) - an elixir library for dealing with bittorrent tracker requests and responses
-
-#### Github > Elixir > BSON
-
-[💯 **https://metaawesome.io/github/elixir/bson** ](https://metaawesome.io/github/elixir/bson)
-
- - (⭐ 6 x 🍴3 x 😁1) - **[bsoneach](https://github.com/Nebo15/bsoneach)** (2016) - Elixir package that applies a function to each document in a BSON file.
- - (⭐ 2 x 🍴4 x 😁7) - **[cyanide](https://github.com/ispirata/cyanide)** (2018) - BSON documents in Elixir language
-
-#### Github > Elixir > Build Tools
-
-[💯 **https://metaawesome.io/github/elixir/build-tools** ](https://metaawesome.io/github/elixir/build-tools)
-
- - (⭐ 567 x 🍴177 x 😁89) - **[relx](https://github.com/erlware/relx)** (2013) - Sane, simple release creation for Erlang
- - (⭐ 328 x 🍴36 x 😁7) - **[reaxt](https://github.com/awetzel/reaxt)** (2015) - Use React template into your Elixir application for server rendering
- - (⭐ 170 x 🍴49 x 😁26) - **[mad](https://github.com/synrc/mad)** (2014) - ⚡ MAD: Manage Dependencies
- - (⭐ 115 x 🍴22 x 😁5) - **[remix](https://github.com/AgilionApps/remix)** (2014) - Automatic recompilation of mix code on file change.
- - (⭐ 83 x 🍴4 x 😁1) - **[rotor](https://github.com/HashNuke/rotor)** (2014) - Super-simple build system for Elixir
- - (⭐ 60 x 🍴17 x 😁6) - **[active](https://github.com/synrc/active)** (2014) - ⛵ ACTIVE: Filesystem Activities
- - (⭐ 39 x 🍴18 x 😁9) - **[port_compiler](https://github.com/blt/port_compiler)** (2015) - A rebar3 port compiler
- - (⭐ 39 x 🍴10 x 😁7) - **[rebar3_auto](https://github.com/vans163/rebar3_auto)** (2014) - Rebar3 plugin to auto compile and reload on file change.
- - (⭐ 22 x 🍴2 x 😁2) - **[reltool_util](https://github.com/okeuday/reltool_util)** (2013) - Erlang reltool utility functionality application
- - (⭐ 20 x 🍴8 x 😁1) - **[rebar3_run](https://github.com/tsloughter/rebar3_run)** (2015) - Run a release with one simple command
- - (⭐ 16 x 🍴3 x 😁2) - **[coffee_rotor](https://github.com/HashNuke/coffee_rotor)** (2013) - Rotor plugin to compile CoffeeScript files
- - (⭐ 16 x 🍴10) - **[exmake](https://github.com/lycus/exmake)** (2013) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
- - (⭐ 14 x 🍴16 x 😁6) - **[rebar3-eqc-plugin](https://github.com/kellymclaughlin/rebar3-eqc-plugin)** (2015) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties 
- - (⭐ 10 x 🍴1 x 😁2) - **[etude](https://github.com/exstruct/etude)** (2015) - futures for elixir/erlang
- - (⭐ 9 x 🍴3 x 😁1) - **[rebar3_protobuffs](https://github.com/benoitc/rebar3_protobuffs)** (2015) - rebar3 protobuffs provider using protobuffs from Basho
- - (⭐ 6 x 🍴3 x 😁2) - **[exscript](https://github.com/liveforeverx/exscript)** (2015) - Elixir escript library (derived work from elixir)
- - (⭐ 30 x 😁1) - **[dismake](https://github.com/jarednorman/dismake)** (2014) - a "compiler" (as in `Mix.compilers`) for Elixir that just runs make
- - (⭐ 3 x 🍴6 x 😁3) - **[rebar3_diameter_compiler](https://github.com/carlosedp/rebar3_diameter_compiler)** (2015) - Compile Diameter .dia files on Erlang Rebar3 projects
- - (⭐ 30 x 😁1) - **[rebar3_live](https://github.com/pvmart/rebar3_live)** (2015) - Rebar3 live plugin
- - (⭐ 20 x 😁1) - **[rebar3_exunit](https://github.com/processone/rebar3_exunit)** (2015) - A plugin to run Elixir ExUnit tests from rebar3 build tool
- - (⭐ 10 x 😁1) - **[rebar3_abnfc_plugin](https://github.com/surik/rebar3_abnfc_plugin)** (2015) - Rebar3 abnfc plugin
- - (⭐ 1 x 🍴7 x 😁1) - **[rebar3_neotoma_plugin](https://github.com/zamotivator/rebar3_neotoma_plugin)** (2015) - Rebar3 neotoma (Parser Expression Grammar) compiler
- - (⭐ 0 x 🍴30) - **[rebar3_asn1_compiler](https://github.com/pyykkis/rebar3_asn1_compiler)** (2015) - Plugin for compiling ASN.1 modules with Rebar3.
- - (⭐ 0 x 🍴1 x 😁2) - **[rebar3_idl_compiler](https://github.com/sebastiw/rebar3_idl_compiler)** (2015)false
- - (⭐ 00 x 😁1) - **[rebar3_yang_plugin](https://github.com/surik/rebar3_yang_plugin)** (2015) - Rebar3 yang compiler
- - (⭐ 00 x 😁1) - **[sass_elixir](https://github.com/zamith/sass_elixir)** (2014) - A sass plugin for elixir projects
-
-#### Github > Elixir > Caching
-
-[💯 **https://metaawesome.io/github/elixir/caching** ](https://metaawesome.io/github/elixir/caching)
-
- - (⭐ 682 x 🍴52 x 😁14) - **[cachex](https://github.com/whitfin/cachex)** (2016) - A powerful caching library for Elixir with support for transactions, fallbacks and expirations
- - (⭐ 630 x 🍴52 x 😁20) - **[con_cache](https://github.com/sasa1977/con_cache)** (2013) - ets based key/value cache with row level isolated writes and ttl support
- - (⭐ 407 x 🍴15 x 😁7) - **[nebulex](https://github.com/cabol/nebulex)** (2017) - A fast, flexible and powerful distributed caching framework for Elixir
- - (⭐ 148 x 🍴14 x 😁9) - **[locker](https://github.com/wooga/locker)** (2012) - Atomic distributed "check and set" for short-lived keys
- - (⭐ 58 x 🍴4 x 😁1) - **[memoize](https://github.com/melpon/memoize)** (2017) - A method caching macro for elixir using CAS on ETS.
- - (⭐ 49 x 🍴6 x 😁2) - **[stash](https://github.com/whitfin/stash)** (2016) - A small and user-friendly ETS wrapper for caching in Elixir
- - (⭐ 28 x 🍴8 x 😁3) - **[lru_cache](https://github.com/arago/lru_cache)** (2015) - ETS-based fix-sized LRU cache for elixir
- - (⭐ 23 x 🍴1 x 😁2) - **[jc](https://github.com/jr0senblum/jc)** (2015) - Erlang, in-memory distributable cache
- - (⭐ 20 x 🍴1 x 😁2) - **[gen_spoxy](https://github.com/SpotIM/gen_spoxy)** (2018) - **DEPRECATED** caching made fun!
- - (⭐ 15 x 🍴3 x 😁3) - **[elixir_locker](https://github.com/tsharju/elixir_locker)** (2015)false
-
-#### Github > Elixir > Chatting
-
-[💯 **https://metaawesome.io/github/elixir/chatting** ](https://metaawesome.io/github/elixir/chatting)
-
- - (⭐ 885 x 🍴65 x 😁17) - **[cog](https://github.com/operable/cog)** (2016) - Bringing the power of the command line to chat
- - (⭐ 537 x 🍴59 x 😁16) - **[hedwig](https://github.com/hedwig-im/hedwig)** (2014) - An Adapter-based Bot Framework for Elixir Applications
- - (⭐ 126 x 🍴33 x 😁17) - **[exirc](https://github.com/bitwalker/exirc)** (2013) - IRC client adapter for Elixir projects
- - (⭐ 82 x 🍴17 x 😁3) - **[slacker](https://github.com/koudelka/slacker)** (2015) - An Elixir Slack bot! (work in progress)
- - (⭐ 68 x 🍴6 x 😁4) - **[Kaguya](https://github.com/Luminarys/Kaguya)** (2015) - A small, powerful, and modular IRC bot
- - (⭐ 61 x 🍴6 x 😁3) - **[ex_mustang](https://github.com/techgaun/ex_mustang)** (2016) - :sparkles: A simple, clueless bot
- - (⭐ 47 x 🍴11 x 😁6) - **[alice](https://github.com/alice-bot/alice)** (2016) - A Slack bot framework for Elixir; down the rabbit hole!
- - (⭐ 38 x 🍴8 x 😁4) - **[yocingo](https://github.com/Yawolf/yocingo)** (2015)false
- - (⭐ 34 x 🍴5 x 😁1) - **[chatty](https://github.com/alco/chatty)** (2014) - Basic IRC client for writing bots
- - (⭐ 19 x 🍴2 x 😁1) - **[guri](https://github.com/elvio/guri)** (2016) - Guri - Slackbot command handler powered by Elixir
- - (⭐ 6 x 🍴3 x 😁2) - **[hipchat_elixir](https://github.com/ymtszw/hipchat_elixir)** (2016) - [DISCONTINUED] HipChat client library for Elixir
-
-#### Github > Elixir > Cloud Infrastructure and Management
-
-[💯 **https://metaawesome.io/github/elixir/cloud-infrastructure-and-management** ](https://metaawesome.io/github/elixir/cloud-infrastructure-and-management)
-
- - (⭐ 861 x 🍴95 x 😁30) - **[libcluster](https://github.com/bitwalker/libcluster)** (2016) - Automatic cluster formation/healing for Elixir applications
- - (⭐ 800 x 🍴305 x 😁131) - **[ex_aws](https://github.com/CargoSense/ex_aws)** (2014) - A flexible, easy to use set of clients AWS APIs for Elixir
- - (⭐ 580 x 🍴359 x 😁121) - **[erlcloud](https://github.com/erlcloud/erlcloud)** (2010) - AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB,  ELB and etc)
- - (⭐ 247 x 🍴28 x 😁14) - **[IElixir](https://github.com/pprzetacznik/IElixir)** (2015) - Jupyter's kernel for Elixir programming language
- - (⭐ 238 x 🍴17 x 😁3) - **[discovery](https://github.com/undeadlabs/discovery)** (2014) - An OTP application for auto-discovering services with Consul
- - (⭐ 94 x 🍴21 x 😁10) - **[kazan](https://github.com/obmarg/kazan)** (2016) - Kubernetes API client for Elixir
- - (⭐ 88 x 🍴21 x 😁7) - **[sidejob](https://github.com/basho/sidejob)** (2013) - Parallel worker and capacity limiting library for Erlang
- - (⭐ 70 x 🍴6 x 😁3) - **[sidetask](https://github.com/PSPDFKit-labs/sidetask)** (2014) - :awesome = Elixir's Task ++ Basho's sidejob library
- - (⭐ 63 x 🍴2 x 😁1) - **[nomad](https://github.com/sashaafm/nomad)** (2016) - Elixir/Phoenix Cloud SDK and Deployment Tool
- - (⭐ 48 x 🍴20 x 😁11) - **[aws-elixir](https://github.com/aws-beam/aws-elixir)** (2018) - AWS clients for Elixir
- - (⭐ 48 x 🍴4 x 😁3) - **[bonny](https://github.com/coryodaniel/bonny)** (2018) - The Elixir based Kubernetes Development Framework
- - (⭐ 46 x 🍴8 x 😁3) - **[nodefinder](https://github.com/okeuday/nodefinder)** (2012) - Strategies For Automatic Node Discovery
- - (⭐ 35 x 🍴3 x 😁1) - **[kubex](https://github.com/ingerslevio/kubex)** (2015) - Kubex is the kubernetes integration for Elixir projects and it is written in pure Elixir.
- - (⭐ 14 x 🍴3 x 😁3) - **[skycluster](https://github.com/Nebo15/skycluster)** (2016) - Automatic cluster formation/healing for Elixir applications.
- - (⭐ 7 x 🍴2 x 😁1) - **[fleet-api](https://github.com/jordan0day/fleet-api)** (2015) - An Elixir API wrapper for the Fleet REST API
- - (⭐ 4 x 🍴3 x 😁2) - **[ex_riak_cs](https://github.com/ayrat555/ex_riak_cs)** (2016) - Riak CS API  wrapper for Elixir
- - (⭐ 1 x 🍴1 x 😁2) - **[elixir-leaseweb](https://github.com/Ahamtech/elixir-leaseweb)** (2017) - Leaseweb API Wrapper for Elixir and Erlang
- - (⭐ 0 x 🍴1 x 😁1) - **[elixir-Gandi](https://github.com/Ahamtech/elixir-Gandi)** (2017)false
-
-#### Github > Elixir > Code Analysis
-
-[💯 **https://metaawesome.io/github/elixir/code-analysis** ](https://metaawesome.io/github/elixir/code-analysis)
-
- - (⭐ 2,955 x 🍴215 x 😁118) - **[credo](https://github.com/rrrene/credo)** (2015) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
- - (⭐ 985 x 🍴80 x 😁53) - **[dialyxir](https://github.com/jeremyjh/dialyxir)** (2013) - Mix tasks to simplify use of Dialyzer in Elixir projects.
- - (⭐ 483 x 🍴111 x 😁60) - **[excoveralls](https://github.com/parroty/excoveralls)** (2013) - Coverage report tool for Elixir with coveralls.io integration.
- - (⭐ 467 x 🍴59 x 😁31) - **[dogma](https://github.com/lpil/dogma)** (2015) - 👮  A code style linter for Elixir, powered by shame
- - (⭐ 119 x 🍴8 x 😁5) - **[exprof](https://github.com/parroty/exprof)** (2013) - A simple code profiler for Elixir using eprof.
- - (⭐ 90 x 🍴25 x 😁14) - **[coverex](https://github.com/alfert/coverex)** (2014) - Coverage Reports for Elixir
- - (⭐ 16 x 🍴4 x 😁2) - **[belvedere](https://github.com/nirvana/belvedere)** (2015) - An example of CircleCI integration with Elixir
-
-#### Github > Elixir > Command Line Applications
-
-[💯 **https://metaawesome.io/github/elixir/command-line-applications** ](https://metaawesome.io/github/elixir/command-line-applications)
-
- - (⭐ 246 x 🍴16 x 😁6) - **[progress_bar](https://github.com/henrik/progress_bar)** (2015) - Command-line progress bars and spinners for Elixir.
- - (⭐ 226 x 🍴64 x 😁13) - **[getopt](https://github.com/jcomellas/getopt)** (2009) - Erlang module to parse command line arguments using the GNU getopt syntax
- - (⭐ 192 x 🍴7 x 😁4) - **[scribe](https://github.com/codedge-llc/scribe)** (2016) - Pretty print tables of Elixir structs and maps
- - (⭐ 149 x 🍴13 x 😁4) - **[ex_cli](https://github.com/tuvistavie/ex_cli)** (2016) - User friendly CLI apps for Elixir
- - (⭐ 127 x 🍴13 x 😁8) - **[table_rex](https://github.com/djm/table_rex)** (2015) - An Elixir app which generates text-based tables for display
- - (⭐ 112 x 🍴8 x 😁2) - **[anubis](https://github.com/bennyhallett/anubis)** (2014) - Command Line application framework for Elixir
- - (⭐ 101 x 🍴4 x 😁3) - **[ratatouille](https://github.com/ndreynolds/ratatouille)** (2019) - A TUI (terminal UI) kit for Elixir
- - (⭐ 70 x 🍴3 x 😁4) - **[optimus](https://github.com/savonarola/optimus)** (2016) - Command line option parser for Elixir
- - (⭐ 61 x 🍴8 x 😁4) - **[loki](https://github.com/khusnetdinov/loki)** (2016) - :pencil: Loki is library that includes helpers for building powerful interactive command line applications, tasks, modules.
- - (⭐ 59 x 🍴6 x 😁5) - **[tabula](https://github.com/aerosol/tabula)** (2015) -  :u7533: Pretty printer for maps/structs collections (Elixir)
- - (⭐ 25 x 🍴1 x 😁1) - **[firex](https://github.com/msoedov/firex)** (2017) - Firex is a library for automatically generating command line interfaces (CLIs) from elixir module
- - (⭐ 160 x 😁2) - **[ex_prompt](https://github.com/behind-design/ex_prompt)** (2017) - ExPrompt is a helper package to add interactivity to your command line applications as easy as possible.
- - https://github.com/Lac/meldfalse
-
-#### Github > Elixir > Configuration
-
-[💯 **https://metaawesome.io/github/elixir/configuration** ](https://metaawesome.io/github/elixir/configuration)
-
- - (⭐ 385 x 🍴59 x 😁24) - **[conform](https://github.com/bitwalker/conform)** (2014) - Easy, powerful, and extendable configuration tooling for releases.
- - (⭐ 206 x 🍴24 x 😁17) - **[confex](https://github.com/Nebo15/confex)** (2016) - Useful helper to read and use application configuration from environment variables.
- - (⭐ 154 x 🍴22 x 😁11) - **[dotenv_elixir](https://github.com/avdi/dotenv_elixir)** (2013) - A port of dotenv to Elixir
- - (⭐ 29 x 🍴3 x 😁4) - **[ex_conf](https://github.com/phoenixframework/ex_conf)** (2014) - Simple Elixir Configuration Management
- - (⭐ 10 x 🍴2 x 😁1) - **[figaro-elixir](https://github.com/KamilLelonek/figaro-elixir)** (2015) - Environmental variables manager based on Figaro for Elixir projects
- - (⭐ 8 x 🍴3 x 😁2) - **[configparser_ex](https://github.com/easco/configparser_ex)** (2015) - A simple Elixir parser for the same kind of files that Python's configparser library handles
- - (⭐ 7 x 🍴6 x 😁1) - **[ex_figaro](https://github.com/trestrantham/ex_figaro)** (2014) - Figaro for Elixir
- - (⭐ 2 x 🍴3 x 😁1) - **[sweetconfig](https://github.com/d0rc/sweetconfig)** (2014) - something to forget about configuration in releases
- - https://github.com/GT8Online/weavefalse
-
-#### Github > Elixir > Cryptography
-
-[💯 **https://metaawesome.io/github/elixir/cryptography** ](https://metaawesome.io/github/elixir/cryptography)
-
- - (⭐ 968 x 🍴64 x 😁26) - **[comeonin](https://github.com/riverrun/comeonin)** (2014) - Password hashing specification for the Elixir programming language
- - (⭐ 320 x 🍴35 x 😁19) - **[cloak](https://github.com/danielberkompas/cloak)** (2015) - Elixir encryption library designed for Ecto
- - (⭐ 123 x 🍴19 x 😁6) - **[pot](https://github.com/yuce/pot)** (2015) - POT is an Erlang library for generating Google Authenticator compatible one time passwords
- - (⭐ 81 x 🍴21 x 😁10) - **[ex_crypto](https://github.com/ntrepid8/ex_crypto)** (2015) - Wrapper around the Erlang crypto module for Elixir.
- - (⭐ 53 x 🍴24 x 😁8) - **[cipher](https://github.com/rubencaro/cipher)** (2014) - Elixir crypto library to encrypt/decrypt arbitrary binaries
- - (⭐ 29 x 🍴6 x 😁4) - **[one_time_pass_ecto](https://github.com/riverrun/one_time_pass_ecto)** (2017) - One-time password library with Ecto support (for Elixir)
- - (⭐ 27 x 🍴9 x 😁4) - **[rsa-ex](https://github.com/anoskov/rsa-ex)** (2016) - Library for working with RSA keys using Elixir and OpenSSL ports
- - (⭐ 25 x 🍴2 x 😁2) - **[elixir-rsa](https://github.com/trapped/elixir-rsa)** (2014) - Erlang public_key cryptography wrapper for Elixir
- - (⭐ 12 x 🍴4 x 😁3) - **[exgpg](https://github.com/rozap/exgpg)** (2015) - gpg interface
- - (⭐ 120 x 😁1) - **[siphash-elixir](https://github.com/whitfin/siphash-elixir)** (2015) - An Elixir implementation of the SipHash cryptographic hash family
- - (⭐ 80 x 😁1) - **[ntru_elixir](https://github.com/alisinabh/ntru_elixir)** (2017) - Elixir wrapper around libntru. NTRU is a post quantum cryptography algorithm.
- - (⭐ 6 x 🍴3 x 😁1) - **[erlang-crypto_rsassa_pss](https://github.com/potatosalad/erlang-crypto_rsassa_pss)** (2015) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
- - (⭐ 4 x 🍴1 x 😁3) - **[elixir-aes-cmac](https://github.com/kleinernik/elixir-aes-cmac)** (2016) - AES CMAC (rfc 4493) in Elixir
- - (⭐ 30 x 😁1) - **[ex_bcrypt](https://github.com/manelli/ex_bcrypt)** (2016) - Elixir wrapper for the OpenBSD bcrypt password hashing algorithm
- - (⭐ 2 x 🍴1 x 😁2) - **[elixir_tea](https://github.com/keichan34/elixir_tea)** (2015) - TEA implementation in Elixir
- - (⭐ 00 x 😁2) - **[tea_crypto_erl](https://github.com/keichan34/tea_crypto_erl)** (2014) - A Tiny Encryption Algorithm implementation
-
-#### Github > Elixir > CSV
-
-[💯 **https://metaawesome.io/github/elixir/csv** ](https://metaawesome.io/github/elixir/csv)
-
- - (⭐ 378 x 🍴26 x 😁11) - **[nimble_csv](https://github.com/plataformatec/nimble_csv)** (2016) - A simple and fast CSV parsing and dumping library for Elixir
- - (⭐ 325 x 🍴65 x 😁23) - **[csv](https://github.com/beatrichartz/csv)** (2015) - CSV Decoding and Encoding for Elixir
- - (⭐ 38 x 🍴8 x 😁4) - **[ex_csv](https://github.com/CargoSense/ex_csv)** (2014) - CSV for Elixir
- - (⭐ 29 x 🍴4 x 😁2) - **[csvlixir](https://github.com/jimm/csvlixir)** (2013) - A CSV reading/writing application for Elixir.
- - (⭐ 20 x 🍴5 x 😁1) - **[cesso](https://github.com/meh/cesso)** (2013) - CSV handling library for Elixir.
-
-#### Github > Elixir > Date and Time
-
-[💯 **https://metaawesome.io/github/elixir/date-and-time** ](https://metaawesome.io/github/elixir/date-and-time)
-
- - (⭐ 1,155 x 🍴272 x 😁141) - **[timex](https://github.com/bitwalker/timex)** (2014) - A complete date/time library for Elixir projects.
- - (⭐ 380 x 🍴36 x 😁18) - **[calendar](https://github.com/lau/calendar)** (2014) - date-time and time zone handling in Elixir
- - (⭐ 140 x 🍴31 x 😁16) - **[tzdata](https://github.com/lau/tzdata)** (2015) - tzdata for Elixir. Born from the Calendar library.
- - (⭐ 114 x 🍴16 x 😁7) - **[filtrex](https://github.com/rcdilorenzo/filtrex)** (2015) - A library for performing and validating complex filters from a client (e.g. smart filters)
- - (⭐ 87 x 🍴22 x 😁11) - **[chronos](https://github.com/nurugger07/chronos)** (2013) - An elixir date/time library
- - (⭐ 44 x 🍴15 x 😁10) - **[crontab](https://github.com/jshmrtn/crontab)** (2016) - Parse Cron Expressions, Compose Cron Expression Strings and Caluclate Execution Dates.
- - (⭐ 41 x 🍴5 x 😁7) - **[cocktail](https://github.com/peek-travel/cocktail)** (2017) - Elixir date recurrence library based on iCalendar events
- - (⭐ 41 x 🍴9 x 😁1) - **[cronex](https://github.com/jbernardo95/cronex)** (2016) - A cron like system built in Elixir, that you can mount in your supervision tree
- - (⭐ 41 x 🍴5 x 😁3) - **[repeatex](https://github.com/rcdilorenzo/repeatex)** (2015) - Natural language for repeating dates
- - (⭐ 37 x 🍴4 x 😁4) - **[good_times](https://github.com/DevL/good_times)** (2015) - Expressive and easy to use datetime functions in Elixir.
- - (⭐ 30 x 🍴1 x 😁2) - **[moment](https://github.com/atabary/moment)** (2014) - Moment is designed to bring easy date and time handling to Elixir.
- - (⭐ 21 x 🍴11 x 😁5) - **[ex_ical](https://github.com/fazibear/ex_ical)** (2016) - ICalendar parser for Elixir.
- - (⭐ 12 x 🍴1 x 😁1) - **[elixir-jalaali](https://github.com/jalaali/elixir-jalaali)** (2016) - A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system implemention for Elixir
- - (⭐ 11 x 🍴1 x 😁2) - **[timelier](https://github.com/ausimian/timelier)** (2017) - A cron-style scheduler application for Elixir.
- - (⭐ 9 x 🍴2 x 😁1) - **[block_timer](https://github.com/adamkittelson/block_timer)** (2014) - Macros to use :timer.apply_after and :timer.apply_interval with a block
- - (⭐ 7 x 🍴4 x 😁2) - **[timex-interval](https://github.com/atabary/timex-interval)** (2014) - A date/time interval library for Elixir projects, based on Timex.
- - (⭐ 30 x 😁43) - **[quantum-elixir](https://github.com/c-rack/quantum-elixir)** (2018) - Cron-like job scheduler for Elixir
- - (⭐ 3 x 🍴1 x 😁2) - **[tiktak](https://github.com/ConduitMobileRND/tiktak)** (2018) -  Fast and lightweight web scheduler
- - (⭐ 10 x 😁1) - **[elixir_milliseconds](https://github.com/davebryson/elixir_milliseconds)** (2015) - Simple library to work with milliseconds
-
-#### Github > Elixir > Debugging
-
-[💯 **https://metaawesome.io/github/elixir/debugging** ](https://metaawesome.io/github/elixir/debugging)
-
- - (⭐ 840 x 🍴30 x 😁6) - **[visualixir](https://github.com/koudelka/visualixir)** (2015) - A process/message visualizer for BEAM nodes.
- - (⭐ 776 x 🍴48 x 😁8) - **[observer_cli](https://github.com/zhongwencool/observer_cli)** (2015) - Visualize Erlang/Elixir Nodes On The Command Line
- - (⭐ 442 x 🍴138 x 😁21) - **[eper](https://github.com/massemanet/eper)** (2010) - Erlang performance and debugging tools
- - (⭐ 362 x 🍴8 x 😁3) - **[ex_debug_toolbar](https://github.com/kagux/ex_debug_toolbar)** (2017) - A debug web toolbar for Phoenix projects to display all sorts of information about request
- - (⭐ 309 x 🍴61 x 😁9) - **[eflame](https://github.com/proger/eflame)** (2013) - Flame Graph profiler for Erlang
- - (⭐ 282 x 🍴20 x 😁7) - **[beaker](https://github.com/hahuang65/beaker)** (2015) - Statistics and Metrics library for Elixir
- - (⭐ 143 x 🍴12 x 😁6) - **[dbg](https://github.com/fishcakez/dbg)** (2014) - Tracing for Elixir
- - (⭐ 82 x 🍴5 x 😁3) - **[exrun](https://github.com/liveforeverx/exrun)** (2014) - Runtime and debugging tools for elixir
- - (⭐ 69 x 🍴13 x 😁5) - **[quaff](https://github.com/qhool/quaff)** (2014) - Erlang/Elixir helpers
- - (⭐ 52 x 🍴3 x 😁1) - **[rexbug](https://github.com/nietaki/rexbug)** (2017) - A thin Elixir wrapper for the redbug Erlang tracing debugger.
- - (⭐ 18 x 🍴2 x 😁4) - **[booter](https://github.com/eraserewind/booter)** (2014) - Boot an Elixir application step by step (inspired by RabbitMQ)
- - (⭐ 16 x 🍴3 x 😁2) - **[eh](https://github.com/Frost/eh)** (2014) - Lookup Elixir documentation from the command line
- - (⭐ 10 x 🍴1 x 😁3) - **[elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks)** (2018) - Add git hooks to Elixir projects
- - (⭐ 40 x 😁1) - **[ether](https://github.com/maarek/ether)** (2015) - An Elixir Debugger
-
-#### Github > Elixir > Deployment
-
-[💯 **https://metaawesome.io/github/elixir/deployment** ](https://metaawesome.io/github/elixir/deployment)
-
- - (⭐ 1,763 x 🍴158 x 😁47) - **[edeliver](https://github.com/boldpoker/edeliver)** (2013) - Deployment for Elixir and Erlang
- - (⭐ 697 x 🍴267 x 😁39) - **[heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir)** (2014) - Heroku Buildpack for Elixir with nitro boost
- - (⭐ 484 x 🍴17 x 😁11) - **[gatling](https://github.com/hashrocket/gatling)** (2016) - Deployment tool for Phoenix apps
- - (⭐ 361 x 🍴20 x 😁12) - **[bootleg](https://github.com/labzero/bootleg)** (2017) - Simple deployment and server automation for Elixir.
- - (⭐ 279 x 🍴58 x 😁5) - **[ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack)** (2015) - Ansible role to setup server with Elixir & Postgres to deploy apps
- - (⭐ 150 x 🍴6 x 😁2) - **[elixir-on-docker](https://github.com/CrowdHailer/elixir-on-docker)** (2017) - Quickly get started developing clustered Elixir applications for cloud environments.
- - (⭐ 44 x 🍴2 x 😁4) - **[akd](https://github.com/annkissam/akd)** (2017) - Elixir Deployment Automation Package
- - (⭐ 39 x 🍴6 x 😁7) - **[bottler](https://github.com/rubencaro/bottler)** (2014) - Get your Elixir into proper recipients, and serve it nicely to final consumers
- - (⭐ 12 x 🍴4 x 😁3) - **[exreleasy](https://github.com/miros/exreleasy)** (2016) - ⛔️ DEPRECATED A very simple tool for releasing elixir applications
- - (⭐ 11 x 🍴1 x 😁1) - **[exdm](https://github.com/joeyates/exdm)** (2015) - Deploy Elixir applications via mix tasks
-
-#### Github > Elixir > Documentation
-
-[💯 **https://metaawesome.io/github/elixir/documentation** ](https://metaawesome.io/github/elixir/documentation)
-
- - (⭐ 749 x 🍴161 x 😁105) - **[ex_doc](https://github.com/elixir-lang/ex_doc)** (2012) - ExDoc produces HTML and EPUB documentation for Elixir projects
- - (⭐ 420 x 🍴110 x 😁39) - **[phoenix_swagger](https://github.com/xerions/phoenix_swagger)** (2015) - Swagger integration to Phoenix framework
- - (⭐ 224 x 🍴31 x 😁16) - **[bureaucrat](https://github.com/api-hogs/bureaucrat)** (2015) - Generate Phoenix API documentation from tests
- - (⭐ 62 x 🍴5 x 😁3) - **[ExDocDash](https://github.com/JonGretar/ExDocDash)** (2014) - Dash.app formatter for ex_doc.
- - (⭐ 52 x 🍴14 x 😁6) - **[maru_swagger](https://github.com/falood/maru_swagger)** (2015) - Add swagger compliant documentation to your maru API
- - (⭐ 35 x 🍴10 x 😁8) - **[blue_bird](https://github.com/KittyHeaven/blue_bird)** (2017) - API Documentation Generator for the Phoenix Framework
- - (⭐ 23 x 🍴10 x 😁4) - **[phoenix_api_docs](https://github.com/smoku/phoenix_api_docs)** (2016) - Phoenix API Docs
- - (⭐ 190 x 😁1) - **[hexdocset](https://github.com/yesmeck/hexdocset)** (2014) - Convert hex doc to Dash.app's docset format.
-
-#### Github > Elixir > Domain-specific language
-
-[💯 **https://metaawesome.io/github/elixir/domain-specific-language** ](https://metaawesome.io/github/elixir/domain-specific-language)
-
- - (⭐ 2,760 x 🍴270 x 😁115) - **[absinthe](https://github.com/absinthe-graphql/absinthe)** (2015) - The GraphQL toolkit for Elixir
- - (⭐ 36 x 🍴1 x 😁2) - **[rdf-ex](https://github.com/marcelotto/rdf-ex)** (2017) - An implementation of RDF for Elixir
- - (⭐ 28 x 🍴4 x 😁3) - **[jsonld-ex](https://github.com/marcelotto/jsonld-ex)** (2017) - An implementation of JSON-LD for Elixir
- - (⭐ 140 x 😁1) - **[sparql-ex](https://github.com/marcelotto/sparql-ex)** (2018) - An implementation of SPARQL for Elixir
-
-#### Github > Elixir > ECMAScript
-
-[💯 **https://metaawesome.io/github/elixir/ecmascript** ](https://metaawesome.io/github/elixir/ecmascript)
-
- - (⭐ 75 x 🍴8 x 😁7) - **[elixir-estree](https://github.com/bryanjos/elixir-estree)** (2015) - The ESTree Nodes and JavaScript AST to JavaScript Code Generator in Elixir
- - (⭐ 70 x 🍴14 x 😁7) - **[phoenix_gon](https://github.com/khusnetdinov/phoenix_gon)** (2017) - :fire: Phoenix variables in your JavaScript without headache.
- - (⭐ 12 x 🍴1 x 😁2) - **[phoenix_routes_js](https://github.com/khusnetdinov/phoenix_routes_js)** (2017) - Phoenix routes helpers in JavaScript code.
- - https://github.com/elixirscript/elixirscript/false
-
-#### Github > Elixir > Email
-
-[💯 **https://metaawesome.io/github/elixir/email** ](https://metaawesome.io/github/elixir/email)
-
- - (⭐ 1,181 x 🍴235 x 😁88) - **[bamboo](https://github.com/thoughtbot/bamboo)** (2015) - Testable, composable, and adapter based Elixir email library for devs that love piping.
- - (⭐ 607 x 🍴93 x 😁69) - **[swoosh](https://github.com/swoosh/swoosh)** (2016) - Compose, deliver and test your emails easily in Elixir -
- - (⭐ 510 x 🍴215 x 😁40) - **[gen_smtp](https://github.com/Vagabond/gen_smtp)** (2009) - A generic Erlang SMTP server and client that can be extended via callback modules
- - (⭐ 289 x 🍴33 x 😁16) - **[elixir-mail](https://github.com/DockYard/elixir-mail)** (2016) - Build composable mail messages
- - (⭐ 171 x 🍴65 x 😁22) - **[mailman](https://github.com/kamilc/mailman)** (2014) - Mailman provides a clean way of defining mailers in your Elixir applications
- - (⭐ 89 x 🍴8 x 😁5) - **[ravenx](https://github.com/acutario/ravenx)** (2016) - Notification dispatch library for Elixir applications
- - (⭐ 45 x 🍴16 x 😁7) - **[mailibex](https://github.com/awetzel/mailibex)** (2014) - Library containing Email related implementations in Elixir : dkim, spf, dmark, mimemail, smtp
- - (⭐ 44 x 🍴15 x 😁4) - **[elixir-gmail](https://github.com/craigp/elixir-gmail)** (2015) - A Gmail API client for Elixir
- - (⭐ 39 x 🍴20 x 😁2) - **[mailer](https://github.com/antp/mailer)** (2014)false
- - (⭐ 33 x 🍴5 x 😁5) - **[smoothie](https://github.com/jfrolich/smoothie)** (2016) - Beautiful emails for your elixir application
- - (⭐ 30 x 🍴6 x 😁2) - **[echo](https://github.com/zmoshansky/echo)** (2015) - A simple & highly extendable, meta-notification system; Echo checks notification preferences & dispatch notifications to different adapters (ex. email, logger, analytics, sms, etc.).
- - (⭐ 25 x 🍴5 x 😁3) - **[burnex](https://github.com/Betree/burnex)** (2018) - 📨🔥 Elixir burner email (temporary address) detector
- - (⭐ 2 x 🍴2 x 😁3) - **[ex_postmark](https://github.com/KamilLelonek/ex_postmark)** (2016) - Postmark adapter for sending template emails in Elixir
-
-#### Github > Elixir > Encoding and Compression
-
-[💯 **https://metaawesome.io/github/elixir/encoding-and-compression** ](https://metaawesome.io/github/elixir/encoding-and-compression)
-
- - (⭐ 19 x 🍴2 x 😁1) - **[huffman](https://github.com/SenecaSystems/huffman)** (2015) - Huffman Coding and Decoding for Elixir
- - (⭐ 15 x 🍴6 x 😁4) - **[ex_rlp](https://github.com/exthereum/ex_rlp)** (2017) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding
-
-#### Github > Elixir > Errors and Exception Handling
-
-[💯 **https://metaawesome.io/github/elixir/errors-and-exception-handling** ](https://metaawesome.io/github/elixir/errors-and-exception-handling)
-
- - (⭐ 420 x 🍴12 x 😁10) - **[OK](https://github.com/CrowdHailer/OK)** (2015) - Elegant error/exception handling in Elixir, with result monads.
- - (⭐ 306 x 🍴102 x 😁55) - **[sentry-elixir](https://github.com/getsentry/sentry-elixir)** (2014) - The official Elixir SDK for Sentry (sentry.io)
- - (⭐ 181 x 🍴8 x 😁3) - **[exceptional](https://github.com/expede/exceptional)** (2016) - Helpers for Elixir exceptions
- - (⭐ 34 x 🍴2 x 😁3) - **[happy](https://github.com/vic/happy)** (2016) - the alchemist's happy path with elixir
-
-#### Github > Elixir > Eventhandling
-
-[💯 **https://metaawesome.io/github/elixir/eventhandling** ](https://metaawesome.io/github/elixir/eventhandling)
-
- - (⭐ 389 x 🍴23 x 😁5) - **[event_bus](https://github.com/mustafaturan/event_bus)** (2017) - :surfer: Traceable, extendable and minimalist **event bus** implementation for Elixir with built-in **event store** and **event watcher** based on ETS.
- - (⭐ 221 x 🍴6 x 😁2) - **[reaxive](https://github.com/alfert/reaxive)** (2014) - Reactive Extensions for Elixir
- - (⭐ 79 x 🍴41 x 😁2) - **[goldrush](https://github.com/DeadZen/goldrush)** (2012) - Small, Fast event processing and monitoring for Erlang/OTP applications.
- - (⭐ 9 x 🍴2 x 😁3) - **[wait_for_it](https://github.com/jvoegele/wait_for_it)** (2017) - Elixir library for waiting for things to happen
-
-#### Github > Elixir > Examples and funny stuff
-
-[💯 **https://metaawesome.io/github/elixir/examples-and-funny-stuff** ](https://metaawesome.io/github/elixir/examples-and-funny-stuff)
-
- - (⭐ 2,334 x 🍴156 x 😁3) - **[magnetissimo](https://github.com/sergiotapia/magnetissimo)** (2016) - Web application that indexes all popular torrent sites, and saves it to the local database.
- - (⭐ 1,769 x 🍴165 x 😁46) - **[changelog.com](https://github.com/thechangelog/changelog.com)** (2015) - Hacker to the 💚
- - (⭐ 1,300 x 🍴385 x 😁44) - **[elixir-koans](https://github.com/elixirkoans/elixir-koans)** (2015) - Elixir learning exercises
- - (⭐ 574 x 🍴194 x 😁104) - **[hexpm](https://github.com/hexpm/hexpm)** (2014) - API server and website for Hex
- - (⭐ 484 x 🍴62 x 😁12) - **[elixir-phoenix-realworld-example-app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app)** (2017) - Exemplary real world application built with Elixir + Phoenix
- - (⭐ 289 x 🍴69 x 😁20) - **[tilex](https://github.com/hashrocket/tilex)** (2016) - Today I Learned
- - (⭐ 251 x 🍴64 x 😁13) - **[elixir-koans](https://github.com/dojo-toulouse/elixir-koans)** (2013) - Small exercises to discover elixir by testing
- - (⭐ 186 x 🍴16 x 😁5) - **[oop](https://github.com/wojtekmach/oop)** (2016) - OOP in Elixir!
- - (⭐ 164 x 🍴17 x 😁2) - **[phoenix-flux-react](https://github.com/fxg42/phoenix-flux-react)** (2015) - An experiment with Phoenix Channels, GenEvents, React and Flux.
- - (⭐ 130 x 🍴18 x 😁2) - **[phoenix-react-redux-template](https://github.com/bigardone/phoenix-react-redux-template)** (2016) - Application template for SPAs with Phoenix, React and Redux
- - (⭐ 67 x 🍴3 x 😁1) - **[kaisuu](https://github.com/SebastianSzturo/kaisuu)** (2016) - Japan's Kanji Usage on Twitter in Realtime
- - (⭐ 66 x 🍴8 x 😁4) - **[elixir-weather](https://github.com/tacticiankerala/elixir-weather)** (2015) - A command line weather app built using elixir
- - (⭐ 59 x 🍴4 x 😁1) - **[stranger](https://github.com/cazrin/stranger)** (2016) - Chat anonymously with a randomly chosen stranger
- - (⭐ 36 x 🍴11 x 😁5) - **[portal](https://github.com/josevalim/portal)** (2014) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir
- - (⭐ 19 x 🍴1 x 😁1) - **[ex_chain](https://github.com/eljojo/ex_chain)** (2016) - Simple Markov Chain written in Elixir
- - (⭐ 17 x 🍴3 x 😁4) - **[harakiri](https://github.com/rubencaro/harakiri)** (2014) - Help applications kill themselves 
- - (⭐ 12 x 🍴1 x 😁2) - **[dice](https://github.com/stocks29/dice)** (2015) - Roll the dice, in elixir
- - (⭐ 50 x 😁1) - **[ex-lolcat](https://github.com/restartr/ex-lolcat)** (2015) - The clone of lolcat. written in elixir
- - (⭐ 4 x 🍴1 x 😁1) - **[feedx](https://github.com/erneestoc/feedx)** (2018) - Generic feed adding social features to current applications. 
- - (⭐ 30 x 😁1) - **[ex_iss](https://github.com/cryptobird/ex_iss)** (2015) - An elixir wrapper for Open Notify's International Space Station API. http://open-notify.org/
- - (⭐ 20 x 😁1) - **[butler_tableflip](https://github.com/keathley/butler_tableflip)** (2015) - Flipping tables with butler
- - (⭐ 200) - **[Rubix](https://github.com/YellowApple/Rubix)** (2015) - A very simple (and barely-functioning) Ruby runner for Elixir
- - (⭐ 10 x 😁1) - **[butler_cage](https://github.com/keathley/butler_cage)** (2015) - A butler plugin for Nick Cage photos
-
-#### Github > Elixir > Feature Flags and Toggles
-
-[💯 **https://metaawesome.io/github/elixir/feature-flags-and-toggles** ](https://metaawesome.io/github/elixir/feature-flags-and-toggles)
-
- - (⭐ 255 x 🍴25 x 😁8) - **[fun_with_flags](https://github.com/tompave/fun_with_flags)** (2017) - Feature Flags/Toggles for Elixir
- - (⭐ 70 x 🍴3 x 😁3) - **[molasses](https://github.com/securingsincity/molasses)** (2016) - Feature toggle library for elixir
- - (⭐ 33 x 🍴2 x 😁2) - **[flippant](https://github.com/sorentwo/flippant)** (2016) - :traffic_light: Feature flipping for the Elixir world
-
-#### Github > Elixir > Feeds
-
-[💯 **https://metaawesome.io/github/elixir/feeds** ](https://metaawesome.io/github/elixir/feeds)
-
- - (⭐ 55 x 🍴13 x 😁6) - **[feeder_ex](https://github.com/manukall/feeder_ex)** (2015) - Wrapper for feeder. Elixir RSS parser
- - (⭐ 30 x 🍴10 x 😁5) - **[feeder](https://github.com/michaelnisi/feeder)** (2013) - Parse RSS and Atom feeds
- - (⭐ 16 x 🍴1 x 😁1) - **[atomex](https://github.com/Betree/atomex)** (2018) - 🌊 Elixir ATOM feed builder with a focus on standards compliance, security and extensibility
- - (⭐ 8 x 🍴11 x 😁2) - **[elixir-feedme](https://github.com/umurgdk/elixir-feedme)** (2015) - Elixir RSS/Atom parser
-
-#### Github > Elixir > Files and Directories
-
-[💯 **https://metaawesome.io/github/elixir/files-and-directories** ](https://metaawesome.io/github/elixir/files-and-directories)
-
- - (⭐ 947 x 🍴191 x 😁48) - **[arc](https://github.com/stavro/arc)** (2015) - :paperclip: Flexible file upload and attachment library for Elixir
- - (⭐ 178 x 🍴59 x 😁14) - **[fs](https://github.com/synrc/fs)** (2014) - 📁 FS: Native Filesystem Listeners
- - (⭐ 149 x 🍴37 x 😁19) - **[exfswatch](https://github.com/falood/exfswatch)** (2014) - Filesystem monitor for elixir
- - (⭐ 82 x 🍴19 x 😁8) - **[exfile](https://github.com/keichan34/exfile)** (2015) - File upload persistence and processing for Phoenix / Plug
- - (⭐ 74 x 🍴5 x 😁5) - **[ex_guard](https://github.com/slashmili/ex_guard)** (2016) - ExGuard is a mix command to handle events on file system modifications
- - (⭐ 46 x 🍴5 x 😁3) - **[eye_drops](https://github.com/rkotze/eye_drops)** (2016) - Configurable Elixir mix task to watch file changes and run the corresponding command.
- - (⭐ 29 x 🍴14 x 😁2) - **[dir_walker](https://github.com/pragdave/dir_walker)** (2014) - Simple Elixir file-system directory tree walker. It can handle large filesystems, as the tree is traversed lazily. 
- - (⭐ 27 x 🍴3 x 😁1) - **[elixgrep](https://github.com/bbense/elixgrep)** (2014) - An elixir framework to implement concurrent versions of common unix utilities, grep, find, etc..
- - (⭐ 26 x 🍴5 x 😁3) - **[librex](https://github.com/ricn/librex)** (2015) - Elixir library to convert office documents to other formats using LibreOffice.
- - (⭐ 21 x 🍴3 x 😁4) - **[sizeable](https://github.com/arvidkahl/sizeable)** (2016) - An Elixir library to make File Sizes human-readable
- - (⭐ 18 x 🍴4 x 😁2) - **[Radpath](https://github.com/lowks/Radpath)** (2014) - Path library for Elixir inspired by Python's pathlib
- - (⭐ 170 x 😁2) - **[format_parser.ex](https://github.com/ahtung/format_parser.ex)** (2018) - The owls are not what they seem
- - (⭐ 170 x 😁1) - **[zarex](https://github.com/ricn/zarex)** (2015) - Filename sanitization for Elixir
- - (⭐ 11 x 🍴2 x 😁1) - **[sentix](https://github.com/whitfin/sentix)** (2016) - A cross-platform file watcher for Elixir based on fswatch.
- - (⭐ 8 x 🍴3 x 😁2) - **[cassius](https://github.com/jquadrin/cassius)** (2014) - Not maintained. -- NIF-based linux file system events
- - (⭐ 8 x 🍴3 x 😁1) - **[ex_minimatch](https://github.com/gniquil/ex_minimatch)** (2015)false
- - (⭐ 30 x 😁1) - **[fwatch-ex](https://github.com/ryo33/fwatch-ex)** (2016) - A file watcher for Elixir language
-
-#### Github > Elixir > Formulars
-
-[💯 **https://metaawesome.io/github/elixir/formulars** ](https://metaawesome.io/github/elixir/formulars)
-
- - (⭐ 23 x 🍴8 x 😁5) - **[forms](https://github.com/spawnproc/forms)** (2014) - 🈸 FORMS: Declarative Documents
-
-#### Github > Elixir > Framework Components
-
-[💯 **https://metaawesome.io/github/elixir/framework-components** ](https://metaawesome.io/github/elixir/framework-components)
-
- - (⭐ 2,038 x 🍴424 x 😁203) - **[plug](https://github.com/elixir-lang/plug)** (2013) - A specification and conveniences for composable modules between web applications
- - (⭐ 1,122 x 🍴283 x 😁55) - **[ex_admin](https://github.com/smpallen99/ex_admin)** (2015) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework
- - (⭐ 840 x 🍴106 x 😁40) - **[commanded](https://github.com/slashdotdash/commanded)** (2016) - Use Commanded to build Elixir CQRS/ES applications
- - (⭐ 649 x 🍴105 x 😁33) - **[addict](https://github.com/trenpixster/addict)** (2015) - User management lib for Phoenix Framework
- - (⭐ 450 x 🍴58 x 😁19) - **[scrivener](https://github.com/drewolson/scrivener)** (2015) - Pagination for the Elixir ecosystem
- - (⭐ 325 x 🍴26 x 😁9) - **[react-phoenix](https://github.com/geolessel/react-phoenix)** (2017) - Make rendering React.js components in Phoenix easy
- - (⭐ 294 x 🍴28 x 😁11) - **[corsica](https://github.com/whatyouhide/corsica)** (2015) - Elixir library for dealing with CORS requests. 🏖
- - (⭐ 290 x 🍴39 x 😁14) - **[torch](https://github.com/infinitered/torch)** (2016) - A rapid admin generator for Elixir & Phoenix
- - (⭐ 263 x 🍴55 x 😁24) - **[cors_plug](https://github.com/mschae/cors_plug)** (2014) - An Elixir Plug to add CORS.
- - (⭐ 243 x 🍴39 x 😁35) - **[phoenix_slime](https://github.com/slime-lang/phoenix_slime)** (2015) - Phoenix Template Engine for Slime
- - (⭐ 202 x 🍴77 x 😁34) - **[phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto)** (2015) - Phoenix and Ecto integration with support for concurrent acceptance testing
- - (⭐ 196 x 🍴31 x 😁16) - **[kerosene](https://github.com/elixirdrops/kerosene)** (2016) - Pagination for Ecto and Pheonix.
- - (⭐ 170 x 🍴97 x 😁43) - **[absinthe_plug](https://github.com/absinthe-graphql/absinthe_plug)** (2015) - Plug support for Absinthe, the GraphQL toolkit for Elixir
- - (⭐ 167 x 🍴139 x 😁94) - **[phoenix_html](https://github.com/phoenixframework/phoenix_html)** (2015) - Phoenix.HTML functions for working with HTML strings and templates
- - (⭐ 164 x 🍴18 x 😁10) - **[params](https://github.com/vic/params)** (2016) - Easy parameters validation/casting with Ecto.Schema, akin to Rails' strong parameters.
- - (⭐ 163 x 🍴41 x 😁12) - **[phoenix_token_auth](https://github.com/manukall/phoenix_token_auth)** (2015) - Token authentication solution for Phoenix. Useful for APIs for e.g. single page apps.
- - (⭐ 161 x 🍴37 x 😁10) - **[passport](https://github.com/opendrops/passport)** (2015) - Provides authentication for phoenix application
- - (⭐ 157 x 🍴43 x 😁27) - **[phoenix_live_reload](https://github.com/phoenixframework/phoenix_live_reload)** (2015) - Provides live-reload functionality for Phoenix
- - (⭐ 155 x 🍴23 x 😁5) - **[rummage_ecto](https://github.com/Excipients/rummage_ecto)** (2017) - Search, Sort and Pagination for ecto queries
- - (⭐ 141 x 🍴41 x 😁16) - **[phoenix_haml](https://github.com/chrismccord/phoenix_haml)** (2014) - Phoenix Template Engine for Haml
- - (⭐ 138 x 🍴21 x 😁7) - **[Dayron](https://github.com/inaka/Dayron)** (2016) - A repository `similar` to Ecto.Repo that maps to an underlying http client, sending requests to an external rest api instead of a database
- - (⭐ 123 x 🍴8 x 😁6) - **[plug_graphql](https://github.com/graphql-elixir/plug_graphql)** (2015) - Plug (Phoenix) integration for GraphQL Elixir 
- - (⭐ 116 x 🍴36 x 😁7) - **[rummage_phoenix](https://github.com/Excipients/rummage_phoenix)** (2017) - Full Phoenix Support for Rummage. It can be used for searching, sorting and paginating collections in phoenix.
- - (⭐ 108 x 🍴23 x 😁7) - **[sentinel](https://github.com/britton-jb/sentinel)** (2016) - DEPRECATED - Phoenix Authentication library that wraps Guardian for extra functionality
- - (⭐ 92 x 🍴31 x 😁15) - **[phoenix_pubsub_redis](https://github.com/phoenixframework/phoenix_pubsub_redis)** (2015) - The Redis PubSub adapter for the Phoenix framework
- - (⭐ 89 x 🍴74 x 😁31) - **[scrivener_html](https://github.com/mgwidmann/scrivener_html)** (2015) - HTML view helpers for Scrivener
- - (⭐ 80 x 🍴5 x 😁2) - **[multiverse](https://github.com/Nebo15/multiverse)** (2016) - Elixir package that allows to add compatibility layers via API gateways.
- - (⭐ 80 x 🍴16 x 😁7) - **[plug_rails_cookie_session_store](https://github.com/cconstantin/plug_rails_cookie_session_store)** (2014) - Rails compatible Plug session store
- - (⭐ 78 x 🍴1 x 😁3) - **[better_params](https://github.com/sheharyarn/better_params)** (2017) - Cleaner request parameters in Elixir web applications 🙌
- - (⭐ 73 x 🍴6 x 😁5) - **[ashes](https://github.com/nickgartmann/ashes)** (2015) - A code generation tool for the Phoenix web framework
- - (⭐ 64 x 🍴12 x 😁7) - **[plug_auth](https://github.com/bitgamma/plug_auth)** (2014) - A collection of authentication-related plugs
- - (⭐ 62 x 🍴6 x 😁3) - **[webassembly](https://github.com/herenowcoder/webassembly)** (2014) - Web DSL for Elixir
- - (⭐ 61 x 🍴2 x 😁2) - **[filterable](https://github.com/omohokcoj/filterable)** (2016) - Filtering from incoming params in Elixir/Ecto/Phoenix with easy to use DSL.
- - (⭐ 55 x 🍴33 x 😁10) - **[plugsnag](https://github.com/jarednorman/plugsnag)** (2014) - A Bugsnag notifier for Elixir's plug
- - (⭐ 50 x 🍴4 x 😁2) - **[plug_checkup](https://github.com/ggpasqualino/plug_checkup)** (2017) - PlugCheckup provides a Plug for adding simple health checks to your app
- - (⭐ 46 x 🍴11 x 😁11) - **[plug_statsd](https://github.com/jeffweiss/plug_statsd)** (2015) - Send connection response time and count to statsd
- - (⭐ 39 x 🍴21 x 😁1) - **[phoenix_pubsub_rabbitmq](https://github.com/pma/phoenix_pubsub_rabbitmq)** (2015) - RabbitMQ adapter for Phoenix's PubSub layer
- - (⭐ 38 x 🍴6 x 😁5) - **[scrivener_headers](https://github.com/doomspork/scrivener_headers)** (2016) - Scrivener pagination with headers and web linking
- - (⭐ 36 x 🍴6 x 😁3) - **[plug_jwt](https://github.com/bryanjos/plug_jwt)** (2014) - Plug for JWT authentication
- - (⭐ 25 x 🍴4 x 😁1) - **[plug_require_header](https://github.com/DevL/plug_require_header)** (2015) - An Elixir Plug for requiring and extracting a given header.
- - (⭐ 24 x 🍴2 x 😁2) - **[phoenix-pubsub-postgres](https://github.com/opendrops/phoenix-pubsub-postgres)** (2015) - Postgresql PubSub adapter for Phoenix apps
- - (⭐ 24 x 🍴3 x 😁2) - **[phoenix_pubsub_vernemq](https://github.com/larshesel/phoenix_pubsub_vernemq)** (2015) - OBSOLETE - A VerneMQ/MQTT pubsub adapter for the Phoenix framework
- - (⭐ 22 x 🍴4 x 😁2) - **[plug_accesslog](https://github.com/mneudert/plug_accesslog)** (2015) - Plug for writing access logs
- - (⭐ 22 x 🍴15 x 😁4) - **[trailing_format_plug](https://github.com/mschae/trailing_format_plug)** (2014) - An elixir plug to support legacy APIs that use a rails-like trailing format: http://api.dev/resources.json
- - (⭐ 21 x 🍴1 x 😁2) - **[plug_ribbon](https://github.com/stnly/plug_ribbon)** (2015) - :ribbon: Injects a ribbon into your web application depending on the environment
- - (⭐ 20 x 🍴7 x 😁6) - **[phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers)** (2016) - Some helpers for phoenix html( truncate, time_ago_in_words, number_with_delimiter, url_for, current_page? ) 
- - (⭐ 19 x 🍴4 x 😁1) - **[phoenix_html_sanitizer](https://github.com/elixirstatus/phoenix_html_sanitizer)** (2015) - HTML Sanitizer for Phoenix
- - (⭐ 19 x 🍴5 x 😁2) - **[plug_forwarded_peer](https://github.com/awetzel/plug_forwarded_peer)** (2015) - Very simple plug which reads `X-Forwarded-For` or `Forwarded` header according to rfc7239 and fill `conn.remote_ip` with the root client ip.
- - (⭐ 17 x 🍴5 x 😁4) - **[blaguth](https://github.com/lexmag/blaguth)** (2014) - Basic Access Authentication in Plug applications
- - (⭐ 17 x 🍴4 x 😁1) - **[phoenix_linguist](https://github.com/jxs/phoenix_linguist)** (2015) - linguist integration functions into phoenix
- - (⭐ 17 x 🍴1 x 😁1) - **[plug_heartbeat](https://github.com/whatyouhide/plug_heartbeat)** (2015) - A plug for responding to heartbeat requests.
- - (⭐ 17 x 🍴12 x 😁9) - **[raygun](https://github.com/cobenian/raygun)** (2015) - A raygun client for Elixir
- - (⭐ 160 x 😁1) - **[crudex](https://github.com/bitgamma/crudex)** (2015) - CRUD utilities for Phoenix and Ecto
- - (⭐ 160 x 😁1) - **[plug_secex](https://github.com/techgaun/plug_secex)** (2016) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure
- - (⭐ 16 x 🍴2 x 😁3) - **[plugs](https://github.com/sugar-framework/plugs)** (2014) - A collection of Plug middleware for web applications
- - (⭐ 15 x 🍴3 x 😁4) - **[plug_cloudflare](https://github.com/c-rack/plug_cloudflare)** (2015) - Parses CloudFlare's CF-Connecting-IP header into Plug.Conn's remote_ip field.
- - (⭐ 14 x 🍴2 x 😁1) - **[exdjango](https://github.com/nicksanders/exdjango)** (2015) - A few elixir libraries for working with django
- - (⭐ 14 x 🍴3 x 😁1) - **[mellon](https://github.com/sajmoon/mellon)** (2015) - Authentication module for Plug applications
- - (⭐ 13 x 🍴1 x 😁1) - **[plug_and_play](https://github.com/henrik/plug_and_play)** (2017) - Set up an Elixir Plug application with less boilerplate.
- - (⭐ 13 x 🍴6 x 😁4) - **[plug-session-memcached](https://github.com/gutschilla/plug-session-memcached)** (2014) - Store your plug sessions in memcached
- - (⭐ 12 x 🍴2 x 😁2) - **[graphql_parser](https://github.com/graphql-elixir/graphql_parser)** (2015) - Elixir binding for libgraphqlparser
- - (⭐ 12 x 🍴4 x 😁3) - **[elixir-http-router](https://github.com/sugar-framework/elixir-http-router)** (2015) - HTTP Router with various macros to assist in developing your application and organizing your code
- - (⭐ 11 x 🍴4 x 😁4) - **[plug_canonical_host](https://github.com/remiprev/plug_canonical_host)** (2016) - PlugCanonicalHost ensures that all requests are served by a single canonical host.
- - (⭐ 10 x 🍴2 x 😁1) - **[plug_response_header](https://github.com/c-rack/plug_response_header)** (2015) - Elixir Plug to manipulate HTTP response headers
- - (⭐ 9 x 🍴1 x 😁1) - **[exrecaptcha](https://github.com/adanselm/exrecaptcha)** (2014) - Simple reCaptcha display/verify code for Elixir applications. Using Exrecaptcha with a CMS such as Phoenix is easy.
- - (⭐ 90 x 😁1) - **[plug_password](https://github.com/azranel/plug_password)** (2017) - Simple plug to secure your server with password
- - (⭐ 6 x 🍴2 x 😁4) - **[phoenix_meta_tags](https://github.com/hlongvu/phoenix_meta_tags)** (2018) - Phoenix library helps generating meta tags for website.
- - (⭐ 6 x 🍴2 x 😁3) - **[plug_redirect_https](https://github.com/stocks29/plug_redirect_https)** (2015) - Redirect http to https behind a load balancer (or other reverse proxy).
- - (⭐ 5 x 🍴1 x 😁2) - **[airbrake_plug](https://github.com/romul/airbrake_plug)** (2015) - Airbrake reporter for Elixir's Plug (DEPRECATED in favor of https://github.com/romul/airbrake-elixir) 
- - (⭐ 50 x 😁1) - **[scaffold](https://github.com/gausby/scaffold)** (2015) - A mix task for creating new projects based on templates fetched from a Git-repo
- - (⭐ 40 x 😁1) - **[plug_fprof](https://github.com/obmarg/plug_fprof)** (2015) - An Elixir Plug for profiling code with fprof.
- - (⭐ 40 x 😁1) - **[weebo](https://github.com/stevenschobert/weebo)** (2015) - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping!
- - (⭐ 30 x 😁1) - **[resin](https://github.com/Frost/resin)** (2015) - Make your plug pipeline act more enterprisey...
- - (⭐ 30 x 😁1) - **[revision_plate_ex](https://github.com/KazuCocoa/revision_plate_ex)** (2016) - Plug application and middleware that serves endpoint returns application's REVISION.
- - (⭐ 00 x 😁1) - **[plug_sigaws](https://github.com/handnot2/plug_sigaws)** (2017) - An Elixir Plug to verify HTTP requests signed with AWS Signature V4
-
-#### Github > Elixir > Frameworks
-
-[💯 **https://metaawesome.io/github/elixir/frameworks** ](https://metaawesome.io/github/elixir/frameworks)
-
- - (⭐ 13,952 x 🍴1,753 x 😁448) - **[phoenix](https://github.com/phoenixframework/phoenix)** (2014) - Productive. Reliable. Fast.
- - (⭐ 827 x 🍴54 x 😁16) - **[kitto](https://github.com/kittoframework/kitto)** (2016) - Kitto is a framework for interactive dashboards written in Elixir
- - (⭐ 384 x 🍴29 x 😁13) - **[sugar](https://github.com/sugar-framework/sugar)** (2014) - Modular web framework for Elixir
- - (⭐ 352 x 🍴26 x 😁9) - **[trot](https://github.com/hexedpackets/trot)** (2015) - An Elixir web micro-framework.
- - (⭐ 244 x 🍴26 x 😁6) - **[rackla](https://github.com/AntonFagerberg/rackla)** (2015) - Open Source API Gateway in Elixir
- - (⭐ 161 x 🍴7 x 😁2) - **[placid](https://github.com/slogsdon/placid)** (2014) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir
- - (⭐ 126 x 🍴13 x 😁6) - **[relax](https://github.com/AgilionApps/relax)** (2014) - Simple Elixir implementation of a jsonapi.org server.
- - (⭐ 63 x 🍴21 x 😁3) - **[rest](https://github.com/synrc/rest)** (2014) - ☕ REST: Yoctoframework
- - (⭐ 13 x 🍴1 x 😁1) - **[exelli](https://github.com/pigmej/exelli)** (2015) - Elli elixir wrapper with some sugar sytnax goodies.
-
-#### Github > Elixir > Games
-
-[💯 **https://metaawesome.io/github/elixir/games** ](https://metaawesome.io/github/elixir/games)
-
- - (⭐ 91 x 🍴9 x 😁2) - **[entice](https://github.com/entice/entice)** (2013) - Docs for the entice project
- - (⭐ 350 x 😁1) - **[mines](https://github.com/kevlar1818/mines)** (2016) - A minesweeper clone in the terminal, written in Elixir.
- - (⭐ 00 x 😁1) - **[vim_snake](https://github.com/theanht1/vim_snake)** (2018)false
-
-#### Github > Elixir > Geolocation
-
-[💯 **https://metaawesome.io/github/elixir/geolocation** ](https://metaawesome.io/github/elixir/geolocation)
-
- - (⭐ 380 x 🍴51 x 😁25) - **[geo](https://github.com/bryanjos/geo)** (2014) - A collection of GIS functions for Elixir
- - (⭐ 119 x 🍴10 x 😁3) - **[geolix](https://github.com/mneudert/geolix)** (2013) - IP location lookup provider
- - (⭐ 74 x 🍴39 x 😁15) - **[geocoder](https://github.com/knrz/geocoder)** (2015) - An Elixir Geocoder/Reverse Geocoder
- - (⭐ 73 x 🍴10 x 😁6) - **[geocalc](https://github.com/yltsrc/geocalc)** (2015)false
- - (⭐ 63 x 🍴15 x 😁5) - **[topo](https://github.com/pkinney/topo)** (2016) - A Geometry library for Elixir that calculates spatial relationships between two geometries
- - (⭐ 58 x 🍴8 x 😁4) - **[geoip](https://github.com/navinpeiris/geoip)** (2016) - Elixir library to find geo location information given an IP address, hostname or Plug.Conn
- - (⭐ 25 x 🍴6 x 😁2) - **[distance-matrix-api](https://github.com/C404/distance-matrix-api)** (2015) - Google Distance Matrix API Library for Elixir
- - (⭐ 16 x 🍴5 x 😁2) - **[elixir-geohash](https://github.com/polmuz/elixir-geohash)** (2015) - Geohash encode/decode for Elixir
- - (⭐ 15 x 🍴1 x 😁2) - **[ip2location-elixir](https://github.com/nazipov/ip2location-elixir)** (2016) - An Elixir library for the IP2Location database
- - (⭐ 11 x 🍴3 x 😁4) - **[geonames-elixir](https://github.com/pareeohnos/geonames-elixir)** (2016) - An elixir wrapper around the GeoNames API
- - (⭐ 80 x 😁1) - **[elixir_ipgeobase](https://github.com/sergey-chechaev/elixir_ipgeobase)** (2016) - Find Russian and Ukraine city by IP address and find country for other country Elixir
- - (⭐ 7 x 🍴3 x 😁2) - **[geohax](https://github.com/evuez/geohax)** (2016) - 🍶 Geohash encoding and decoding for Elixir.
- - (⭐ 3 x 🍴2 x 😁2) - **[segseg_ex](https://github.com/pkinney/segseg_ex)** (2016) - Segment-segment intersection classifier and calculator for Elixir
- - (⭐ 2 x 🍴4 x 😁2) - **[proj](https://github.com/CandyGumdrop/proj)** (2016) - Elixir coordinate conversion library using OSGeo's PROJ.4
-
-#### Github > Elixir > GUI
-
-[💯 **https://metaawesome.io/github/elixir/gui** ](https://metaawesome.io/github/elixir/gui)
-
- - (⭐ 1,220 x 🍴89 x 😁39) - **[scenic](https://github.com/boydm/scenic)** (2018) - Core Scenic library
-
-#### Github > Elixir > Hardware
-
-[💯 **https://metaawesome.io/github/elixir/hardware** ](https://metaawesome.io/github/elixir/hardware)
-
- - (⭐ 1,235 x 🍴100 x 😁60) - **[nerves](https://github.com/nerves-project/nerves)** (2016) - Craft and deploy bulletproof embedded software in Elixir
- - (⭐ 311 x 🍴45 x 😁20) - **[elixir_ale](https://github.com/fhunleth/elixir_ale)** (2014) - Interact with hardware in Elixir - GPIOs, I2C and SPI
-
-#### Github > Elixir > HTML
-
-[💯 **https://metaawesome.io/github/elixir/html** ](https://metaawesome.io/github/elixir/html)
-
- - (⭐ 1,043 x 🍴89 x 😁42) - **[floki](https://github.com/philss/floki)** (2014) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
- - (⭐ 161 x 🍴31 x 😁11) - **[readability](https://github.com/keepcosmos/readability)** (2016) - Readability is Elixir library for extracting and curating articles.
- - (⭐ 126 x 🍴33 x 😁12) - **[html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex)** (2015) - HTML sanitizer for Elixir
- - (⭐ 31 x 🍴3 x 😁2) - **[exquery](https://github.com/rozap/exquery)** (2015) - elixir html parser
- - (⭐ 25 x 🍴2 x 😁1) - **[modest_ex](https://github.com/f34nk/modest_ex)** (2018) - Elixir library to do pipeable transformations on html strings (with CSS selectors)
- - (⭐ 13 x 🍴3 x 😁2) - **[myhtmlex](https://github.com/Overbryd/myhtmlex)** (2017) - Elixir/Erlang bindings for lexborisov's myhtml
- - (⭐ 80 x 😁1) - **[tidy_ex](https://github.com/f34nk/tidy_ex)** (2018) - Elixir binding to the granddaddy of HTML tools
-
-#### Github > Elixir > HTTP
-
-[💯 **https://metaawesome.io/github/elixir/http** ](https://metaawesome.io/github/elixir/http)
-
- - (⭐ 1,701 x 🍴449 x 😁53) - **[mochiweb](https://github.com/mochi/mochiweb)** (2010) - MochiWeb is an Erlang library for building lightweight HTTP servers.
- - (⭐ 1,637 x 🍴267 x 😁92) - **[httpoison](https://github.com/edgurgel/httpoison)** (2013) - Yet Another HTTP client for Elixir powered by hackney
- - (⭐ 976 x 🍴128 x 😁54) - **[tesla](https://github.com/teamon/tesla)** (2015) - The flexible HTTP client library for Elixir, with support for middleware and multiple adapters.
- - (⭐ 954 x 🍴313 x 😁114) - **[hackney](https://github.com/benoitc/hackney)** (2012) - simple HTTP client in Erlang
- - (⭐ 708 x 🍴106 x 😁46) - **[httpotion](https://github.com/myfreeweb/httpotion)** (2012) - The HTTP client for Elixir
- - (⭐ 682 x 🍴89 x 😁21) - **[elli](https://github.com/knutin/elli)** (2012) - Simple, robust and performant Erlang web server
- - (⭐ 634 x 🍴54 x 😁6) - **[crawler](https://github.com/fredwu/crawler)** (2016) - A high performance web crawler in Elixir.
- - (⭐ 581 x 🍴26 x 😁17) - **[mint](https://github.com/ericmj/mint)** (2017) - Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2
- - (⭐ 541 x 🍴153 x 😁29) - **[gun](https://github.com/ninenines/gun)** (2013) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
- - (⭐ 448 x 🍴90 x 😁50) - **[exvcr](https://github.com/parroty/exvcr)** (2013) - HTTP request/response recording library for elixir, inspired by VCR.
- - (⭐ 320 x 🍴19 x 😁12) - **[raxx](https://github.com/CrowdHailer/raxx)** (2016) - Interface for HTTP webservers, frameworks and clients
- - (⭐ 285 x 🍴40 x 😁16) - **[elixir-scrape](https://github.com/Anonyfox/elixir-scrape)** (2015) - Scrape any website, article or RSS/Atom Feed with ease!
- - (⭐ 249 x 🍴20 x 😁11) - **[Ace](https://github.com/CrowdHailer/Ace)** (2015) - HTTP web server and client, supports http1 and http2
- - (⭐ 141 x 🍴22 x 😁14) - **[neuron](https://github.com/uesteibar/neuron)** (2017) - A GraphQL client for Elixir
- - (⭐ 99 x 🍴26 x 😁3) - **[elixir-webdriver](https://github.com/stuart/elixir-webdriver)** (2013) - WebDriver client for Elixir.
- - (⭐ 78 x 🍴3 x 😁5) - **[river](https://github.com/peburrows/river)** (2016) - An HTTP/2 (HTTP2) client for Elixir (a work in progress!)
- - (⭐ 72 x 🍴9 x 😁3) - **[cauldron](https://github.com/meh/cauldron)** (2013) - I wonder what kind of Elixir is boiling in there.
- - (⭐ 61 x 🍴22 x 😁8) - **[spell](https://github.com/MyMedsAndMe/spell)** (2015) - Spell is a Web Application Messaging Protocol (WAMP) client implementation in Elixir. WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol: Remote Procedure Calls + Publish …
- - (⭐ 61 x 🍴19 x 😁2) - **[plug-web-socket](https://github.com/slogsdon/plug-web-socket)** (2015) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
- - (⭐ 40 x 🍴3 x 😁4) - **[http_proxy](https://github.com/KazuCocoa/http_proxy)** (2015) - http proxy with Elixir. wait request with multi port and forward to each URIs
- - (⭐ 33 x 🍴4 x 😁1) - **[bolt](https://github.com/SebastianSzturo/bolt)** (2015) - Simple and fast http proxy living in the Erlang VM
- - (⭐ 30 x 🍴6 x 😁3) - **[explode](https://github.com/pkinney/explode)** (2016) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications
- - (⭐ 17 x 🍴1 x 😁1) - **[fuzzyurl.ex](https://github.com/gamache/fuzzyurl.ex)** (2015) - An Elixir library for non-strict parsing, manipulation, and wildcard matching of URLs.
- - (⭐ 15 x 🍴1 x 😁1) - **[sparql_client](https://github.com/marcelotto/sparql_client)** (2018) - A SPARQL client for Elixir
- - (⭐ 14 x 🍴2 x 😁3) - **[etag_plug](https://github.com/Zeeker/etag_plug)** (2018) - A simple to use shallow ETag plug
- - (⭐ 14 x 🍴2 x 😁3) - **[ivar](https://github.com/swelham/ivar)** (2017) - Ivar is an adapter based HTTP client that provides the ability to build composable HTTP requests.
- - (⭐ 14 x 🍴4 x 😁2) - **[ex-uri-template](https://github.com/pezra/ex-uri-template)** (2015) - RFC 6570 compliant URI template processor for Elixir
- - (⭐ 11 x 🍴1 x 😁1) - **[http](https://github.com/slogsdon/http)** (2015) - HTTP server for Elixir
- - (⭐ 10 x 🍴1 x 😁1) - **[yuri](https://github.com/kemonomachi/yuri)** (2015) - Elixir module for easier URI manipulation.
- - (⭐ 8 x 🍴2 x 😁1) - **[Tube](https://github.com/narrowtux/Tube)** (2016) - WebSocket client library written in pure Elixir
- - (⭐ 7 x 🍴1 x 😁1) - **[mnemonic_slugs](https://github.com/devshane/mnemonic_slugs)** (2016) - An Elixir library for generating memorable slugs.
- - (⭐ 6 x 🍴4 x 😁3) - **[uri_query](https://github.com/shhavel/uri_query)** (2016) - URI encode nested GET parameters and array values in Elixir
- - (⭐ 20 x 😁1) - **[http_digex](https://github.com/techgaun/http_digex)** (2016) - HTTP Digest Auth Library to create auth header to be used with HTTP Digest Authentication
- - (⭐ 1 x 🍴2 x 😁19) - **[lhttpc](https://github.com/talko/lhttpc)** (2016) - What used to be here -- this is a backwards-compat user and repo m(
- - (⭐ 1 x 🍴1 x 😁3) - **[plug_wait1](https://github.com/wait1/plug_wait1)** (2015) - Plug adapter for the wait1 protocol
-
-#### Github > Elixir > Images
-
-[💯 **https://metaawesome.io/github/elixir/images** ](https://metaawesome.io/github/elixir/images)
-
- - (⭐ 336 x 🍴43 x 😁15) - **[mogrify](https://github.com/route/mogrify)** (2014) - Image processing in Elixir (ImageMagick command line wrapper)
- - (⭐ 96 x 🍴16 x 😁4) - **[imagineer](https://github.com/SenecaSystems/imagineer)** (2014) - Image processing in Elixir
- - (⭐ 59 x 🍴33 x 😁19) - **[cloudex](https://github.com/smeevil/cloudex)** (2016) - An elixir library which helps with uploading image files or urls to cloudinary
- - (⭐ 45 x 🍴6 x 😁3) - **[alchemic_avatar](https://github.com/zhangsoledad/alchemic_avatar)** (2016) - Creating letter avatar from a name
- - (⭐ 42 x 🍴3 x 😁1) - **[artifact](https://github.com/doomspork/artifact)** (2016) - File upload and on-the-fly processing for Elixir
- - (⭐ 29 x 🍴2 x 😁2) - **[thumbnex](https://github.com/talklittle/thumbnex)** (2016) - Elixir library to create thumbnails from images and video screenshots.
- - (⭐ 28 x 🍴12 x 😁5) - **[exexif](https://github.com/pragdave/exexif)** (2014) - Pure elixir library to extract tiff and exif metadata from jpeg files
- - (⭐ 25 x 🍴2 x 😁2) - **[ex_image_info](https://github.com/rNoz/ex_image_info)** (2016) - ExImageInfo is an Elixir library to parse images (binaries) and get the dimensions (size), detected mime-type and overall validity for a set of image formats. It is the fastest and supports multiple formats.
- - (⭐ 25 x 🍴5 x 😁4) - **[imgex](https://github.com/ianwalter/imgex)** (2015) - Unofficial client library for generating Imgix URLs in Elixir
- - (⭐ 25 x 🍴8 x 😁1) - **[png](https://github.com/yuce/png)** (2015) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
- - (⭐ 20 x 🍴4 x 😁2) - **[chunky_svg](https://github.com/mmmries/chunky_svg)** (2015) - An Elixir library for generating SVG images
- - (⭐ 20 x 🍴5 x 😁1) - **[identicon](https://github.com/rbishop/identicon)** (2015) - An Elixir library for generating GitHub-like identicons
- - (⭐ 11 x 🍴3 x 😁2) - **[ElixirExif](https://github.com/sschneider1207/ElixirExif)** (2016)false
- - (⭐ 90 x 😁1) - **[Eikon](https://github.com/tchoutri/Eikon)** (2016) - Eikōn is an Elixir library providing a read-only interface for image files.
- - (⭐ 60 x 😁1) - **[exfavicon](https://github.com/ikeikeikeike/exfavicon)** (2015) - Elixir library for discovering favicons
- - (⭐ 2 x 🍴1 x 😁1) - **[ex_bump](https://github.com/evanfarrar/ex_bump)** (2015) - Library for editing bitmap files
-
-#### Github > Elixir > Instrumenting / Monitoring
-
-[💯 **https://metaawesome.io/github/elixir/instrumenting-/-monitoring** ](https://metaawesome.io/github/elixir/instrumenting-/-monitoring)
-
- - (⭐ 723 x 🍴62 x 😁23) - **[elixometer](https://github.com/pinterest/elixometer)** (2015) - A light Elixir wrapper around exometer.
- - (⭐ 472 x 🍴98 x 😁15) - **[exometer](https://github.com/Feuerlabs/exometer)** (2013) - Basic measurement objects and probe behavior
- - (⭐ 383 x 🍴13 x 😁7) - **[telemetry](https://github.com/beam-telemetry/telemetry)** (2018) - Dynamic dispatching library for metrics and instrumentations.
- - (⭐ 266 x 🍴11 x 😁9) - **[prometheus.ex](https://github.com/deadtrickster/prometheus.ex)** (2016) - Prometheus.io Elixir client
- - (⭐ 220 x 🍴41 x 😁10) - **[prometheus.erl](https://github.com/deadtrickster/prometheus.erl)** (2016) - Prometheus.io client in Erlang
- - (⭐ 146 x 🍴24 x 😁10) - **[instream](https://github.com/mneudert/instream)** (2015) - InfluxDB driver for Elixir
- - (⭐ 126 x 🍴22 x 😁13) - **[spandex](https://github.com/spandex-project/spandex)** (2017) - A platform agnostic tracing library
- - (⭐ 62 x 🍴18 x 😁5) - **[newrelic.ex](https://github.com/romul/newrelic.ex)** (2016) - NewRelic agent for Elixir
- - (⭐ 57 x 🍴13 x 😁5) - **[erlang-metrics](https://github.com/benoitc/erlang-metrics)** (2015) - A generic interface to different metrics systems in Erlang.
- - (⭐ 57 x 🍴16 x 😁10) - **[prometheus-ecto](https://github.com/deadtrickster/prometheus-ecto)** (2016) - Prometheus.io collector for Elixir.Ecto
- - (⭐ 46 x 🍴9 x 😁5) - **[prometheus-phoenix](https://github.com/deadtrickster/prometheus-phoenix)** (2016) - Prometheus.io Phoenix instrumenter
- - (⭐ 42 x 🍴14 x 😁11) - **[prometheus-plugs](https://github.com/deadtrickster/prometheus-plugs)** (2016) - Prometheus.erl Elixir Plugs
- - (⭐ 35 x 🍴7 x 😁3) - **[prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector)** (2016) - Prometheus.io process collector in Erlang
- - (⭐ 9 x 🍴2 x 😁2) - **[instrumental-ex](https://github.com/undeadlabs/instrumental-ex)** (2014) - An Elixir client for Instrumental
- - (⭐ 40 x 😁2) - **[folsom_ddb](https://github.com/dalmatinerdb/folsom_ddb)** (2014) - Folsom consumer plugin for dalmatinerdb
- - (⭐ 3 x 🍴2 x 😁1) - **[graphitex](https://github.com/msoedov/graphitex)** (2017) - Graphite client for Elixir
- - https://github.com/appsignal/appsignal-elixir/false
-
-#### Github > Elixir > JSON
-
-[💯 **https://metaawesome.io/github/elixir/json** ](https://metaawesome.io/github/elixir/json)
-
- - (⭐ 1,684 x 🍴190 x 😁29) - **[poison](https://github.com/devinus/poison)** (2014) - An incredibly fast, pure Elixir JSON library
- - (⭐ 850 x 🍴62 x 😁20) - **[jason](https://github.com/michalmuskala/jason)** (2017) - A blazing fast JSON parser and generator in pure Elixir.
- - (⭐ 612 x 🍴195 x 😁32) - **[jsx](https://github.com/talentdeficit/jsx)** (2010) - an erlang application for consuming, producing and manipulating json. inspired by yajl
- - (⭐ 594 x 🍴144 x 😁75) - **[ja_serializer](https://github.com/AgilionApps/ja_serializer)** (2015) - JSONAPI.org Serialization in Elixir.
- - (⭐ 457 x 🍴69 x 😁46) - **[joken](https://github.com/bryanjos/joken)** (2014) - Elixir JWT library
- - (⭐ 321 x 🍴49 x 😁32) - **[jsonapi](https://github.com/jeregrine/jsonapi)** (2015) - JSON:API Serializer and Query Handler for Elixir
- - (⭐ 211 x 🍴38 x 😁20) - **[elixir-json](https://github.com/cblage/elixir-json)** (2013) - Native JSON library for Elixir
- - (⭐ 182 x 🍴51 x 😁11) - **[erlang-jose](https://github.com/potatosalad/erlang-jose)** (2015) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir
- - (⭐ 129 x 🍴28 x 😁9) - **[json_web_token_ex](https://github.com/garyf/json_web_token_ex)** (2015) - An Elixir implementation of the JSON Web Token (JWT) Standard, RFC 7519
- - (⭐ 72 x 🍴12 x 😁8) - **[exjson](https://github.com/guedes/exjson)** (2012) - JSON parser and genarator in Elixir.
- - (⭐ 61 x 🍴20 x 😁3) - **[jazz](https://github.com/meh/jazz)** (2013) - Yet another library to handle JSON in Elixir.
- - (⭐ 36 x 🍴1 x 😁2) - **[tiny](https://github.com/whitfin/tiny)** (2016) - A small, fast and fully compliant JSON parser in Elixir
- - (⭐ 28 x 🍴10 x 😁2) - **[jsxn](https://github.com/talentdeficit/jsxn)** (2014) - jsx but with maps for people who are into that kind of thing
- - (⭐ 80 x 😁1) - **[json_pointer](https://github.com/xavier/json_pointer)** (2015) - Implementation of RFC 6901 which defines a string syntax for identifying a specific value within a JSON document
- - (⭐ 50 x 😁1) - **[jwalk](https://github.com/jr0senblum/jwalk)** (2015) - Helper module for working with Erlang proplists, eep 18, map and mochijson-style JSON representations
- - (⭐ 50 x 😁1) - **[jwtex](https://github.com/mschae/jwtex)** (2015) - A JWT encoding and decoding library in Elixir
- - (⭐ 50 x 😁1) - **[world_json_ex](https://github.com/camshaft/world_json_ex)** (2015) - elixir module for the world in geo.json
- - (⭐ 40 x 😁1) - **[json_stream_encoder](https://github.com/TreyE/json_stream_encoder)** (2017) - Streaming encoder for JSON in elixir.
-
-#### Github > Elixir > Languages
-
-[💯 **https://metaawesome.io/github/elixir/languages** ](https://metaawesome.io/github/elixir/languages)
-
- - (⭐ 893 x 🍴24 x 😁11) - **[elchemy](https://github.com/wende/elchemy)** (2017) - Write Elixir code using statically-typed Elm-like syntax (compatible with Elm tooling)
- - (⭐ 102 x 🍴5 x 😁2) - **[writing_an_interpreter_in_elixir](https://github.com/fabrik42/writing_an_interpreter_in_elixir)** (2017) - Elixir implementation of an interpreter for the Monkey programming language
- - (⭐ 33 x 🍴4 x 😁1) - **[lighthouse-scheme](https://github.com/jwhiteman/lighthouse-scheme)** (2015) - A toy Scheme-like language on Elixir, just for fun
-
-#### Github > Elixir > Lexical analysis
-
-[💯 **https://metaawesome.io/github/elixir/lexical-analysis** ](https://metaawesome.io/github/elixir/lexical-analysis)
-
- - (⭐ 50 x 🍴7 x 😁2) - **[ex_abnf](https://github.com/marcelog/ex_abnf)** (2015) - Parser for ABNF Grammars
- - (⭐ 22 x 🍴4 x 😁2) - **[lex_luthor](https://github.com/jamesotron/lex_luthor)** (2015) - Lexer in Elixir. Lexer in Elixir. Lexer in Elixir. Lexer in Elixir. Lexer in Elixir. Lexer in Elixir. Lexer in Elixir. Lexer in Elixir. Lexer in Elixir. Lexer in Elixir.
-
-#### Github > Elixir > Logging
-
-[💯 **https://metaawesome.io/github/elixir/logging** ](https://metaawesome.io/github/elixir/logging)
-
- - (⭐ 203 x 🍴43 x 😁22) - **[rollbax](https://github.com/elixir-addicts/rollbax)** (2015) - Exception tracking and logging from Elixir to Rollbar
- - (⭐ 168 x 🍴25 x 😁21) - **[timber-elixir](https://github.com/timberio/timber-elixir)** (2016) - 🌲 Great Elixir logging made easy
- - (⭐ 146 x 🍴19 x 😁10) - **[logster](https://github.com/navinpeiris/logster)** (2016) - Easily parsable single line, plain text and JSON logger for Plug and Phoenix applications
- - (⭐ 101 x 🍴38 x 😁30) - **[honeybadger-elixir](https://github.com/honeybadger-io/honeybadger-elixir)** (2015) - Elixir client for Honeybadger.
- - (⭐ 88 x 🍴1 x 😁1) - **[bunyan](https://github.com/bunyan-logger/bunyan)** (2018) - The all-plugins-included package of the Bunyan distributed and pluggable logging system.
- - (⭐ 83 x 🍴48 x 😁8) - **[erlang-syslog](https://github.com/Vagabond/erlang-syslog)** (2009) - Erlang port driver for interacting with syslog via syslog(3)
- - (⭐ 64 x 🍴38 x 😁15) - **[exlager](https://github.com/khia/exlager)** (2012) - Elixir binding for lager
- - (⭐ 60 x 🍴36 x 😁7) - **[logger_logstash_backend](https://github.com/marcelog/logger_logstash_backend)** (2015) - Logstash backend for the Elixir Logger
- - (⭐ 46 x 🍴14 x 😁9) - **[metrix](https://github.com/rwdaigle/metrix)** (2015) - Elixir library to log custom application metrics, in a well-structured, human and machine readable format, for use by downstream log processing systems (Librato, Reimann, etc...)
- - (⭐ 29 x 🍴37 x 😁67) - **[lager](https://github.com/basho/lager)** (2016) - A logging framework for Erlang/OTP
- - (⭐ 28 x 🍴9 x 😁4) - **[slack_logger_backend](https://github.com/craigp/slack_logger_backend)** (2016) - An Elixir logger backend for posting errors to Slack.
- - (⭐ 25 x 🍴17 x 😁3) - **[lager_logger](https://github.com/PSPDFKit-labs/lager_logger)** (2015) - A lager backend that forwards all log messages to Elixir's Logger
- - (⭐ 24 x 🍴13 x 😁5) - **[exsentry](https://github.com/appcues/exsentry)** (2015) - Deprecated unofficial Elixir client for the Sentry error logging service.  Official client: https://github.com/getsentry/sentry-elixir
- - (⭐ 23 x 🍴21 x 😁11) - **[gelf_logger](https://github.com/jschniper/gelf_logger)** (2016) - An Elixir Logger backend for GELF
- - (⭐ 18 x 🍴12 x 😁3) - **[json_logger](https://github.com/LeeroyDing/json_logger)** (2015) - Simple JSON Logger for Elixir apps.
- - (⭐ 14 x 🍴5 x 😁4) - **[logfmt-elixir](https://github.com/jclem/logfmt-elixir)** (2015) - Decode and encode Logfmt lines in Elixir
- - (⭐ 12 x 🍴4 x 😁3) - **[mstore](https://github.com/dalmatinerdb/mstore)** (2014)false
- - (⭐ 9 x 🍴2 x 😁1) - **[logglix](https://github.com/pragmaticivan/logglix)** (2016) - 🎱  Logger backend app for Loggly requests
- - (⭐ 7 x 🍴1 x 😁2) - **[rogger](https://github.com/duartejc/rogger)** (2015) - Elixir logger to publish log messages in RabbitMQ
- - (⭐ 400) - **[youtrack_logger_backend](https://github.com/unifysell/youtrack_logger_backend)** (2018) - Adding youtrack as a logger backend to your elixir application.
- - https://github.com/Driftrock/quiet_logger/pull/1false
-
-#### Github > Elixir > Macros
-
-[💯 **https://metaawesome.io/github/elixir/macros** ](https://metaawesome.io/github/elixir/macros)
-
- - (⭐ 306 x 🍴26 x 😁10) - **[elixir-pipes](https://github.com/batate/elixir-pipes)** (2013) - Macros for more flexible composition with the Elixir Pipe operator
- - (⭐ 195 x 🍴12 x 😁7) - **[opus](https://github.com/zorbash/opus)** (2018) - A framework for pluggable business logic components
- - (⭐ 147 x 🍴4 x 😁1) - **[expat](https://github.com/vic/expat)** (2017) - Reusable, composable patterns across Elixir libraries
- - (⭐ 145 x 🍴4 x 😁4) - **[shorter_maps](https://github.com/meyercm/shorter_maps)** (2016) - Elixir ~M sigil for map shorthand. `~M{id, name} ~> %{id: id, name: name}`
- - (⭐ 94 x 🍴6 x 😁1) - **[eventsourced](https://github.com/slashdotdash/eventsourced)** (2016) - Functional domain models with event sourcing in Elixir
- - (⭐ 84 x 🍴2 x 😁2) - **[ok_jose](https://github.com/vic/ok_jose)** (2015) - Pipe elixir functions that match ok/error tuples or custom patterns.
- - (⭐ 500 x 😁1) - **[pipe_to](https://github.com/taiansu/pipe_to)** (2016) - The enhanced elixir pipe operator which can specify the target position
- - (⭐ 48 x 🍴4 x 😁3) - **[elixir-pattern_tap](https://github.com/mgwidmann/elixir-pattern_tap)** (2014) - Macro for tapping into a pattern match while using the pipe operator
- - (⭐ 43 x 🍴8 x 😁1) - **[mdef](https://github.com/pragdave/mdef)** (2014) - Easily define multiple function heads in elixir
- - (⭐ 25 x 🍴1 x 😁2) - **[pipe_here](https://github.com/vic/pipe_here)** (2016) - An Elixir macro for easily piping arguments at any position.
- - (⭐ 210 x 😁1) - **[guardsafe](https://github.com/DevL/guardsafe)** (2015) - Macros expanding into code that can be safely used in guard clauses.
- - (⭐ 21 x 🍴2 x 😁2) - **[named_args](https://github.com/mgwidmann/named_args)** (2016) - Allows named arg style arguments in Elixir
- - (⭐ 160 x 😁1) - **[pit](https://github.com/vic/pit)** (2016) - Elixir macro for extracting or transforming values inside a pipe flow.
- - (⭐ 14 x 🍴3 x 😁3) - **[anaphora-elixir](https://github.com/sviridov/anaphora-elixir)** (2014) - The anaphoric macro collection for Elixir
- - (⭐ 9 x 🍴2 x 😁1) - **[apix](https://github.com/liveforeverx/apix)** (2015) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
- - (⭐ 90 x 😁1) - **[unsafe](https://github.com/whitfin/unsafe)** (2017) - Generate unsafe (!) bindings for Elixir functions
- - (⭐ 8 x 🍴3 x 😁4) - **[rulex](https://github.com/awetzel/rulex)** (2014) - This tiny library (2 macros only) allows you to define very simple rule handler using Elixir pattern matching.
- - (⭐ 30 x 😁1) - **[backports](https://github.com/leifg/backports)** (2017) - Ensure backwards compatibility even if newer functions are used
- - (⭐ 2 x 🍴1 x 😁2) - **[lab42_defkw](https://github.com/RobertDober/lab42_defkw)** (2015) - Functions with syntax for keyword arguments and defaults
- - (⭐ 00 x 😁1) - **[lineo](https://github.com/camshaft/lineo)** (2015) - parse transform for accurate line numbers
- - (⭐ 00 x 😁1) - **[rebind](https://github.com/camshaft/rebind)** (2015) - rebind parse transform for erlang
-
-#### Github > Elixir > Markdown
-
-[💯 **https://metaawesome.io/github/elixir/markdown** ](https://metaawesome.io/github/elixir/markdown)
-
- - (⭐ 475 x 🍴99 x 😁37) - **[earmark](https://github.com/pragdave/earmark)** (2014) - Markdown parser for Elixir
- - (⭐ 71 x 🍴14 x 😁4) - **[markdown](https://github.com/devinus/markdown)** (2014) - A simple Elixir Markdown to HTML conversion library
- - (⭐ 53 x 🍴6 x 😁6) - **[cmark.ex](https://github.com/asaaki/cmark.ex)** (2014) - Elixir NIF for cmark (C), a parser library following the CommonMark spec, a compatible implementation of Markdown.
- - (⭐ 47 x 🍴9 x 😁3) - **[pandex](https://github.com/filterkaapi/pandex)** (2015) - Lightweight Elixir wrapper for Pandoc. Convert Markdown, CommonMark, HTML, Latex... to HTML, HTML5, opendocument, rtf, texttile, asciidoc, markdown, json and others
- - (⭐ 20 x 🍴4 x 😁3) - **[discount.ex](https://github.com/asaaki/discount.ex)** (2013) - Elixir NIF for discount, a Markdown parser
-
-#### Github > Elixir > Miscellaneous
-
-[💯 **https://metaawesome.io/github/elixir/miscellaneous** ](https://metaawesome.io/github/elixir/miscellaneous)
-
- - (⭐ 738 x 🍴34 x 😁5) - **[porcelain](https://github.com/alco/porcelain)** (2013) - Work with external processes like a boss
- - (⭐ 441 x 🍴24 x 😁5) - **[AtomVM](https://github.com/bettio/AtomVM)** (2017) - Tiny Erlang VM
- - (⭐ 304 x 🍴16 x 😁6) - **[hammer](https://github.com/ExHammer/hammer)** (2017) - An Elixir rate-limiter with pluggable backends
- - (⭐ 260 x 🍴19 x 😁15) - **[apex](https://github.com/bjro/apex)** (2014) - Awesome printing for Elixir
- - (⭐ 239 x 🍴33 x 😁10) - **[ex_rated](https://github.com/grempe/ex_rated)** (2014) - ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.
- - (⭐ 139 x 🍴5 x 😁3) - **[codec-beam](https://github.com/hkgumbs/codec-beam)** (2017) - Generate Erlang VM byte code from Haskell
- - (⭐ 95 x 🍴20 x 😁13) - **[ex2ms](https://github.com/ericmj/ex2ms)** (2013) - :ets.fun2ms for Elixir, translate functions to match specifications
- - (⭐ 86 x 🍴10 x 😁11) - **[ecto_autoslug_field](https://github.com/sobolevn/ecto_autoslug_field)** (2016) - Automatically create slugs for Ecto schemas.
- - (⭐ 79 x 🍴17 x 😁11) - **[ex_phone_number](https://github.com/socialpaymentsbv/ex_phone_number)** (2016) - Elixir port of libphonenumber
- - (⭐ 79 x 🍴24 x 😁10) - **[spotify_ex](https://github.com/jsncmgs1/spotify_ex)** (2015) - Elixir wrapper for the Spotify Web API
- - (⭐ 78 x 🍴47 x 😁13) - **[countries](https://github.com/SebastianSzturo/countries)** (2015) - Collection of Country Information for Elixir.
- - (⭐ 74 x 🍴19 x 😁8) - **[exsync](https://github.com/falood/exsync)** (2014) - Yet another elixir reloader.
- - (⭐ 73 x 🍴16 x 😁13) - **[phone](https://github.com/fcevado/phone)** (2016) - Elixir phone number parser for numbers in international standard.
- - (⭐ 66 x 🍴11 x 😁5) - **[exquisite](https://github.com/meh/exquisite)** (2013) - LINQ-like match_spec generation for Elixir.
- - (⭐ 56 x 🍴16 x 😁13) - **[elixir-browser](https://github.com/tuvistavie/elixir-browser)** (2015) - Browser detection for Elixir
- - (⭐ 53 x 🍴7 x 😁4) - **[pact](https://github.com/BlakeWilliams/pact)** (2015) - Better dependency injection in Elixir
- - (⭐ 51 x 🍴1 x 😁2) - **[bupe](https://github.com/milmazz/bupe)** (2016) - BUPE is a Elixir ePub generator and parser (supports EPUB v3)
- - (⭐ 46 x 🍴16 x 😁7) - **[huex](https://github.com/xavier/huex)** (2014) - Elixir client for Philips Hue connected light bulbs
- - (⭐ 45 x 🍴16 x 😁3) - **[exldap](https://github.com/jmerriweather/exldap)** (2015) - A module for working with LDAP from Elixir
- - (⭐ 39 x 🍴10 x 😁8) - **[reprise](https://github.com/herenowcoder/reprise)** (2014) - Simplified module reloader for Elixir
- - (⭐ 36 x 🍴17 x 😁5) - **[html_entities](https://github.com/martinsvalin/html_entities)** (2015) - Elixir module for decoding HTML entities.
- - (⭐ 32 x 🍴3 x 😁3) - **[funnel](https://github.com/chatgris/funnel)** (2013) - Streaming Elixir API built upon ElasticSearch's percolation.
- - (⭐ 30 x 🍴9 x 😁8) - **[exprintf](https://github.com/parroty/exprintf)** (2013) - A printf / sprintf library for Elixir. It works as a wrapper for :io.format.
- - (⭐ 26 x 🍴28 x 😁1) - **[std_json_io](https://github.com/hassox/std_json_io)** (2015) - A simple library for Elixir that provides json over STDIO
- - (⭐ 23 x 🍴1 x 😁1) - **[expool](https://github.com/whitfin/expool)** (2015) - Extremely simple Process pooling and task submission in Elixir
- - (⭐ 22 x 🍴2 x 😁2) - **[erlang_term](https://github.com/okeuday/erlang_term)** (2014) - Erlang Term Info
- - (⭐ 22 x 🍴5 x 😁5) - **[licensir](https://github.com/unnawut/licensir)** (2017) - An Elixir mix task that lists the license(s) of all installed packages in your Mix project.
- - (⭐ 19 x 🍴4 x 😁1) - **[ratx](https://github.com/liveforeverx/ratx)** (2015) - Rate limiter and overload protection for erlang application
- - (⭐ 17 x 🍴10 x 😁1) - **[countriex](https://github.com/navinpeiris/countriex)** (2016) - All sorts of useful information about every country. A pure elixir port of the ruby Countries gem
- - (⭐ 170 x 😁1) - **[vessel](https://github.com/whitfin/vessel)** (2016) - Elixir MapReduce interfaces with Hadoop Streaming integration
- - (⭐ 16 x 🍴2 x 😁1) - **[dye](https://github.com/Kabie/dye)** (2014) - Dyeing your terminal!
- - (⭐ 15 x 🍴1 x 😁1) - **[gen_task](https://github.com/Nebo15/gen_task)** (2017) - Generic Task behavior that helps encapsulate errors and recover from them in classic GenStage workers.
- - (⭐ 13 x 🍴7 x 😁2) - **[address_us](https://github.com/smashedtoatoms/address_us)** (2014) - US Address Parsing for Elixir.
- - (⭐ 120 x 😁1) - **[mix-star](https://github.com/ma2gedev/mix-star)** (2013) - Elixir Mix task to starring GitHub repository with `mix deps.get`ting dependent library
- - (⭐ 11 x 🍴1 x 😁1) - **[ratekeeper](https://github.com/whitered/ratekeeper)** (2018) - Ratekeeper is a library for scheduling rate-limited actions.
- - (⭐ 10 x 🍴1 x 😁2) - **[exlibris](https://github.com/pragdave/exlibris)** (2014)false
- - (⭐ 10 x 🍴1 x 😁1) - **[Presentex](https://github.com/Cobenian/Presentex)** (2015) - Elixir -> HTML/JavaScript based presentation framework intended for showing Elixir code
- - (⭐ 7 x 🍴1 x 😁1) - **[mixgraph](https://github.com/sivsushruth/mixgraph)** (2016) - An interactive dependency plotter for your Hex Package
- - (⭐ 6 x 🍴2 x 😁2) - **[gimei_ex](https://github.com/ma2gedev/gimei_ex)** (2015)false
- - (⭐ 50 x 😁1) - **[growl](https://github.com/zachallett/growl)** (2014) - Simple wrapper for growl, the notification system for OSX
- - (⭐ 4 x 🍴1 x 😁2) - **[netrcex](https://github.com/ma2gedev/netrcex)** (2014) - Reads netrc files implemented in Elixir
- - (⭐ 40 x 😁1) - **[onetime-elixir](https://github.com/ryo33/onetime-elixir)** (2015) - An onetime key-value store for Elixir
- - (⭐ 40 x 😁1) - **[url_unroller](https://github.com/semanticart/url_unroller)** (2015) - A simple url unroller (un-shortener) in elixir
- - (⭐ 3 x 🍴2 x 😁1) - **[elixir-charm](https://github.com/tomgco/elixir-charm)** (2014) - ANSI rainbow for elixir, be a magician
- - (⭐ 3 x 🍴1 x 😁3) - **[spawndir](https://github.com/jtmoulia/spawndir)** (2014) - Spawn processes from the file system.
- - (⭐ 10 x 😁2) - **[egaugex](https://github.com/Brightergy/egaugex)** (2016) - A simple egauge parser to retrieve and parse data from egauge devices
- - (⭐ 1 x 🍴2 x 😁1) - **[ExFCM](https://github.com/Hajto/ExFCM)** (2016) - ExFCM is a simple wrapper around Firebase Cloud Messaging
- - (⭐ 10 x 😁1) - **[keys1value](https://github.com/okeuday/keys1value)** (2014) - Erlang set associative map for key lists
- - (⭐ 0 x 🍴1 x 😁4) - **[dynamic_compile](https://github.com/okeuday/dynamic_compile)** (2013) - compile and load erlang modules from string input
- - (⭐ 00 x 😁1) - **[japan_municipality_key](https://github.com/hykw/japan_municipality_key)** (2016) - Elixir Library for Japan municipality key converting
-
-#### Github > Elixir > Native Implemented Functions
-
-[💯 **https://metaawesome.io/github/elixir/native-implemented-functions** ](https://metaawesome.io/github/elixir/native-implemented-functions)
-
- - (⭐ 1,618 x 🍴76 x 😁33) - **[Rustler](https://github.com/hansihe/Rustler)** (2015) - Safe Rust bridge for creating Erlang NIF functions
- - (⭐ 26 x 🍴2 x 😁2) - **[nifty](https://github.com/rossjones/nifty)** (2015) - helpful tools for when I need to create an Elixir NIF .
- - (⭐ 21 x 🍴1 x 😁1) - **[hsnif](https://github.com/urbanserj/hsnif)** (2013) - Tool that allows to write Erlang NIF libraries in Haskell
-
-#### Github > Elixir > Natural Language Processing (NLP)
-
-[💯 **https://metaawesome.io/github/elixir/natural-language-processing-(nlp)** ](https://metaawesome.io/github/elixir/natural-language-processing-(nlp))
-
- - (⭐ 57 x 🍴7 x 😁3) - **[paasaa](https://github.com/minibikini/paasaa)** (2016) - Natural language detection for Elixir
- - (⭐ 55 x 🍴4 x 😁3) - **[gibran](https://github.com/abitdodgy/gibran)** (2015) - Gibran is an Elixir natural language processor, and a port of WordsCounted.
- - (⭐ 34 x 🍴6 x 😁2) - **[woolly](https://github.com/pjhampton/woolly)** (2015) - The Text Mining Elixir
- - (⭐ 18 x 🍴1 x 😁4) - **[petrovich_elixir](https://github.com/petrovich/petrovich_elixir)** (2017) - Elixir library to inflect Russian first, last, and middle names.
-
-#### Github > Elixir > Networking
-
-[💯 **https://metaawesome.io/github/elixir/networking** ](https://metaawesome.io/github/elixir/networking)
-
- - (⭐ 605 x 🍴111 x 😁32) - **[elixir-socket](https://github.com/meh/elixir-socket)** (2013) - Socket wrapping for Elixir.
- - (⭐ 115 x 🍴14 x 😁6) - **[sshex](https://github.com/rubencaro/sshex)** (2015) - Simple SSH helpers for Elixir. SSH is useful, but we all love SSHEx !
- - (⭐ 87 x 🍴10 x 😁6) - **[reagent](https://github.com/meh/reagent)** (2013) - You need more reagents to conjure this server.
- - (⭐ 77 x 🍴10 x 😁8) - **[sshkit.ex](https://github.com/bitcrowd/sshkit.ex)** (2017) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
- - (⭐ 280 x 😁1) - **[chatter_ex](https://github.com/dbeck/chatter_ex)** (2016) - Chatter library for Elixir, provides a secure broadcast between nodes.
- - (⭐ 28 x 🍴7 x 😁3) - **[wifi](https://github.com/gausby/wifi)** (2015) - Various utility functions for working with the local Wifi network in Elixir. These functions are mostly useful in scripts that could benefit from knowing the current location of the computer or the Wifi surroundings.
- - (⭐ 21 x 🍴7 x 😁3) - **[expcap](https://github.com/cobenian/expcap)** (2014) - Elixir PCAP library
- - (⭐ 20 x 🍴3 x 😁2) - **[sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl)** (2017) - Sockerl is an  advanced Erlang/Elixir socket framework for TCP protocols and provides fast, useful and easy-to-use API for implementing servers, clients and client connection pools.
- - (⭐ 16 x 🍴19 x 😁1) - **[download](https://github.com/asiniy/download)** (2017) - Downloads remote file and stores it in the filesystem
- - (⭐ 12 x 🍴3 x 😁1) - **[eio](https://github.com/falood/eio)** (2015) - elixir server of engine.io 
- - (⭐ 120 x 😁1) - **[tunnerl](https://github.com/surik/tunnerl)** (2013) - SOCKS4, SOCKS4a and SOCKS5 protocols implementation in Erlang/OTP.
- - (⭐ 60 x 😁1) - **[asn](https://github.com/ephe-meral/asn)** (2016) - IP-to-AS-to-ASname lookup for Elixir 
- - (⭐ 60 x 😁1) - **[pool](https://github.com/slogsdon/pool)** (2015) - Socket acceptor pool for Elixir
- - (⭐ 50 x 😁1) - **[wpa_supplicant.ex](https://github.com/fhunleth/wpa_supplicant.ex)** (2014) - See Nerves.WpaSupplicant now
- - (⭐ 3 x 🍴2 x 😁1) - **[mac](https://github.com/ephe-meral/mac)** (2016) - MAC-to-vendor search for Elixir
- - (⭐ 3 x 🍴1 x 😁1) - **[torex](https://github.com/alexfilatov/torex)** (2017) - Make requests to Tor network with Elixir
-
-#### Github > Elixir > Office
-
-[💯 **https://metaawesome.io/github/elixir/office** ](https://metaawesome.io/github/elixir/office)
-
- - (⭐ 125 x 🍴43 x 😁19) - **[xlsxir](https://github.com/kennellroxco/xlsxir)** (2016) - Xlsx parser for the Elixir language.
- - (⭐ 121 x 🍴44 x 😁18) - **[elixlsx](https://github.com/xou/elixlsx)** (2015) - An Elixir XLSX writer
- - (⭐ 20 x 🍴4 x 😁1) - **[excellent](https://github.com/leifg/excellent)** (2015) - Excel Parser written in Elixir (currently only Excel 2000)
-
-#### Github > Elixir > ORM and Datamapping
-
-[💯 **https://metaawesome.io/github/elixir/orm-and-datamapping** ](https://metaawesome.io/github/elixir/orm-and-datamapping)
-
- - (⭐ 4,242 x 🍴1,006 x 😁442) - **[ecto](https://github.com/elixir-ecto/ecto)** (2013) - A database wrapper and language integrated query for Elixir
- - (⭐ 667 x 🍴180 x 😁81) - **[postgrex](https://github.com/elixir-ecto/postgrex)** (2013) - PostgreSQL driver for Elixir
- - (⭐ 599 x 🍴81 x 😁27) - **[redix](https://github.com/whatyouhide/redix)** (2015) - Fast, pipelined, resilient Redis driver for Elixir. 🛍
- - (⭐ 580 x 🍴225 x 😁40) - **[eredis](https://github.com/wooga/eredis)** (2011) - Erlang Redis client
- - (⭐ 563 x 🍴65 x 😁17) - **[amnesia](https://github.com/meh/amnesia)** (2013) - Mnesia wrapper for Elixir.
- - (⭐ 513 x 🍴69 x 😁27) - **[eventstore](https://github.com/slashdotdash/eventstore)** (2016) - Event store using PostgreSQL for persistence
- - (⭐ 504 x 🍴39 x 😁18) - **[moebius](https://github.com/robconery/moebius)** (2015) - A functional query tool for Elixir
- - (⭐ 497 x 🍴66 x 😁18) - **[rethinkdb-elixir](https://github.com/hamiltop/rethinkdb-elixir)** (2015) - Rethinkdb client in pure elixir (JSON protocol)
- - (⭐ 437 x 🍴4 x 😁2) - **[memento](https://github.com/sheharyarn/memento)** (2018) - Simple + Powerful interface to the Mnesia Distributed Database
- - (⭐ 415 x 🍴87 x 😁33) - **[tirexs](https://github.com/Zatvobor/tirexs)** (2013) - An Elixir flavored HTTP client and DSL library for Elasticsearch
- - (⭐ 388 x 🍴100 x 😁23) - **[ecto_enum](https://github.com/gjaldon/ecto_enum)** (2015) - Ecto extension to support enums in models
- - (⭐ 369 x 🍴128 x 😁52) - **[mongodb](https://github.com/ericmj/mongodb)** (2014) - MongoDB driver for Elixir
- - (⭐ 350 x 🍴66 x 😁32) - **[exredis](https://github.com/artemeff/exredis)** (2013) - Redis commands for Elixir
- - (⭐ 301 x 🍴97 x 😁24) - **[mongodb_ecto](https://github.com/michalmuskala/mongodb_ecto)** (2015) - MongoDB adapter for Ecto
- - (⭐ 283 x 🍴102 x 😁20) - **[mysql-otp](https://github.com/mysql-otp/mysql-otp)** (2014) - MySQL/OTP – MySQL and MariaDB driver for Erlang/OTP
- - (⭐ 252 x 🍴95 x 😁39) - **[mariaex](https://github.com/xerions/mariaex)** (2014) - Pure Elixir database driver for MariaDB / MySQL
- - (⭐ 242 x 🍴19 x 😁2) - **[shards](https://github.com/cabol/shards)** (2016) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables!
- - (⭐ 226 x 🍴39 x 😁11) - **[paper_trail](https://github.com/izelnakri/paper_trail)** (2016) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
- - (⭐ 216 x 🍴139 x 😁26) - **[arc_ecto](https://github.com/stavro/arc_ecto)** (2015) - An integration with Arc and Ecto.
- - (⭐ 206 x 🍴17 x 😁4) - **[atlas](https://github.com/chrismccord/atlas)** (2013) - Object Relational Mapper for Elixir
- - (⭐ 190 x 🍴60 x 😁20) - **[elastix](https://github.com/werbitzky/elastix)** (2015) - A simple Elasticsearch REST client written in Elixir.
- - (⭐ 188 x 🍴48 x 😁13) - **[riak-elixir-client](https://github.com/drewkerrigan/riak-elixir-client)** (2013) - A Riak client written in Elixir.
- - (⭐ 187 x 🍴32 x 😁12) - **[ecto_mnesia](https://github.com/Nebo15/ecto_mnesia)** (2016) - Ecto adapter for Mnesia Erlang term database.
- - (⭐ 181 x 🍴26 x 😁11) - **[xandra](https://github.com/lexhide/xandra)** (2016) - Fast, simple, and robust Cassandra driver for Elixir.
- - (⭐ 166 x 🍴21 x 😁7) - **[triplex](https://github.com/ateliware/triplex)** (2017) - Database multitenancy for Elixir applications!
- - (⭐ 150 x 🍴10 x 😁14) - **[inquisitor](https://github.com/dockyard/inquisitor)** (2016) - Composable query builder for Ecto
- - (⭐ 148 x 🍴11 x 😁4) - **[ecto_fixtures](https://github.com/DockYard/ecto_fixtures)** (2015) - Fixtures for Elixir apps
- - (⭐ 145 x 🍴32 x 😁11) - **[kvs](https://github.com/synrc/kvs)** (2013) -  💾 KVS: Abstract Term Database
- - (⭐ 144 x 🍴69 x 😁25) - **[erlastic_search](https://github.com/tsloughter/erlastic_search)** (2010) - An Erlang app for communicating with Elastic Search's rest interface.
- - (⭐ 143 x 🍴15 x 😁7) - **[bolt_sips](https://github.com/florinpatrascu/bolt_sips)** (2016) - Neo4j driver for Elixir
- - (⭐ 142 x 🍴61 x 😁25) - **[timex_ecto](https://github.com/bitwalker/timex_ecto)** (2015) - An adapter for using Timex DateTimes with Ecto
- - (⭐ 133 x 🍴22 x 😁13) - **[calecto](https://github.com/lau/calecto)** (2015) - Adapter for the Calendar library in Ecto
- - (⭐ 127 x 🍴12 x 😁7) - **[arbor](https://github.com/coryodaniel/arbor)** (2016) - Ecto elixir adjacency list and tree traversal. Supports Ecto versions 2 and 3.
- - (⭐ 115 x 🍴10 x 😁2) - **[github_ecto](https://github.com/wojtekmach/github_ecto)** (2016) - Ecto adapter for GitHub API
- - (⭐ 114 x 🍴16 x 😁6) - **[boltun](https://github.com/bitgamma/boltun)** (2015) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution
- - (⭐ 109 x 🍴2 x 😁1) - **[ecto_rut](https://github.com/sheharyarn/ecto_rut)** (2016) - Ecto Model shortcuts to make your life easier! :tada:
- - (⭐ 102 x 🍴32 x 😁5) - **[elixir-mongo](https://github.com/checkiz/elixir-mongo)** (2014) - MongoDB driver for Elixir
- - (⭐ 102 x 🍴11 x 😁6) - **[sql_dust](https://github.com/bettyblocks/sql_dust)** (2016) - Easy. Simple. Powerful. Generate (complex) SQL queries using magical Elixir SQL dust.
- - (⭐ 96 x 🍴24 x 😁12) - **[extreme](https://github.com/exponentially/extreme)** (2015) - Elixir Adapter for EventStore
- - (⭐ 94 x 🍴4 x 😁2) - **[defql](https://github.com/fazibear/defql)** (2017) - Create elixir functions with SQL as a body.
- - (⭐ 89 x 🍴23 x 😁5) - **[couchdb_connector](https://github.com/locolupo/couchdb_connector)** (2015) - A couchdb connector for Elixir
- - (⭐ 80 x 🍴23 x 😁17) - **[sqlitex](https://github.com/mmmries/sqlitex)** (2015) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
- - (⭐ 74 x 🍴31 x 😁3) - **[sqlite_ecto](https://github.com/jazzyb/sqlite_ecto)** (2015) - SQLite3 adapter for Ecto
- - (⭐ 73 x 🍴23 x 😁7) - **[neo4j_sips](https://github.com/florinpatrascu/neo4j_sips)** (2015) - Elixir driver for the Neo4j graph database server
- - (⭐ 70 x 🍴54 x 😁12) - **[esqlite](https://github.com/mmzeeman/esqlite)** (2011) - Erlang NIF for sqlite
- - (⭐ 67 x 🍴8 x 😁5) - **[ecto-cassandra](https://github.com/cafebazaar/ecto-cassandra)** (2016) - Cassandra Ecto Adapter
- - (⭐ 59 x 🍴7 x 😁8) - **[exnumerator](https://github.com/KamilLelonek/exnumerator)** (2015) - Enumerable type in Elixir
- - (⭐ 59 x 🍴36 x 😁12) - **[tds_ecto](https://github.com/livehelpnow/tds_ecto)** (2015) - TDS Adapter for Ecto
- - (⭐ 57 x 🍴3 x 😁3) - **[ecto_facade](https://github.com/azranel/ecto_facade)** (2018) - Separate your read and write operations in replicated database setup
- - (⭐ 50 x 🍴3 x 😁1) - **[eternal](https://github.com/whitfin/eternal)** (2016) - Keep your ETS tables running forever using bouncing GenServers
- - (⭐ 47 x 🍴33 x 😁10) - **[tds](https://github.com/livehelpnow/tds)** (2015) - TDS Driver for Elixir
- - (⭐ 46 x 🍴10 x 😁2) - **[diver](https://github.com/novabyte/diver)** (2014) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
- - (⭐ 42 x 🍴14 x 😁6) - **[elastic](https://github.com/radar/elastic)** (2016) - A thin veneer over HTTPotion that talks to Elastic Search
- - (⭐ 40 x 🍴13 x 😁5) - **[triton](https://github.com/blitzstudios/triton)** (2017) - a Cassandra ORM for Elixir
- - (⭐ 37 x 🍴3 x 😁1) - **[datomex](https://github.com/edubkendo/datomex)** (2014) - Elixir driver for the Datomic REST API
- - (⭐ 37 x 🍴6 x 😁3) - **[exleveldb](https://github.com/skovsgaard/exleveldb)** (2014) - Elixir wrapper around the Erlang module, eleveldb.
- - (⭐ 36 x 🍴1 x 😁2) - **[ectophile](https://github.com/gjaldon/ectophile)** (2015) - Ectophile is an extension for Ecto models to instantly support file uploads.
- - (⭐ 35 x 🍴9 x 😁10) - **[gremlex](https://github.com/Revmaker/gremlex)** (2018) - Elixir Client for Gremlin (Apache TinkerPop™)
- - (⭐ 29 x 🍴17 x 😁3) - **[ecto-ordered](https://github.com/zovafit/ecto-ordered)** (2015) - Ecto extension for ordered models
- - (⭐ 29 x 🍴4 x 😁1) - **[riak_ecto](https://github.com/pma/riak_ecto)** (2015) - Riak adapter for Ecto
- - (⭐ 28 x 🍴9 x 😁5) - **[ecto_migrate](https://github.com/xerions/ecto_migrate)** (2015) - Automatic migrations for ecto
- - (⭐ 27 x 🍴1 x 😁2) - **[ecto_shortcuts](https://github.com/MishaConway/ecto_shortcuts)** (2016) - Shortcuts for common operations in ecto
- - (⭐ 21 x 🍴7 x 😁4) - **[comeonin_ecto_password](https://github.com/vic/comeonin_ecto_password)** (2016) - Ecto type for saving encrypted passwords using Comeonin
- - (⭐ 20 x 🍴11 x 😁3) - **[exsolr](https://github.com/dcarneiro/exsolr)** (2016) - Port of RSolr to Elixir
- - (⭐ 18 x 🍴1 x 😁2) - **[caylir](https://github.com/mneudert/caylir)** (2014) - Cayley driver for Elixir
- - (⭐ 18 x 🍴6 x 😁10) - **[redo](https://github.com/heroku/redo)** (2014) - pipelined erlang redis client
- - (⭐ 16 x 🍴1 x 😁1) - **[red](https://github.com/rodrigues/red)** (2015)false
- - (⭐ 13 x 🍴4 x 😁6) - **[ecto_paging](https://github.com/Nebo15/ecto_paging)** (2016) - Cursor-based pagination for Ecto.
- - (⭐ 13 x 🍴4 x 😁3) - **[exseed](https://github.com/seaneshbaugh/exseed)** (2015) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
- - (⭐ 10 x 🍴1 x 😁1) - **[ExBitcask](https://github.com/JonGretar/ExBitcask)** (2015) - Elixir wrapper of Basho's Bitcask Key/Value store.
- - (⭐ 9 x 🍴5 x 😁3) - **[dqe](https://github.com/dalmatinerdb/dqe)** (2014) - DalmatinerDB Query Engine
- - (⭐ 9 x 🍴2 x 😁3) - **[hstore](https://github.com/senecasystems/hstore)** (2014) - Hstore support for Postgrex
- - (⭐ 8 x 🍴3 x 😁4) - **[craterl](https://github.com/crate/craterl)** (2014) - Client Libraries for Erlang
- - (⭐ 8 x 🍴6 x 😁3) - **[ddb_client](https://github.com/dalmatinerdb/ddb_client)** (2014)false
- - (⭐ 8 x 🍴2 x 😁2) - **[isn](https://github.com/Frost/isn)** (2015) - Postgrex.Extension and Ecto.Type for PostgreSQL isn module
- - (⭐ 8 x 🍴1 x 😁1) - **[yar](https://github.com/dantswain/yar)** (2014) - Yet another Redis client for Elixir
- - (⭐ 70 x 😁1) - **[database_url](https://github.com/s-m-i-t-a/database_url)** (2015) - Database URL parser for Elixir
- - (⭐ 7 x 🍴1 x 😁1) - **[ecto_validation_case](https://github.com/danielberkompas/ecto_validation_case)** (2015) - Simplify your Ecto validation tests
- - (⭐ 7 x 🍴10) - **[ets_map](https://github.com/antipax/ets_map)** (2015) - An Elixir package that provides a Map-like interface (Map/Access/Enumerable/Collectable) backed by an ETS table
- - (⭐ 7 x 🍴2 x 😁1) - **[exts](https://github.com/meh/exts)** (2013) - Elixir Terms Storage, ets wrapper.
- - (⭐ 7 x 🍴1 x 😁1) - **[elixir-rediscl](https://github.com/akdilsiz/elixir-rediscl)** (2018) - A minimal redis client with connection pooling for elixir
- - (⭐ 6 x 🍴1 x 😁1) - **[ecto-lazy-float](https://github.com/joshdholtz/ecto-lazy-float)** (2015) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers
- - (⭐ 6 x 🍴5 x 😁2) - **[mysqlex](https://github.com/tjheeta/mysqlex)** (2015) - Mysql driver for Elixir from Erlang
- - (⭐ 50 x 😁1) - **[ecto_shortuuid](https://github.com/gpedic/ecto_shortuuid)** (2019) - Ecto type which adds support for ShortUUID in Ecto schemas
- - (⭐ 50 x 😁1) - **[ex_sider](https://github.com/ephe-meral/ex_sider)** (2016) - Elixir <-> Redis datastructure adapter
- - (⭐ 4 x 🍴2 x 😁1) - **[dexts](https://github.com/meh/dexts)** (2013) - Disk Elixir Terms Storage, dest wrapper.
- - (⭐ 40 x 😁1) - **[level](https://github.com/gausby/level)** (2015) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
- - (⭐ 4 x 🍴4 x 😁1) - **[neo4j_sips_models](https://github.com/florinpatrascu/neo4j_sips_models)** (2016) - Neo4j models, for Neo4j.Sips
- - (⭐ 4 x 🍴1 x 😁2) - **[ssdb-elixir](https://github.com/lidashuang/ssdb-elixir)** (2014) - ssdb client for elixir
- - (⭐ 3 x 🍴1 x 😁2) - **[udpflux](https://github.com/timbuchwaldt/udpflux)** (2015) - An opinionated InfluxDB UDP only client
- - (⭐ 10 x 😁2) - **[dproto](https://github.com/dalmatinerdb/dproto)** (2014) - Protocols for dalmatinadb
- - https://github.com/jxub/barrel_ex.gitfalse
-
-#### Github > Elixir > OTP
-
-[💯 **https://metaawesome.io/github/elixir/otp** ](https://metaawesome.io/github/elixir/otp)
-
- - (⭐ 350 x 🍴106 x 😁22) - **[erlexec](https://github.com/saleyn/erlexec)** (2012) - Execute and control OS processes from Erlang/OTP
- - (⭐ 144 x 🍴8 x 😁3) - **[immortal](https://github.com/danielberkompas/immortal)** (2015) - Helper modules for OTP applications
- - (⭐ 37 x 🍴5 x 😁1) - **[core](https://github.com/fishcakez/core)** (2014) - Library for selective receive OTP processes
- - (⭐ 10 x 😁1) - **[libex-config](https://github.com/reset/libex-config)** (2014) - Helpers for accessing OTP application configuration
-
-#### Github > Elixir > Package Management
-
-[💯 **https://metaawesome.io/github/elixir/package-management** ](https://metaawesome.io/github/elixir/package-management)
-
- - (⭐ 60 x 🍴31 x 😁17) - **[rebar3_hex](https://github.com/hexpm/rebar3_hex)** (2015) - Rebar3 Hex library
-
-#### Github > Elixir > PDF
-
-[💯 **https://metaawesome.io/github/elixir/pdf** ](https://metaawesome.io/github/elixir/pdf)
-
- - (⭐ 205 x 🍴33 x 😁5) - **[gutenex](https://github.com/SenecaSystems/gutenex)** (2014) - Native PDF generation for Elixir
- - (⭐ 169 x 🍴29 x 😁17) - **[elixir-pdf-generator](https://github.com/gutschilla/elixir-pdf-generator)** (2014) - A simple wrapper for wkhtmltopdf (HTML to PDF) for use in Elixir projects.
- - (⭐ 55 x 🍴4 x 😁1) - **[pdf2htmlex](https://github.com/ricn/pdf2htmlex)** (2015) - Convert PDF docs to beautiful HTML files without losing text or format.
-
-#### Github > Elixir > Protocols
-
-[💯 **https://metaawesome.io/github/elixir/protocols** ](https://metaawesome.io/github/elixir/protocols)
-
- - (⭐ 538 x 🍴65 x 😁18) - **[grpc-elixir](https://github.com/tony612/grpc-elixir)** (2016) - An Elixir implementation of gRPC
- - (⭐ 397 x 🍴65 x 😁27) - **[exprotobuf](https://github.com/bitwalker/exprotobuf)** (2014) - Protocol Buffers in Elixir made easy!
- - (⭐ 287 x 🍴28 x 😁8) - **[riffed](https://github.com/pinterest/riffed)** (2015) - Provides idiomatic Elixir bindings for Apache Thrift
- - (⭐ 194 x 🍴21 x 😁9) - **[msgpax](https://github.com/lexmag/msgpax)** (2013) - MessagePack implementation for Elixir / msgpack.org[Elixir]
- - (⭐ 62 x 🍴12 x 😁3) - **[msgpack-elixir](https://github.com/mururu/msgpack-elixir)** (2013) - MessagePack Implementation for Elixir / msgpack.org[Elixir]
- - (⭐ 41 x 🍴18 x 😁6) - **[smppex](https://github.com/savonarola/smppex)** (2015) - ✉️ SMPP 3.4 protocol and framework implementation in Elixir
- - (⭐ 33 x 🍴9 x 😁5) - **[ex_marshal](https://github.com/gaynetdinov/ex_marshal)** (2015) - Ruby Marshal format implemented in Elixir
- - (⭐ 25 x 🍴6 x 😁1) - **[ex_hl7](https://github.com/jcomellas/ex_hl7)** (2015) - HL7 Parser for Elixir
- - (⭐ 19 x 🍴7 x 😁3) - **[elixir-sippet](https://github.com/balena/elixir-sippet)** (2016) - An Elixir library designed to be used as SIP protocol middleware.
- - (⭐ 8 x 🍴2 x 😁1) - **[elixir-radius](https://github.com/bearice/elixir-radius)** (2014) - RADIUS Protocol on Elixir
- - (⭐ 8 x 🍴3 x 😁1) - **[protox](https://github.com/ahamez/protox)** (2016) - An Elixir library for Protocol Buffers.
-
-#### Github > Elixir > Queue
-
-[💯 **https://metaawesome.io/github/elixir/queue** ](https://metaawesome.io/github/elixir/queue)
-
- - (⭐ 1,002 x 🍴131 x 😁53) - **[exq](https://github.com/akira/exq)** (2013) - Job processing library for Elixir  - compatible with Resque / Sidekiq
- - (⭐ 577 x 🍴55 x 😁23) - **[verk](https://github.com/edgurgel/verk)** (2015) - A job processing system that just verks! 🧛‍
- - (⭐ 539 x 🍴20 x 😁2) - **[que](https://github.com/sheharyarn/que)** (2016) - Simple Job Processing in Elixir with Mnesia :zap:
- - (⭐ 489 x 🍴35 x 😁12) - **[honeydew](https://github.com/koudelka/honeydew)** (2014) - Job Queue for Elixir. Clustered or Local. Straight BEAM or Ecto. 💪🏻🍈
- - (⭐ 444 x 🍴101 x 😁27) - **[amqp](https://github.com/pma/amqp)** (2014) - Idiomatic Elixir client for RabbitMQ
- - (⭐ 372 x 🍴112 x 😁48) - **[kafka_ex](https://github.com/kafkaex/kafka_ex)** (2015) - Kafka client library for Elixir
- - (⭐ 326 x 🍴24 x 😁11) - **[toniq](https://github.com/joakimk/toniq)** (2015) - Simple and reliable background job processing library for Elixir.
- - (⭐ 264 x 🍴24 x 😁13) - **[rihanna](https://github.com/samphilipd/rihanna)** (2018) - Rihanna is a high performance postgres-backed job queue for Elixir
- - (⭐ 174 x 🍴21 x 😁14) - **[task_bunny](https://github.com/shinyscorpion/task_bunny)** (2017) - TaskBunny is a background processing application written in Elixir and uses RabbitMQ as a messaging backend
- - (⭐ 157 x 🍴26 x 😁8) - **[ecto_job](https://github.com/mbuhot/ecto_job)** (2017) - Transactional job queue with Ecto, PostgreSQL and GenStage
- - (⭐ 151 x 🍴5 x 😁4) - **[opq](https://github.com/fredwu/opq)** (2017) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
- - (⭐ 142 x 🍴14 x 😁4) - **[pqueue](https://github.com/okeuday/pqueue)** (2011) - Erlang Priority Queues
- - (⭐ 114 x 🍴26 x 😁4) - **[hulaaki](https://github.com/suvash/hulaaki)** (2015) - An Elixir library (driver) for clients communicating with MQTT brokers(via the MQTT 3.1.1 protocol).
- - (⭐ 110 x 🍴21 x 😁7) - **[enm](https://github.com/basho/enm)** (2014) - Erlang driver for nanomsg
- - (⭐ 85 x 🍴10 x 😁7) - **[conduit](https://github.com/conduitframework/conduit)** (2016) - A message queue framework, with support for middleware and multiple adapters.
- - (⭐ 67 x 🍴22 x 😁7) - **[elixir_nsq](https://github.com/wistia/elixir_nsq)** (2015) - An NSQ client for Elixir and Erlang, written in Elixir.
- - (⭐ 48 x 🍴21 x 😁2) - **[exrabbit](https://github.com/d0rc/exrabbit)** (2013) - Simple rabbitmq bindings for elixir
- - (⭐ 37 x 🍴13 x 😁9) - **[gen_rmq](https://github.com/meltwater/gen_rmq)** (2018) - Elixir AMQP consumer and publisher behaviours
- - (⭐ 37 x 🍴4 x 😁3) - **[work_queue](https://github.com/pragdave/work_queue)** (2014) - Simple implementation of the hungry-consumer model in Elixir
- - (⭐ 27 x 🍴6 x 😁3) - **[mqs](https://github.com/synrc/mqs)** (2013) - 🌍 MQS: AMQP Library
- - (⭐ 19 x 🍴1 x 😁1) - **[cspex](https://github.com/costaraphael/cspex)** (2016) - A library that brings all the CSP joy to the Elixir land.
- - (⭐ 19 x 🍴5 x 😁5) - **[kafka-consumer](https://github.com/anoskov/kafka-consumer)** (2016) - Consumer for Kafka using brod and elixir (production ready)
- - (⭐ 19 x 🍴10 x 😁4) - **[rbmq](https://github.com/Nebo15/rbmq)** (2016) - Simple API for spawning RabbitMQ Producers and Consumers.
- - (⭐ 18 x 🍴6 x 😁2) - **[elixir_talk](https://github.com/jsvisa/elixir_talk)** (2014) - An Elixir client for beanstalkd
- - (⭐ 16 x 🍴1 x 😁2) - **[exdisque](https://github.com/mosic/exdisque)** (2015) - Elixir client for Disque (https://github.com/antirez/disque), an in-memory, distributed job queue.
- - (⭐ 15 x 🍴2 x 😁3) - **[adap](https://github.com/awetzel/adap)** (2015) - Create a data stream across your information systems to query, augment and transform data according to Elixir matching rules.
- - (⭐ 10 x 🍴1 x 😁1) - **[queuex](https://github.com/falood/queuex)** (2015) - Elixir Priority Queue
- - (⭐ 6 x 🍴2 x 😁1) - **[elixir-heapq](https://github.com/takscape/elixir-heapq)** (2014) - A Heap-based Priority Queue Implementation in Elixir.
- - (⭐ 5 x 🍴1 x 😁2) - **[sadbus](https://github.com/aforward/sadbus)** (2015) - A dumb message bus for sharing data between microservices in a relatively decoupled mechanism
-
-#### Github > Elixir > Release Management
-
-[💯 **https://metaawesome.io/github/elixir/release-management** ](https://metaawesome.io/github/elixir/release-management)
-
- - (⭐ 2,476 x 🍴334 x 😁158) - **[distillery](https://github.com/bitwalker/distillery)** (2016) - Simplify deployments in Elixir with OTP releases!
- - (⭐ 944 x 🍴124 x 😁55) - **[exrm](https://github.com/bitwalker/exrm)** (2014) - Automatically generate a release for your Elixir project!
- - (⭐ 334 x 🍴53 x 😁9) - **[mix_docker](https://github.com/Recruitee/mix_docker)** (2016) - Put your Elixir app production release inside minimal docker image
- - (⭐ 74 x 🍴12 x 😁6) - **[exrm_deb](https://github.com/johnhamelink/exrm_deb)** (2016) - Create a deb for your elixir release with ease
- - (⭐ 60 x 🍴13 x 😁4) - **[relex](https://github.com/yrashk/relex)** (2012) - Erlang/Elixir Release Assembler
- - (⭐ 44 x 🍴4 x 😁1) - **[exrm-heroku](https://github.com/epsanchezma/exrm-heroku)** (2015) - Publish your Elixir releases to Heroku with ease.
- - (⭐ 40 x 🍴6 x 😁3) - **[eliver](https://github.com/glasnoster/eliver)** (2016) - Interactive semantic versioning for Elixir packages
- - (⭐ 38 x 🍴16 x 😁5) - **[exrm-rpm](https://github.com/smpallen99/exrm-rpm)** (2014) - Create a rpm for your elixir release with ease
- - (⭐ 33 x 🍴1 x 😁2) - **[changex](https://github.com/Gazler/changex)** (2014) - Automated changelog generation from git logs
- - (⭐ 32 x 🍴4 x 😁3) - **[renew](https://github.com/Nebo15/renew)** (2016) - Mix task to create mix projects that builds into Docker containers.
-
-#### Github > Elixir > REST and API
-
-[💯 **https://metaawesome.io/github/elixir/rest-and-api** ](https://metaawesome.io/github/elixir/rest-and-api)
-
- - (⭐ 1,195 x 🍴78 x 😁24) - **[maru](https://github.com/falood/maru)** (2014) - Elixir RESTful Framework 
- - (⭐ 89 x 🍴5 x 😁4) - **[urna](https://github.com/meh/urna)** (2013) - REST in peace.
- - (⭐ 60 x 🍴43 x 😁3) - **[detergent](https://github.com/devinus/detergent)** (2010) - An emulsifying Erlang SOAP library
- - (⭐ 59 x 🍴23 x 😁3) - **[detergentex](https://github.com/r-icarus/detergentex)** (2015) - Elixir binding to Detergent erlang library used to call WSDL/SOAP Services
- - (⭐ 39 x 🍴4 x 😁2) - **[plug_rest](https://github.com/christopheradams/plug_rest)** (2016) - REST behaviour and Plug router for hypermedia web applications in Elixir
- - (⭐ 21 x 🍴2 x 😁2) - **[versionary](https://github.com/sticksnleaves/versionary)** (2017) - Plug for API versioning
- - (⭐ 20 x 🍴5 x 😁3) - **[signaturex](https://github.com/edgurgel/signaturex)** (2014) - Simple key/secret based authentication for APIs
- - (⭐ 16 x 🍴9 x 😁3) - **[accent](https://github.com/sticksnleaves/accent)** (2017) - Plug for handling the conversion of JSON API keys to different cases
- - (⭐ 15 x 🍴2 x 😁4) - **[mazurka](https://github.com/exstruct/mazurka)** (2013) - hypermedia api toolkit
-
-#### Github > Elixir > Search
-
-[💯 **https://metaawesome.io/github/elixir/search** ](https://metaawesome.io/github/elixir/search)
-
- - (⭐ 215 x 🍴27 x 😁15) - **[elasticsearch-elixir](https://github.com/infinitered/elasticsearch-elixir)** (2017) - No-nonsense Elasticsearch library for Elixir
- - (⭐ 130 x 😁1) - **[giza_sphinxsearch](https://github.com/Tyler-pierce/giza_sphinxsearch)** (2017) - Sphinx Fulltext Search Client for Elixir Projects (Phoenix Example Included)
-
-#### Github > Elixir > Security
-
-[💯 **https://metaawesome.io/github/elixir/security** ](https://metaawesome.io/github/elixir/security)
-
- - (⭐ 750 x 🍴46 x 😁11) - **[sobelow](https://github.com/nccgroup/sobelow)** (2017) - Security-focused static analysis for the Phoenix Framework
- - (⭐ 57 x 🍴24 x 😁8) - **[ssl_verify_fun.erl](https://github.com/deadtrickster/ssl_verify_fun.erl)** (2014) - Collection of ssl verification functions for Erlang
- - (⭐ 16 x 🍴2 x 😁2) - **[safetybox](https://github.com/aforward/safetybox)** (2014) - Security oriented helper functions for Elixir
- - (⭐ 130 x 😁1) - **[pwned](https://github.com/thiamsantos/pwned)** (2018) - Check if your password has been pwned
- - (⭐ 40 x 😁1) - **[clamxir](https://github.com/ramortegui/clamxir)** (2018) - CalmAV wrapper for elixir
-
-#### Github > Elixir > Static Page Generation
-
-[💯 **https://metaawesome.io/github/elixir/static-page-generation** ](https://metaawesome.io/github/elixir/static-page-generation)
-
- - (⭐ 325 x 🍴36 x 😁7) - **[obelisk](https://github.com/BennyHallett/obelisk)** (2014) - Static Site Generator written in Elixir.
- - (⭐ 111 x 🍴17 x 😁6) - **[Serum](https://github.com/Dalgona/Serum)** (2016) - A simple static website generator written in Elixir
- - (⭐ 62 x 🍴3 x 😁2) - **[glayu](https://github.com/pablomartinezalvarez/glayu)** (2017) - A static site generator for mid-sized sites.
- - (⭐ 60 x 🍴6 x 😁3) - **[coil](https://github.com/badosu/coil)** (2013) - Coil is a minimalistic static content engine written in elixir
- - (⭐ 25 x 🍴4 x 😁1) - **[blogit](https://github.com/meddle0x53/blogit)** (2017) - OTP application for generating blog posts from a Git repository containing markdown files.
-
-#### Github > Elixir > Statistics
-
-[💯 **https://metaawesome.io/github/elixir/statistics** ](https://metaawesome.io/github/elixir/statistics)
-
- - (⭐ 120 x 🍴10 x 😁4) - **[Numerix](https://github.com/safwank/Numerix)** (2016) - A collection of useful mathematical functions in Elixir with a slant towards statistics, linear algebra and machine learning
- - (⭐ 82 x 🍴20 x 😁9) - **[elixir-statistics](https://github.com/msharp/elixir-statistics)** (2013) - Statistical functions and distributions for Elixir
- - (⭐ 15 x 🍴3 x 😁1) - **[mtx](https://github.com/synrc/mtx)** (2015) - ✏ MTX: Metrics Client 
- - (⭐ 100 x 😁1) - **[simplestatex](https://github.com/Tyler-pierce/simplestatex)** (2018) - Simple Stat Ex can be used to keep counters around hourly daily or other activity for an elixir project
- - (⭐ 9 x 🍴1 x 😁2) - **[descriptive_statistics](https://github.com/pusewicz/descriptive_statistics)** (2013) - Descriptive Statistics for Elixir
-
-#### Github > Elixir > Templating
-
-[💯 **https://metaawesome.io/github/elixir/templating** ](https://metaawesome.io/github/elixir/templating)
-
- - (⭐ 260 x 🍴35 x 😁24) - **[slime](https://github.com/slime-lang/slime)** (2015) - Minimalistic HTML templates for Elixir, inspired by Slim.
- - (⭐ 176 x 🍴35 x 😁16) - **[calliope](https://github.com/nurugger07/calliope)** (2013) - An elixir haml parser
- - (⭐ 113 x 🍴26 x 😁5) - **[bbmustache](https://github.com/soranoba/bbmustache)** (2015) - Binary pattern match Based Mustache template engine for Erlang/OTP.
- - (⭐ 97 x 🍴12 x 😁3) - **[eml](https://github.com/zambal/eml)** (2014) - Library for writing and manipulating (html) markup in Elixir.
- - (⭐ 72 x 🍴3 x 😁2) - **[expug](https://github.com/rstacruz/expug)** (2016) - Pug templates for Elixir
- - (⭐ 29 x 🍴6 x 😁5) - **[Mustache.ex](https://github.com/schultyy/Mustache.ex)** (2015) - Mustache templates for Elixir
- - (⭐ 25 x 🍴2 x 😁1) - **[taggart](https://github.com/ijcd/taggart)** (2017) - HTML as code in Elixir
- - (⭐ 24 x 🍴3 x 😁2) - **[exgen](https://github.com/rwdaigle/exgen)** (2016) - A templating library for generating reusable Elixir projects
- - (⭐ 14 x 🍴5 x 😁2) - **[mustachex](https://github.com/jui/mustachex)** (2015) - Mustache for Elixir
- - (⭐ 2 x 🍴6 x 😁3) - **[templates](https://github.com/sugar-framework/templates)** (2014) - A helper library for adding templating to web applications
-
-#### Github > Elixir > Testing
-
-[💯 **https://metaawesome.io/github/elixir/testing** ](https://metaawesome.io/github/elixir/testing)
-
- - (⭐ 1,255 x 🍴111 x 😁52) - **[ex_machina](https://github.com/thoughtbot/ex_machina)** (2015) - Create test data for Elixir applications
- - (⭐ 1,116 x 🍴120 x 😁53) - **[hound](https://github.com/HashNuke/hound)** (2013) - Elixir library for writing integration tests and browser automation
- - (⭐ 841 x 🍴112 x 😁49) - **[wallaby](https://github.com/keathley/wallaby)** (2016) - Concurrent browser tests with elixir
- - (⭐ 694 x 🍴134 x 😁35) - **[proper](https://github.com/manopapad/proper)** (2010) - PropEr: a QuickCheck-inspired property-based testing tool for Erlang
- - (⭐ 636 x 🍴62 x 😁38) - **[espec](https://github.com/antonmi/espec)** (2015) - Elixir Behaviour Driven Development
- - (⭐ 632 x 🍴206 x 😁43) - **[meck](https://github.com/eproxus/meck)** (2010) - A mocking library for Erlang
- - (⭐ 572 x 🍴59 x 😁27) - **[mix-test.watch](https://github.com/lpil/mix-test.watch)** (2015) - 🎁   Because TDD is awesome
- - (⭐ 537 x 🍴64 x 😁19) - **[bypass](https://github.com/pspdfkit-labs/bypass)** (2015) - Bypass provides a quick way to create a custom plug that can be put in place instead of an actual HTTP server to return prebaked responses to client requests.
- - (⭐ 511 x 🍴109 x 😁59) - **[faker](https://github.com/igas/faker)** (2014) - Faker is a pure Elixir library for generating fake data.
- - (⭐ 394 x 🍴54 x 😁32) - **[mock](https://github.com/jjh42/mock)** (2013) - Mocking library for Elixir language
- - (⭐ 291 x 🍴28 x 😁13) - **[excheck](https://github.com/parroty/excheck)** (2013) - Property-based testing library for Elixir (QuickCheck style).
- - (⭐ 203 x 🍴29 x 😁15) - **[amrita](https://github.com/josephwilk/amrita)** (2013) - A polite, well mannered and thoroughly upstanding testing framework for Elixir
- - (⭐ 186 x 🍴4 x 😁4) - **[power_assert_ex](https://github.com/ma2gedev/power_assert_ex)** (2015) - Power Assert in Elixir. Shows evaluation results each expression.
- - (⭐ 174 x 🍴31 x 😁16) - **[white-bread](https://github.com/meadsteve/white-bread)** (2015) - 🍞 Story BDD tool for elixir using gherkin
- - (⭐ 159 x 🍴14 x 😁10) - **[blacksmith](https://github.com/batate/blacksmith)** (2014) - Data generation framework for Elixir
- - (⭐ 135 x 🍴16 x 😁9) - **[shouldi](https://github.com/batate/shouldi)** (2014) - Elixir testing libraries with nested contexts, superior readability, and ease of use
- - (⭐ 132 x 🍴6 x 😁5) - **[faker-elixir](https://github.com/GesJeremie/faker-elixir)** (2016) - :droplet: FakerElixir generates fake data for you. 
- - (⭐ 129 x 🍴6 x 😁4) - **[pavlov](https://github.com/sproutapp/pavlov)** (2014) - A BDD framework for your Elixir projects
- - (⭐ 121 x 🍴29 x 😁18) - **[espec_phoenix](https://github.com/antonmi/espec_phoenix)** (2015) - ESpec for Phoenix web framework.
- - (⭐ 112 x 🍴6 x 😁2) - **[ponos](https://github.com/klarna/ponos)** (2014) - ponos is a simple yet powerful load generator written in erlang
- - (⭐ 88 x 🍴7 x 😁3) - **[ex_unit_notifier](https://github.com/navinpeiris/ex_unit_notifier)** (2016) - Desktop notifications for ExUnit
- - (⭐ 87 x 🍴6 x 😁1) - **[ex_spec](https://github.com/drewolson/ex_spec)** (2014) - BDD-like syntax for ExUnit
- - (⭐ 75 x 🍴10 x 😁1) - **[blitzy](https://github.com/benjamintanweihao/blitzy)** (2014) - A simple HTTP load tester in Elixir
- - (⭐ 62 x 🍴13 x 😁6) - **[katt](https://github.com/for-GET/katt)** (2013) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
- - (⭐ 59 x 🍴9 x 😁3) - **[tuco_tuco](https://github.com/stuart/tuco_tuco)** (2014) - Yet another South American rodent...a Capybara like web app testing tool for Elixir.
- - (⭐ 57 x 🍴9 x 😁7) - **[mockery](https://github.com/appunite/mockery)** (2017) - Simple mocking library for asynchronous testing in Elixir.
- - (⭐ 46 x 🍴6 x 😁6) - **[chaperon](https://github.com/polleverywhere/chaperon)** (2017) - HTTP Service Performance & Load Testing Framework
- - (⭐ 45 x 🍴11 x 😁7) - **[fake_server](https://github.com/bernardolins/fake_server)** (2016) - FakeServer integrates with ExUnit to make external APIs testing simpler
- - (⭐ 40 x 🍴4 x 😁2) - **[factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir)** (2014) - Minimal implementation of Ruby's factory_girl in Elixir.
- - (⭐ 33 x 🍴3 x 😁4) - **[double](https://github.com/sonerdy/double)** (2017) - Simple injectable test dependencies for Elixir
- - (⭐ 33 x 🍴1 x 😁1) - **[mecks_unit](https://github.com/archan937/mecks_unit)** (2019) - A simple Elixir package to elegantly mock module functions within (asynchronous) ExUnit tests using Erlang's :meck library
- - (⭐ 280 x 😁1) - **[exkorpion](https://github.com/wesovilabs/exkorpion)** (2016) - A BDD library  for Elixir developers
- - (⭐ 23 x 🍴2 x 😁1) - **[hypermock](https://github.com/stevegraham/hypermock)** (2015) - HTTP request stubbing and expectation Elixir library
- - (⭐ 17 x 🍴1 x 😁1) - **[efrisby](https://github.com/FabioBatSilva/efrisby)** (2016) - A REST API testing framework for erlang
- - (⭐ 17 x 🍴5 x 😁5) - **[ex_parameterized](https://github.com/KazuCocoa/ex_parameterized)** (2015) - This library support parameterized test with test_with_params macro.
- - (⭐ 140 x 😁1) - **[apocryphal](https://github.com/coryodaniel/apocryphal)** (2016) - Swagger based document driven development for ExUnit
- - (⭐ 11 x 🍴5 x 😁3) - **[ex_unit_fixtures](https://github.com/obmarg/ex_unit_fixtures)** (2015) - A library for defining modular dependencies (fixtures) for ExUnit tests.
- - (⭐ 110 x 😁1) - **[ignorant](https://github.com/campezzi/ignorant)** (2016) - Simplify comparison of Elixir data structures by ensuring fields are present but ignoring their values.
- - (⭐ 11 x 🍴8 x 😁1) - **[mix-erlang-tasks](https://github.com/alco/mix-erlang-tasks)** (2014) - Common tasks for Erlang projects that use Mix
- - (⭐ 110 x 😁2) - **[test_selector](https://github.com/DefactoSoftware/test_selector)** (2017) - Elixir library to help selecting the right elements in your tests.
- - (⭐ 10 x 🍴3 x 😁1) - **[cobertura_cover](https://github.com/PSPDFKit-labs/cobertura_cover)** (2015) - Output test coverage information in Cobertura-compatible format
- - (⭐ 9 x 🍴1 x 😁1) - **[plug_test_helpers](https://github.com/xavier/plug_test_helpers)** (2014) - A simple testing DSL for Plugs
- - (⭐ 8 x 🍴7 x 😁4) - **[mix_eunit](https://github.com/dantswain/mix_eunit)** (2015) - A mix task to execute eunit tests.
- - (⭐ 8 x 🍴2 x 😁1) - **[test_that_json](https://github.com/facto/test_that_json)** (2016) - JSON-related helpers for your Elixir testing needs
- - (⭐ 50 x 😁1) - **[kovacs](https://github.com/antp/kovacs)** (2014)false
- - (⭐ 4 x 🍴1 x 😁1) - **[chemistry](https://github.com/genericlady/chemistry)** (2016) - Chemistry is a Testing Framework for Elixir
- - (⭐ 2 x 🍴2 x 😁2) - **[ecto_it](https://github.com/xerions/ecto_it)** (2015) - Ecto plugin with default configuration for repos for testing different ecto plugins with databases
- - (⭐ 2 x 🍴1 x 😁2) - **[elixir-gimei](https://github.com/KazuCocoa/elixir-gimei)** (2015)false
- - (⭐ 20 x 😁1) - **[mixunit](https://github.com/talentdeficit/mixunit)** (2014) - an `eunit` task for mix based projects
- - (⭐ 20 x 😁2) - **[mockingbird](https://github.com/Driftrock/mockingbird)** (2017) - A set of helpers to create http-aware modules that are easy to test. 
- - (⭐ 10 x 😁1) - **[elixir-auto-test](https://github.com/joaothallis/elixir-auto-test)** (2018) - Run test when file is saved
- - (⭐ 1 x 🍴1 x 😁2) - **[fqc](https://github.com/project-fifo/fqc)** (2014) - FiFo Quickcheck helper
- - (⭐ 10 x 😁1) - **[setup_tag](https://github.com/vic/setup_tag)** (2016) - Use tags to mix and match your exunit test context
-
-#### Github > Elixir > Text and Numbers
-
-[💯 **https://metaawesome.io/github/elixir/text-and-numbers** ](https://metaawesome.io/github/elixir/text-and-numbers)
-
- - (⭐ 312 x 🍴72 x 😁24) - **[money](https://github.com/liuggio/money)** (2015) - Elixir library for working with Money safer, easier, and fun... Is an interpretation of the Fowler's Money pattern in fun.prog.
- - (⭐ 259 x 🍴34 x 😁16) - **[elixir-uuid](https://github.com/zyro/elixir-uuid)** (2014) - UUID generator and utilities for Elixir
- - (⭐ 254 x 🍴72 x 😁34) - **[decimal](https://github.com/ericmj/decimal)** (2013) - Arbitrary precision decimal arithmetic
- - (⭐ 194 x 🍴44 x 😁31) - **[inflex](https://github.com/nurugger07/inflex)** (2013) - An Inflector library for Elixir
- - (⭐ 185 x 🍴12 x 😁4) - **[hashids-elixir](https://github.com/alco/hashids-elixir)** (2014) - Stringify your ids
- - (⭐ 173 x 🍴61 x 😁10) - **[uuid](https://github.com/okeuday/uuid)** (2011) - Erlang Native UUID Generation
- - (⭐ 141 x 🍴20 x 😁13) - **[number](https://github.com/danielberkompas/number)** (2015) - ActionView::Helpers::NumberHelper for Elixir
- - (⭐ 130 x 🍴4 x 😁1) - **[stemmer](https://github.com/fredwu/stemmer)** (2016) - An English (Porter2) stemming implementation in Elixir.
- - (⭐ 127 x 🍴22 x 😁13) - **[slugger](https://github.com/h4cc/slugger)** (2015) - A Slugger for elixir.
- - (⭐ 93 x 🍴12 x 😁7) - **[cldr](https://github.com/kipcole9/cldr)** (2016) - Elixir implementation of CLDR
- - (⭐ 86 x 🍴14 x 😁8) - **[secure_random.ex](https://github.com/patricksrobertson/secure_random.ex)** (2015) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom
- - (⭐ 85 x 🍴9 x 😁1) - **[chinese_translation](https://github.com/tyrchen/chinese_translation)** (2015) - An elixir module to translate simplified Chinese to traditional Chinese, and vice versa, based on wikipedia data
- - (⭐ 80 x 🍴4 x 😁4) - **[nanoid](https://github.com/railsmechanic/nanoid)** (2018) - Elixir port of NanoID, a secure and URL-friendly unique ID generator. https://hex.pm/packages/nanoid
- - (⭐ 65 x 🍴19 x 😁3) - **[exmoji](https://github.com/mroth/exmoji)** (2014) - :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang
- - (⭐ 59 x 🍴14 x 😁3) - **[ua_inspector](https://github.com/elixytics/ua_inspector)** (2013) - User agent parser library
- - (⭐ 57 x 🍴6 x 😁2) - **[veritaserum](https://github.com/uesteibar/veritaserum)** (2017) - Sentiment analysis based on afinn-165, emojis and some enhancements.
- - (⭐ 52 x 🍴7 x 😁3) - **[neotomex](https://github.com/jtmoulia/neotomex)** (2014) - A PEG parser/transformer with a pleasant Elixir DSL.
- - (⭐ 51 x 🍴4 x 😁3) - **[simetric](https://github.com/lexmag/simetric)** (2014) - String similarity metrics for Elixir
- - (⭐ 41 x 🍴16 x 😁11) - **[monetized](https://github.com/theocodes/monetized)** (2015) - A lightweight solution for handling and storing money.
- - (⭐ 34 x 🍴10 x 😁4) - **[quickrand](https://github.com/okeuday/quickrand)** (2013) - Quick Erlang Random Number Generation
- - (⭐ 32 x 🍴5 x 😁1) - **[sentient](https://github.com/dantame/sentient)** (2015) - Simple sentiment analysis using the AFINN-111 word list
- - (⭐ 29 x 🍴9 x 😁6) - **[tomlex](https://github.com/zamith/tomlex)** (2014) - A TOML parser for elixir
- - (⭐ 26 x 🍴10 x 😁4) - **[erldn](https://github.com/marianoguerra/erldn)** (2013) - edn format parser for the erlang platform
- - (⭐ 24 x 🍴6 x 😁3) - **[abacus](https://github.com/narrowtux/abacus)** (2016) - Parses and evaluates mathematical expressions in Elixir. Inspired by math.js
- - (⭐ 23 x 🍴14 x 😁6) - **[Brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj)** (2015) - Validação,Formatação e Gerador Cpf/Cnpj em Elixir
- - (⭐ 23 x 🍴2 x 😁4) - **[curtail](https://github.com/seankay/curtail)** (2014) - HTML tag-safe string truncation
- - (⭐ 23 x 🍴1 x 😁1) - **[faust](https://github.com/jquadrin/faust)** (2014) - Markov chain text generator
- - (⭐ 23 x 🍴13 x 😁5) - **[hexate](https://github.com/rjsamson/hexate)** (2013) - A simple module for Hex encoding / decoding in Elixir.
- - (⭐ 22 x 🍴7 x 😁3) - **[elixir-mbcs](https://github.com/woxtu/elixir-mbcs)** (2014) - Wrapper for erlang-mbcs
- - (⭐ 21 x 🍴4 x 😁3) - **[expletive](https://github.com/xavier/expletive)** (2015) - Profanity filter library for Elixir
- - (⭐ 20 x 🍴6 x 😁3) - **[Haikunator](https://github.com/knrz/Haikunator)** (2015) - Generate Heroku-like memorable random names to use in your apps or anywhere else.
- - (⭐ 19 x 🍴7 x 😁5) - **[cidr-elixir](https://github.com/c-rack/cidr-elixir)** (2015) - Classless Inter-Domain Routing (CIDR) for Elixir
- - (⭐ 17 x 🍴3 x 😁3) - **[inet_cidr](https://github.com/cobenian/inet_cidr)** (2015) - CIDR library for Elixir that is compatible with Erlang's :inet and supports both IPv4 and IPv6
- - (⭐ 17 x 🍴6 x 😁2) - **[pinyin](https://github.com/lidashuang/pinyin)** (2014) - chinese pinyin lib for elixir
- - (⭐ 16 x 🍴5 x 😁7) - **[base62](https://github.com/igas/base62)** (2015) - Base62 encoder/decoder in pure Elixir
- - (⭐ 15 x 🍴1 x 😁2) - **[ex_uc](https://github.com/carturoch/ex_uc)** (2016) - Elixir Unit Converter
- - (⭐ 15 x 🍴2 x 😁2) - **[unit_fun](https://github.com/meadsteve/unit_fun)** (2015) - 📏 Dimension based safety in elixir
- - (⭐ 13 x 🍴7 x 😁3) - **[base58check](https://github.com/gjaldon/base58check)** (2015)false
- - (⭐ 13 x 🍴2 x 😁5) - **[custom_base](https://github.com/igas/custom_base)** (2015) - Allow you to make custom base conversion in Elixir.
- - (⭐ 12 x 🍴3 x 😁1) - **[base58](https://github.com/jrdnull/base58)** (2014) - Base58 encoding/decoding for Elixir
- - (⭐ 12 x 🍴2 x 😁1) - **[bencode](https://github.com/gausby/bencode)** (2015) - A bencode encoder and decoder written in Elixir
- - (⭐ 12 x 🍴1 x 😁2) - **[convertat](https://github.com/whatyouhide/convertat)** (2014) - An Elixir library for converting from and to arbitrary bases.
- - (⭐ 12 x 🍴4 x 😁2) - **[Eden](https://github.com/jfacorro/Eden)** (2015) - edn (extensible data notation) encoder/decoder for Elixir
- - (⭐ 10 x 🍴1 x 😁1) - **[kitsune](https://github.com/edubkendo/kitsune)** (2014) - An Elixir library for transforming the representation of data
- - (⭐ 10 x 🍴1 x 😁2) - **[ltsvex](https://github.com/ma2gedev/ltsvex)** (2013) - LTSV parser implementation in Elixir
- - (⭐ 100 x 😁1) - **[ex_shortuuid](https://github.com/gpedic/ex_shortuuid)** (2017) - ShortUUID is a simple UUID shortener for Elixir.
- - (⭐ 9 x 🍴2 x 😁2) - **[ex_rfc3986](https://github.com/marcelog/ex_rfc3986)** (2015) - RFC3986 URI parser
- - (⭐ 8 x 🍴2 x 😁1) - **[elixir_bencode](https://github.com/AntonFagerberg/elixir_bencode)** (2014) - Bencode implemented in Elixir
- - (⭐ 8 x 🍴4 x 😁4) - **[Expr](https://github.com/Rob-bie/Expr)** (2015) - An Elixir library for parsing and evaluating mathematical expressions
- - (⭐ 8 x 🍴2 x 😁1) - **[ref_inspector](https://github.com/elixytics/ref_inspector)** (2013) - Referer parser library
- - (⭐ 7 x 🍴1 x 😁2) - **[colors](https://github.com/lidashuang/colors)** (2014) - colors util written in Elixir
- - (⭐ 7 x 🍴3 x 😁3) - **[elixilorem](https://github.com/mgamini/elixilorem)** (2014) - Lorem Ipsum generator for Elixir
- - (⭐ 7 x 🍴4 x 😁3) - **[mt940](https://github.com/my-flow/mt940)** (2015) - MT940 parser for Elixir
- - (⭐ 60 x 😁1) - **[elixir-range-extras](https://github.com/lnikkila/elixir-range-extras)** (2015) - Elixir range utilities: constant-time random sampling and set operations.
- - (⭐ 50 x 😁1) - **[numero](https://github.com/alisinabh/numero)** (2017) - A micro library for converting non-english digits in elixir.
- - (⭐ 4 x 🍴1 x 😁2) - **[bencoder](https://github.com/alehander42/bencoder)** (2014) - a library to handle bencode in elixir
- - (⭐ 40 x 😁1) - **[ccc](https://github.com/Joe-noh/ccc)** (2015) - Character Code Converter
- - (⭐ 4 x 🍴3 x 😁3) - **[porterstemmer](https://github.com/frpaulas/porterstemmer)** (2015) - Porter Stemmer in Elixir ~> 1.0.0
- - (⭐ 400) - **[pretty_hex](https://github.com/polsab/pretty_hex)** (2014) - A binary hex dumping library in Elixir.
- - (⭐ 30 x 😁2) - **[dicer](https://github.com/olhado/dicer)** (2014) - dice string parser and roller
- - (⭐ 3 x 🍴1 x 😁2) - **[event_source_encoder](https://github.com/chatgris/event_source_encoder)** (2014) - EventSourceEncoder is a Elixir library to encode data into EventSource compliant data.
- - (⭐ 3 x 🍴2 x 😁1) - **[ex_brace_expansion](https://github.com/gniquil/ex_brace_expansion)** (2015)false
- - (⭐ 3 x 🍴2 x 😁3) - **[mimetype_parser](https://github.com/camshaft/mimetype_parser)** (2014) - parse mimetypes
- - (⭐ 20 x 😁1) - **[colorful](https://github.com/Joe-noh/colorful)** (2014) - colorful is justice
- - (⭐ 20 x 😁1) - **[elixir_remove_emoji](https://github.com/guanting112/elixir_remove_emoji)** (2017) - Remove Emoji 😈🈲😱⁉️ ( 2017 version for Elixir 1.4、1.5+ ) 
- - (⭐ 20 x 😁2) - **[tau](https://github.com/FranklinChen/tau)** (2013) - Elixir module for tau
- - (⭐ 10 x 😁1) - **[ex_rfc3966](https://github.com/marcelog/ex_rfc3966)** (2015) - Elixir Tel URI parser compatible with RFC3966
- - (⭐ 10 x 😁1) - **[palette](https://github.com/lpil/palette)** (2015) - A useless library that does stuff the standard library does better.
- - (⭐ 10 x 😁1) - **[ua_parser2-elixir](https://github.com/nazipov/ua_parser2-elixir)** (2016) - A port of ua-parser2 to Elixir. User agent parser library.
- - (⭐ 00 x 😁1) - **[parser.ex](https://github.com/Cirru/parser.ex)** (2015) - Cirru Parser in Elixir
- - (⭐ 00 x 😁1) - **[random_string_generator](https://github.com/caioceccon/random_string_generator)** (2017) - A Elixir module to generate a random string based on a given string pattern.
-
-#### Github > Elixir > Third Party APIs
-
-[💯 **https://metaawesome.io/github/elixir/third-party-apis** ](https://metaawesome.io/github/elixir/third-party-apis)
-
- - (⭐ 489 x 🍴134 x 😁50) - **[Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack)** (2014) - Slack real time messaging and web API client in Elixir
- - (⭐ 424 x 🍴151 x 😁67) - **[stripity-stripe](https://github.com/robconery/stripity-stripe)** (2015) - An Elixir Library for Stripe
- - (⭐ 374 x 🍴75 x 😁27) - **[pigeon](https://github.com/codedge-llc/pigeon)** (2015) - iOS and Android push notifications for Elixir
- - (⭐ 336 x 🍴64 x 😁12) - **[elixir-google-api](https://github.com/GoogleCloudPlatform/elixir-google-api)** (2017) - Elixir client libraries for accessing Google APIs.
- - (⭐ 321 x 🍴90 x 😁37) - **[extwitter](https://github.com/parroty/extwitter)** (2014) - Twitter client library for elixir. 
- - (⭐ 319 x 🍴35 x 😁14) - **[gringotts](https://github.com/aviabird/gringotts)** (2017) - A complete payment library for Elixir and Phoenix Framework
- - (⭐ 316 x 🍴134 x 😁60) - **[tentacat](https://github.com/edgurgel/tentacat)** (2013) - Simple Elixir wrapper for the GitHub API
- - (⭐ 252 x 🍴64 x 😁28) - **[nadia](https://github.com/zhyu/nadia)** (2015) - Telegram Bot API Wrapper written in Elixir
- - (⭐ 229 x 🍴73 x 😁31) - **[ex_twilio](https://github.com/danielberkompas/ex_twilio)** (2015) - Twilio API client for Elixir
- - (⭐ 183 x 🍴43 x 😁12) - **[statix](https://github.com/lexmag/statix)** (2015) - Fast and reliable Elixir client for StatsD-compatible servers
- - (⭐ 174 x 🍴39 x 😁14) - **[ethereumex](https://github.com/exthereum/ethereumex)** (2017) - Elixir JSON-RPC client for the Ethereum blockchain
- - (⭐ 170 x 🍴94 x 😁14) - **[mailgun](https://github.com/chrismccord/mailgun)** (2014) - Elixir Mailgun Client
- - (⭐ 148 x 🍴26 x 😁5) - **[commerce_billing](https://github.com/joshnuss/commerce_billing)** (2014) - A payment processing library for Elixir
- - (⭐ 119 x 🍴52 x 😁21) - **[facebook.ex](https://github.com/mweibel/facebook.ex)** (2014) - Facebook Graph API Wrapper written in Elixir
- - (⭐ 100 x 🍴37 x 😁15) - **[ex_statsd](https://github.com/CargoSense/ex_statsd)** (2014) - StatsD Client for Elixir (EOL: We Recommend Statix)
- - (⭐ 78 x 🍴15 x 😁9) - **[diplomat](https://github.com/peburrows/diplomat)** (2016) - Elixir library for interacting with Google's Cloud Datastore
- - (⭐ 70 x 🍴17 x 😁9) - **[elixtagram](https://github.com/zensavona/elixtagram)** (2015) - :camera: Instagram API client for the Elixir language (elixir-lang)
- - (⭐ 66 x 🍴24 x 😁10) - **[apns4ex](https://github.com/chvanikoff/apns4ex)** (2015) - APNS for Elixir
- - (⭐ 60 x 🍴26 x 😁12) - **[kane](https://github.com/peburrows/kane)** (2016) - Google Pub/Sub client for Elixir
- - (⭐ 60 x 🍴20 x 😁6) - **[qiniu](https://github.com/tony612/qiniu)** (2015) - Qiniu sdk for Elixir
- - (⭐ 57 x 🍴30 x 😁13) - **[sendgrid_elixir](https://github.com/alexgaribay/sendgrid_elixir)** (2016) - Create and send composable emails with Elixir and SendGrid.
- - (⭐ 52 x 🍴12 x 😁7) - **[mandrill-elixir](https://github.com/slogsdon/mandrill-elixir)** (2013) - a Mandrill wrapper for Elixir
- - (⭐ 49 x 🍴24 x 😁14) - **[shopify](https://github.com/nsweeting/shopify)** (2017) - Easily access the Shopify API with Elixir.
- - (⭐ 48 x 🍴27 x 😁9) - **[forcex](https://github.com/jeffweiss/forcex)** (2014) - Elixir library for the Force.com / Salesforce / SFDC REST API
- - (⭐ 48 x 🍴7 x 😁2) - **[elixir-riemann](https://github.com/koudelka/elixir-riemann)** (2015) - A Riemann client for Elixir, surprise!
- - (⭐ 40 x 🍴12 x 😁7) - **[elixir-sparkpost](https://github.com/SparkPost/elixir-sparkpost)** (2015) - SparkPost client library for Elixir https://developers.sparkpost.com
- - (⭐ 39 x 🍴8 x 😁8) - **[dnsimple-elixir](https://github.com/dnsimple/dnsimple-elixir)** (2015) - The DNSimple API client for Elixir.
- - (⭐ 36 x 🍴7 x 😁2) - **[dogstatsd-elixir](https://github.com/adamkittelson/dogstatsd-elixir)** (2014) - An Elixir client for DogStatsd  https://www.datadoghq.com/
- - (⭐ 36 x 🍴5 x 😁2) - **[elixir-ipfs-api](https://github.com/zabirauf/elixir-ipfs-api)** (2015) - The Elixir library that is used to communicate with the IPFS REST endpoint.
- - (⭐ 36 x 🍴3 x 😁1) - **[telephonist](https://github.com/danielberkompas/telephonist)** (2015) - Elixir state machines for Twilio calls
- - (⭐ 35 x 🍴6 x 😁3) - **[GoogleSheets](https://github.com/GrandCru/GoogleSheets)** (2015) - Elixir library for fetching Google Spreadsheet data in CSV format
- - (⭐ 31 x 🍴8 x 😁3) - **[cashier](https://github.com/swelham/cashier)** (2016) - Cashier is an Elixir library that aims to be an easy to use payment gateway, whilst offering the fault tolerance and scalability benefits of being built on top of Erlang/OTP
- - (⭐ 30 x 🍴29 x 😁8) - **[mailchimp](https://github.com/duartejc/mailchimp)** (2015) - A basic Elixir wrapper for version 3 of the MailChimp API
- - (⭐ 29 x 🍴19 x 😁5) - **[elixir-amazon-product-advertising-client](https://github.com/zachgarwood/elixir-amazon-product-advertising-client)** (2014) - An Amazon Product Advertising API client for Elixir
- - (⭐ 29 x 🍴9 x 😁3) - **[ex_twiml](https://github.com/danielberkompas/ex_twiml)** (2015) - Generate TwiML with Elixir
- - (⭐ 27 x 🍴10 x 😁3) - **[elixir-client](https://github.com/bitpay/elixir-client)** (2014) - Elixir core library for connecting to bitpay.com
- - (⭐ 26 x 🍴16 x 😁4) - **[keenex](https://github.com/bryanjos/keenex)** (2014) - Keen.io API Client for Elixir
- - (⭐ 24 x 🍴40 x 😁15) - **[airbrakex](https://github.com/fazibear/airbrakex)** (2015) - Elixir client for the Airbrake service.
- - (⭐ 22 x 🍴10 x 😁6) - **[pay](https://github.com/era/pay)** (2015) - Pay is an Elixir Lib to deal with Paypal and other payment solutions.
- - (⭐ 21 x 🍴14 x 😁5) - **[airbrake-elixir](https://github.com/romul/airbrake-elixir)** (2015) - An Elixir notifier to the Airbrake/Errbit.  System-wide error reporting enriched with the information from Plug and Phoenix channels.
- - (⭐ 21 x 🍴4 x 😁4) - **[extripe](https://github.com/princemaple/extripe)** (2016) - Elixir Stripe API wrapper
- - (⭐ 20 x 🍴8 x 😁1) - **[stripe](https://github.com/SenecaSystems/stripe)** (2014) - Elixir Library wrapping Stripe's API
- - (⭐ 19 x 🍴2 x 😁3) - **[xe](https://github.com/paulodiniz/xe)** (2016) - Realtime currency conversion for Elixir
- - (⭐ 17 x 🍴10 x 😁6) - **[dockerex](https://github.com/hisea/dockerex)** (2016)false
- - (⭐ 17 x 🍴11 x 😁3) - **[paypal](https://github.com/zensavona/paypal)** (2017) - :money_with_wings: PayPal REST API client for the Elixir language (elixir-lang) 
- - (⭐ 16 x 🍴5 x 😁4) - **[exfacebook](https://github.com/oivoodoo/exfacebook)** (2016) - Facebook API
- - (⭐ 15 x 🍴3 x 😁4) - **[exgravatar](https://github.com/scrogson/exgravatar)** (2014) - An Elixir module for generating Gravatar urls.
- - (⭐ 14 x 🍴1 x 😁1) - **[correios-cep-elixir](https://github.com/prodis/correios-cep-elixir)** (2018) - Find Brazilian addresses by zip code, directly from Correios database. No HTML parsers.
- - (⭐ 14 x 🍴1 x 😁1) - **[explay](https://github.com/sheharyarn/explay)** (2016) - Google Play API in Elixir  :computer:
- - (⭐ 13 x 🍴10 x 😁1) - **[docker-elixir](https://github.com/hexedpackets/docker-elixir)** (2015) - Elixir client for the Docker Remote API
- - (⭐ 13 x 🍴6 x 😁1) - **[elixir-dropbox](https://github.com/ammmir/elixir-dropbox)** (2014) - Dropbox Core API client for Elixir
- - (⭐ 13 x 🍴1 x 😁2) - **[sift_ex](https://github.com/C404/sift_ex)** (2016) - Siftscience API Library for Elixir
- - (⭐ 12 x 🍴4 x 😁1) - **[elixir-digitalocean](https://github.com/lukeed/elixir-digitalocean)** (2016) - (WIP) Elixir wrapper for the Digital Ocean API v2.
- - (⭐ 12 x 🍴11 x 😁6) - **[pusher](https://github.com/edgurgel/pusher)** (2013) - Elixir library to access the Pusher REST API.
- - (⭐ 11 x 🍴50) - **[digoc](https://github.com/kevinmontuori/digoc)** (2014) - Digital Ocean API v2 Elixir Client
- - (⭐ 11 x 🍴5 x 😁2) - **[exstagram](https://github.com/arthurcolle/exstagram)** (2015) - Instagram client library for Elixir/Phoenix apps
- - (⭐ 10 x 🍴3 x 😁2) - **[everex](https://github.com/jwarlander/everex)** (2015) - Evernote API client for Elixir
- - (⭐ 10 x 🍴6 x 😁2) - **[ex-telegram-client](https://github.com/ccsteam/ex-telegram-client)** (2016) - An Elixir wrapper which communicates with the Telegram-CLI.
- - (⭐ 9 x 🍴3 x 😁4) - **[balalaika_bear](https://github.com/ayrat555/balalaika_bear)** (2016) - VK API wrapper for Elixir 
- - (⭐ 9 x 🍴2 x 😁1) - **[coinbase-elixir](https://github.com/gregpardo/coinbase-elixir)** (2015) - Coinbase API V1 Client for Elixir
- - (⭐ 8 x 🍴1 x 😁1) - **[bing_translator](https://github.com/ikeikeikeike/bing_translator)** (2015) - A simple Elixir interface to Bing's translation API. 
- - (⭐ 8 x 🍴5 x 😁3) - **[bitmex](https://github.com/nobrick/bitmex)** (2017) - BitMEX client library for Elixir.
- - (⭐ 8 x 🍴4 x 😁4) - **[darkskyx](https://github.com/techgaun/darkskyx)** (2016) - A Darksky.net (formerly forecast.io) weather API client for Elixir
- - (⭐ 8 x 🍴7 x 😁2) - **[elixir_authorizenet](https://github.com/marcelog/elixir_authorizenet)** (2015) - Unofficial Elixir Client for the Authorize.NET API
- - (⭐ 8 x 🍴11 x 😁4) - **[exgrid](https://github.com/bradleyd/exgrid)** (2014) - Elixir library to interact with Sendgrid's API
- - (⭐ 8 x 🍴3 x 😁2) - **[unsplash-elixir](https://github.com/waynehoover/unsplash-elixir)** (2015) - Unsplash API client for Elixir
- - (⭐ 7 x 🍴1 x 😁2) - **[Elixirfm](https://github.com/jrichocean/Elixirfm)** (2016) - Lastfm API wrapper for Elixir
- - (⭐ 7 x 🍴1 x 😁1) - **[gcmex](https://github.com/dukex/gcmex)** (2015) - Google Cloud Messaging client library for elixir
- - (⭐ 7 x 🍴2 x 😁2) - **[Hexoku](https://github.com/JonGretar/Hexoku)** (2014) - Basic API support and MIX tasks for Heroku support
- - (⭐ 7 x 🍴2 x 😁2) - **[link_shrinkex](https://github.com/jonahoffline/link_shrinkex)** (2013) - Elixir library for creating short URLs using Google's URL Shortener API.
- - (⭐ 70 x 😁1) - **[marvel](https://github.com/bryanjos/marvel)** (2015) - CLI and Elixir API Client for the Marvel API 
- - (⭐ 7 x 🍴3 x 😁3) - **[opbeat](https://github.com/teodor-pripoae/opbeat)** (2015) - Opbeat client for Elixir
- - (⭐ 7 x 🍴3 x 😁2) - **[Redtube_Elixir](https://github.com/kkirsche/Redtube_Elixir)** (2015) - Redtube API Wrapper written in Elixir
- - (⭐ 6 x 🍴5 x 😁10) - **[airbax](https://github.com/adjust/airbax)** (2016) - Exception tracking from Elixir to Airbrake
- - (⭐ 6 x 🍴7 x 😁1) - **[exjira](https://github.com/mattweldon/exjira)** (2015) - JIRA client library for Elixir
- - (⭐ 6 x 🍴4 x 😁3) - **[forecast_io](https://github.com/r-icarus/forecast_io)** (2014) - Simple wrapper for Forecast.IO API
- - (⭐ 6 x 🍴2 x 😁2) - **[mixpanel_ex](https://github.com/michihuber/mixpanel_ex)** (2014) - An Elixir client for the Mixpanel HTTP API
- - (⭐ 6 x 🍴4 x 😁2) - **[pagexduty](https://github.com/ride/pagexduty)** (2015) - Elixir client for PagerDuty
- - (⭐ 6 x 🍴2 x 😁1) - **[pocketex](https://github.com/essenciary/pocketex)** (2015)false
- - (⭐ 60 x 😁1) - **[qiita_ex](https://github.com/ma2gedev/qiita_ex)** (2014) - Qiita API v2 Interface for Elixir
- - (⭐ 6 x 🍴1 x 😁1) - **[random_user](https://github.com/katgironpe/random_user)** (2016) - Random user generator is an Elixir client for randomuser.me API
- - (⭐ 5 x 🍴6 x 😁1) - **[elixir-fluent-client](https://github.com/trustatom-oss/elixir-fluent-client)** (2014) - fluentd client for Elixir
- - (⭐ 5 x 🍴6 x 😁5) - **[m2x-elixir](https://github.com/attm2x/m2x-elixir)** (2015) - AT&T M2X Elixir Library
- - (⭐ 4 x 🍴4 x 😁3) - **[currently](https://github.com/chatgris/currently)** (2013) - currently is a tool to display cards currently assigns on Trello.
- - (⭐ 4 x 🍴5 x 😁2) - **[parse_elixir_client](https://github.com/elixircnx/parse_elixir_client)** (2014) - An Elixir client for the parse.com REST API
- - (⭐ 4 x 🍴2 x 😁2) - **[particle-elixir](https://github.com/jeffutter/particle-elixir)** (2016) - An Elixir Client for the Particle Cloud API
- - (⭐ 4 x 🍴2 x 😁2) - **[reddhl](https://github.com/MonkeyIsNull/reddhl)** (2015) - An headline and link puller for Reddit and its various subreddits
- - (⭐ 4 x 🍴3 x 😁2) - **[simple_app_reporter_ex](https://github.com/KazuCocoa/simple_app_reporter_ex)** (2015) - Simple reporting App reviews library
- - (⭐ 3 x 🍴2 x 😁1) - **[Elixir-Cleverbot](https://github.com/BlakeWilliams/Elixir-Cleverbot)** (2014) - Simple implementation of the Cleverbot API in Elixir
- - (⭐ 3 x 🍴1 x 😁2) - **[exdesk](https://github.com/deadkarma/exdesk)** (2015) - Elixir library for accessing the Desk.com API
- - (⭐ 3 x 🍴10) - **[feedlex](https://github.com/essenciary/feedlex)** (2015) - Feedly client for Elixir
- - (⭐ 30 x 😁1) - **[govtrack-elixir](https://github.com/walterbm/govtrack-elixir)** (2016) - Simple Elixir package for the govtrack.us API
- - (⭐ 3 x 🍴2 x 😁2) - **[mixpanel_data_client](https://github.com/jeregrine/mixpanel_data_client)** (2015)false
- - (⭐ 3 x 🍴5 x 😁2) - **[omise-elixir](https://github.com/teerawat1992/omise-elixir)** (2015) - Omise Elixir Library
- - (⭐ 30 x 😁1) - **[pathway](https://github.com/novabyte/pathway)** (2014) - An Erlang/Elixir client library for the Trak.io REST API.
- - (⭐ 3 x 🍴1 x 😁2) - **[reap](https://github.com/Raynes/reap)** (2013) - A refheap API client library in Elixir.
- - (⭐ 30 x 😁1) - **[simplex](https://github.com/adamkittelson/simplex)** (2014) - An Elixir library for interacting with the Amazon SimpleDB API.
- - (⭐ 2 x 🍴1 x 😁1) - **[asanaficator](https://github.com/trenpixster/asanaficator)** (2015) - An elixir wrapper for Asana
- - (⭐ 20 x 😁1) - **[balanced-elixir](https://github.com/bryanjos/balanced-elixir)** (2014) - Balanced Api Client for Elixir
- - (⭐ 2 x 🍴4 x 😁3) - **[elixir-bandwidth](https://github.com/bandwidthcom/elixir-bandwidth)** (2015) - An Elixir client library for the Bandwidth Voice and Messaging APIs
- - (⭐ 20 x 😁1) - **[mexpanel](https://github.com/blendmedia/mexpanel)** (2018)false
- - (⭐ 20 x 😁1) - **[semver](https://github.com/lee-dohm/semver)** (2015) - A semver library for Elixir
- - (⭐ 20 x 😁1) - **[xend](https://github.com/saulecabrera/xend)** (2017) - Simple Elixir wrapper for Facebook's Send API
- - (⭐ 10 x 😁1) - **[dpd_client](https://github.com/knewter/dpd_client)** (2013)false
- - (⭐ 10 x 😁1) - **[dublin-bus-api](https://github.com/carlo-colombo/dublin-bus-api)** (2015) - Dublin Bus API
- - (⭐ 1 x 🍴1 x 😁1) - **[edgarex](https://github.com/rozap/edgarex)** (2015) - elixir interface for fetching SEC filings from EDGAR
- - (⭐ 100) - **[everyoneapi](https://github.com/knewter/everyoneapi)** (2015)false
- - (⭐ 100) - **[exgenius](https://github.com/jeffweiss/exgenius)** (2014) - Elixir library for the (undocumented) Rap Genius (and also Rock, Tech, Pop, Country, etc) API
- - (⭐ 1 x 🍴1 x 😁1) - **[exlingr](https://github.com/mtwtkman/exlingr)** (2014) - Lingr client module
- - (⭐ 1 x 🍴1 x 😁2) - **[exurban](https://github.com/oscar-lopez/exurban)** (2014) - Elixir wrapper for UrbanAirship API.
- - (⭐ 10 x 😁1) - **[ParsEx](https://github.com/maarek/ParsEx)** (2014)false
- - (⭐ 1 x 🍴1 x 😁2) - **[rstwitter](https://github.com/radzserg/rstwitter)** (2018) - Elixir Twitter Client
- - (⭐ 10 x 😁1) - **[traitify_elixir](https://github.com/traitify/traitify_elixir)** (2014) - An Elixir client library for the Traitify API
- - (⭐ 10 x 😁1) - **[ui_faces](https://github.com/katgironpe/ui_faces)** (2016) - UIFaces API client for Elixir applications.
- - (⭐ 10 x 😁1) - **[elixir-vultr](https://github.com/avitex/elixir-vultr)** (2017) - Simple wrapper for the Vultr API in Elixir
- - (⭐ 10 x 😁1) - **[zanox](https://github.com/rafaelss/zanox)** (2015) - Zanox API
- - (⭐ 0 x 🍴1 x 😁2) - **[ex_assembla_api](https://github.com/Assembla/ex_assembla_api)** (2015) - Assembla API client for Elixir
- - (⭐ 00 x 😁1) - **[ex_codeship](https://github.com/securingsincity/ex_codeship)** (2016)false
- - https://github.com/Brightergy/ex_geckofalse
- - (⭐ 00 x 😁1) - **[honeywell-elixir](https://github.com/jeffutter/honeywell-elixir)** (2016) - An Elixir Client for the Honeywell Developer API
- - (⭐ 00 x 😁1) - **[mmExchangeRate](https://github.com/Arkar-Aung/mmExchangeRate)** (2015) - Just a simple myanmar exchange rate checker and caculator based on Central Bank of Myanmar API with elixir
- - https://github.com/peatio/peatio-client-elixirfalse
- - (⭐ 00 x 😁1) - **[elixir-tagplay](https://github.com/tagplay/elixir-tagplay)** (2015) - Elixir client for Tagplay API
-
-#### Github > Elixir > Translations and Internationalizations
-
-[💯 **https://metaawesome.io/github/elixir/translations-and-internationalizations** ](https://metaawesome.io/github/elixir/translations-and-internationalizations)
-
- - (⭐ 229 x 🍴37 x 😁23) - **[gettext](https://github.com/elixir-lang/gettext)** (2015) - Internationalization and localization support for Elixir.
- - (⭐ 141 x 🍴5 x 😁3) - **[trans](https://github.com/belaustegui/trans)** (2016) - Embedded translations for Elixir
- - (⭐ 131 x 🍴15 x 😁6) - **[linguist](https://github.com/chrismccord/linguist)** (2014) - Elixir Internationalization library
- - (⭐ 9 x 🍴1 x 😁2) - **[exkanji](https://github.com/ikeikeikeike/exkanji)** (2016) - A Elixir library for translating between hiragana, katakana, romaji, kanji and sound. It uses Mecab.
- - (⭐ 70 x 😁1) - **[exromaji](https://github.com/ikeikeikeike/exromaji)** (2016) - A Elixir library for translating between hiragana, katakana, romaji and sound.
- - (⭐ 30 x 😁1) - **[getatrex](https://github.com/alexfilatov/getatrex)** (2018) - Gettext Automatic Translator in Elixir
- - (⭐ 10 x 😁1) - **[ParabaikElixirConverter](https://github.com/Arkar-Aung/ParabaikElixirConverter)** (2015) - ParabaikElixirConverter is just a Elixir version of Parabaik converter
- - https://github.com/exbugs-elixir/ecto_gettextfalse
-
-#### Github > Elixir > Utilities
-
-[💯 **https://metaawesome.io/github/elixir/utilities** ](https://metaawesome.io/github/elixir/utilities)
-
- - (⭐ 492 x 🍴32 x 😁12) - **[erlang-history](https://github.com/ferd/erlang-history)** (2011) - Hacks to add shell history to Erlang's shell
- - (⭐ 241 x 🍴9 x 😁5) - **[quark](https://github.com/robot-overlord/quark)** (2015) - Common combinators for Elixir
- - (⭐ 230 x 🍴19 x 😁15) - **[ElixirRetry](https://github.com/safwank/ElixirRetry)** (2014) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays
- - (⭐ 194 x 🍴82 x 😁25) - **[erlware_commons](https://github.com/erlware/erlware_commons)** (2011) - Erlware Commons is an Erlware project focused on all aspects of reusable Erlang components.
- - (⭐ 123 x 🍴35 x 😁25) - **[crutches](https://github.com/mykewould/crutches)** (2015) - Some Elixir support
- - (⭐ 108 x 🍴3 x 😁4) - **[async_with](https://github.com/fertapric/async_with)** (2017) - The asynchronous version of Elixir's "with", resolving the dependency graph and executing the clauses in the most performant way possible!
- - (⭐ 80 x 🍴16 x 😁8) - **[sitemap](https://github.com/ikeikeikeike/sitemap)** (2016) - Sitemap is the easiest way to generate Sitemaps in Elixir.
- - (⭐ 74 x 🍴5 x 😁4) - **[plasm](https://github.com/facto/plasm)** (2016) - Ecto's composable query multitool (.count, .random, .earliest, .latest, .find, .at, .on, etc.)
- - (⭐ 55 x 🍴8 x 😁4) - **[erlsh](https://github.com/proger/erlsh)** (2013) - Erlang shell tools, maintained under synrc/sh
- - (⭐ 50 x 🍴3 x 😁2) - **[dress](https://github.com/veelenga/dress)** (2016) - :dress: Dress up your stdout
- - (⭐ 50 x 🍴10 x 😁5) - **[elixir_pubsub](https://github.com/simonewebdesign/elixir_pubsub)** (2015) - :droplet: Publish/Subscribe utility module
- - (⭐ 30 x 🍴4 x 😁3) - **[mnemonix](https://github.com/christhekeele/mnemonix)** (2016) - A unified interface to Elixir and Erlang key/value stores.
- - (⭐ 14 x 🍴1 x 😁3) - **[SipsDownloader](https://github.com/DavsX/SipsDownloader)** (2015) - Utility to download Elixir Sips screencast videos written in Elixir (subscription to Elixir Sips required)
- - (⭐ 10 x 🍴2 x 😁2) - **[ar2ecto](https://github.com/aforward/ar2ecto)** (2015) - Migrate your active record migrations to ecto compatible migrations
- - (⭐ 8 x 🍴1 x 😁1) - **[ExVertx](https://github.com/PharosProduction/ExVertx)** (2019) - Connector to Vert.x event bus via TCP Event Bus Bridge
- - (⭐ 60 x 😁1) - **[deppie](https://github.com/whitfin/deppie)** (2016) - Elixir's coolest deprecation logger
- - (⭐ 6 x 🍴2 x 😁3) - **[mandrake](https://github.com/mbasso/mandrake)** (2015) - Facility, Prosperity and Maintainability.
- - (⭐ 40 x 😁1) - **[dot-notes-elixir](https://github.com/whitfin/dot-notes-elixir)** (2016) - Simple dot/bracket notation parsing/conversion for Maps/Lists
- - (⭐ 20 x 😁1) - **[global](https://github.com/mgwidmann/global)** (2015) - Wrapper of the Erlang :global module
- - (⭐ 10 x 😁1) - **[ex_progress](https://github.com/acj/ex_progress)** (2018) - A library for tracking progress across many tasks and sub-tasks
- - (⭐ 1 x 🍴1 x 😁1) - **[FitEx](https://github.com/timdeputter/FitEx)** (2015) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
- - (⭐ 0 x 🍴2 x 😁2) - **[exjprop](https://github.com/stocks29/exjprop)** (2015) - Elixir library for reading Java properties files from various sources.
-
-#### Github > Elixir > Validations
-
-[💯 **https://metaawesome.io/github/elixir/validations** ](https://metaawesome.io/github/elixir/validations)
-
- - (⭐ 425 x 🍴52 x 😁23) - **[vex](https://github.com/CargoSense/vex)** (2014) - Data Validation for Elixir
- - (⭐ 130 x 🍴9 x 😁6) - **[exop](https://github.com/madeinussr/exop)** (2016) - Elixir library that provides a macros which allow you to encapsulate business logic and validate incoming parameters with predefined contract.
- - (⭐ 86 x 🍴6 x 😁4) - **[skooma](https://github.com/bcoop713/skooma)** (2017) - Elixir data validation library
- - (⭐ 45 x 🍴11 x 😁3) - **[voorhees](https://github.com/danmcclain/voorhees)** (2015)false
- - (⭐ 21 x 🍴2 x 😁4) - **[optimal](https://github.com/albert-io/optimal)** (2018) - A schema based keyword list option validator.
- - (⭐ 13 x 🍴1 x 😁1) - **[is](https://github.com/bydooweedoo/is)** (2018) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
- - (⭐ 12 x 🍴4 x 😁3) - **[bankster](https://github.com/railsmechanic/bankster)** (2016) - An IBAN account numbers and BIC validation tool for Elixir.
- - (⭐ 10 x 🍴2 x 😁1) - **[jeaux](https://github.com/zbarnes757/jeaux)** (2016) - A module for validating http params and queries
- - (⭐ 7 x 🍴2 x 😁1) - **[shape](https://github.com/prio/shape)** (2015) - A data validation library for Elixir based on Prismatic Scheme
- - (⭐ 70 x 😁1) - **[uk_postcode](https://github.com/KushalP/uk_postcode)** (2015) - UK postcode parsing and validation for Elixir
- - (⭐ 60 x 😁1) - **[ex_gtin](https://github.com/kickinespresso/ex_gtin)** (2017) - Elixir GTIN & UPC Generation and Validation Library
- - (⭐ 10 x 😁1) - **[ex_nric](https://github.com/falti/ex_nric)** (2019) - Validation for National Registration Identity Card numbers (NRIC)
-
-#### Github > Elixir > Version Control
-
-[💯 **https://metaawesome.io/github/elixir/version-control** ](https://metaawesome.io/github/elixir/version-control)
-
- - (⭐ 48 x 🍴3 x 😁3) - **[gitex](https://github.com/awetzel/gitex)** (2015) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics
-
-#### Github > Elixir > Video
-
-[💯 **https://metaawesome.io/github/elixir/video** ](https://metaawesome.io/github/elixir/video)
-
- - (⭐ 91 x 🍴17 x 😁3) - **[ffmpex](https://github.com/talklittle/ffmpex)** (2016) - Elixir wrapper for FFmpeg command line interface
- - (⭐ 60 x 😁1) - **[silent_video](https://github.com/talklittle/silent_video)** (2016) - Elixir library to convert GIFs and videos to silent videos.
-
-#### Github > Elixir > XML
-
-[💯 **https://metaawesome.io/github/elixir/xml** ](https://metaawesome.io/github/elixir/xml)
-
- - (⭐ 245 x 🍴46 x 😁22) - **[sweet_xml](https://github.com/awetzel/sweet_xml)** (2014)false
- - (⭐ 222 x 🍴95 x 😁17) - **[erlsom](https://github.com/willemdj/erlsom)** (2009) - XML parser for Erlang
- - (⭐ 153 x 🍴7 x 😁3) - **[meeseeks](https://github.com/mischov/meeseeks)** (2017) - An Elixir library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
- - (⭐ 101 x 🍴25 x 😁14) - **[xml_builder](https://github.com/joshnuss/xml_builder)** (2014) - Elixir library for generating XML
- - (⭐ 98 x 🍴36 x 😁14) - **[fast_xml](https://github.com/processone/fast_xml)** (2015) - Fast Expat based Erlang XML parsing library
- - (⭐ 98 x 🍴6 x 😁3) - **[saxy](https://github.com/qcam/saxy)** (2017) - A fast, easy-to-use and XML 1.0 compliant XML SAX parser in Elixir
- - (⭐ 39 x 🍴14 x 😁7) - **[Quinn](https://github.com/nhu313/Quinn)** (2014) - XML parser for Elixir
- - (⭐ 25 x 🍴9 x 😁7) - **[elixir-xml_rpc](https://github.com/ewildgoose/elixir-xml_rpc)** (2015) - Encode and decode elixir terms to XML-RPC parameters
- - (⭐ 19 x 🍴4 x 😁3) - **[exml](https://github.com/expelledboy/exml)** (2015) - Most simple Elixir wrapper for xmerl xpath
- - (⭐ 9 x 🍴2 x 😁3) - **[exmerl](https://github.com/pwoolcoc/exmerl)** (2014) - Elixir wrapper for xmerl_*
- - (⭐ 3 x 🍴2 x 😁1) - **[exoml](https://github.com/Overbryd/exoml)** (2017) - A module to decode/encode xml into a tree structure
-
-#### Github > Elixir > YAML
-
-[💯 **https://metaawesome.io/github/elixir/yaml** ](https://metaawesome.io/github/elixir/yaml)
-
- - (⭐ 150 x 🍴38 x 😁8) - **[yamerl](https://github.com/yakaz/yamerl)** (2012) - YAML 1.2 and JSON parser in pure Erlang
- - (⭐ 88 x 🍴24 x 😁15) - **[yaml-elixir](https://github.com/KamilLelonek/yaml-elixir)** (2015) - Yaml parser for Elixir based on native Erlang implementation
- - (⭐ 30 x 🍴13 x 😁8) - **[fast_yaml](https://github.com/processone/fast_yaml)** (2015) - Fast YAML native library for Erlang / Elixir
- - (⭐ 6 x 🍴1 x 😁2) - **[yomel](https://github.com/Joe-noh/yomel)** (2015) - 読める、読めるぞぉ!!
-
-#### Github > Elixir > Books
-
-[💯 **https://metaawesome.io/github/elixir/books** ](https://metaawesome.io/github/elixir/books)
-
- - (⭐ 87 x 🍴1 x 😁1) - **[elixir-getting-started](https://github.com/potatogopher/elixir-getting-started)** (2016) - PDF, MOBI, EPUB documents for Elixir's Getting Started tutorial.
-
-#### Github > Elixir > Cheat Sheets
-
-[💯 **https://metaawesome.io/github/elixir/cheat-sheets** ](https://metaawesome.io/github/elixir/cheat-sheets)
-
- - https://github.com/benjamintanweihao/elixir-cheatsheets/false
-
-#### Github > Elixir > Editors
-
-[💯 **https://metaawesome.io/github/elixir/editors** ](https://metaawesome.io/github/elixir/editors)
-
- - (⭐ 995 x 🍴132 x 😁59) - **[vim-elixir](https://github.com/elixir-lang/vim-elixir)** (2012) - Vim configuration files for Elixir
- - (⭐ 845 x 🍴92 x 😁31) - **[alchemist.el](https://github.com/tonini/alchemist.el)** (2014) - Elixir Tooling Integration Into Emacs
- - (⭐ 705 x 🍴54 x 😁12) - **[elixir-ls](https://github.com/JakeBecker/elixir-ls)** (2017) - A frontend-independent IDE "smartness" server for Elixir. Implements the JSON-based "Language Server Protocol" standard and provides debugger support via VS Code's debugger protocol.
- - (⭐ 565 x 🍴33 x 😁16) - **[alchemist.vim](https://github.com/slashmili/alchemist.vim)** (2016) - Elixir Integration Into Vim
- - (⭐ 413 x 🍴29 x 😁6) - **[atom-elixir](https://github.com/msaraiva/atom-elixir)** (2016) - An Atom package for Elixir
- - (⭐ 369 x 🍴28 x 😁10) - **[ElixirSublime](https://github.com/vishnevskiy/ElixirSublime)** (2014) - Elixir plugin for SublimeText 3 providing code completion and linting.
- - (⭐ 317 x 🍴41 x 😁11) - **[vscode-elixir-ls](https://github.com/JakeBecker/vscode-elixir-ls)** (2017) - Elixir language support and debugger for VS Code, powered by ElixirLS.
- - (⭐ 238 x 🍴63 x 😁46) - **[elixir-tmbundle](https://github.com/elixir-lang/elixir-tmbundle)** (2011) - A TextMate and Sublime Text Bundle for the Elixir programming language
- - (⭐ 188 x 🍴13 x 😁6) - **[alchemist-server](https://github.com/tonini/alchemist-server)** (2015) - Editor/IDE independent background server to inform about Elixir mix projects
- - (⭐ 135 x 🍴7 x 😁5) - **[vim-mix-format](https://github.com/mhinz/vim-mix-format)** (2017) - Vim integration for the Elixir formatter.
- - (⭐ 21 x 🍴1 x 😁2) - **[nvim](https://github.com/dm1try/nvim)** (2016) - write plugins for Neovim using Elixir
- - (⭐ 15 x 🍴4 x 😁2) - **[atom-iex](https://github.com/indiejames/atom-iex)** (2015) - Elixir iex REPL in an Atom tab.
- - (⭐ 8 x 🍴3 x 😁2) - **[elixir_generator.vim](https://github.com/jadercorrea/elixir_generator.vim)** (2015) - Vim plugin to generate elixir method and a test
- - (⭐ 80 x 😁1) - **[ilexir](https://github.com/dm1try/ilexir)** (2016) - Elixir + Neovim = :couple:
- - (⭐ 5 x 🍴4 x 😁1) - **[elixir-udl-npp](https://github.com/Hades32/elixir-udl-npp)** (2014) - Elixir syntax highlighting for Notepad++
- - (⭐ 5 x 🍴1 x 😁1) - **[phoenix-snippets](https://github.com/phoenixframework-Brazil/phoenix-snippets)** (2015)false
- - (⭐ 4 x 🍴1 x 😁14) - **[vscode-elixir](https://github.com/mat-mcloughlin/vscode-elixir)** (2017) - Elixir support for VSCode https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir
- - (⭐ 30 x 😁1) - **[vim-ex_test](https://github.com/moofish32/vim-ex_test)** (2015) - Run Elixir tests inside VIM
- - (⭐ 10 x 😁2) - **[intellij_elixir](https://github.com/KronicDeth/intellij_elixir)** (2014) - Elixir helpers for intellij-elixir
-
-#### Github > Elixir > Other Awesome Lists
-
-[💯 **https://metaawesome.io/github/elixir/other-awesome-lists** ](https://metaawesome.io/github/elixir/other-awesome-lists)
-
- - (⭐ 5,840 x 🍴513 x 😁1) - **[lists#lists-of-lists](https://github.com/jnv/lists#lists-of-lists)** (2013) - The definitive list of lists (of lists) curated on GitHub
- - (⭐ 1,093 x 🍴197 x 😁31) - **[erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks)** (2013) - All about erlang programming language [powerd by community]
- - (⭐ 1,063 x 🍴162 x 😁27) - **[awesome-erlang](https://github.com/drobakowski/awesome-erlang)** (2014) - A curated list of awesome Erlang libraries, resources and shiny things.
- - (⭐ 274 x 🍴14 x 😁3) - **[awesome-elixir-cqrs](https://github.com/slashdotdash/awesome-elixir-cqrs)** (2017) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) resources.
-
-#### Github > Elixir > Reading
-
-[💯 **https://metaawesome.io/github/elixir/reading** ](https://metaawesome.io/github/elixir/reading)
-
- - (⭐ 331 x 🍴10 x 😁3) - **[a-little-elixir-goes-a-long-way](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)** (2015) - The Little Schemer in Elixir.
- - (⭐ 329 x 🍴189 x 😁139) - **[xelixir](https://github.com/exercism/xelixir)** (2014) - Exercism exercises in Elixir.
- - (⭐ 268 x 🍴18 x 😁6) - **[functional-programming](https://github.com/kblake/functional-programming)** (2016) - Organize material to teach functional programming using Elixir
- - (⭐ 98 x 🍴11 x 😁2) - **[elixir-tab](https://github.com/efexen/elixir-tab)** (2017) - Little bit of Elixir in every new tab
-
-#### Github > Elixir > Styleguides
-
-[💯 **https://metaawesome.io/github/elixir/styleguides** ](https://metaawesome.io/github/elixir/styleguides)
-
- - (⭐ 3,106 x 🍴236 x 😁40) - **[elixir_style_guide](https://github.com/christopheradams/elixir_style_guide)** (2013) - A community driven style guide for Elixir
- - (⭐ 411 x 🍴31 x 😁11) - **[elixir-style-guide](https://github.com/lexmag/elixir-style-guide)** (2015) - An opinionated Elixir style guide
- - (⭐ 307 x 🍴21 x 😁8) - **[elixir-style-guide](https://github.com/rrrene/elixir-style-guide)** (2015) - Style Guide for the Elixir language, implemented by Credo
-
-#### Github > Elixir > Websites
-
-[💯 **https://metaawesome.io/github/elixir/websites** ](https://metaawesome.io/github/elixir/websites)
-
- - (⭐ 15,543 x 🍴2,220 x 😁409) - **[elixir](https://github.com/elixir-lang/elixir)** (2011) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
- - (⭐ 2,584 x 🍴367 x 😁19) - **[30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir)** (2013) - A walk through the Elixir language in 30 exercises.
- - (⭐ 203 x 🍴62 x 😁16) - **[elixir-china](https://github.com/jw2013/elixir-china)** (2014) - 这个项目因为时间原因已经暂停维护
- - https://github.com/elixir-lang/elixir/wikifalse
-
+ - https://github.com/devtools-html/debugger.htmlfalse
+ - https://github.com/withspectrum/spectrumfalse
+ - https://github.com/mattermost/mattermost-webappfalse
+ - https://github.com/gpbl/isomorphic500false
+ - https://github.com/andrewngu/sound-reduxfalse
+ - https://github.com/afonsopacifer/react-pomodorofalse
+ - https://github.com/1ven/dofalse
+ - https://github.com/rwieruch/favesound-reduxfalse
+ - https://github.com/rwieruch/favesound-mobxfalse
+ - https://github.com/captbaritone/winamp2-jsfalse
+ - https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-plannerfalse
+ - https://github.com/reduction-admin/react-reductionfalse
+ - https://github.com/tiarebalbi/flux-main-samplefalse
+ - https://github.com/coreui/coreui-free-react-admin-templatefalse
+ - https://github.com/jeffersonRibeiro/react-shopping-cartfalse
+ - https://github.com/clintonwoo/hackernews-react-graphqlfalse
+ - https://github.com/devtools-html/debugger.htmlfalse
+ - https://github.com/withspectrum/spectrumfalse
+ - https://github.com/mattermost/mattermost-webappfalse

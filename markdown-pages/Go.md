@@ -1,510 +1,68 @@
-### Github > Elm 
-
- - [Examples](awesome-1.md#github--elm--examples)
- - [Learn](awesome-1.md#github--elm--learn)
- - [Libraries](awesome-1.md#github--elm--libraries)
- - [Tools](awesome-1.md#github--elm--tools)
- - [Editor plugins](awesome-1.md#github--elm--editor-plugins)
- - [Package managers](awesome-1.md#github--elm--package-managers)
- - [Boilerplates](awesome-1.md#github--elm--boilerplates)
- - [Misc](awesome-1.md#github--elm--misc)
-
-#### Github > Elm > Examples
-
-[💯 **https://metaawesome.io/github/elm/examples** ](https://metaawesome.io/github/elm/examples)
-
- - (⭐ 1,114 x 🍴323 x 😁10) - **[elm-todomvc](https://github.com/evancz/elm-todomvc)** (2014) - The TodoMVC app written in Elm, nice example for beginners.
- - (⭐ 396 x 🍴62 x 😁1) - **[elm-flatris](https://github.com/w0rm/elm-flatris)** (2015) - A Flatris clone in Elm language
- - (⭐ 253 x 🍴20 x 😁4) - **[kanelm](https://github.com/huytd/kanelm)** (2017) - Kanban board built with Elm
- - (⭐ 226 x 🍴14 x 😁2) - **[gipher](https://github.com/matthieu-beteille/gipher)** (2016) - tinder like app for gifs built with elm and firebase
- - (⭐ 193 x 🍴17 x 😁5) - **[elm-examples](https://github.com/halfzebra/elm-examples)** (2016) - :book: Practical examples in Elm
- - (⭐ 108 x 🍴12 x 😁3) - **[vessel](https://github.com/slawrence/vessel)** (2014) - A "tunnel" game written in Elm!
- - (⭐ 104 x 🍴19 x 😁2) - **[elm-todo-rest-api](https://github.com/andrewsuzuki/elm-todo-rest-api)** (2016) - Modular, heavily-documented Elm todo app with a json rest api
- - (⭐ 89 x 🍴8 x 😁3) - **[elm-narrative-engine](https://github.com/jschomay/elm-narrative-engine)** (2016) - A framework for building interactive fiction style stories in Elm.  More information and sample stories at http://elmnarrativeengine.com/
- - (⭐ 86 x 🍴16 x 😁3) - **[Elmctron](https://github.com/nirgn975/Elmctron)** (2016) - Elm meets Electron
- - (⭐ 60 x 🍴12 x 😁4) - **[todomvc-elmfire](https://github.com/ThomasWeiser/todomvc-elmfire)** (2015) - TodoMVC+Firebase  in  Elm+ElmFire
- - (⭐ 59 x 🍴3 x 😁1) - **[elm-architecture-android](https://github.com/glung/elm-architecture-android)** (2015) - An example of the ELM architecture on Android using Kotlin with Anko
- - (⭐ 52 x 🍴4 x 😁1) - **[sliding-puzzle](https://github.com/moroshko/sliding-puzzle)** (2015) - Sliding puzzle built in Elm
- - (⭐ 52 x 🍴2 x 😁2) - **[elm-ement](https://github.com/ohanhi/elm-ement)** (2015) - The "Hello world" of Elm + Web Components.
- - (⭐ 52 x 🍴5 x 😁1) - **[elm-phoenix-example](https://github.com/ronanyeah/elm-phoenix-example)** (2017) - minimum elm + phoenix setup, with webpack
- - (⭐ 49 x 🍴3 x 😁1) - **[elm-spotify-mapper](https://github.com/FidelisClayton/elm-spotify-mapper)** (2017) - An app built with Elm to explore new artists using the Spotify api.
- - (⭐ 42 x 🍴3 x 😁1) - **[seeds-game](https://github.com/andrewMacmurray/seeds-game)** (2017) - Collect seeds, save the world
- - (⭐ 40 x 🍴12 x 😁3) - **[elm-joust](https://github.com/stefankreitmayer/elm-joust)** (2016) - Action game for two players - written in Elm
- - (⭐ 19 x 🍴1 x 😁1) - **[elm-hangman](https://github.com/puemos/elm-hangman)** (2016) - The game of Hangman written in Elm.
- - (⭐ 17 x 🍴1 x 😁1) - **[django-elm-auth-with-jwt](https://github.com/apirobot/django-elm-auth-with-jwt)** (2017)false
- - (⭐ 15 x 🍴3 x 😁1) - **[Elmstagram](https://github.com/bkbooth/Elmstagram)** (2016) - A basic UI-clone of Instagram using Elm
- - (⭐ 14 x 🍴1 x 😁1) - **[pokelmon](https://github.com/brenopanzolini/pokelmon)** (2017) - Elm project consuming PokéAPI.
- - (⭐ 2 x 🍴1 x 😁1) - **[bitcoin-br-chrome-extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension)** (2017) - Chrome extension in elm that shows the latest currency bitcoins from Brazilian exchanges
- - https://github.com/skrypte/elm-hn-pwafalse
-
-#### Github > Elm > Learn
-
-[💯 **https://metaawesome.io/github/elm/learn** ](https://metaawesome.io/github/elm/learn)
-
- - (⭐ 4,031 x 🍴767 x 😁25) - **[elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial)** (2015) - How to create modular Elm code that scales nicely with your app
- - (⭐ 892 x 🍴42 x 😁10) - **[elm-cheat-sheet](https://github.com/izdi/elm-cheat-sheet)** (2016) - An overview of Elm syntax and features
- - (⭐ 214 x 🍴55 x 😁9) - **[elm-koans](https://github.com/robertjlooby/elm-koans)** (2015) - A set of koans for learning Elm
- - (⭐ 169 x 🍴14 x 😁4) - **[elm-serverless](https://github.com/ktonon/elm-serverless)** (2017) - Deploy an elm HTTP API to AWS Lambda using serverless
- - (⭐ 141 x 🍴6 x 😁1) - **[elm-ios](https://github.com/pzp1997/elm-ios)** (2017) - Bringing the wonders of Elm to the iOS platform
- - (⭐ 61 x 🍴3 x 😁1) - **[elm-for-web-developers](https://github.com/eeue56/elm-for-web-developers)** (2015) - A collection of tips for people using Elm from a web-dev background
- - (⭐ 140 x 😁1) - **[elmish-wasm](https://github.com/Chadtech/elmish-wasm)** (2017) - Experiment to compile something Elm-ish to Wasm
- - https://github.com/NoRedInk/take-home/wiki/Writing-Nativefalse
- - https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.mdfalse
- - https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9dbfalse
- - https://gist.github.com/staltz/868e7e9bc2a7b8c1f754false
- - https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecturefalse
-
-#### Github > Elm > Libraries
-
-[💯 **https://metaawesome.io/github/elm/libraries** ](https://metaawesome.io/github/elm/libraries)
-
- - (⭐ 2,206 x 🍴314 x 😁92) - **[core](https://github.com/elm/core)** (2014) - Elm's core libraries
- - (⭐ 790 x 🍴34 x 😁11) - **[elm-ui](https://github.com/gdotdesign/elm-ui)** (2015) - UI library for making web applications with Elm
- - (⭐ 466 x 🍴56 x 😁13) - **[style-elements](https://github.com/mdgriffith/style-elements)** (2016) - Create styles that don't mysteriously break!
- - (⭐ 378 x 🍴35 x 😁15) - **[elm-graphql](https://github.com/dillonkearns/elm-graphql)** (2017) - Autogenerate type-safe GraphQL queries in Elm.
- - (⭐ 330 x 🍴56 x 😁20) - **[elm-bootstrap](https://github.com/rundis/elm-bootstrap)** (2016) - Responsive and reliable web apps with Elm and Twitter Bootstrap
- - (⭐ 317 x 🍴76 x 😁35) - **[html](https://github.com/elm/html)** (2016) - Use HTML in Elm!
- - (⭐ 228 x 🍴33 x 😁50) - **[elm-mdc](https://github.com/aforemny/elm-mdc)** (2017) - Elm port of the Material Components for the Web CSS/JS library
- - (⭐ 211 x 🍴14 x 😁4) - **[elmfire](https://github.com/ThomasWeiser/elmfire)** (2015) - Firebase Bindings for Elm
- - (⭐ 163 x 🍴17 x 😁18) - **[elm-http-builder](https://github.com/lukewestby/elm-http-builder)** (2016) - elm-http-builder
- - (⭐ 145 x 🍴11 x 😁3) - **[elm-vega](https://github.com/gicentre/elm-vega)** (2017) - Elm - Vega Integration for functional declarative visualization
- - (⭐ 120 x 🍴14 x 😁47) - **[test](https://github.com/elm-explorations/test)** (2018) - Write unit and fuzz tests for Elm code.
- - (⭐ 118 x 🍴39 x 😁5) - **[http](https://github.com/elm/http)** (2016) - Make HTTP requests in Elm (with rate limiting or progress tracking)
- - (⭐ 101 x 🍴9 x 😁2) - **[elm-router](https://github.com/TheSeamau5/elm-router)** (2015) - Easy routing in Elm
- - (⭐ 56 x 🍴16 x 😁9) - **[elm-console](https://github.com/laszlopandy/elm-console)** (2015) - Elm library to read and write to the console in Node.
- - (⭐ 18 x 🍴2 x 😁8) - **[lazy](https://github.com/elm-lang/lazy)** (2016) - Lazy Evaluation in Elm
-
-#### Github > Elm > Tools
-
-[💯 **https://metaawesome.io/github/elm/tools** ](https://metaawesome.io/github/elm/tools)
-
- - (⭐ 5,281 x 🍴423 x 😁78) - **[elm-compiler](https://github.com/elm-lang/elm-compiler)** (2012) - Compiler for Elm, a functional language for reliable webapps.
- - (⭐ 1,107 x 🍴115 x 😁45) - **[elm-format](https://github.com/avh4/elm-format)** (2015) - elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide
- - (⭐ 700 x 🍴37 x 😁14) - **[elm-live](https://github.com/tomekwi/elm-live)** (2015) - ⚡ A flexible dev server for Elm. Live reload included.
- - (⭐ 474 x 🍴85 x 😁35) - **[elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader)** (2015) - Webpack loader for the Elm programming language.
- - (⭐ 426 x 🍴64 x 😁19) - **[elm-reactor](https://github.com/elm-lang/elm-reactor)** (2014) - Interactive development tool that makes it easy to develop and debug Elm programs.
- - (⭐ 361 x 🍴36 x 😁18) - **[elm-analyse](https://github.com/stil4m/elm-analyse)** (2017) - A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
- - (⭐ 220 x 🍴71 x 😁21) - **[elm-package](https://github.com/elm-lang/elm-package)** (2013) - Command line tool to share Elm libraries
- - (⭐ 178 x 🍴49 x 😁8) - **[elm-make](https://github.com/elm-lang/elm-make)** (2014) - A build tool for Elm projects
- - (⭐ 175 x 🍴37 x 😁13) - **[elm-repl](https://github.com/elm-lang/elm-repl)** (2013) - A REPL for Elm
- - (⭐ 167 x 🍴6 x 😁5) - **[type-o-rama](https://github.com/stereobooster/type-o-rama)** (2018) - 👾 JS type systems interportability
- - (⭐ 149 x 🍴14 x 😁2) - **[elm-oracle](https://github.com/ElmCast/elm-oracle)** (2015) - Query for information about values in elm source files.
- - (⭐ 124 x 🍴10 x 😁3) - **[servelm](https://github.com/eeue56/servelm)** (2015) - Server-side Elm
- - (⭐ 35 x 🍴6 x 😁3) - **[run-elm](https://github.com/jfairbank/run-elm)** (2017) - Run Elm code from the command line
- - (⭐ 17 x 🍴8 x 😁3) - **[grunt-elm](https://github.com/rtfeldman/grunt-elm)** (2014) - Grunt plugin that compiles Elm files to JavaScript.
-
-#### Github > Elm > Editor plugins
-
-[💯 **https://metaawesome.io/github/elm/editor-plugins** ](https://metaawesome.io/github/elm/editor-plugins)
-
- - (⭐ 4,714 x 🍴358 x 😁65) - **[emmet-vim](https://github.com/mattn/emmet-vim)** (2010) - emmet for vim: http://emmet.io/
- - (⭐ 516 x 🍴96 x 😁35) - **[elm-vim](https://github.com/ElmCast/elm-vim)** (2015) - Elm plugin for Vim
- - (⭐ 315 x 🍴59 x 😁28) - **[elm-mode](https://github.com/jcollard/elm-mode)** (2013) - Elm mode for emacs
- - (⭐ 133 x 🍴6 x 😁3) - **[elm-light](https://github.com/rundis/elm-light)** (2015) - Elm language plugin for Light Table
- - (⭐ 80 x 😁1) - **[vim-elm-help](https://github.com/hoelzro/vim-elm-help)** (2016) - Offline Elm documentation access in your editor
- - (⭐ 6 x 🍴2 x 😁1) - **[atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets)** (2016) - Elm snippets for Atom :kissing_heart:
-
-#### Github > Elm > Package managers
-
-[💯 **https://metaawesome.io/github/elm/package-managers** ](https://metaawesome.io/github/elm/package-managers)
-
- - (⭐ 220 x 🍴71 x 😁21) - **[elm-package](https://github.com/elm-lang/elm-package)** (2013) - Command line tool to share Elm libraries
-
-#### Github > Elm > Boilerplates
-
-[💯 **https://metaawesome.io/github/elm/boilerplates** ](https://metaawesome.io/github/elm/boilerplates)
-
- - (⭐ 1,271 x 🍴121 x 😁56) - **[create-elm-app](https://github.com/halfzebra/create-elm-app)** (2016) -  🍃 Create Elm apps with zero configuration
- - (⭐ 887 x 🍴129 x 😁13) - **[elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter)** (2015) - Boilerplate for developing Elm apps on Webpack
- - (⭐ 121 x 🍴23 x 😁2) - **[elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate)** (2016) - Base project for Elm applications
- - (⭐ 94 x 🍴8 x 😁4) - **[elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter)** (2018) - Elm 0.19 webpack 4 starter template
- - (⭐ 77 x 🍴2 x 😁3) - **[elm-new](https://github.com/simonewebdesign/elm-new)** (2016) - Generate a new Elm project from the command line
- - (⭐ 51 x 🍴6 x 😁4) - **[elmkit](https://github.com/khusnetdinov/elmkit)** (2016) - :school_satchel: Elm kit is web application boilerplate kit for development. This kit build on Brunch, Node, Sass, Elm-lang. It helps you to start development more productive following best practices.
- - (⭐ 90 x 😁2) - **[elm-init](https://github.com/JustusAdam/elm-init)** (2015) - Initialise scaffolding for a new Elm project
- - (⭐ 50 x 😁1) - **[elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid)** (2018) - 👦 Very very basic elm + webpack 4 template
- - (⭐ 20 x 😁1) - **[elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate)** (2017) - A simple Makefile able to create a new Elm app
-
-#### Github > Elm > Misc
-
-[💯 **https://metaawesome.io/github/elm/misc** ](https://metaawesome.io/github/elm/misc)
-
- - (⭐ 174 x 🍴9 x 😁7) - **[elm-street-404](https://github.com/zalando/elm-street-404)** (2015) - A fun WebGL game built with Elm
- - (⭐ 66 x 🍴9 x 😁4) - **[haskell-to-elm](https://github.com/eeue56/haskell-to-elm)** (2015)false
- - (⭐ 15 x 🍴2 x 😁1) - **[docker-alpine-elm](https://github.com/wunsh/docker-alpine-elm)** (2018) - Docker image of pure Alpine with Elm
-
-### Github > F#
-
- - [Actor frameworks](awesome-1.md#github--f#--actor-frameworks)
- - [Build tools](awesome-1.md#github--f#--build-tools)
- - [Cloud](awesome-1.md#github--f#--cloud)
- - [Compilers](awesome-1.md#github--f#--compilers)
- - [Concurrent, asynchronous and parallel programming](awesome-1.md#github--f#--concurrent,-asynchronous-and-parallel-programming)
- - [Configuration](awesome-1.md#github--f#--configuration)
- - [Data Science](awesome-1.md#github--f#--data-science)
- - [General purpose libraries](awesome-1.md#github--f#--general-purpose-libraries)
- - [Game development](awesome-1.md#github--f#--game-development)
- - [HTTP Clients](awesome-1.md#github--f#--http-clients)
- - [Logging](awesome-1.md#github--f#--logging)
- - [Package Management](awesome-1.md#github--f#--package-management)
- - [Parsing](awesome-1.md#github--f#--parsing)
- - [Serialization](awesome-1.md#github--f#--serialization)
- - [Search](awesome-1.md#github--f#--search)
- - [Testing](awesome-1.md#github--f#--testing)
- - [Type providers](awesome-1.md#github--f#--type-providers)
- - [Web frameworks](awesome-1.md#github--f#--web-frameworks)
- - [.Net Core Templates](awesome-1.md#github--f#--.net-core-templates)
-
-#### Github > F# > Actor frameworks
-
-[💯 **https://metaawesome.io/github/f#/actor-frameworks** ](https://metaawesome.io/github/f#/actor-frameworks)
-
- - (⭐ 5,094 x 🍴1,243 x 😁176) - **[orleans](https://github.com/dotnet/orleans)** (2014) - Orleans - Distributed Virtual Actor Model
- - (⭐ 3,297 x 🍴846 x 😁185) - **[akka.net](https://github.com/akkadotnet/akka.net)** (2013) - Port of Akka actors for .NET
- - (⭐ 831 x 🍴180 x 😁37) - **[protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet)** (2017) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
- - (⭐ 351 x 🍴66 x 😁16) - **[Orleankka](https://github.com/OrleansContrib/Orleankka)** (2015) - Functional API for Microsoft Orleans http://orleanscontrib.github.io/Orleankka/
- - (⭐ 141 x 🍴32 x 😁10) - **[Cricket](https://github.com/fsprojects/Cricket)** (2013) - [ARCHIVED]  An actor framework for F#
- - (⭐ 123 x 🍴29 x 😁7) - **[Akkling](https://github.com/Horusiath/Akkling)** (2015) - Experimental F# typed API for Akka.NET
-
-#### Github > F# > Build tools
-
-[💯 **https://metaawesome.io/github/f#/build-tools** ](https://metaawesome.io/github/f#/build-tools)
-
- - (⭐ 1,017 x 🍴565 x 😁307) - **[FAKE](https://github.com/fsharp/FAKE)** (2010) - FAKE - F# Make
- - (⭐ 00 x 😁3) - **[Xake](https://github.com/OlegZee/Xake)** (2018) - Another MAKE utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake
-
-#### Github > F# > Cloud
-
-[💯 **https://metaawesome.io/github/f#/cloud** ](https://metaawesome.io/github/f#/cloud)
-
- - (⭐ 70 x 😁1) - **[FsFirestore](https://github.com/mrbandler/FsFirestore)** (2018) - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.
-
-#### Github > F# > Compilers
-
-[💯 **https://metaawesome.io/github/f#/compilers** ](https://metaawesome.io/github/f#/compilers)
-
- - (⭐ 2,084 x 🍴341 x 😁181) - **[fsharp](https://github.com/fsharp/fsharp)** (2010) - Please file issues or pull requests here: https://github.com/dotnet/fsharp
- - (⭐ 1,839 x 🍴443 x 😁149) - **[visualfsharp](https://github.com/Microsoft/visualfsharp)** (2015) - The F# compiler, FSharp.Core library, and tools for F#
- - (⭐ 1,643 x 🍴210 x 😁93) - **[Fable](https://github.com/fable-compiler/Fable)** (2016) - F# to JavaScript Compiler
- - (⭐ 450 x 🍴89 x 😁23) - **[FunScript](https://github.com/ZachBray/FunScript)** (2012) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider
- - (⭐ 233 x 🍴12 x 😁7) - **[fez](https://github.com/kjnilsson/fez)** (2017) - F# to core erlang compiler experiment
- - (⭐ 213 x 🍴115 x 😁204) - **[FSharp.Compiler.Service](https://github.com/fsharp/FSharp.Compiler.Service)** (2013) - The F# compiler as a component. For editors. For analyzers. For love. You know you want it.
- - (⭐ 40 x 😁1) - **[Pengines.Client](https://github.com/ninjarobot/Pengines.Client)** (2017)false
- - https://github.com/calebh/Juniperfalse
-
-#### Github > F# > Concurrent, asynchronous and parallel programming
-
-[💯 **https://metaawesome.io/github/f#/concurrent,-asynchronous-and-parallel-programming** ](https://metaawesome.io/github/f#/concurrent,-asynchronous-and-parallel-programming)
-
- - (⭐ 402 x 🍴61 x 😁19) - **[Hopac](https://github.com/Hopac/Hopac)** (2014) - http://hopac.github.io/Hopac/Hopac.html
- - (⭐ 157 x 🍴16 x 😁6) - **[TaskBuilder.fs](https://github.com/rspeele/TaskBuilder.fs)** (2016) - F# computation expression builder for System.Threading.Tasks
- - (⭐ 84 x 🍴35 x 😁24) - **[FSharp.Control.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq)** (2015) - Asynchronous sequences for F#
- - (⭐ 62 x 🍴9 x 😁5) - **[Reaction](https://github.com/dbrattli/Reaction)** (2018) - Elmish Streams - Reactive (AsyncRx) for F# Elmish and Fable
- - (⭐ 60 x 🍴27 x 😁13) - **[FSharpx.Async](https://github.com/fsprojects/FSharpx.Async)** (2015) - Asynchronous programming utilities for F#
- - (⭐ 21 x 🍴3 x 😁1) - **[giraffe.tasks](https://github.com/giraffe-fsharp/giraffe.tasks)** (2017) - A task computation expression to work natively with .NET's Tasks from an F# application.
-
-#### Github > F# > Configuration
-
-[💯 **https://metaawesome.io/github/f#/configuration** ](https://metaawesome.io/github/f#/configuration)
-
- - (⭐ 236 x 🍴51 x 😁27) - **[Argu](https://github.com/fsprojects/Argu)** (2013) - A declarative CLI argument/XML configuration parser for F#
- - (⭐ 66 x 🍴5 x 😁5) - **[FsConfig](https://github.com/demystifyfp/FsConfig)** (2017) - FsConfig is a F# library for reading configuration data from environment variables and AppSettings with type safety.
- - https://github.com/docopt/docopt.fs/false
-
-#### Github > F# > Data Science
-
-[💯 **https://metaawesome.io/github/f#/data-science** ](https://metaawesome.io/github/f#/data-science)
-
- - (⭐ 1,841 x 🍴602 x 😁80) - **[mathnet-numerics](https://github.com/mathnet/mathnet-numerics)** (2009) - Math.NET Numerics
- - (⭐ 587 x 🍴142 x 😁23) - **[Deedle](https://github.com/BlueMountainCapital/Deedle)** (2013) - Easy to use .NET library for data and time series manipulation and for scientific programming
- - (⭐ 344 x 🍴70 x 😁24) - **[IfSharp](https://github.com/fsprojects/IfSharp)** (2013) - F# for Jupyter Notebooks
- - (⭐ 215 x 🍴30 x 😁6) - **[DiffSharp](https://github.com/DiffSharp/DiffSharp)** (2014) - DiffSharp: Differentiable Functional Programming
- - (⭐ 147 x 🍴39 x 😁14) - **[FsLab](https://github.com/fslaborg/FsLab)** (2013) - A collection of packages for data science with F#
- - (⭐ 89 x 🍴14 x 😁6) - **[SIMDArray](https://github.com/jackmott/SIMDArray)** (2016) - SIMD enhanced Array operations
-
-#### Github > F# > General purpose libraries
-
-[💯 **https://metaawesome.io/github/f#/general-purpose-libraries** ](https://metaawesome.io/github/f#/general-purpose-libraries)
-
- - (⭐ 338 x 🍴39 x 😁23) - **[FSharpPlus](https://github.com/gmpl/FSharpPlus)** (2013) - Extensions for F#
- - (⭐ 249 x 🍴28 x 😁9) - **[fsharplu](https://github.com/Microsoft/fsharplu)** (2016) - This library provides a set of F# helpers for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.
- - (⭐ 162 x 🍴34 x 😁8) - **[ExtCore](https://github.com/jack-pappas/ExtCore)** (2013) - An extended core library for F#.
- - (⭐ 155 x 🍴24 x 😁9) - **[TypeShape](https://github.com/eiriktsarpalis/TypeShape)** (2016) - Practical generic programming for F#
- - (⭐ 153 x 🍴44 x 😁17) - **[Chessie](https://github.com/fsprojects/Chessie)** (2015) - Railway-oriented programming for .NET
- - (⭐ 125 x 🍴25 x 😁5) - **[aether](https://github.com/xyncro/aether)** (2014) - Optics for F#
- - (⭐ 88 x 🍴5 x 😁3) - **[LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp)** (2017) - Advanced F# Support for LiteDB, an embedded NoSql database for .NET with type-safe query expression through F# quotations
- - (⭐ 47 x 🍴13 x 😁10) - **[Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp)** (2018) - Thin F# wrapper around Npgsql, the PostgreSQL database driver for .NET
-
-#### Github > F# > Game development
-
-[💯 **https://metaawesome.io/github/f#/game-development** ](https://metaawesome.io/github/f#/game-development)
-
- - (⭐ 663 x 🍴70 x 😁3) - **[Nu](https://github.com/bryanedds/Nu)** (2013) - Repository hosting the open-source Nu Game Engine and related projects.
- - https://github.com/FsUnityfalse
-
-#### Github > F# > HTTP Clients
-
-[💯 **https://metaawesome.io/github/f#/http-clients** ](https://metaawesome.io/github/f#/http-clients)
-
- - (⭐ 246 x 🍴44 x 😁22) - **[Http.fs](https://github.com/haf/Http.fs)** (2013) - A simple, functional HTTP client library for F#
-
-#### Github > F# > Logging
-
-[💯 **https://metaawesome.io/github/f#/logging** ](https://metaawesome.io/github/f#/logging)
-
- - https://github.com/logary/logary/false
-
-#### Github > F# > Package Management
-
-[💯 **https://metaawesome.io/github/f#/package-management** ](https://metaawesome.io/github/f#/package-management)
-
- - (⭐ 1,477 x 🍴445 x 😁250) - **[Paket](https://github.com/fsprojects/Paket)** (2014) - A dependency manager for .NET with support for NuGet packages and Git repositories.
-
-#### Github > F# > Parsing
-
-[💯 **https://metaawesome.io/github/f#/parsing** ](https://metaawesome.io/github/f#/parsing)
-
- - (⭐ 214 x 🍴23 x 😁8) - **[fparsec](https://github.com/stephan-tolksdorf/fparsec)** (2016) - A parser combinator library for F#
- - (⭐ 32 x 🍴2 x 😁1) - **[XParsec](https://github.com/corsis/XParsec)** (2012) - extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0
- - (⭐ 50 x 😁4) - **[FsAttoparsec](https://github.com/haf/FsAttoparsec)** (2017) - A port of Bryan O'Sullivan's attoparsec from Haskell to F#. Nuget: 'Attoparsec'
-
-#### Github > F# > Serialization
-
-[💯 **https://metaawesome.io/github/f#/serialization** ](https://metaawesome.io/github/f#/serialization)
-
- - (⭐ 267 x 🍴52 x 😁17) - **[FsPickler](https://github.com/mbraceproject/FsPickler)** (2013) - A fast multi-format message serializer for .NET
-
-#### Github > F# > Search
-
-[💯 **https://metaawesome.io/github/f#/search** ](https://metaawesome.io/github/f#/search)
-
- - (⭐ 151 x 🍴14 x 😁2) - **[flexsearch](https://github.com/flexsearch/flexsearch)** (2013) - FlexSearch Server
-
-#### Github > F# > Testing
-
-[💯 **https://metaawesome.io/github/f#/testing** ](https://metaawesome.io/github/f#/testing)
-
- - (⭐ 665 x 🍴128 x 😁58) - **[FsCheck](https://github.com/fscheck/FsCheck)** (2013) - Random Testing for .NET
- - (⭐ 414 x 🍴107 x 😁37) - **[canopy](https://github.com/lefthandedgoat/canopy)** (2012) - f# web automation and testing library, built on top of Selenium (friendly to c# also)
- - (⭐ 360 x 🍴59 x 😁38) - **[expecto](https://github.com/haf/expecto)** (2016) - A smooth testing lib for F#. APIs made for humans! Strong testing methodologies for everyone!
- - (⭐ 246 x 🍴9 x 😁2) - **[altcover](https://github.com/SteveGilham/altcover)** (2017) - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono
- - (⭐ 245 x 🍴77 x 😁27) - **[FsUnit](https://github.com/fsprojects/FsUnit)** (2011) - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
- - (⭐ 161 x 🍴20 x 😁6) - **[fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog)** (2016) - Release with confidence, state-of-the-art property testing for .NET.
- - (⭐ 159 x 🍴15 x 😁7) - **[unquote](https://github.com/swensensoftware/unquote)** (2015) - Write F# unit test assertions as quoted expressions, get step-by-step failure messages for free
- - (⭐ 132 x 🍴13 x 😁9) - **[NBomber](https://github.com/PragmaticFlow/NBomber)** (2018) - Very simple load testing framework for Pull and Push scenarios.
- - (⭐ 38 x 🍴5 x 😁7) - **[Persimmon](https://github.com/persimmon-projects/Persimmon)** (2014) - A unit test framework for F# using computation expressions.
-
-#### Github > F# > Type providers
-
-[💯 **https://metaawesome.io/github/f#/type-providers** ](https://metaawesome.io/github/f#/type-providers)
-
- - (⭐ 532 x 🍴244 x 😁86) - **[FSharp.Data](https://github.com/fsharp/FSharp.Data)** (2012) - F# Data: Library for Data Access
- - (⭐ 531 x 🍴19 x 😁2) - **[Rezoom.SQL](https://github.com/rspeele/Rezoom.SQL)** (2017) - Statically typechecks a common SQL dialect and translates it to various RDBMS backends
- - (⭐ 326 x 🍴118 x 😁63) - **[SQLProvider](https://github.com/fsprojects/SQLProvider)** (2013) - A general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.
- - (⭐ 193 x 🍴65 x 😁21) - **[FSharpRProvider](https://github.com/BlueMountainCapital/FSharpRProvider)** (2012) - Access R packages from F#
- - (⭐ 161 x 🍴67 x 😁30) - **[FSharp.Data.SqlClient](https://github.com/fsprojects/FSharp.Data.SqlClient)** (2013) - A set of F# Type Providers for statically typed access to MS SQL database
- - (⭐ 145 x 🍴47 x 😁13) - **[SwaggerProvider](https://github.com/fsprojects/SwaggerProvider)** (2015) - F# generative Type Provider for Swagger
- - (⭐ 85 x 🍴57 x 😁27) - **[FSharp.Configuration](https://github.com/fsprojects/FSharp.Configuration)** (2014) - The FSharp.Configuration project contains type providers for the configuration of .NET projects.
- - (⭐ 77 x 🍴41 x 😁20) - **[ExcelProvider](https://github.com/fsprojects/ExcelProvider)** (2014) - This library is for the .NET platform implementing a Excel type provider.
- - (⭐ 72 x 🍴31 x 😁20) - **[AzureStorageTypeProvider](https://github.com/fsprojects/AzureStorageTypeProvider)** (2013) - An F# Azure Type Provider which can be used to explore Blob, Table and Queue Azure Storage assets and easily apply CRUD operations on them.
- - (⭐ 68 x 🍴30 x 😁19) - **[FSharp.Management](https://github.com/fsprojects/FSharp.Management)** (2013) - The FSharp.Management project contains various type providers for the management of the machine.
- - (⭐ 59 x 🍴7 x 😁4) - **[FSharp.Data.Npgsql](https://github.com/demetrixbio/FSharp.Data.Npgsql)** (2017) - F# type providers to support statically typed access to input parameters and result set of sql statement in idiomatic F# way. Data modifications via statically typed tables.
- - (⭐ 53 x 🍴19 x 😁9) - **[FSharp.Text.RegexProvider](https://github.com/fsprojects/FSharp.Text.RegexProvider)** (2014) - A type provider for regular expressions.
- - (⭐ 44 x 🍴40 x 😁12) - **[FSharp.Data.Toolbox](https://github.com/fsprojects/FSharp.Data.Toolbox)** (2014) - F# Data-based library for various data access APIs
- - (⭐ 37 x 🍴7 x 😁5) - **[FSharp.Interop.ComProvider](https://github.com/fsprojects/FSharp.Interop.ComProvider)** (2014) - F# type provider for COM interop.
- - (⭐ 37 x 🍴6 x 😁5) - **[FsYaml](https://github.com/bleis-tift/FsYaml)** (2012) - Typed Yaml Library for F#
- - (⭐ 32 x 🍴7 x 😁4) - **[GraphProvider](https://github.com/fsprojects/GraphProvider)** (2014) - A state machine type provider
- - (⭐ 31 x 🍴20 x 😁9) - **[FSharp.Data.TypeProviders](https://github.com/fsprojects/FSharp.Data.TypeProviders)** (2016) - F# Type Providers for SqlDataConnection, SqlEntityConnection, ODataService, WsdlService and EdmxFile using .NET Framework generators
- - (⭐ 19 x 🍴6 x 😁6) - **[S3Provider](https://github.com/fsprojects/S3Provider)** (2013) - Experimental type provider for Amazon S3
- - (⭐ 14 x 🍴7 x 😁4) - **[FSharp.Data.DbPedia](https://github.com/fsprojects/FSharp.Data.DbPedia)** (2014) - [ARCHIVED] An F# type provider for DBpedia
- - (⭐ 13 x 🍴12 x 😁3) - **[DynamicsCRMProvider](https://github.com/fsprojects/DynamicsCRMProvider)** (2014) - A type provider for Microsoft Dynamics CRM 2011.
- - (⭐ 9 x 🍴10 x 😁15) - **[ApiaryProvider](https://github.com/fsprojects/ApiaryProvider)** (2014) - [ARCHIVED] Type provider for Apiary.io
- - (⭐ 9 x 🍴4 x 😁6) - **[matprovider](https://github.com/fsprojects/matprovider)** (2014) - Type provider for .mat files
- - (⭐ 7 x 🍴9 x 😁8) - **[FSharp.Data.HiveProvider](https://github.com/fsprojects/FSharp.Data.HiveProvider)** (2014) - [ARCHIVED] F# Type Provider for Hadoop Hive
- - (⭐ 20 x 😁1) - **[FSharp.Data.Tdms](https://github.com/mettekou/FSharp.Data.Tdms)** (2019) - TDMS support for F#
-
-#### Github > F# > Web frameworks
-
-[💯 **https://metaawesome.io/github/f#/web-frameworks** ](https://metaawesome.io/github/f#/web-frameworks)
-
- - (⭐ 1,150 x 🍴148 x 😁50) - **[Giraffe](https://github.com/giraffe-fsharp/Giraffe)** (2017) - A native functional ASP.NET Core web framework for F# developers.
- - (⭐ 1,074 x 🍴195 x 😁86) - **[suave](https://github.com/SuaveIO/suave)** (2010) - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
- - (⭐ 372 x 🍴46 x 😁26) - **[Saturn](https://github.com/SaturnFramework/Saturn)** (2017) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern
- - (⭐ 366 x 🍴43 x 😁12) - **[websharper](https://github.com/intellifactory/websharper)** (2013) - WebSharper - the C#+F#-to-JavaScript framework
- - (⭐ 330 x 🍴30 x 😁10) - **[freya](https://github.com/xyncro/freya)** (2013) - Freya Web Stack - Meta-Package
- - (⭐ 70 x 🍴10 x 😁5) - **[genit](https://github.com/lefthandedgoat/genit)** (2016) - A cross-platform website generator and server using F#, Suave and PostgreSQL.
-
-#### Github > F# > .Net Core Templates
-
-[💯 **https://metaawesome.io/github/f#/.net-core-templates** ](https://metaawesome.io/github/f#/.net-core-templates)
-
- - (⭐ 404 x 🍴56 x 😁19) - **[fable-elmish](https://github.com/fable-compiler/fable-elmish)** (2016) - Elm-like abstractions for F# apps
- - (⭐ 139 x 🍴48 x 😁35) - **[SAFE-template](https://github.com/SAFE-Stack/SAFE-template)** (2017) - dotnet CLI template for SAFE project
- - (⭐ 92 x 🍴8 x 😁7) - **[MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold)** (2017) - F# Template for creating and publishing libraries targeting .NET Full (net461) and Core (netstandard2.0)
- - (⭐ 14 x 🍴2 x 😁1) - **[FSharpNetCoreWebApiTemplate](https://github.com/MNie/FSharpNetCoreWebApiTemplate)** (2017) - F# .net core web api template
- - (⭐ 13 x 🍴4 x 😁5) - **[Expecto.Template](https://github.com/MNie/Expecto.Template)** (2017) - .net core template for an Expecto (https://github.com/haf/expecto)
- - (⭐ 10 x 🍴10 x 😁4) - **[giraffe-template](https://github.com/giraffe-fsharp/giraffe-template)** (2017) - A dotnet new template for Giraffe web applications.
- - (⭐ 5 x 🍴2 x 😁3) - **[FSharpTemplates](https://github.com/vbfox/FSharpTemplates)** (2017) - F# templates for dotnet new
- - (⭐ 2 x 🍴2 x 😁1) - **[NancyFxCore](https://github.com/MNie/NancyFxCore)** (2017) - NancyFx F# .net core template
-
-### Github > Fortran
-
- - [Functional Libraries](awesome-1.md#github--fortran--functional-libraries)
- - [Graphics Libraries](awesome-1.md#github--fortran--graphics-libraries)
- - [Math Libs](awesome-1.md#github--fortran--math-libs)
- - [JSON Manipulation](awesome-1.md#github--fortran--json-manipulation)
- - [XML Manipulation](awesome-1.md#github--fortran--xml-manipulation)
- - [Date and time manipulation](awesome-1.md#github--fortran--date-and-time-manipulation)
- - [Encoding-Decoding](awesome-1.md#github--fortran--encoding-decoding)
- - [Portability enabling](awesome-1.md#github--fortran--portability-enabling)
- - [Command-Line parsing](awesome-1.md#github--fortran--command-line-parsing)
- - [Compiling and building](awesome-1.md#github--fortran--compiling-and-building)
- - [Preprocessor](awesome-1.md#github--fortran--preprocessor)
- - [Automatic documentation](awesome-1.md#github--fortran--automatic-documentation)
- - [Computational Fluid Dynamics](awesome-1.md#github--fortran--computational-fluid-dynamics)
-
-#### Github > Fortran > Functional Libraries
-
-[💯 **https://metaawesome.io/github/fortran/functional-libraries** ](https://metaawesome.io/github/fortran/functional-libraries)
-
- - (⭐ 230 x 🍴18 x 😁1) - **[functional-fortran](https://github.com/wavebitscientific/functional-fortran)** (2016) - Functional programming for modern Fortran
-
-#### Github > Fortran > Graphics Libraries
-
-[💯 **https://metaawesome.io/github/fortran/graphics-libraries** ](https://metaawesome.io/github/fortran/graphics-libraries)
-
- - (⭐ 63 x 🍴23 x 😁3) - **[VTKFortran](https://github.com/szaghi/VTKFortran)** (2012) - pure Fortran VTK (XML) API
- - https://github.com/jerryd/gtk-fortran/wikifalse
-
-#### Github > Fortran > Math Libs
-
-[💯 **https://metaawesome.io/github/fortran/math-libs** ](https://metaawesome.io/github/fortran/math-libs)
-
- - (⭐ 2,772 x 🍴766 x 😁121) - **[OpenBLAS](https://github.com/xianyi/OpenBLAS)** (2011) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
- - (⭐ 92 x 🍴49 x 😁16) - **[netcdf-fortran](https://github.com/Unidata/netcdf-fortran)** (2013) - Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library.  Install the netCDF C library first. 
-
-#### Github > Fortran > JSON Manipulation
-
-[💯 **https://metaawesome.io/github/fortran/json-manipulation** ](https://metaawesome.io/github/fortran/json-manipulation)
-
- - (⭐ 165 x 🍴36 x 😁4) - **[json-fortran](https://github.com/jacobwilliams/json-fortran)** (2014) - A Fortran 2008 JSON API
- - (⭐ 43 x 🍴18 x 😁3) - **[fson](https://github.com/josephalevin/fson)** (2012) - Fortran 95 JSON Parser
-
-#### Github > Fortran > XML Manipulation
-
-[💯 **https://metaawesome.io/github/fortran/xml-manipulation** ](https://metaawesome.io/github/fortran/xml-manipulation)
-
- - (⭐ 41 x 🍴38 x 😁8) - **[fox](https://github.com/andreww/fox)** (2008) - A Fortran XML library
-
-#### Github > Fortran > Date and time manipulation
-
-[💯 **https://metaawesome.io/github/fortran/date-and-time-manipulation** ](https://metaawesome.io/github/fortran/date-and-time-manipulation)
-
- - (⭐ 62 x 🍴27 x 😁6) - **[datetime-fortran](https://github.com/wavebitscientific/datetime-fortran)** (2013) - Date and time manipulation for modern Fortran
-
-#### Github > Fortran > Encoding-Decoding
-
-[💯 **https://metaawesome.io/github/fortran/encoding-decoding** ](https://metaawesome.io/github/fortran/encoding-decoding)
-
- - (⭐ 14 x 🍴8 x 😁1) - **[BeFoR64](https://github.com/szaghi/BeFoR64)** (2015) - BeFoR64, Base64 encoding/decoding library for FoRtran poor men
-
-#### Github > Fortran > Portability enabling
-
-[💯 **https://metaawesome.io/github/fortran/portability-enabling** ](https://metaawesome.io/github/fortran/portability-enabling)
-
- - (⭐ 24 x 🍴12 x 😁3) - **[PENF](https://github.com/szaghi/PENF)** (2012) - Portability Environment for Fortran poor people
-
-#### Github > Fortran > Command-Line parsing
-
-[💯 **https://metaawesome.io/github/fortran/command-line-parsing** ](https://metaawesome.io/github/fortran/command-line-parsing)
-
- - (⭐ 75 x 🍴25 x 😁5) - **[FLAP](https://github.com/szaghi/FLAP)** (2014) - Fortran command Line Arguments Parser for poor people
- - (⭐ 8 x 🍴2 x 😁1) - **[optionsf90](https://github.com/cngilbreth/optionsf90)** (2012) - Options & input processing for modern Fortran
-
-#### Github > Fortran > Compiling and building
-
-[💯 **https://metaawesome.io/github/fortran/compiling-and-building** ](https://metaawesome.io/github/fortran/compiling-and-building)
-
- - (⭐ 89 x 🍴25 x 😁5) - **[FoBiS](https://github.com/szaghi/FoBiS)** (2014) - FoBiS.py, Fortran projects Building System for poor people
-
-#### Github > Fortran > Preprocessor
-
-[💯 **https://metaawesome.io/github/fortran/preprocessor** ](https://metaawesome.io/github/fortran/preprocessor)
-
- - (⭐ 20 x 🍴7 x 😁2) - **[PreForM](https://github.com/szaghi/PreForM)** (2014) - PreForM.py,  Preprocessor for Fortran poor Men
-
-#### Github > Fortran > Automatic documentation
-
-[💯 **https://metaawesome.io/github/fortran/automatic-documentation** ](https://metaawesome.io/github/fortran/automatic-documentation)
-
- - (⭐ 12 x 🍴3 x 😁16) - **[ford](https://github.com/cmacmackin/ford)** (2018) - Automatically generates FORtran Documentation from comments within the code.
-
-#### Github > Fortran > Computational Fluid Dynamics
-
-[💯 **https://metaawesome.io/github/fortran/computational-fluid-dynamics** ](https://metaawesome.io/github/fortran/computational-fluid-dynamics)
-
- - (⭐ 24,646 x 🍴3,085 x 😁100) - **[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)** (2014) - A curated list of awesome awesomeness
- - https://github.com/szaghi/OFF/tree/testingfalse
-
 ### Github > Go
+[🏠 Go Home](/README.md/#programming-languages)
 
- - [Audio and Music](awesome-1.md#github--go--audio-and-music)
- - [Authentication and OAuth](awesome-1.md#github--go--authentication-and-oauth)
- - [Bot Building](awesome-1.md#github--go--bot-building)
- - [Configuration](awesome-1.md#github--go--configuration)
- - [Continuous Integration](awesome-1.md#github--go--continuous-integration)
- - [CSS Preprocessors](awesome-1.md#github--go--css-preprocessors)
- - [Data Structures](awesome-1.md#github--go--data-structures)
- - [Database](awesome-1.md#github--go--database)
- - [Database Drivers](awesome-1.md#github--go--database-drivers)
- - [Date and Time](awesome-1.md#github--go--date-and-time)
- - [Distributed Systems](awesome-1.md#github--go--distributed-systems)
- - [Email](awesome-1.md#github--go--email)
- - [Embeddable Scripting Languages](awesome-1.md#github--go--embeddable-scripting-languages)
- - [Error Handling](awesome-1.md#github--go--error-handling)
- - [Files](awesome-1.md#github--go--files)
- - [Financial](awesome-1.md#github--go--financial)
- - [Forms](awesome-1.md#github--go--forms)
- - [Functional](awesome-1.md#github--go--functional)
- - [Game Development](awesome-1.md#github--go--game-development)
- - [Generation and Generics](awesome-1.md#github--go--generation-and-generics)
- - [Geographic](awesome-1.md#github--go--geographic)
- - [Go Compilers](awesome-1.md#github--go--go-compilers)
- - [Goroutines](awesome-1.md#github--go--goroutines)
- - [GUI](awesome-1.md#github--go--gui)
- - [Hardware](awesome-1.md#github--go--hardware)
- - [Images](awesome-1.md#github--go--images)
- - [IoT (Internet of Things)](awesome-1.md#github--go--iot-(internet-of-things))
- - [Job Scheduler](awesome-1.md#github--go--job-scheduler)
- - [JSON](awesome-1.md#github--go--json)
- - [Logging](awesome-1.md#github--go--logging)
- - [Machine Learning](awesome-1.md#github--go--machine-learning)
- - [Messaging](awesome-1.md#github--go--messaging)
- - [Natural Language Processing](awesome-1.md#github--go--natural-language-processing)
- - [Networking](awesome-1.md#github--go--networking)
- - [OpenGL](awesome-1.md#github--go--opengl)
- - [ORM](awesome-1.md#github--go--orm)
- - [Package Management](awesome-1.md#github--go--package-management)
- - [Query Language](awesome-1.md#github--go--query-language)
- - [Resource Embedding](awesome-1.md#github--go--resource-embedding)
- - [Science and Data Analysis](awesome-1.md#github--go--science-and-data-analysis)
- - [Security](awesome-1.md#github--go--security)
- - [Serialization](awesome-1.md#github--go--serialization)
- - [Server Applications](awesome-1.md#github--go--server-applications)
- - [Template Engines](awesome-1.md#github--go--template-engines)
- - [Testing](awesome-1.md#github--go--testing)
- - [Text Processing](awesome-1.md#github--go--text-processing)
- - [Third-party APIs](awesome-1.md#github--go--third-party-apis)
- - [Utilities](awesome-1.md#github--go--utilities)
- - [UUID](awesome-1.md#github--go--uuid)
- - [Validation](awesome-1.md#github--go--validation)
- - [Version Control](awesome-1.md#github--go--version-control)
- - [Video](awesome-1.md#github--go--video)
- - [Web Frameworks](awesome-1.md#github--go--web-frameworks)
- - [Windows](awesome-1.md#github--go--windows)
- - [XML](awesome-1.md#github--go--xml)
- - [Gophers](awesome-1.md#github--go--gophers)
+ - [Audio and Music](/markdown-pages/Go.md/#github--go--audio-and-music)
+ - [Authentication and OAuth](/markdown-pages/Go.md/#github--go--authentication-and-oauth)
+ - [Bot Building](/markdown-pages/Go.md/#github--go--bot-building)
+ - [Configuration](/markdown-pages/Go.md/#github--go--configuration)
+ - [Continuous Integration](/markdown-pages/Go.md/#github--go--continuous-integration)
+ - [CSS Preprocessors](/markdown-pages/Go.md/#github--go--css-preprocessors)
+ - [Data Structures](/markdown-pages/Go.md/#github--go--data-structures)
+ - [Database](/markdown-pages/Go.md/#github--go--database)
+ - [Database Drivers](/markdown-pages/Go.md/#github--go--database-drivers)
+ - [Date and Time](/markdown-pages/Go.md/#github--go--date-and-time)
+ - [Distributed Systems](/markdown-pages/Go.md/#github--go--distributed-systems)
+ - [Email](/markdown-pages/Go.md/#github--go--email)
+ - [Embeddable Scripting Languages](/markdown-pages/Go.md/#github--go--embeddable-scripting-languages)
+ - [Error Handling](/markdown-pages/Go.md/#github--go--error-handling)
+ - [Files](/markdown-pages/Go.md/#github--go--files)
+ - [Financial](/markdown-pages/Go.md/#github--go--financial)
+ - [Forms](/markdown-pages/Go.md/#github--go--forms)
+ - [Functional](/markdown-pages/Go.md/#github--go--functional)
+ - [Game Development](/markdown-pages/Go.md/#github--go--game-development)
+ - [Generation and Generics](/markdown-pages/Go.md/#github--go--generation-and-generics)
+ - [Geographic](/markdown-pages/Go.md/#github--go--geographic)
+ - [Go Compilers](/markdown-pages/Go.md/#github--go--go-compilers)
+ - [Goroutines](/markdown-pages/Go.md/#github--go--goroutines)
+ - [GUI](/markdown-pages/Go.md/#github--go--gui)
+ - [Hardware](/markdown-pages/Go.md/#github--go--hardware)
+ - [Images](/markdown-pages/Go.md/#github--go--images)
+ - [IoT (Internet of Things)](/markdown-pages/Go.md/#github--go--iot-(internet-of-things))
+ - [Job Scheduler](/markdown-pages/Go.md/#github--go--job-scheduler)
+ - [JSON](/markdown-pages/Go.md/#github--go--json)
+ - [Logging](/markdown-pages/Go.md/#github--go--logging)
+ - [Machine Learning](/markdown-pages/Go.md/#github--go--machine-learning)
+ - [Messaging](/markdown-pages/Go.md/#github--go--messaging)
+ - [Natural Language Processing](/markdown-pages/Go.md/#github--go--natural-language-processing)
+ - [Networking](/markdown-pages/Go.md/#github--go--networking)
+ - [OpenGL](/markdown-pages/Go.md/#github--go--opengl)
+ - [ORM](/markdown-pages/Go.md/#github--go--orm)
+ - [Package Management](/markdown-pages/Go.md/#github--go--package-management)
+ - [Query Language](/markdown-pages/Go.md/#github--go--query-language)
+ - [Resource Embedding](/markdown-pages/Go.md/#github--go--resource-embedding)
+ - [Science and Data Analysis](/markdown-pages/Go.md/#github--go--science-and-data-analysis)
+ - [Security](/markdown-pages/Go.md/#github--go--security)
+ - [Serialization](/markdown-pages/Go.md/#github--go--serialization)
+ - [Server Applications](/markdown-pages/Go.md/#github--go--server-applications)
+ - [Template Engines](/markdown-pages/Go.md/#github--go--template-engines)
+ - [Testing](/markdown-pages/Go.md/#github--go--testing)
+ - [Text Processing](/markdown-pages/Go.md/#github--go--text-processing)
+ - [Third-party APIs](/markdown-pages/Go.md/#github--go--third-party-apis)
+ - [Utilities](/markdown-pages/Go.md/#github--go--utilities)
+ - [UUID](/markdown-pages/Go.md/#github--go--uuid)
+ - [Validation](/markdown-pages/Go.md/#github--go--validation)
+ - [Version Control](/markdown-pages/Go.md/#github--go--version-control)
+ - [Video](/markdown-pages/Go.md/#github--go--video)
+ - [Web Frameworks](/markdown-pages/Go.md/#github--go--web-frameworks)
+ - [Windows](/markdown-pages/Go.md/#github--go--windows)
+ - [XML](/markdown-pages/Go.md/#github--go--xml)
+ - [Gophers](/markdown-pages/Go.md/#github--go--gophers)
+ - [Command Line](/markdown-pages/Go.md/#github--go--command-line)
+ - [Microsoft Office](/markdown-pages/Go.md/#github--go--microsoft-office)
+ - [Miscellaneous](/markdown-pages/Go.md/#github--go--miscellaneous)
 
 #### Github > Go > Audio and Music
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/audio-and-music** ](https://metaawesome.io/github/go/audio-and-music)
 
@@ -529,6 +87,7 @@
  - (⭐ 80 x 😁2) - **[gosamplerate](https://github.com/dh1tw/gosamplerate)** (2016) - Go Bindings for libsamplerate
 
 #### Github > Go > Authentication and OAuth
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/authentication-and-oauth** ](https://metaawesome.io/github/go/authentication-and-oauth)
 
@@ -559,6 +118,7 @@
  - (⭐ 2 x 🍴1 x 😁1) - **[cookiestxt](https://github.com/mengzhuo/cookiestxt)** (2017) - cookiestxt implement parser of cookies txt format
 
 #### Github > Go > Bot Building
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/bot-building** ](https://metaawesome.io/github/go/bot-building)
 
@@ -578,6 +138,7 @@
  - (⭐ 10 x 🍴2 x 😁1) - **[micha](https://github.com/onrik/micha)** (2016) - Client lib for Telegram bot api
 
 #### Github > Go > Configuration
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/configuration** ](https://metaawesome.io/github/go/configuration)
 
@@ -610,6 +171,7 @@
  - https://github.com/One-com/gone/tree/master/jconffalse
 
 #### Github > Go > Continuous Integration
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/continuous-integration** ](https://metaawesome.io/github/go/continuous-integration)
 
@@ -621,6 +183,7 @@
  - (⭐ 12 x 🍴2 x 😁1) - **[roveralls](https://github.com/LawrenceWoodman/roveralls)** (2016) - A Go recursive coverage testing tool
 
 #### Github > Go > CSS Preprocessors
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/css-preprocessors** ](https://metaawesome.io/github/go/css-preprocessors)
 
@@ -628,6 +191,7 @@
  - (⭐ 128 x 🍴22 x 😁10) - **[go-libsass](https://github.com/wellington/go-libsass)** (2015) - Go wrapper for libsass, the only Sass 3.5 compiler for Go
 
 #### Github > Go > Data Structures
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/data-structures** ](https://metaawesome.io/github/go/data-structures)
 
@@ -683,6 +247,7 @@
  - (⭐ 10 x 😁1) - **[timedmap](https://github.com/zekroTJA/timedmap)** (2019) - A map which has expiring key-value pairs
 
 #### Github > Go > Database
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/database** ](https://metaawesome.io/github/go/database)
 
@@ -762,6 +327,7 @@
  - (⭐ 00 x 😁1) - **[ormlite](https://github.com/pupizoid/ormlite)** (2018) - Lightweight package containing some ORM-like features and helpers for sqlite databases.
 
 #### Github > Go > Database Drivers
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/database-drivers** ](https://metaawesome.io/github/go/database-drivers)
 
@@ -814,6 +380,7 @@
  - https://github.com/bradfitz/gomemcache/false
 
 #### Github > Go > Date and Time
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/date-and-time** ](https://metaawesome.io/github/go/date-and-time)
 
@@ -835,6 +402,7 @@
  - (⭐ 50 x 😁1) - **[strftime](https://github.com/awoodbeck/strftime)** (2018) - C99-compatible strftime formatter for use with Go time.Time instances.
 
 #### Github > Go > Distributed Systems
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/distributed-systems** ](https://metaawesome.io/github/go/distributed-systems)
 
@@ -874,6 +442,7 @@
  - https://github.com/coreos/etcd/tree/master/raftfalse
 
 #### Github > Go > Email
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/email** ](https://metaawesome.io/github/go/email)
 
@@ -891,6 +460,7 @@
  - https://github.com/go-gomail/gomail/false
 
 #### Github > Go > Embeddable Scripting Languages
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/embeddable-scripting-languages** ](https://metaawesome.io/github/go/embeddable-scripting-languages)
 
@@ -913,6 +483,7 @@
  - (⭐ 18 x 🍴1 x 😁1) - **[ngaro](https://github.com/db47h/ngaro)** (2016) - An embeddable implementation of the Ngaro Virtual Machine for Go programs
 
 #### Github > Go > Error Handling
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/error-handling** ](https://metaawesome.io/github/go/error-handling)
 
@@ -924,6 +495,7 @@
  - (⭐ 10 x 🍴3 x 😁1) - **[werr](https://github.com/txgruppi/werr)** (2015) - Error Wrapper creates an wrapper for the error type in Go which captures the File, Line and Stack of where it was called.
 
 #### Github > Go > Files
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/files** ](https://metaawesome.io/github/go/files)
 
@@ -942,6 +514,7 @@
  - (⭐ 00 x 😁1) - **[go-exiftool](https://github.com/barasher/go-exiftool)** (2019) - Golang wrapper for Exiftool : extract as much metadata as possible (EXIF, ...) from files (pictures, pdf, office documents, ...)
 
 #### Github > Go > Financial
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/financial** ](https://metaawesome.io/github/go/financial)
 
@@ -958,6 +531,7 @@
  - (⭐ 8 x 🍴1 x 😁2) - **[currency](https://github.com/bnkamalesh/currency)** (2017) - A currency computations package.
 
 #### Github > Go > Forms
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/forms** ](https://metaawesome.io/github/go/forms)
 
@@ -971,6 +545,7 @@
  - (⭐ 23 x 🍴3 x 😁1) - **[bind](https://github.com/robfig/bind)** (2014)false
 
 #### Github > Go > Functional
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/functional** ](https://metaawesome.io/github/go/functional)
 
@@ -979,6 +554,7 @@
  - (⭐ 34 x 🍴3 x 😁1) - **[fuego](https://github.com/seborama/fuego)** (2018) - Functional Experiment in Go
 
 #### Github > Go > Game Development
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/game-development** ](https://metaawesome.io/github/go/game-development)
 
@@ -1003,6 +579,7 @@
  - (⭐ 12 x 🍴2 x 😁1) - **[go-collada](https://github.com/GlenKelley/go-collada)** (2013) - Go package for working with the Collada file format.
 
 #### Github > Go > Generation and Generics
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/generation-and-generics** ](https://metaawesome.io/github/go/generation-and-generics)
 
@@ -1019,6 +596,7 @@
  - (⭐ 180 x 😁1) - **[GENERIS](https://github.com/senselogic/GENERIS)** (2019) - Versatile Go code generator.
 
 #### Github > Go > Geographic
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/geographic** ](https://metaawesome.io/github/go/geographic)
 
@@ -1031,6 +609,7 @@
  - (⭐ 15 x 🍴1 x 😁2) - **[pbf](https://github.com/maguro/pbf)** (2017) - OpenStreetMap PBF golang parser
 
 #### Github > Go > Go Compilers
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/go-compilers** ](https://metaawesome.io/github/go/go-compilers)
 
@@ -1041,6 +620,7 @@
  - (⭐ 11 x 🍴1 x 😁2) - **[f4go](https://github.com/Konstantin8105/f4go)** (2018) - Transpiling fortran code to golang code
 
 #### Github > Go > Goroutines
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/goroutines** ](https://metaawesome.io/github/go/goroutines)
 
@@ -1071,6 +651,7 @@
  - (⭐ 10 x 😁1) - **[routine](https://github.com/x-mod/routine)** (2019) - go routine control with context, support: Main, Go, Pool and some useful Executors.如果你不会管理Goroutine的话，用它
 
 #### Github > Go > GUI
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/gui** ](https://metaawesome.io/github/go/gui)
 
@@ -1093,12 +674,14 @@
  - (⭐ 00 x 😁1) - **[mac-sleep-notifier](https://github.com/prashantgupta24/mac-sleep-notifier)** (2019) - macOS Sleep/ Wake notifications in golang
 
 #### Github > Go > Hardware
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/hardware** ](https://metaawesome.io/github/go/hardware)
 
  - (⭐ 893 x 🍴61 x 😁16) - **[go-hardware](https://github.com/rakyll/go-hardware)** (2015) - A directory of hardware related libs, tools, and tutorials for Go
 
 #### Github > Go > Images
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/images** ](https://metaawesome.io/github/go/images)
 
@@ -1138,6 +721,7 @@
  - (⭐ 6 x 🍴1 x 😁1) - **[mpo](https://github.com/donatj/mpo)** (2015) - JPEG-MPO Decoder / Converter Library and CLI Tool
 
 #### Github > Go > IoT (Internet of Things)
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/iot-(internet-of-things)** ](https://metaawesome.io/github/go/iot-(internet-of-things))
 
@@ -1153,6 +737,7 @@
  - https://github.com/vaelen/iot/false
 
 #### Github > Go > Job Scheduler
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/job-scheduler** ](https://metaawesome.io/github/go/job-scheduler)
 
@@ -1166,6 +751,7 @@
  - http://github.com/onatm/clockwerkfalse
 
 #### Github > Go > JSON
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/json** ](https://metaawesome.io/github/go/json)
 
@@ -1184,6 +770,7 @@
  - (⭐ 5 x 🍴1 x 😁1) - **[jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors)** (2016) - Go bindings based on the JSON API errors reference
 
 #### Github > Go > Logging
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/logging** ](https://metaawesome.io/github/go/logging)
 
@@ -1230,6 +817,7 @@
  - https://github.com/One-com/gone/tree/master/logfalse
 
 #### Github > Go > Machine Learning
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/machine-learning** ](https://metaawesome.io/github/go/machine-learning)
 
@@ -1268,6 +856,7 @@
  - (⭐ 5 x 🍴1 x 😁2) - **[mlgo](https://github.com/NullHypothesis/mlgo)** (2015) - Automatically exported from code.google.com/p/mlgo
 
 #### Github > Go > Messaging
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/messaging** ](https://metaawesome.io/github/go/messaging)
 
@@ -1314,6 +903,7 @@
  - (⭐ 00 x 😁1) - **[rmqconn](https://github.com/sbabiv/rmqconn)** (2019) - RabbitMQ Reconnection 
 
 #### Github > Go > Natural Language Processing
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/natural-language-processing** ](https://metaawesome.io/github/go/natural-language-processing)
 
@@ -1353,6 +943,7 @@
  - https://github.com/nicksnyder/go-i18n/false
 
 #### Github > Go > Networking
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/networking** ](https://metaawesome.io/github/go/networking)
 
@@ -1409,6 +1000,7 @@
  - (⭐ 5 x 🍴1 x 😁1) - **[tspool](https://github.com/two/tspool)** (2018) - tcp server pool
 
 #### Github > Go > OpenGL
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/opengl** ](https://metaawesome.io/github/go/opengl)
 
@@ -1419,6 +1011,7 @@
  - (⭐ 58 x 🍴11 x 😁3) - **[glfw](https://github.com/goxjs/glfw)** (2014) - Go cross-platform glfw library for creating an OpenGL context and receiving events.
 
 #### Github > Go > ORM
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/orm** ](https://metaawesome.io/github/go/orm)
 
@@ -1442,6 +1035,7 @@
  - (⭐ 00 x 😁1) - **[go-firestorm](https://github.com/jschoedt/go-firestorm)** (2018) - Simple Go ORM for Google/Firebase Cloud Firestore
 
 #### Github > Go > Package Management
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/package-management** ](https://metaawesome.io/github/go/package-management)
 
@@ -1461,6 +1055,7 @@
  - (⭐ 50 x 🍴6 x 😁1) - **[gop](https://github.com/lunny/gop)** (2017) - Moved to https://gitea.com/lunny/gop
 
 #### Github > Go > Query Language
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/query-language** ](https://metaawesome.io/github/go/query-language)
 
@@ -1473,6 +1068,7 @@
  - (⭐ 22 x 🍴2 x 😁1) - **[jsonslice](https://github.com/bhmj/jsonslice)** (2018) - json slicer
 
 #### Github > Go > Resource Embedding
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/resource-embedding** ](https://metaawesome.io/github/go/resource-embedding)
 
@@ -1488,6 +1084,7 @@
  - (⭐ 14 x 🍴2 x 😁1) - **[go-embed](https://github.com/pyros2097/go-embed)** (2015) - Generates go code to embed resource files into your library or executable
 
 #### Github > Go > Science and Data Analysis
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/science-and-data-analysis** ](https://metaawesome.io/github/go/science-and-data-analysis)
 
@@ -1523,6 +1120,7 @@
  - (⭐ 00 x 😁1) - **[bradleyterry](https://github.com/seanhagen/bradleyterry)** (2019) - Package to do Bradley-Terry Model pairwise compairsons
 
 #### Github > Go > Security
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/security** ](https://metaawesome.io/github/go/security)
 
@@ -1546,6 +1144,7 @@
  - (⭐ 5 x 🍴1 x 😁1) - **[jwc](https://github.com/khezen/jwc)** (2018) - JSON Web Cryptography
 
 #### Github > Go > Serialization
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/serialization** ](https://metaawesome.io/github/go/serialization)
 
@@ -1566,6 +1165,7 @@
  - (⭐ 40 x 😁1) - **[bel](https://github.com/32leaves/bel)** (2019) - Generate TypeScript interfaces from Go structs/interfaces - useful for JSON RPC
 
 #### Github > Go > Server Applications
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/server-applications** ](https://metaawesome.io/github/go/server-applications)
 
@@ -1585,6 +1185,7 @@
  - (⭐ 00 x 😁1) - **[riemann-relay](https://github.com/blind-oracle/riemann-relay)** (2019) - Service for relaying Riemann events to Riemann/Carbon destinations
 
 #### Github > Go > Template Engines
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/template-engines** ](https://metaawesome.io/github/go/template-engines)
 
@@ -1609,6 +1210,7 @@
  - (⭐ 12 x 🍴3 x 😁1) - **[extemplate](https://github.com/dannyvankooten/extemplate)** (2018) - Wrapper package for Go's template/html to allow for easy file-based template inheritance.
 
 #### Github > Go > Testing
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/testing** ](https://metaawesome.io/github/go/testing)
 
@@ -1671,6 +1273,7 @@
  - https://godoc.org/github.com/tvastar/test/cmd/testmdfalse
 
 #### Github > Go > Text Processing
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/text-processing** ](https://metaawesome.io/github/go/text-processing)
 
@@ -1729,6 +1332,7 @@
  - (⭐ 00 x 😁1) - **[tagify](https://github.com/zoomio/tagify)** (2018) - Produces a set of tags from given source.
 
 #### Github > Go > Third-party APIs
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/third-party-apis** ](https://metaawesome.io/github/go/third-party-apis)
 
@@ -1803,6 +1407,7 @@
  - (⭐ 00 x 😁1) - **[tripadvisor-golang](https://github.com/mrbenosborne/tripadvisor-golang)** (2019) - A TripAdvisor API wrapper for Golang.
 
 #### Github > Go > Utilities
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/utilities** ](https://metaawesome.io/github/go/utilities)
 
@@ -1927,6 +1532,7 @@
  - (⭐ 10 x 😁1) - **[olaf](https://github.com/btnguyen2k/olaf)** (2019) - Twitter Snowflake implemented in Go
 
 #### Github > Go > UUID
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/uuid** ](https://metaawesome.io/github/go/uuid)
 
@@ -1938,6 +1544,7 @@
  - (⭐ 10 x 🍴2 x 😁1) - **[uuid](https://github.com/agext/uuid)** (2016) - Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier.
 
 #### Github > Go > Validation
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/validation** ](https://metaawesome.io/github/go/validation)
 
@@ -1951,6 +1558,7 @@
  - (⭐ 19 x 🍴12 x 😁10) - **[validate](https://github.com/gobuffalo/validate)** (2018) - This package provides a framework for writing validations for Go applications.
 
 #### Github > Go > Version Control
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/version-control** ](https://metaawesome.io/github/go/version-control)
 
@@ -1962,6 +1570,7 @@
  - (⭐ 12 x 🍴2 x 😁5) - **[hgo](https://github.com/beyang/hgo)** (2014) - Hgo is a collection of Go packages providing read-access to local Mercurial repositories.
 
 #### Github > Go > Video
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/video** ](https://metaawesome.io/github/go/video)
 
@@ -1976,6 +1585,7 @@
  - (⭐ 11 x 🍴2 x 😁1) - **[libgosubs](https://github.com/wargarblgarbl/libgosubs)** (2017) - golang library to read and write various subtitle formats
 
 #### Github > Go > Web Frameworks
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/web-frameworks** ](https://metaawesome.io/github/go/web-frameworks)
 
@@ -2016,6 +1626,7 @@
  - https://github.com/cosiner/zerverfalse
 
 #### Github > Go > Windows
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/windows** ](https://metaawesome.io/github/go/windows)
 
@@ -2024,6 +1635,7 @@
  - (⭐ 10 x 😁2) - **[gosddl](https://github.com/MonaxGT/gosddl)** (2018) - GoSDDL converter
 
 #### Github > Go > XML
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/xml** ](https://metaawesome.io/github/go/xml)
 
@@ -2035,19 +1647,20 @@
  - (⭐ 6 x 🍴1 x 😁1) - **[xmlwriter](https://github.com/shabbyrobe/xmlwriter)** (2017) - xmlwriter is a pure-Go library providing procedural XML generation based on libxml2's xmlwriter module
 
 #### Github > Go > Gophers
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/gophers** ](https://metaawesome.io/github/go/gophers)
 
- - (⭐ 31,529 x 🍴8,738 x 😁100) - **[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)** (2012) - A golang ebook intro how to build a web with golang
- - (⭐ 24,646 x 🍴3,085 x 😁100) - **[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)** (2014) - A curated list of awesome awesomeness
- - (⭐ 14,551 x 🍴1,462 x 😁100) - **[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)** (2015) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
- - (⭐ 4,533 x 🍴519 x 😁59) - **[learn-go-with-tests](https://github.com/quii/learn-go-with-tests)** (2018) - Learn Go with test-driven development
- - (⭐ 4,040 x 🍴535 x 😁31) - **[go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)** (2014) - An overview of Go syntax and features.
+ - (⭐ 31,560 x 🍴8,745 x 😁100) - **[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)** (2012) - A golang ebook intro how to build a web with golang
+ - (⭐ 24,656 x 🍴3,086 x 😁100) - **[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)** (2014) - A curated list of awesome awesomeness
+ - (⭐ 14,561 x 🍴1,463 x 😁100) - **[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)** (2015) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+ - (⭐ 4,550 x 🍴520 x 😁59) - **[learn-go-with-tests](https://github.com/quii/learn-go-with-tests)** (2018) - Learn Go with test-driven development
+ - (⭐ 4,042 x 🍴535 x 😁31) - **[go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)** (2014) - An overview of Go syntax and features.
  - (⭐ 1,811 x 🍴80 x 😁3) - **[gophers](https://github.com/ashleymcnamara/gophers)** (2017) - Gopher Artwork by Ashley McNamara
  - (⭐ 1,547 x 🍴70 x 😁1) - **[gophers](https://github.com/egonelbre/gophers)** (2015) - Free gophers
  - (⭐ 1,461 x 🍴68 x 😁1) - **[free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack)** (2019) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
- - (⭐ 1,131 x 🍴185 x 😁11) - **[working-with-go](https://github.com/mkaz/working-with-go)** (2014) - A set of example golang code to start learning Go
- - (⭐ 693 x 🍴52 x 😁6) - **[golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers)** (2019) - Examples of Golang compared to Node.js for learning
+ - (⭐ 1,132 x 🍴185 x 😁11) - **[working-with-go](https://github.com/mkaz/working-with-go)** (2014) - A set of example golang code to start learning Go
+ - (⭐ 694 x 🍴52 x 😁6) - **[golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers)** (2019) - Examples of Golang compared to Node.js for learning
  - (⭐ 557 x 🍴22 x 😁1) - **[gophericons](https://github.com/shalakhin/gophericons)** (2015) - 34 gopher images for Go developers community
  - (⭐ 454 x 🍴115 x 😁10) - **[ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book)** (2018) - A little book on Ethereum Development with Go (golang)
  - (⭐ 432 x 🍴23 x 😁2) - **[gopher-stickers](https://github.com/tenntenn/gopher-stickers)** (2014) - gopher stickers
@@ -2063,11 +1676,13 @@
  - https://github.com/trending?l=gofalse
 
 #### Github > Go > Command Line
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
- - [Standard CLI](awesome-1.md#github--go--command-line--standard-cli)
- - [Advanced Console UIs](awesome-1.md#github--go--command-line--advanced-console-uis)
+ - [Standard CLI](/markdown-pages/Go.md/#github--go--command-line--standard-cli)
+ - [Advanced Console UIs](/markdown-pages/Go.md/#github--go--command-line--advanced-console-uis)
 
 ##### Github > Go > Command Line > Standard CLI
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/command-line/standard-cli** ](https://metaawesome.io/github/go/command-line/standard-cli)
 
@@ -2108,6 +1723,7 @@
  - https://github.com/hidevopsio/hiboot/tree/master/pkg/app/clifalse
 
 ##### Github > Go > Command Line > Advanced Console UIs
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/command-line/advanced-console-uis** ](https://metaawesome.io/github/go/command-line/advanced-console-uis)
 
@@ -2139,13 +1755,31 @@
  - (⭐ 8 x 🍴1 x 😁1) - **[go-ataman](https://github.com/workanator/go-ataman)** (2017) - Another Text Attribute Manupulator
  - https://github.com/labstack/gommon/tree/master/colorfalse
 
-#### Github > Go > Miscellaneous
+#### Github > Go > Microsoft Office
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
- - [Dependency Injection](awesome-1.md#github--go--miscellaneous--dependency-injection)
- - [Project Layout](awesome-1.md#github--go--miscellaneous--project-layout)
- - [Strings](awesome-1.md#github--go--miscellaneous--strings)
+ - [Microsoft Excel](/markdown-pages/Go.md/#github--go--microsoft-office--microsoft-excel)
+
+##### Github > Go > Microsoft Office > Microsoft Excel
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
+
+[💯 **https://metaawesome.io/github/go/microsoft-office/microsoft-excel** ](https://metaawesome.io/github/go/microsoft-office/microsoft-excel)
+
+ - (⭐ 4,280 x 🍴456 x 😁51) - **[excelize](https://github.com/360EntSecGroup-Skylar/excelize)** (2016) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+ - (⭐ 3,275 x 🍴555 x 😁74) - **[xlsx](https://github.com/tealeg/xlsx)** (2011) - Google Go (golang) library for reading and writing XLSX files.  You should probably also checkout: https://github.com/360EntSecGroup-Skylar/excelize
+ - (⭐ 58 x 🍴7 x 😁2) - **[xlsx](https://github.com/plandem/xlsx)** (2017) - Fast and safe way to read/update your existing Excel xlsx files
+ - (⭐ 47 x 🍴6 x 😁1) - **[go-excel](https://github.com/szyhf/go-excel)** (2017) - A simple and light excel file reader to read a standard excel as a table faster | 一个轻量级的Excel数据读取库，用一种更`关系数据库`的方式解析Excel。
+ - (⭐ 120 x 😁1) - **[goxlsxwriter](https://github.com/fterrag/goxlsxwriter)** (2017) - Golang bindings for libxlsxwriter for writing XLSX files
+
+#### Github > Go > Miscellaneous
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
+
+ - [Dependency Injection](/markdown-pages/Go.md/#github--go--miscellaneous--dependency-injection)
+ - [Project Layout](/markdown-pages/Go.md/#github--go--miscellaneous--project-layout)
+ - [Strings](/markdown-pages/Go.md/#github--go--miscellaneous--strings)
 
 ##### Github > Go > Miscellaneous > Dependency Injection
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/miscellaneous/dependency-injection** ](https://metaawesome.io/github/go/miscellaneous/dependency-injection)
 
@@ -2157,6 +1791,7 @@
  - (⭐ 40 x 😁1) - **[gocontainer](https://github.com/vardius/gocontainer)** (2019) - Simple Dependency Injection Container
 
 ##### Github > Go > Miscellaneous > Project Layout
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/miscellaneous/project-layout** ](https://metaawesome.io/github/go/miscellaneous/project-layout)
 
@@ -2165,6 +1800,7 @@
  - (⭐ 18 x 🍴2 x 😁1) - **[go-sample](https://github.com/zitryss/go-sample)** (2019) - Go Project Sample Layout
 
 ##### Github > Go > Miscellaneous > Strings
+[⬆ Go to Go](/markdown-pages/Go.md/#github--go)
 
 [💯 **https://metaawesome.io/github/go/miscellaneous/strings** ](https://metaawesome.io/github/go/miscellaneous/strings)
 
@@ -2216,1089 +1852,3 @@
  - https://github.com/cstockton/go-convfalse
  - https://github.com/go-openapifalse
  - https://github.com/azr/generators/tree/master/varhandlerfalse
-
-### Github > Groovy
-
- - [Build tools, setup and CI](awesome-1.md#github--groovy--build-tools,-setup-and-ci)
- - [IDE and Editor Support](awesome-1.md#github--groovy--ide-and-editor-support)
- - [Web Frameworks](awesome-1.md#github--groovy--web-frameworks)
- - [Database](awesome-1.md#github--groovy--database)
- - [HTTP](awesome-1.md#github--groovy--http)
- - [Testing](awesome-1.md#github--groovy--testing)
- - [Concurrency](awesome-1.md#github--groovy--concurrency)
- - [Code Analysis](awesome-1.md#github--groovy--code-analysis)
- - [Transpilers](awesome-1.md#github--groovy--transpilers)
- - [Static Web](awesome-1.md#github--groovy--static-web)
- - [Language Utilities](awesome-1.md#github--groovy--language-utilities)
- - [File System Utilities](awesome-1.md#github--groovy--file-system-utilities)
- - [File Format DSL](awesome-1.md#github--groovy--file-format-dsl)
- - [Scripting Tools](awesome-1.md#github--groovy--scripting-tools)
- - [Rule Engines](awesome-1.md#github--groovy--rule-engines)
-
-#### Github > Groovy > Build tools, setup and CI
-
-[💯 **https://metaawesome.io/github/groovy/build-tools,-setup-and-ci** ](https://metaawesome.io/github/groovy/build-tools,-setup-and-ci)
-
- - (⭐ 1,510 x 🍴650 x 😁159) - **[job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin)** (2012) - A Groovy DSL for Jenkins Jobs - Sweeeeet!
- - (⭐ 568 x 🍴93 x 😁20) - **[lazybones](https://github.com/pledbrook/lazybones)** (2013) - A simple project creation tool that uses packaged project templates.
- - (⭐ 178 x 🍴20 x 😁4) - **[GMavenPlus](https://github.com/groovy/GMavenPlus)** (2011) - A rewrite of GMaven, a Maven plugin for Groovy
- - (⭐ 30 x 😁1) - **[travis-groovy](https://github.com/kdabir/travis-groovy)** (2017) - execute groovy scripts on travis-ci
-
-#### Github > Groovy > IDE and Editor Support
-
-[💯 **https://metaawesome.io/github/groovy/ide-and-editor-support** ](https://metaawesome.io/github/groovy/ide-and-editor-support)
-
- - (⭐ 27 x 🍴7 x 😁5) - **[LightTable-Groovy](https://github.com/rundis/LightTable-Groovy)** (2014) - Groovy plugin for Light Table
- - https://gist.github.com/kdabir/2203530false
-
-#### Github > Groovy > Web Frameworks
-
-[💯 **https://metaawesome.io/github/groovy/web-frameworks** ](https://metaawesome.io/github/groovy/web-frameworks)
-
- - (⭐ 1,804 x 🍴368 x 😁120) - **[ratpack](https://github.com/ratpack/ratpack)** (2013) - Lean & powerful HTTP apps
- - (⭐ 457 x 🍴84 x 😁15) - **[grails](https://github.com/grails/grails)** (2009) - A powerful web application framework based on the Groovy language
- - (⭐ 230 x 🍴43 x 😁17) - **[gaelyk](https://github.com/gaelyk/gaelyk)** (2009) - A lightweight Groovy toolkit for Google App Engine Java
- - (⭐ 48 x 🍴9 x 😁5) - **[glide](https://github.com/kdabir/glide)** (2012) - Create awesome apps on Google App Engine in a snap
- - (⭐ 45 x 🍴9 x 😁1) - **[gserv](https://github.com/javaConductor/gserv)** (2014) - GServ: Framework for SPAs and REST based services.
-
-#### Github > Groovy > Database
-
-[💯 **https://metaawesome.io/github/groovy/database** ](https://metaawesome.io/github/groovy/database)
-
- - (⭐ 179 x 🍴40 x 😁6) - **[gmongo](https://github.com/poiati/gmongo)** (2010) - A Groovy wrapper to the mongodb Java driver
- - (⭐ 141 x 🍴26 x 😁7) - **[Tayra](https://github.com/EqualExperts/Tayra)** (2012) - Incremental backup tool for MongoDB
- - (⭐ 85 x 🍴50 x 😁6) - **[groovy-liquibase](https://github.com/tlberglund/groovy-liquibase)** (2010) - Yet Another Groovy DSL for Liquibase
- - (⭐ 73 x 🍴12 x 😁1) - **[gstorm](https://github.com/kdabir/gstorm)** (2012) - A simple ORM for databases and CSV files. Intended to be used in groovy scripts and small projects
- - (⭐ 40 x 🍴17 x 😁3) - **[elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy)** (2014) - Elasticsearch Groovy client
- - (⭐ 6 x 🍴1 x 😁1) - **[effigy](https://github.com/cjstehno/effigy)** (2014) - Groovy annotation-driven JDBC row mapping framework.
-
-#### Github > Groovy > HTTP
-
-[💯 **https://metaawesome.io/github/groovy/http** ](https://metaawesome.io/github/groovy/http)
-
- - (⭐ 373 x 🍴104 x 😁14) - **[groovy-wslite](https://github.com/jwagenleitner/groovy-wslite)** (2011) - Lightweight SOAP and REST webservice clients for Groovy
- - (⭐ 276 x 🍴132 x 😁9) - **[httpbuilder](https://github.com/jgritman/httpbuilder)** (2012)false
- - (⭐ 141 x 🍴30 x 😁20) - **[http-builder-ng](https://github.com/http-builder-ng/http-builder-ng)** (2016) - The easy HTTP client for Groovy (and Java).
- - (⭐ 15 x 🍴3 x 😁3) - **[gradle-http-plugin](https://github.com/http-builder-ng/gradle-http-plugin)** (2017) - Gradle plugin providing support for using HttpBuilder-NG to make HTTP requests as Gradle Tasks.
- - (⭐ 4 x 🍴1 x 😁1) - **[AsyncRestClient](https://github.com/eginez/AsyncRestClient)** (2015) - This is a light weight extension of groovy's RESTClient to support asyn call via RxJava
-
-#### Github > Groovy > Testing
-
-[💯 **https://metaawesome.io/github/groovy/testing** ](https://metaawesome.io/github/groovy/testing)
-
- - (⭐ 2,382 x 🍴363 x 😁69) - **[spock](https://github.com/spockframework/spock)** (2010) - The Enterprise-ready testing and specification framework.
- - (⭐ 971 x 🍴220 x 😁56) - **[geb](https://github.com/geb/geb)** (2010) - Very Groovy Browser Automation
- - (⭐ 441 x 🍴133 x 😁19) - **[betamax](https://github.com/betamaxteam/betamax)** (2011) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project was inspired by the VCR library for Ruby.
- - (⭐ 33 x 🍴5 x 😁3) - **[ersatz](https://github.com/cjstehno/ersatz)** (2016) - A simulated HTTP server for testing client code with configurable responses.
- - (⭐ 10 x 🍴3 x 😁4) - **[http-mock-server](https://github.com/TouK/http-mock-server)** (2015)false
-
-#### Github > Groovy > Concurrency
-
-[💯 **https://metaawesome.io/github/groovy/concurrency** ](https://metaawesome.io/github/groovy/concurrency)
-
- - (⭐ 206 x 🍴49 x 😁23) - **[GPars](https://github.com/GPars/GPars)** (2011) - The GPars concurrency and parallelism framework for the JVM
- - (⭐ 144 x 🍴24 x 😁11) - **[RxGroovy](https://github.com/ReactiveX/RxGroovy)** (2014) - RxJava bindings for Groovy
-
-#### Github > Groovy > Code Analysis
-
-[💯 **https://metaawesome.io/github/groovy/code-analysis** ](https://metaawesome.io/github/groovy/code-analysis)
-
- - (⭐ 47 x 🍴60 x 😁20) - **[sonar-groovy](https://github.com/pmayweg/sonar-groovy)** (2012) - SonarQube plugin for Groovy
-
-#### Github > Groovy > Transpilers
-
-[💯 **https://metaawesome.io/github/groovy/transpilers** ](https://metaawesome.io/github/groovy/transpilers)
-
- - (⭐ 206 x 🍴17 x 😁7) - **[grooscript](https://github.com/chiquitinxx/grooscript)** (2012) - Converts your Groovy code to Javascript
-
-#### Github > Groovy > Static Web
-
-[💯 **https://metaawesome.io/github/groovy/static-web** ](https://metaawesome.io/github/groovy/static-web)
-
- - (⭐ 146 x 🍴14 x 😁5) - **[gaiden](https://github.com/kobo/gaiden)** (2013) - Gaiden is a tool that makes it easy to create documentation with Markdown.
- - (⭐ 145 x 🍴34 x 😁13) - **[grain](https://github.com/sysgears/grain)** (2013) - Grain is a lightweight and powerful static website generator with custom themes to help create static, SEO-friendly websites or a blog in no time.
-
-#### Github > Groovy > Language Utilities
-
-[💯 **https://metaawesome.io/github/groovy/language-utilities** ](https://metaawesome.io/github/groovy/language-utilities)
-
- - (⭐ 69 x 🍴17 x 😁5) - **[groovy-common-extensions](https://github.com/timyates/groovy-common-extensions)** (2012)false
- - (⭐ 67 x 🍴10 x 😁3) - **[groovy-stream](https://github.com/timyates/groovy-stream)** (2012) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
- - (⭐ 62 x 🍴4 x 😁3) - **[functionalgroovy](https://github.com/mperry/functionalgroovy)** (2013) - Functional programming in Groovy
- - (⭐ 30 x 🍴6 x 😁1) - **[gprof](https://github.com/gperfutils/gprof)** (2013) - GProf - The profiling module for Groovy
- - (⭐ 27 x 🍴1 x 😁1) - **[gbench](https://github.com/gperfutils/gbench)** (2013) - GBench - The benchmarking module for Groovy
- - (⭐ 23 x 🍴5 x 😁4) - **[flipside](https://github.com/johnnywey/flipside)** (2014) - Simple Groovy options library
- - (⭐ 4 x 🍴3 x 😁1) - **[fuzzy-csv](https://github.com/kayr/fuzzy-csv)** (2014) - A groovy tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying
- - (⭐ 10 x 😁1) - **[groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour)** (2013) - :1234: Some extra functionality for Groovy Lists
- - https://github.com/gperfutilsfalse
-
-#### Github > Groovy > File System Utilities
-
-[💯 **https://metaawesome.io/github/groovy/file-system-utilities** ](https://metaawesome.io/github/groovy/file-system-utilities)
-
- - (⭐ 60 x 🍴10 x 😁4) - **[groovy-vfs](https://github.com/ysb33r/groovy-vfs)** (2013) - A DSL for Groovy on top of Apache VFS2
- - (⭐ 11 x 🍴1 x 😁1) - **[directree](https://github.com/kdabir/directree)** (2014) - A Simple DSL to create Directory Tree with Text Files
-
-#### Github > Groovy > File Format DSL
-
-[💯 **https://metaawesome.io/github/groovy/file-format-dsl** ](https://metaawesome.io/github/groovy/file-format-dsl)
-
- - (⭐ 89 x 🍴20 x 😁6) - **[document-builder](https://github.com/craigburke/document-builder)** (2015) - Groovy Document Builder
-
-#### Github > Groovy > Scripting Tools
-
-[💯 **https://metaawesome.io/github/groovy/scripting-tools** ](https://metaawesome.io/github/groovy/scripting-tools)
-
- - (⭐ 1,326 x 🍴133 x 😁35) - **[picocli](https://github.com/remkop/picocli)** (2017) - Parser library and framework to easily build JVM command line applications (Java, Groovy, Kotlin, etc). Usage help with ANSI colors. Autocomplete. Nested subcommands. Annotations and programmatic API. Easy to include as source to avoid addi…
- - (⭐ 305 x 🍴46 x 😁12) - **[sshoogr](https://github.com/aestasit/sshoogr)** (2013) - A Groovy-based DSL for working with remote SSH servers.
- - (⭐ 14 x 🍴2 x 😁9) - **[GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush)** (2018) - Helper to upload Gradle Android Artifacts, Gradle Java Artifacts and Gradle Kotlin Artifacts to Maven repositories (JCenter, Maven Central, Corporate staging/snapshot servers and local Maven repositories).
- - (⭐ 6 x 🍴3 x 😁1) - **[EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin)** (2018) - Gradle Script plugin to generate documentation by Dokka documentation engine in Javadoc or other formats for Java, Kotlin, Android and non-Android projects. It's very easy, you don't need to add to dependencies section additional classpath …
-
-#### Github > Groovy > Rule Engines
-
-[💯 **https://metaawesome.io/github/groovy/rule-engines** ](https://metaawesome.io/github/groovy/rule-engines)
-
- - (⭐ 3,331 x 🍴1,270 x 😁100) - **[groovy](https://github.com/apache/groovy)** (2015) - Mirror of Apache Groovy
- - (⭐ 129 x 🍴51 x 😁11) - **[n-cube](https://github.com/jdereg/n-cube)** (2013) - Rules Engine, Decision Tables, Templating
- - (⭐ 34 x 🍴8 x 😁1) - **[grules](https://github.com/zhaber/grules)** (2012) - Grules - rule engine for data preprocessing
-
-### Github > Haskell
-
- - [_Basics_](awesome-1.md#github--haskell--_basics_)
- - [Configuration](awesome-1.md#github--haskell--configuration)
- - [Data Access](awesome-1.md#github--haskell--data-access)
- - [Web / Frameworks](awesome-1.md#github--haskell--web-/-frameworks)
- - [Messaging](awesome-1.md#github--haskell--messaging)
- - [Languages](awesome-1.md#github--haskell--languages)
- - [Streaming Processing](awesome-1.md#github--haskell--streaming-processing)
-
-#### Github > Haskell > _Basics_
-
-[💯 **https://metaawesome.io/github/haskell/_basics_** ](https://metaawesome.io/github/haskell/_basics_)
-
- - (⭐ 3,135 x 🍴702 x 😁345) - **[stack](https://github.com/commercialhaskell/stack)** (2015) - The Haskell Tool Stack
- - (⭐ 392 x 🍴660 x 😁409) - **[stackage](https://github.com/fpco/stackage)** (2012) - "Stable Hackage": vetted consistent packages from Hackage
- - https://github.com/Paczesiowa/hsenv/false
-
-#### Github > Haskell > Configuration
-
-[💯 **https://metaawesome.io/github/haskell/configuration** ](https://metaawesome.io/github/haskell/configuration)
-
- - (⭐ 488 x 🍴107 x 😁66) - **[dhall-haskell](https://github.com/dhall-lang/dhall-haskell)** (2016) - The non-repetitive alternative to YAML
-
-#### Github > Haskell > Data Access
-
-[💯 **https://metaawesome.io/github/haskell/data-access** ](https://metaawesome.io/github/haskell/data-access)
-
- - (⭐ 3,560 x 🍴288 x 😁29) - **[Haxl](https://github.com/facebook/Haxl)** (2014) - A Haskell library that simplifies access to remote data, such as databases or web-based services. 
-
-#### Github > Haskell > Web / Frameworks
-
-[💯 **https://metaawesome.io/github/haskell/web-/-frameworks** ](https://metaawesome.io/github/haskell/web-/-frameworks)
-
- - (⭐ 142 x 🍴54 x 😁41) - **[HTTP](https://github.com/haskell/HTTP)** (2010) - Haskell HTTP package
- - (⭐ 102 x 🍴40 x 😁22) - **[hoauth2](https://github.com/freizl/hoauth2)** (2012) - haskell oauth2 binding
-
-#### Github > Haskell > Messaging
-
-[💯 **https://metaawesome.io/github/haskell/messaging** ](https://metaawesome.io/github/haskell/messaging)
-
- - (⭐ 108 x 🍴27 x 😁17) - **[amqp](https://github.com/hreinhardt/amqp)** (2011) - Haskell AMQP client library
-
-#### Github > Haskell > Languages
-
-[💯 **https://metaawesome.io/github/haskell/languages** ](https://metaawesome.io/github/haskell/languages)
-
- - (⭐ 2,888 x 🍴632 x 😁306) - **[Idris-dev](https://github.com/idris-lang/Idris-dev)** (2011) - A Dependently Typed Functional Programming Language
-
-#### Github > Haskell > Streaming Processing
-
-[💯 **https://metaawesome.io/github/haskell/streaming-processing** ](https://metaawesome.io/github/haskell/streaming-processing)
-
- - (⭐ 6,292 x 🍴470 x 😁75) - **[learnhaskell](https://github.com/bitemyapp/learnhaskell)** (2014) - Learn Haskell
- - (⭐ 635 x 🍴164 x 😁114) - **[conduit](https://github.com/snoyberg/conduit)** (2011) - A streaming data library
- - (⭐ 396 x 🍴68 x 😁43) - **[Haskell-Pipes-Library](https://github.com/Gabriel439/Haskell-Pipes-Library)** (2012) - Compositional pipelines
- - https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examplesfalse
-
-### Github > Common Lisp
-
- - [Audio](awesome-1.md#github--common-lisp--audio)
- - [Build Systems](awesome-1.md#github--common-lisp--build-systems)
- - [Compilers, code generators](awesome-1.md#github--common-lisp--compilers,-code-generators)
- - [Crypto](awesome-1.md#github--common-lisp--crypto)
- - [Cryptocurrencies](awesome-1.md#github--common-lisp--cryptocurrencies)
- - [To third parties](awesome-1.md#github--common-lisp--to-third-parties)
- - [Tools](awesome-1.md#github--common-lisp--tools)
- - [Data Structures](awesome-1.md#github--common-lisp--data-structures)
- - [Foreign Function Interface](awesome-1.md#github--common-lisp--foreign-function-interface)
- - [Game Development](awesome-1.md#github--common-lisp--game-development)
- - [Graphics](awesome-1.md#github--common-lisp--graphics)
- - [GUI](awesome-1.md#github--common-lisp--gui)
- - [Implementations](awesome-1.md#github--common-lisp--implementations)
- - [JSON](awesome-1.md#github--common-lisp--json)
- - [YAML](awesome-1.md#github--common-lisp--yaml)
- - [Language extensions](awesome-1.md#github--common-lisp--language-extensions)
- - [CLOS extensions](awesome-1.md#github--common-lisp--clos-extensions)
- - [Iteration](awesome-1.md#github--common-lisp--iteration)
- - [Lambda shorthands](awesome-1.md#github--common-lisp--lambda-shorthands)
- - [Non-deterministic, logic programming](awesome-1.md#github--common-lisp--non-deterministic,-logic-programming)
- - [Reactive programming](awesome-1.md#github--common-lisp--reactive-programming)
- - [Contract programming](awesome-1.md#github--common-lisp--contract-programming)
- - [Library Manager](awesome-1.md#github--common-lisp--library-manager)
- - [Machine Learning](awesome-1.md#github--common-lisp--machine-learning)
- - [Natural Language Processing](awesome-1.md#github--common-lisp--natural-language-processing)
- - [Web frameworks](awesome-1.md#github--common-lisp--web-frameworks)
- - [Assets management](awesome-1.md#github--common-lisp--assets-management)
- - [Parsing html](awesome-1.md#github--common-lisp--parsing-html)
- - [HTML generators and templates](awesome-1.md#github--common-lisp--html-generators-and-templates)
- - [URI handling](awesome-1.md#github--common-lisp--uri-handling)
- - [Javascript](awesome-1.md#github--common-lisp--javascript)
- - [Email](awesome-1.md#github--common-lisp--email)
- - [Websockets](awesome-1.md#github--common-lisp--websockets)
- - [Static site generators](awesome-1.md#github--common-lisp--static-site-generators)
- - [Deployment](awesome-1.md#github--common-lisp--deployment)
- - [Monitoring](awesome-1.md#github--common-lisp--monitoring)
- - [Third-party APIs](awesome-1.md#github--common-lisp--third-party-apis)
- - [Others](awesome-1.md#github--common-lisp--others)
- - [Numerical and Scientific](awesome-1.md#github--common-lisp--numerical-and-scientific)
- - [Parallelism and Concurrency](awesome-1.md#github--common-lisp--parallelism-and-concurrency)
- - [Event processing](awesome-1.md#github--common-lisp--event-processing)
- - [Job processing](awesome-1.md#github--common-lisp--job-processing)
- - [Scripting](awesome-1.md#github--common-lisp--scripting)
-
-#### Github > Common Lisp > Audio
-
-[💯 **https://metaawesome.io/github/common-lisp/audio** ](https://metaawesome.io/github/common-lisp/audio)
-
- - (⭐ 611 x 🍴114 x 😁41) - **[csound](https://github.com/csound/csound)** (2014) - Main repository for Csound
- - (⭐ 106 x 🍴14 x 😁8) - **[cl-collider](https://github.com/byulparan/cl-collider)** (2013) - A SuperCollider client for CommonLisp
- - (⭐ 65 x 🍴6 x 😁4) - **[om7](https://github.com/openmusic-project/om7)** (2016) - A new implementation of the OpenMusic language and environment
- - (⭐ 30 x 🍴3 x 😁3) - **[cl-patterns](https://github.com/defaultxr/cl-patterns)** (2016) - Library for conveniently(?) writing patterns to generate or process (a)musical sequences of mathematically (un)related (non-)compound values in Lisp.
- - (⭐ 29 x 🍴11 x 😁5) - **[cl-openal](https://github.com/zkat/cl-openal)** (2009) - Common Lisp bindings for the OpenAL audio library.
- - (⭐ 27 x 🍴6 x 😁5) - **[mixalot](https://github.com/ahefner/mixalot)** (2010) - Loosely-coupled collection of audio libraries in Common Lisp
- - (⭐ 22 x 🍴2 x 😁2) - **[megra](https://github.com/the-drunk-coder/megra)** (2017) - Mégra is a mini-language to make music with variable-order markov chains and some other stochastic shenanigans.
- - (⭐ 21 x 🍴4 x 😁9) - **[OM6](https://github.com/openmusic-project/OM6)** (2018) - The OpenMusic visual programming / computer-aided composition environment
- - (⭐ 19 x 🍴5 x 😁4) - **[osc](https://github.com/zzkt/osc)** (2011) - a common lisp implementation of the Open Sound Control protocol aka OSC
- - (⭐ 12 x 🍴1 x 😁1) - **[Music](https://github.com/MegaLoler/Music)** (2018) - Music framework in Common Lisp
- - (⭐ 6 x 🍴1 x 😁1) - **[cm](https://github.com/ormf/cm)** (2017) - Common Music 2.12 by Rick Taube. Also check out the related cm-incudine, cm-fomus, cm-utils and cm-svg repos here.
- - (⭐ 5 x 🍴10) - **[cm-incudine](https://github.com/ormf/cm-incudine)** (2016) - Realtime bindings to Common Music 2 using incudine. Also check out cm-svg, cm-fomus and cm-utils repos here.
- - (⭐ 5 x 🍴3 x 😁2) - **[scheduler](https://github.com/byulparan/scheduler)** (2013)false
- - (⭐ 20 x 😁1) - **[RQ](https://github.com/openmusic-project/RQ)** (2018) - A library for rhythm transcription in OpenMusic
-
-#### Github > Common Lisp > Build Systems
-
-[💯 **https://metaawesome.io/github/common-lisp/build-systems** ](https://metaawesome.io/github/common-lisp/build-systems)
-
- - (⭐ 29 x 🍴2 x 😁2) - **[asdf-viz](https://github.com/guicho271828/asdf-viz)** (2015) - ASDF system dependency visualizer
- - (⭐ 19 x 🍴1 x 😁3) - **[asdf-linguist](https://github.com/eudoxia0/asdf-linguist)** (2014) - ASDF extensions.
-
-#### Github > Common Lisp > Compilers, code generators
-
-[💯 **https://metaawesome.io/github/common-lisp/compilers,-code-generators** ](https://metaawesome.io/github/common-lisp/compilers,-code-generators)
-
- - (⭐ 693 x 🍴30 x 😁2) - **[cmacro](https://github.com/eudoxia0/cmacro)** (2014) - Lisp macros for C
- - (⭐ 432 x 🍴28 x 😁9) - **[lispc](https://github.com/eratosthenesia/lispc)** (2016) - "Lispsy" Lisp(ish) to C Converter (designed for CLISP)
- - (⭐ 185 x 🍴10 x 😁6) - **[c-mera](https://github.com/kiselgra/c-mera)** (2015) - Next-level syntax for C-like languages :)
-
-#### Github > Common Lisp > Crypto
-
-[💯 **https://metaawesome.io/github/common-lisp/crypto** ](https://metaawesome.io/github/common-lisp/crypto)
-
- - (⭐ 47 x 🍴10 x 😁25) - **[ironclad](https://github.com/sharplispers/ironclad)** (2017) - A cryptographic toolkit written in Common Lisp
- - (⭐ 23 x 🍴7 x 😁1) - **[trivial-ssh](https://github.com/eudoxia0/trivial-ssh)** (2014) - An SSH client library for Common Lisp (Built on libssh2)
- - (⭐ 120 x 😁1) - **[crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts)** (2014) - Collection of common cryptography functions
-
-#### Github > Common Lisp > Cryptocurrencies
-
-[💯 **https://metaawesome.io/github/common-lisp/cryptocurrencies** ](https://metaawesome.io/github/common-lisp/cryptocurrencies)
-
- - (⭐ 84 x 🍴16 x 😁8) - **[emotiq](https://github.com/emotiq/emotiq)** (2018)false
- - (⭐ 6 x 🍴1 x 😁1) - **[cl-monero-tools](https://github.com/glv2/cl-monero-tools)** (2017) - Common Lisp toolbox to work with the Monero cryptocurrency
- - (⭐ 50 x 😁1) - **[peercoin-vote](https://github.com/glv2/peercoin-vote)** (2015) - A voting system based on data from the blockchain (addresses and balances)
- - (⭐ 20 x 😁1) - **[peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)** (2014) - Peercoin blockchain parser
- - (⭐ 10 x 😁1) - **[peercoin-calculator](https://github.com/glv2/peercoin-calculator)** (2014) - Peercoin POS/POW calculator
-
-#### Github > Common Lisp > To third parties
-
-[💯 **https://metaawesome.io/github/common-lisp/to-third-parties** ](https://metaawesome.io/github/common-lisp/to-third-parties)
-
- - (⭐ 15 x 🍴3 x 😁2) - **[dyna](https://github.com/Rudolph-Miller/dyna)** (2015) - Dyna is an AWS DynamoDB ORM for Common Lisp.
- - https://github.com/mmaul/cl-influxdb/false
-
-#### Github > Common Lisp > Tools
-
-[💯 **https://metaawesome.io/github/common-lisp/tools** ](https://metaawesome.io/github/common-lisp/tools)
-
- - (⭐ 2,106 x 🍴272 x 😁61) - **[pgloader](https://github.com/dimitri/pgloader)** (2010) - Migrate to PostgreSQL in a single command!
-
-#### Github > Common Lisp > Data Structures
-
-[💯 **https://metaawesome.io/github/common-lisp/data-structures** ](https://metaawesome.io/github/common-lisp/data-structures)
-
- - (⭐ 87 x 🍴5 x 😁1) - **[cl-ctrie](https://github.com/danlentz/cl-ctrie)** (2012) - lock-free, concurrent, key/value index with efficient memory-mapped persistence and fast transient storage models
- - (⭐ 58 x 🍴3 x 😁1) - **[sycamore](https://github.com/ndantam/sycamore)** (2012) - A fast, purely functional data structure library in Common Lisp.
- - (⭐ 11 x 🍴3 x 😁3) - **[cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)** (2017)false
- - (⭐ 7 x 🍴2 x 😁3) - **[genhash](https://github.com/pnathan/genhash)** (2013) - http://cdr.eurolisp.org/document/2/
- - (⭐ 40 x 😁1) - **[bst](https://github.com/glv2/bst)** (2017) - Binary Search Tree
-
-#### Github > Common Lisp > Foreign Function Interface
-
-[💯 **https://metaawesome.io/github/common-lisp/foreign-function-interface** ](https://metaawesome.io/github/common-lisp/foreign-function-interface)
-
- - (⭐ 267 x 🍴27 x 😁5) - **[cl-python](https://github.com/metawilm/cl-python)** (2009) - An implementation of Python in Common Lisp
- - (⭐ 218 x 🍴81 x 😁56) - **[cffi](https://github.com/cffi/cffi)** (2011) - The Common Foreign Function Interface
- - (⭐ 124 x 🍴24 x 😁8) - **[cl-autowrap](https://github.com/rpav/cl-autowrap)** (2013) - (c-include "file.h") => complete FFI wrapper
- - (⭐ 74 x 🍴15 x 😁3) - **[burgled-batteries](https://github.com/pinterface/burgled-batteries)** (2013) - A bridge between Python and Lisp (FFI bindings, etc.)
- - (⭐ 29 x 🍴2 x 😁1) - **[bike](https://github.com/Lovesan/bike)** (2019) - Common Lisp .Net Core Interop
- - (⭐ 230 x 😁1) - **[objc-lisp-bridge](https://github.com/fiddlerwoaroof/objc-lisp-bridge)** (2018) - A portable reader and bridge for interacting with Objective-C and Cocoa
- - (⭐ 21 x 🍴1 x 😁1) - **[py4cl](https://github.com/bendudson/py4cl)** (2019) - Call python from Common Lisp
- - (⭐ 16 x 🍴1 x 😁1) - **[cl4py](https://github.com/marcoheisig/cl4py)** (2018) - Common Lisp for Python
- - https://github.com/cxxxr/async-process/false
-
-#### Github > Common Lisp > Game Development
-
-[💯 **https://metaawesome.io/github/common-lisp/game-development** ](https://metaawesome.io/github/common-lisp/game-development)
-
- - (⭐ 95 x 🍴6 x 😁2) - **[trial](https://github.com/shirakumo/trial)** (2016) - Yet another Common Lisp game engine
-
-#### Github > Common Lisp > Graphics
-
-[💯 **https://metaawesome.io/github/common-lisp/graphics** ](https://metaawesome.io/github/common-lisp/graphics)
-
- - (⭐ 843 x 🍴44 x 😁3) - **[sketch](https://github.com/vydd/sketch)** (2015) - A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
- - (⭐ 220 x 🍴23 x 😁7) - **[CLinch](https://github.com/BradWBeer/CLinch)** (2012) - Common Lisp 3D/2D Graphics Engine for OpenGL
- - (⭐ 199 x 🍴49 x 😁18) - **[cl-opengl](https://github.com/3b/cl-opengl)** (2009) - cl-opengl is a set of CFFI bindings to the OpenGL, GLU and GLUT APIs.
- - (⭐ 156 x 🍴51 x 😁27) - **[cl-sdl2](https://github.com/lispgames/cl-sdl2)** (2013) - Common Lisp bindings for SDL2 using C2FFI.
- - (⭐ 145 x 🍴11 x 😁5) - **[varjo](https://github.com/cbaggers/varjo)** (2013) - Lisp to GLSL Language Translator
- - (⭐ 134 x 🍴25 x 😁10) - **[opticl](https://github.com/slyrus/opticl)** (2011) - An image processing library for Common Lisp
- - (⭐ 119 x 🍴20 x 😁6) - **[lispbuilder](https://github.com/lispbuilder/lispbuilder)** (2015) - Lispbuilder provides a range of libraries for developing useful portable Common Lisp applications
- - (⭐ 46 x 🍴13 x 😁9) - **[cl-cairo2](https://github.com/rpav/cl-cairo2)** (2009) - Cairo bindings for Common Lisp
- - (⭐ 40 x 🍴7 x 😁2) - **[common-cv](https://github.com/byulparan/common-cv)** (2014) - The OpenCV binding library for CommonLisp
- - (⭐ 27 x 🍴1 x 😁1) - **[dufy](https://github.com/privet-kitty/dufy)** (2017) - Color library for Common Lisp
- - (⭐ 19 x 🍴7 x 😁1) - **[cl-svg](https://github.com/wmannis/cl-svg)** (2015) - Produce Scalable Vector Graphics files with Common Lisp
- - (⭐ 15 x 🍴1 x 😁1) - **[donuts](https://github.com/tkych/donuts)** (2012) - Graph Drawing DSL (or Graphviz Interface) for Common Lisp.
- - (⭐ 10 x 🍴6 x 😁1) - **[lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)** (2014) - ImageMagick bindings (fork)
- - https://github.com/anwyn/cl-horde3d/false
-
-#### Github > Common Lisp > GUI
-
-[💯 **https://metaawesome.io/github/common-lisp/gui** ](https://metaawesome.io/github/common-lisp/gui)
-
- - (⭐ 88 x 🍴12 x 😁7) - **[commonqt](https://github.com/commonqt/commonqt)** (2010) - Official commonqt repository
- - (⭐ 39 x 🍴23 x 😁4) - **[cl-gtk2](https://github.com/dmitryvk/cl-gtk2)** (2009) - Common Lisp binding for Gtk+
- - (⭐ 31 x 🍴2 x 😁1) - **[cl-xul](https://github.com/mmontone/cl-xul)** (2013) - Mozilla XUL bindings for Common Lisp
- - (⭐ 30 x 🍴3 x 😁1) - **[ftw](https://github.com/fjames86/ftw)** (2016) - Common Lisp Win32 GUI library 
- - (⭐ 29 x 🍴10 x 😁3) - **[cl-webkit](https://github.com/joachifm/cl-webkit)** (2010) - A binding to WebKitGTK+ for Common Lisp
- - (⭐ 13 x 🍴3 x 😁1) - **[bodge-nuklear](https://github.com/borodust/bodge-nuklear)** (2016) - Thin wrapper over Nuklear for Common Lisp
- - https://github.com/Shinmera/qtools/false
- - https://github.com/plkrueger/CocoaInterface/false
- - https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdffalse
-
-#### Github > Common Lisp > Implementations
-
-[💯 **https://metaawesome.io/github/common-lisp/implementations** ](https://metaawesome.io/github/common-lisp/implementations)
-
- - (⭐ 1,528 x 🍴107 x 😁27) - **[clasp](https://github.com/drmeister/clasp)** (2014) - clasp Common Lisp environment
- - (⭐ 464 x 🍴66 x 😁6) - **[cormanlisp](https://github.com/sharplispers/cormanlisp)** (2015) - Corman Lisp
-
-#### Github > Common Lisp > JSON
-
-[💯 **https://metaawesome.io/github/common-lisp/json** ](https://metaawesome.io/github/common-lisp/json)
-
- - (⭐ 71 x 🍴12 x 😁5) - **[jsown](https://github.com/madnificent/jsown)** (2010) - reader/writer for the JSON format in common lisp
- - (⭐ 59 x 🍴30 x 😁4) - **[cl-json](https://github.com/hankhero/cl-json)** (2012) - Json encoder and decoder for Common-Lisp
- - (⭐ 38 x 🍴2 x 😁1) - **[json-mop](https://github.com/gschjetne/json-mop)** (2015) - A metaclass for bridging CLOS and JSON objects
-
-#### Github > Common Lisp > YAML
-
-[💯 **https://metaawesome.io/github/common-lisp/yaml** ](https://metaawesome.io/github/common-lisp/yaml)
-
- - (⭐ 9 x 🍴2 x 😁3) - **[cl-yaclyaml](https://github.com/mabragor/cl-yaclyaml)** (2012) - Yet Another Common Lisp YaML processor
- - https://github.com/eudoxia0/cl-yaml.gitfalse
-
-#### Github > Common Lisp > Language extensions
-
-[💯 **https://metaawesome.io/github/common-lisp/language-extensions** ](https://metaawesome.io/github/common-lisp/language-extensions)
-
- - (⭐ 769 x 🍴40 x 😁7) - **[cl21](https://github.com/cl21/cl21)** (2014) - Common Lisp in the 21st Century.
- - (⭐ 240 x 🍴19 x 😁7) - **[optima](https://github.com/m2ym/optima)** (2012) - Optimized Pattern Matching Library for Common Lisp
- - (⭐ 109 x 🍴10 x 😁5) - **[cl-annot](https://github.com/m2ym/cl-annot)** (2011) - Python-like Annotation Syntax for Common Lisp
- - (⭐ 72 x 🍴7 x 😁7) - **[cl-str](https://github.com/vindarel/cl-str)** (2017) - Modern, simple and consistent Common Lisp string manipulation library.
- - (⭐ 56 x 🍴1 x 😁2) - **[arrow-macros](https://github.com/hipeta/arrow-macros)** (2015) - Arrow-macros provides Clojure-like arrow macros in Common Lisp
- - (⭐ 56 x 🍴3 x 😁2) - **[Clamp](https://github.com/malisper/Clamp)** (2014) - Common Lisp with Arc Macros and Procedures
- - (⭐ 49 x 🍴5 x 😁4) - **[cl-algebraic-data-type](https://github.com/tarballs-are-good/cl-algebraic-data-type)** (2018) - Algebraic data types in Common Lisp
- - (⭐ 42 x 🍴50) - **[trivial-types](https://github.com/m2ym/trivial-types)** (2011) - Trivial type definitions for Common Lisp
- - (⭐ 32 x 🍴10 x 😁5) - **[cl-syntax](https://github.com/m2ym/cl-syntax)** (2011) - Reader Syntax Coventions for Common Lisp and SLIME
- - (⭐ 260 x 😁2) - **[modf](https://github.com/smithzvk/modf)** (2011) - A setf like macro for functional programming
- - (⭐ 120 x 😁1) - **[pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)** (2012) - A simple and unintrusive read table modification inspired by Python's three quote strings.
- - (⭐ 90 x 😁1) - **[trivial-arguments](https://github.com/Shinmera/trivial-arguments)** (2014) - Tiny CL library to retrieve the arguments list of a function.
- - https://github.com/TBRSS/serapeum/false
- - https://github.com/alex-gutev/generic-cl/false
- - https://github.com/AccelerationNet/access/false
-
-#### Github > Common Lisp > CLOS extensions
-
-[💯 **https://metaawesome.io/github/common-lisp/clos-extensions** ](https://metaawesome.io/github/common-lisp/clos-extensions)
-
- - (⭐ 22 x 🍴2 x 😁4) - **[defclass-std](https://github.com/EuAndreh/defclass-std)** (2014) - A shortcut macro to write DEFCLASS forms quickly
-
-#### Github > Common Lisp > Iteration
-
-[💯 **https://metaawesome.io/github/common-lisp/iteration** ](https://metaawesome.io/github/common-lisp/iteration)
-
- - https://github.com/tokenrove/series/wikifalse
-
-#### Github > Common Lisp > Lambda shorthands
-
-[💯 **https://metaawesome.io/github/common-lisp/lambda-shorthands** ](https://metaawesome.io/github/common-lisp/lambda-shorthands)
-
- - (⭐ 6 x 🍴1 x 😁1) - **[fn](https://github.com/cbaggers/fn)** (2014) - A couple of lambda shorthand macros
- - https://github.com/windymelt/cl-punch/false
-
-#### Github > Common Lisp > Non-deterministic, logic programming
-
-[💯 **https://metaawesome.io/github/common-lisp/non-deterministic,-logic-programming** ](https://metaawesome.io/github/common-lisp/non-deterministic,-logic-programming)
-
- - (⭐ 142 x 🍴10 x 😁5) - **[screamer](https://github.com/nikodemus/screamer)** (2010) - Screamer is an extension of Common Lisp that adds support for nondeterministic programming.
- - (⭐ 160 x 😁1) - **[cl-prolog2](https://github.com/guicho271828/cl-prolog2)** (2017) - Common Interface to ISO Prolog implementations from Common Lisp
- - (⭐ 10 x 😁1) - **[screamer-plus](https://github.com/yakovzaytsev/screamer-plus)** (2018)false
-
-#### Github > Common Lisp > Reactive programming
-
-[💯 **https://metaawesome.io/github/common-lisp/reactive-programming** ](https://metaawesome.io/github/common-lisp/reactive-programming)
-
- - (⭐ 128 x 🍴13 x 😁3) - **[cells](https://github.com/kennytilton/cells)** (2010) - A Common Lisp implementation of the dataflow programming paradigm
-
-#### Github > Common Lisp > Contract programming
-
-[💯 **https://metaawesome.io/github/common-lisp/contract-programming** ](https://metaawesome.io/github/common-lisp/contract-programming)
-
- - (⭐ 58 x 🍴4 x 😁2) - **[quid-pro-quo](https://github.com/sellout/quid-pro-quo)** (2011) - A contract programming library for Common Lisp in the style of Eiffel’s Design by Contract ™.
-
-#### Github > Common Lisp > Library Manager
-
-[💯 **https://metaawesome.io/github/common-lisp/library-manager** ](https://metaawesome.io/github/common-lisp/library-manager)
-
- - (⭐ 984 x 🍴90 x 😁36) - **[roswell](https://github.com/roswell/roswell)** (2014) - intended to be a launcher for a major lisp environment that just works.
- - (⭐ 187 x 🍴20 x 😁12) - **[qlot](https://github.com/fukamachi/qlot)** (2014) - A project-local library installer for Common Lisp
- - (⭐ 70 x 🍴7 x 😁4) - **[quickutil](https://github.com/tarballs-are-good/quickutil)** (2012) - The solution to the Utility Library problem.
- - (⭐ 64 x 🍴5 x 😁4) - **[qi](https://github.com/CodyReichert/qi)** (2015) - Qi - A Package Manager for Common Lisp
- - (⭐ 12 x 🍴1 x 😁3) - **[print-licenses](https://github.com/vindarel/print-licenses)** (2018) - Print licenses used by the given project and its dependencies.
-
-#### Github > Common Lisp > Machine Learning
-
-[💯 **https://metaawesome.io/github/common-lisp/machine-learning** ](https://metaawesome.io/github/common-lisp/machine-learning)
-
- - (⭐ 190 x 🍴21 x 😁2) - **[mgl](https://github.com/melisgl/mgl)** (2014) - Common Lisp machine learning library.
- - (⭐ 165 x 🍴25 x 😁9) - **[clml](https://github.com/mmaul/clml)** (2014) - Common Lisp Machine Learning Library
-
-#### Github > Common Lisp > Natural Language Processing
-
-[💯 **https://metaawesome.io/github/common-lisp/natural-language-processing** ](https://metaawesome.io/github/common-lisp/natural-language-processing)
-
- - (⭐ 144 x 🍴18 x 😁6) - **[cl-nlp](https://github.com/vseloved/cl-nlp)** (2013) - Common Lisp NLP toolset
- - (⭐ 22 x 🍴1 x 😁11) - **[sparser](https://github.com/ddmcdonald/sparser)** (2015) - A natural language understanding system for English
- - https://github.com/lucas8/Babel2/false
-
-#### Github > Common Lisp > Web frameworks
-
-[💯 **https://metaawesome.io/github/common-lisp/web-frameworks** ](https://metaawesome.io/github/common-lisp/web-frameworks)
-
- - (⭐ 574 x 🍴55 x 😁9) - **[caveman](https://github.com/fukamachi/caveman)** (2011) - Lightweight web application framework for Common Lisp.
- - (⭐ 174 x 🍴22 x 😁6) - **[ningle](https://github.com/fukamachi/ningle)** (2012) - Super micro framework for Common Lisp
- - (⭐ 152 x 🍴11 x 😁7) - **[radiance](https://github.com/Shirakumo/radiance)** (2014) - A Common Lisp web application environment
- - (⭐ 112 x 🍴15 x 😁6) - **[lucerne](https://github.com/eudoxia0/lucerne)** (2014) - A web framework for Common Lisp, built on Clack
- - (⭐ 87 x 🍴9 x 😁2) - **[snooze](https://github.com/joaotavora/snooze)** (2014) - Common Lisp RESTful web development
- - (⭐ 36 x 🍴2 x 😁22) - **[weblocks](https://github.com/40ants/weblocks)** (2017) - This fork was created to experiment with some refactorings. They are collected in branch "reblocks".
- - (⭐ 34 x 🍴4 x 😁2) - **[hh-web](https://github.com/hargettp/hh-web)** (2012) - Framework for building modern web applications in Lisp
- - (⭐ 29 x 🍴4 x 😁1) - **[cl-rest-server](https://github.com/mmontone/cl-rest-server)** (2012) - Serve REST APIs from Common Lisp
- - https://github.com/quickdocsfalse
-
-#### Github > Common Lisp > Assets management
-
-[💯 **https://metaawesome.io/github/common-lisp/assets-management** ](https://metaawesome.io/github/common-lisp/assets-management)
-
- - (⭐ 34 x 🍴2 x 😁1) - **[rock](https://github.com/eudoxia0/rock)** (2014) - Asset manager and compiler for Common Lisp web apps
-
-#### Github > Common Lisp > Parsing html
-
-[💯 **https://metaawesome.io/github/common-lisp/parsing-html** ](https://metaawesome.io/github/common-lisp/parsing-html)
-
- - (⭐ 17 x 🍴4 x 😁3) - **[CLSS](https://github.com/Shinmera/CLSS)** (2014) - CSS Like Simple Selectors. A Common Lisp DOM tree search engine based on CSS selectors.
-
-#### Github > Common Lisp > HTML generators and templates
-
-[💯 **https://metaawesome.io/github/common-lisp/html-generators-and-templates** ](https://metaawesome.io/github/common-lisp/html-generators-and-templates)
-
- - (⭐ 100 x 🍴4 x 😁4) - **[spinneret](https://github.com/ruricolist/spinneret)** (2012) - Common Lisp HTML5 generator
- - (⭐ 78 x 🍴16 x 😁13) - **[djula](https://github.com/mmontone/djula)** (2014) - Common Lisp port of the Django templating language
- - (⭐ 66 x 🍴21 x 😁14) - **[cl-closure-template](https://github.com/archimag/cl-closure-template)** (2009) - Common Lisp implementation of Google's Closure Templates.
- - (⭐ 49 x 🍴5 x 😁3) - **[cl-markup](https://github.com/arielnetworks/cl-markup)** (2010) - Modern markup (HTML) generation library for Common Lisp
- - (⭐ 35 x 🍴3 x 😁1) - **[flute](https://github.com/ailisp/flute)** (2018) - A beautiful, easilly composable HTML5 generation library in Common Lisp
- - (⭐ 22 x 🍴2 x 😁3) - **[eco](https://github.com/eudoxia0/eco)** (2014) - Fast, flexible, designer-friendly templates for Common Lisp
-
-#### Github > Common Lisp > URI handling
-
-[💯 **https://metaawesome.io/github/common-lisp/uri-handling** ](https://metaawesome.io/github/common-lisp/uri-handling)
-
- - (⭐ 62 x 🍴10 x 😁7) - **[quri](https://github.com/fukamachi/quri)** (2014) - Yet another URI library for Common Lisp
- - (⭐ 18 x 🍴3 x 😁4) - **[cl-slug](https://github.com/EuAndreh/cl-slug)** (2014) - Small library to make slugs, mainly for URIs, from english and beyond.
- - (⭐ 30 x 😁1) - **[purl](https://github.com/eugeneia/purl)** (2015) - Provides a parser and defines a type for URLs as specified in RFC1738.
-
-#### Github > Common Lisp > Javascript
-
-[💯 **https://metaawesome.io/github/common-lisp/javascript** ](https://metaawesome.io/github/common-lisp/javascript)
-
- - (⭐ 556 x 🍴90 x 😁29) - **[jscl](https://github.com/jscl-project/jscl)** (2013) - A Lisp-to-Javascript compiler bootstrapped from Common Lisp
- - (⭐ 249 x 🍴37 x 😁20) - **[Parenscript](https://github.com/vsedach/Parenscript)** (2013) - MOVED TO C-L.NET GITLAB. THIS REPOSITORY WILL BE DELETED
- - (⭐ 44 x 🍴6 x 😁2) - **[trident-mode.el](https://github.com/johnmastro/trident-mode.el)** (2013) - Emacs minor mode for live Parenscript interaction
- - (⭐ 28 x 🍴4 x 😁2) - **[panic](https://github.com/michaeljforster/panic)** (2015) - Common Lisp (Parenscript) library for React
- - (⭐ 11 x 🍴1 x 😁1) - **[SmackJack](https://github.com/aarvid/SmackJack)** (2011) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Basically a fork and refactoring of ht-simple-ajax with an attempt merge ideas and code from ht-ajax.
- - https://github.com/mtravers/wuwei/false
-
-#### Github > Common Lisp > Email
-
-[💯 **https://metaawesome.io/github/common-lisp/email** ](https://metaawesome.io/github/common-lisp/email)
-
- - (⭐ 30 x 😁1) - **[mailgun](https://github.com/40ants/mailgun)** (2018) - A thin wrapper to post HTML emails through mailgun.com
- - (⭐ 20 x 😁1) - **[mito-email-auth](https://github.com/40ants/mito-email-auth)** (2018) - Helper to authenticate website's users by sending them unique code by email.
- - (⭐ 00 x 😁1) - **[trivial-imap](https://github.com/40ants/trivial-imap)** (2018) - This is a thin wrapper over post-office library (which is a fork of Franz's cl-imap)
-
-#### Github > Common Lisp > Websockets
-
-[💯 **https://metaawesome.io/github/common-lisp/websockets** ](https://metaawesome.io/github/common-lisp/websockets)
-
- - (⭐ 103 x 🍴29 x 😁16) - **[usocket](https://github.com/usocket/usocket)** (2014) - Universal socket library for Common Lisp
- - (⭐ 64 x 🍴18 x 😁10) - **[websocket-driver](https://github.com/fukamachi/websocket-driver)** (2014) - WebSocket server/client implementation for Common Lisp
-
-#### Github > Common Lisp > Static site generators
-
-[💯 **https://metaawesome.io/github/common-lisp/static-site-generators** ](https://metaawesome.io/github/common-lisp/static-site-generators)
-
- - (⭐ 342 x 🍴69 x 😁27) - **[coleslaw](https://github.com/kingcons/coleslaw)** (2011) - Flexible Lisp Blogware
- - (⭐ 30 x 😁1) - **[coleslaw-cli](https://github.com/40ants/coleslaw-cli)** (2017) - Command line tool to create static sites with Coleslaw.
-
-#### Github > Common Lisp > Deployment
-
-[💯 **https://metaawesome.io/github/common-lisp/deployment** ](https://metaawesome.io/github/common-lisp/deployment)
-
- - (⭐ 190 x 😁1) - **[base-lisp-image](https://github.com/40ants/base-lisp-image)** (2018) - Base image for Common Lisp projects with SBCL or CCL and latest ASDF, Qlot and Roswell
- - (⭐ 170 x 😁11) - **[cube](https://github.com/xh4/cube)** (2018) - Common LISP Kubernetes Client
- - (⭐ 160 x 😁1) - **[cl-aws-custom-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)** (2018) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda
- - (⭐ 4 x 🍴2 x 😁2) - **[s2i-lisp](https://github.com/container-lisp/s2i-lisp)** (2019) - Source-to-Image builder for Common Lisp applications on OpenShift
-
-#### Github > Common Lisp > Monitoring
-
-[💯 **https://metaawesome.io/github/common-lisp/monitoring** ](https://metaawesome.io/github/common-lisp/monitoring)
-
- - (⭐ 47 x 🍴7 x 😁2) - **[prometheus.cl](https://github.com/deadtrickster/prometheus.cl)** (2016) - Prometheus.io Common Lisp client
-
-#### Github > Common Lisp > Third-party APIs
-
-[💯 **https://metaawesome.io/github/common-lisp/third-party-apis** ](https://metaawesome.io/github/common-lisp/third-party-apis)
-
- - (⭐ 51 x 🍴8 x 😁7) - **[chirp](https://github.com/Shinmera/chirp)** (2014) - A twitter client library for Common Lisp
- - (⭐ 26 x 🍴12 x 😁6) - **[zs3](https://github.com/xach/zs3)** (2010) - Work with Amazon S3 and Amazon CloudFront from Common Lisp
- - (⭐ 140 x 😁1) - **[tooter](https://github.com/Shinmera/tooter)** (2018) - A Common Lisp client library for Mastodon instances.
- - (⭐ 14 x 🍴10 x 😁7) - **[cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)** (2011) - A Common Lisp wrapper around the MediaWiki api
- - (⭐ 10 x 🍴3 x 😁2) - **[aws-sign4](https://github.com/rotatef/aws-sign4)** (2013) - Common Lisp library for Amazon Web Services signing version 4
- - (⭐ 9 x 🍴2 x 😁2) - **[humbler](https://github.com/Shinmera/humbler)** (2014) - A Common Lisp Tumblr API interface
- - (⭐ 80 x 😁1) - **[avatar-api](https://github.com/eudoxia0/avatar-api)** (2014) - Get avatars from Gravatar and other services.
- - (⭐ 4 x 🍴2 x 😁1) - **[cl-stripe-client](https://github.com/ruricolist/cl-stripe-client)** (2014) - Common Lisp client for the Stripe payment system
- - (⭐ 3 x 🍴2 x 😁2) - **[cl-openid](https://github.com/cl-openid/cl-openid)** (2014) - Implementation of the OpenID protocol for Common Lisp.
- - (⭐ 2 x 🍴1 x 😁1) - **[multiposter](https://github.com/Shinmera/multiposter)** (2018) - Small application to post to multiple services simultaneously
- - (⭐ 10 x 😁1) - **[cl-pushover](https://github.com/TeMPOraL/cl-pushover)** (2016) - Common Lisp bindings to Pushover
- - https://github.com/CodyReichert/cl-ses/false
-
-#### Github > Common Lisp > Others
-
-[💯 **https://metaawesome.io/github/common-lisp/others** ](https://metaawesome.io/github/common-lisp/others)
-
- - (⭐ 56 x 🍴10 x 😁4) - **[css-lite](https://github.com/paddymul/css-lite)** (2010) - a css grammar for lisp
- - (⭐ 10 x 🍴1 x 😁2) - **[find-port](https://github.com/eudoxia0/find-port)** (2015) - Programmatically find open ports.
- - (⭐ 10 x 🍴1 x 😁1) - **[cl-forms](https://github.com/mmontone/cl-forms)** (2014) - Web forms handling library for Common lisp
- - (⭐ 4 x 🍴1 x 😁1) - **[postmaster](https://github.com/eudoxia0/postmaster)** (2014) - Email for humans
- - https://github.com/TatriX/cl-selenium-webdriver/false
-
-#### Github > Common Lisp > Numerical and Scientific
-
-[💯 **https://metaawesome.io/github/common-lisp/numerical-and-scientific** ](https://metaawesome.io/github/common-lisp/numerical-and-scientific)
-
- - (⭐ 126 x 🍴9 x 😁5) - **[cl-ana](https://github.com/ghollisjr/cl-ana)** (2014) - Free (GPL) Common Lisp data analysis library with emphasis on modularity and conceptual clarity.
- - (⭐ 120 x 🍴4 x 😁1) - **[Petalisp](https://github.com/marcoheisig/Petalisp)** (2016) - Elegant High Performance Computing
- - (⭐ 77 x 🍴15 x 😁11) - **[magicl](https://github.com/rigetticomputing/magicl)** (2017) - Matrix Algebra proGrams In Common Lisp.
- - (⭐ 55 x 🍴2 x 😁1) - **[cl-spark](https://github.com/tkych/cl-spark)** (2013) -  (spark '(1 1 2 3 5 8)) => "▁▁▂▃▅▇"
- - (⭐ 52 x 🍴13 x 😁3) - **[lisp-matrix](https://github.com/blindglobe/lisp-matrix)** (2008) - A matrix package for common lisp building on work by Mark Hoemmen, Evan Monroig, Tamas Papp and Rif. 
- - (⭐ 31 x 🍴1 x 😁1) - **[Xecto](https://github.com/pkhuong/Xecto)** (2011) - 80% xectors
- - (⭐ 13 x 🍴4 x 😁1) - **[cmu-infix](https://github.com/rigetti/cmu-infix)** (2017) - Updated infix.cl of the CMU AI repository, originally written by Mark Kantrowitz
- - https://github.com/numcl/numclfalse
- - https://github.com/blindglobe/common-lisp-stat/false
-
-#### Github > Common Lisp > Parallelism and Concurrency
-
-[💯 **https://metaawesome.io/github/common-lisp/parallelism-and-concurrency** ](https://metaawesome.io/github/common-lisp/parallelism-and-concurrency)
-
- - (⭐ 197 x 🍴24 x 😁16) - **[cl-async](https://github.com/orthecreedence/cl-async)** (2012) - Asynchronous IO library for Common Lisp.
- - (⭐ 161 x 🍴14 x 😁3) - **[lparallel](https://github.com/lmj/lparallel)** (2011) - Parallelism for Common Lisp
- - (⭐ 120 x 🍴11 x 😁3) - **[chanl](https://github.com/zkat/chanl)** (2009) - Portable channel-based concurrency for Common Lisp
- - (⭐ 71 x 🍴7 x 😁2) - **[lfarm](https://github.com/lmj/lfarm)** (2013) - Distribute work across machines using the lparallel API.
- - (⭐ 54 x 🍴6 x 😁1) - **[erlangen](https://github.com/eugeneia/erlangen)** (2016) - Distributed, asychronous message passing system for Clozure Common Lisp
- - (⭐ 170 x 😁1) - **[moira](https://github.com/TBRSS/moira)** (2015) - Monitor and restart background threads.
- - (⭐ 15 x 🍴1 x 😁1) - **[cl-gearman](https://github.com/taksatou/cl-gearman)** (2012) - Common Lisp Library for the Gearman distributed job system.
-
-#### Github > Common Lisp > Event processing
-
-[💯 **https://metaawesome.io/github/common-lisp/event-processing** ](https://metaawesome.io/github/common-lisp/event-processing)
-
- - (⭐ 10 x 🍴1 x 😁1) - **[event-glue](https://github.com/orthecreedence/event-glue)** (2014) - A compact, extendable eventing fabric.
- - (⭐ 9 x 🍴3 x 😁2) - **[deeds](https://github.com/Shinmera/deeds)** (2015) - Deeds is an Extensible Event Delivery System
- - (⭐ 8 x 🍴5 x 😁2) - **[simple-tasks](https://github.com/Shinmera/simple-tasks)** (2015) - A very simple task scheduling framework.
- - https://github.com/borodust/cl-flow/false
-
-#### Github > Common Lisp > Job processing
-
-[💯 **https://metaawesome.io/github/common-lisp/job-processing** ](https://metaawesome.io/github/common-lisp/job-processing)
-
- - (⭐ 40 x 🍴1 x 😁1) - **[psychiq](https://github.com/fukamachi/psychiq)** (2015) - Background job processing for Common Lisp
- - (⭐ 10 x 🍴1 x 😁1) - **[clerk](https://github.com/tsikov/clerk)** (2017) - A cron-like scheduler with sane DSL
-
-#### Github > Common Lisp > Scripting
-
-[💯 **https://metaawesome.io/github/common-lisp/scripting** ](https://metaawesome.io/github/common-lisp/scripting)
-
- - (⭐ 984 x 🍴90 x 😁1) - **[roswell#scripting-with-roswell](https://github.com/roswell/roswell#scripting-with-roswell)** (2014) - intended to be a launcher for a major lisp environment that just works.
- - (⭐ 160 x 🍴4 x 😁3) - **[shcl](https://github.com/bradleyjensen/shcl)** (2016) - SHell in Common Lisp
- - (⭐ 78 x 🍴21 x 😁18) - **[cl-charms](https://github.com/HiTECNOLOGYs/cl-charms)** (2014) - More up-to-date version of cl-charms. Forked it because it was, apparently, abandoned by author and I couldn't contact him.
- - (⭐ 69 x 🍴6 x 😁3) - **[shelly](https://github.com/fukamachi/shelly)** (2012) - [OBSOLETE] Make Common Lisp shell-friendly.
- - (⭐ 46 x 🍴6 x 😁4) - **[unix-opts](https://github.com/mrkkrp/unix-opts)** (2015) - Unix-style command line options parser
- - (⭐ 38 x 🍴5 x 😁1) - **[wcl](https://github.com/wadehennessey/wcl)** (2015)false
- - (⭐ 28 x 🍴7 x 😁1) - **[clon](https://github.com/didierverna/clon)** (2015) - The Command-Line Options Nuker
- - (⭐ 24 x 🍴5 x 😁5) - **[cl-readline](https://github.com/vindarel/cl-readline)** (2014) - Common Lisp bindings to the GNU Readline library
- - (⭐ 14 x 🍴1 x 😁2) - **[cl-ansi-term](https://github.com/vindarel/cl-ansi-term)** (2015) - Colorized output on ANSI terminals and more
- - (⭐ 80 x 😁1) - **[cl-all](https://github.com/shinmera/cl-all)** (2018) - A script to evaluate lisp expressions in multiple implementations
- - https://github.com/didierverna/clon/blob/master/LICENSEfalse
- - https://github.com/sirherrbatka/cl-progress-bar/false
- - https://github.com/vindarel/replic/false
-
-#### Github > Common Lisp > Database
-
- - [ORMs](awesome-1.md#github--common-lisp--database--orms)
- - [Persistent object databases](awesome-1.md#github--common-lisp--database--persistent-object-databases)
- - [Wrappers](awesome-1.md#github--common-lisp--database--wrappers)
-
-##### Github > Common Lisp > Database > ORMs
-
-[💯 **https://metaawesome.io/github/common-lisp/database/orms** ](https://metaawesome.io/github/common-lisp/database/orms)
-
- - (⭐ 176 x 🍴18 x 😁7) - **[crane](https://github.com/eudoxia0/crane)** (2014) - An ORM for Common Lisp.
- - (⭐ 171 x 🍴19 x 😁12) - **[sxql](https://github.com/fukamachi/sxql)** (2013) - An SQL generator for Common Lisp.
- - (⭐ 127 x 🍴19 x 😁5) - **[cl-dbi](https://github.com/fukamachi/cl-dbi)** (2011) - Database independent interface for Common Lisp
- - (⭐ 122 x 🍴14 x 😁9) - **[mito](https://github.com/fukamachi/mito)** (2015) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support
- - (⭐ 74 x 🍴7 x 😁2) - **[datafly](https://github.com/fukamachi/datafly)** (2014) - A lightweight database library for Common Lisp.
-
-##### Github > Common Lisp > Database > Persistent object databases
-
-[💯 **https://metaawesome.io/github/common-lisp/database/persistent-object-databases** ](https://metaawesome.io/github/common-lisp/database/persistent-object-databases)
-
- - (⭐ 33 x 🍴10 x 😁8) - **[bknr-datastore](https://github.com/hanshuebner/bknr-datastore)** (2010) - BKNR datastore - MOP-Based in-memory database with transactions for Common Lisp
- - (⭐ 13 x 🍴5 x 😁2) - **[ubiquitous](https://github.com/Shinmera/ubiquitous)** (2015) - A library providing a universal application configuration mechanism.
-
-##### Github > Common Lisp > Database > Wrappers
-
-[💯 **https://metaawesome.io/github/common-lisp/database/wrappers** ](https://metaawesome.io/github/common-lisp/database/wrappers)
-
- - (⭐ 140 x 🍴28 x 😁9) - **[cl-redis](https://github.com/vseloved/cl-redis)** (2009) - Redis client for Common Lisp
- - (⭐ 120 x 🍴27 x 😁3) - **[cl-mongo](https://github.com/fons/cl-mongo)** (2010) - lisp interface to mongo db
- - (⭐ 42 x 🍴5 x 😁4) - **[cl-rethinkdb](https://github.com/orthecreedence/cl-rethinkdb)** (2013) - RethinkDB driver for Common Lisp 
- - (⭐ 35 x 🍴11 x 😁5) - **[cl-sqlite](https://github.com/dmitryvk/cl-sqlite)** (2009) - Common Lisp binding for SQLite
- - (⭐ 18 x 🍴5 x 😁2) - **[cl-memcached](https://github.com/quasi/cl-memcached)** (2009) - Fast, thread-safe interface to the Memcached object caching system.
- - (⭐ 12 x 🍴1 x 😁2) - **[cl-disque](https://github.com/CodyReichert/cl-disque)** (2015) - A Disque client for Common Lisp
-
-### Github > MySQL
-
- - [Analysis](awesome-1.md#github--mysql--analysis)
- - [Backup](awesome-1.md#github--mysql--backup)
- - [Benchmarking](awesome-1.md#github--mysql--benchmarking)
- - [Binlog-Replication](awesome-1.md#github--mysql--binlog-replication)
- - [ChatOps](awesome-1.md#github--mysql--chatops)
- - [Configuration](awesome-1.md#github--mysql--configuration)
- - [Connectors](awesome-1.md#github--mysql--connectors)
- - [Development](awesome-1.md#github--mysql--development)
- - [GUI](awesome-1.md#github--mysql--gui)
- - [HA](awesome-1.md#github--mysql--ha)
- - [Proxy](awesome-1.md#github--mysql--proxy)
- - [Schema](awesome-1.md#github--mysql--schema)
- - [Security](awesome-1.md#github--mysql--security)
- - [Server](awesome-1.md#github--mysql--server)
- - [Sharding](awesome-1.md#github--mysql--sharding)
- - [Toolkits](awesome-1.md#github--mysql--toolkits)
-
-#### Github > MySQL > Analysis
-
-[💯 **https://metaawesome.io/github/mysql/analysis** ](https://metaawesome.io/github/mysql/analysis)
-
- - (⭐ 1,200 x 🍴287 x 😁25) - **[Anemometer](https://github.com/box/Anemometer)** (2012) - Box SQL Slow Query Monitor
- - (⭐ 535 x 🍴118 x 😁2) - **[innodb_ruby](https://github.com/jeremycole/innodb_ruby)** (2012) - A parser for InnoDB file formats, in Ruby
- - (⭐ 500 x 🍴94 x 😁19) - **[innotop](https://github.com/innotop/innotop)** (2014) - A realtime terminal-based top-like monitor for MySQL
- - (⭐ 155 x 🍴18 x 😁5) - **[ps-top](https://github.com/sjmudd/ps-top)** (2014) - pstop - a top-like program for MySQL
- - (⭐ 97 x 🍴36 x 😁13) - **[mysql-statsd](https://github.com/db-art/mysql-statsd)** (2013)false
- - (⭐ 33 x 🍴6 x 😁1) - **[explain-analyzer](https://github.com/Preetam/explain-analyzer)** (2017) - MySQL JSON Explain Analyzer
-
-#### Github > MySQL > Backup
-
-[💯 **https://metaawesome.io/github/mysql/backup** ](https://metaawesome.io/github/mysql/backup)
-
- - (⭐ 802 x 🍴190 x 😁24) - **[mydumper](https://github.com/maxbube/mydumper)** (2015) - Official mydumper project
-
-#### Github > MySQL > Benchmarking
-
-[💯 **https://metaawesome.io/github/mysql/benchmarking** ](https://metaawesome.io/github/mysql/benchmarking)
-
- - (⭐ 2,408 x 🍴505 x 😁36) - **[sysbench](https://github.com/akopytov/sysbench)** (2015) - Scriptable database and system performance benchmark
- - (⭐ 34 x 🍴13 x 😁2) - **[iibench-mysql](https://github.com/tmcallaghan/iibench-mysql)** (2014) - Java based iiBench for MySQL/Percona/MariaDB
-
-#### Github > MySQL > Binlog-Replication
-
-[💯 **https://metaawesome.io/github/mysql/binlog-replication** ](https://metaawesome.io/github/mysql/binlog-replication)
-
- - (⭐ 618 x 🍴63 x 😁4) - **[kingbus](https://github.com/flike/kingbus)** (2018) - A distributed MySQL binlog storage system built on Raft
- - (⭐ 248 x 🍴22 x 😁4) - **[mysql-ripple](https://github.com/google/mysql-ripple)** (2019) - Ripple, a server that can serve as a middleman in MySQL replication
-
-#### Github > MySQL > ChatOps
-
-[💯 **https://metaawesome.io/github/mysql/chatops** ](https://metaawesome.io/github/mysql/chatops)
-
- - (⭐ 83 x 🍴10 x 😁1) - **[hubot-mysql-chatops](https://github.com/samlambert/hubot-mysql-chatops)** (2014) - ChatOps for MySQL.
-
-#### Github > MySQL > Configuration
-
-[💯 **https://metaawesome.io/github/mysql/configuration** ](https://metaawesome.io/github/mysql/configuration)
-
- - (⭐ 78 x 🍴29 x 😁3) - **[mysql-compatibility-config](https://github.com/morgo/mysql-compatibility-config)** (2015) - Make MySQL behave more like newer (or older) releases
-
-#### Github > MySQL > Connectors
-
-[💯 **https://metaawesome.io/github/mysql/connectors** ](https://metaawesome.io/github/mysql/connectors)
-
- - (⭐ 14,236 x 🍴1,965 x 😁119) - **[node-mysql](https://github.com/felixge/node-mysql)** (2010) - A pure node.js JavaScript Client implementing the MySQL protocol.
- - (⭐ 7,865 x 🍴1,460 x 😁79) - **[mysql](https://github.com/go-sql-driver/mysql)** (2012) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
- - (⭐ 5,162 x 🍴1,084 x 😁78) - **[PyMySQL](https://github.com/PyMySQL/PyMySQL)** (2011) - Pure Python MySQL Client
- - (⭐ 1,882 x 🍴440 x 😁109) - **[mysql2](https://github.com/brianmario/mysql2)** (2010) - A modern, simple and very fast Mysql library for Ruby - binding to libmysql
- - (⭐ 1,491 x 🍴232 x 😁42) - **[mysqlclient-python](https://github.com/PyMySQL/mysqlclient-python)** (2014) - MySQL database connector for Python (with Python 3 support)
- - (⭐ 35 x 🍴17 x 😁2) - **[libattachsql](https://github.com/libattachsql/libattachsql)** (2014) - * NOTE: This is now a dead project and used for CI testing *    A lightweight C API for MySQL servers
- - (⭐ 10 x 😁1) - **[mex-mariadb](https://github.com/markuman/mex-mariadb)** (2018) - MariaDB Client for GNU Octave (maybe this is compatible for MySQL and Matlab too)
-
-#### Github > MySQL > Development
-
-[💯 **https://metaawesome.io/github/mysql/development** ](https://metaawesome.io/github/mysql/development)
-
- - (⭐ 1,424 x 🍴923 x 😁3) - **[test_db](https://github.com/datacharmer/test_db)** (2015) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
- - (⭐ 599 x 🍴34 x 😁7) - **[shift](https://github.com/square/shift)** (2016) - shift is an application that helps you run schema migrations on MySQL databases
- - (⭐ 86 x 🍴10 x 😁2) - **[propagator](https://github.com/outbrain/propagator)** (2013) - Centralized schema & data deployment on a multi-everything topology
-
-#### Github > MySQL > GUI
-
-[💯 **https://metaawesome.io/github/mysql/gui** ](https://metaawesome.io/github/mysql/gui)
-
- - (⭐ 9,492 x 🍴794 x 😁83) - **[dbeaver](https://github.com/dbeaver/dbeaver)** (2015) - Free universal database tool and SQL client
- - (⭐ 7,728 x 🍴473 x 😁55) - **[mycli](https://github.com/dbcli/mycli)** (2015) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
- - (⭐ 6,717 x 🍴586 x 😁28) - **[sequelpro](https://github.com/sequelpro/sequelpro)** (2013) - MySQL/MariaDB database management for macOS
- - (⭐ 1,622 x 🍴200 x 😁12) - **[OmniDB](https://github.com/OmniDB/OmniDB)** (2016) - Web tool for database management
- - (⭐ 907 x 🍴43 x 😁15) - **[pspg](https://github.com/okbob/pspg)** (2017) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too.
- - (⭐ 38 x 🍴10 x 😁3) - **[ocelotgui](https://github.com/ocelot-inc/ocelotgui)** (2014) - GUI client for MySQL or MariaDB, including debugger
- - https://github.com/webyog/sqlyog-community/wiki/Downloadsfalse
-
-#### Github > MySQL > HA
-
-[💯 **https://metaawesome.io/github/mysql/ha** ](https://metaawesome.io/github/mysql/ha)
-
- - (⭐ 2,956 x 🍴450 x 😁60) - **[orchestrator](https://github.com/github/orchestrator)** (2016) - MySQL replication topology management and HA
- - (⭐ 334 x 🍴94 x 😁10) - **[replication-manager](https://github.com/signal18/replication-manager)** (2015) - Signal 18 repman - Replication Manager for MySQL / MariaDB / Percona Server
- - https://github.com/percona/percona-pacemaker-agents/false
-
-#### Github > MySQL > Proxy
-
-[💯 **https://metaawesome.io/github/mysql/proxy** ](https://metaawesome.io/github/mysql/proxy)
-
- - (⭐ 929 x 🍴254 x 😁31) - **[MaxScale](https://github.com/mariadb-corporation/MaxScale)** (2013) - An intelligent database proxy.
- - (⭐ 637 x 🍴110 x 😁9) - **[mixer](https://github.com/siddontang/mixer)** (2014) - a MySQL proxy powered by Go
- - (⭐ 19 x 🍴5 x 😁4) - **[proxysql](https://github.com/renecannao/proxysql)** (2015)false
-
-#### Github > MySQL > Schema
-
-[💯 **https://metaawesome.io/github/mysql/schema** ](https://metaawesome.io/github/mysql/schema)
-
- - (⭐ 678 x 🍴163 x 😁8) - **[mysql-sys](https://github.com/mysql/mysql-sys)** (2014) - The MySQL sys schema
- - (⭐ 91 x 🍴19 x 😁3) - **[common_schema](https://github.com/shlomi-noach/common_schema)** (2014) - DBA's framework for MySQL
-
-#### Github > MySQL > Security
-
-[💯 **https://metaawesome.io/github/mysql/security** ](https://metaawesome.io/github/mysql/security)
-
- - (⭐ 441 x 🍴38 x 😁9) - **[acra](https://github.com/cossacklabs/acra)** (2016) - Database encryption proxy for data-driven apps: strong selective encryption, SQL injections prevention, intrusion detection, honeypots.
-
-#### Github > MySQL > Server
-
-[💯 **https://metaawesome.io/github/mysql/server** ](https://metaawesome.io/github/mysql/server)
-
- - (⭐ 19,513 x 🍴2,837 x 😁267) - **[tidb](https://github.com/pingcap/tidb)** (2015) - TiDB is a distributed HTAP database compatible with the MySQL protocol 
- - (⭐ 3,957 x 🍴1,557 x 😁68) - **[mysql-server](https://github.com/mysql/mysql-server)** (2014) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
- - (⭐ 2,813 x 🍴861 x 😁56) - **[server](https://github.com/MariaDB/server)** (2014) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in …
-
-#### Github > MySQL > Sharding
-
-[💯 **https://metaawesome.io/github/mysql/sharding** ](https://metaawesome.io/github/mysql/sharding)
-
- - (⭐ 8,277 x 🍴1,061 x 😁168) - **[vitess](https://github.com/vitessio/vitess)** (2013) - Vitess is a database clustering system for horizontal scaling of MySQL.
- - (⭐ 1,100 x 🍴76 x 😁6) - **[jetpants](https://github.com/tumblr/jetpants)** (2012) - MySQL toolkit for managing billions of rows and hundreds of database machines
-
-#### Github > MySQL > Toolkits
-
-[💯 **https://metaawesome.io/github/mysql/toolkits** ](https://metaawesome.io/github/mysql/toolkits)
-
- - (⭐ 1,801 x 🍴430 x 😁73) - **[go-mysql](https://github.com/siddontang/go-mysql)** (2014) - a powerful mysql toolset with Go
- - (⭐ 597 x 🍴284 x 😁4) - **[SQL-exercise](https://github.com/XD-DENG/SQL-exercise)** (2015) - Practice with "Real" SQL Problems
- - https://github.com/github/gh-ost/false
-
-### Github > OCaml
-
- - [Algorithms and Data Structures](awesome-1.md#github--ocaml--algorithms-and-data-structures)
- - [Application Libraries](awesome-1.md#github--ocaml--application-libraries)
- - [Benchmarking](awesome-1.md#github--ocaml--benchmarking)
- - [Code Analysis and Linters](awesome-1.md#github--ocaml--code-analysis-and-linters)
- - [Program analysis](awesome-1.md#github--ocaml--program-analysis)
- - [Compilers and Compiler Tools](awesome-1.md#github--ocaml--compilers-and-compiler-tools)
- - [Concurrency](awesome-1.md#github--ocaml--concurrency)
- - [Databases](awesome-1.md#github--ocaml--databases)
- - [Datetime](awesome-1.md#github--ocaml--datetime)
- - [Developer Tools](awesome-1.md#github--ocaml--developer-tools)
- - [General](awesome-1.md#github--ocaml--general)
- - [Graphics](awesome-1.md#github--ocaml--graphics)
- - [User Interface](awesome-1.md#github--ocaml--user-interface)
- - [Language-related](awesome-1.md#github--ocaml--language-related)
- - [Logging](awesome-1.md#github--ocaml--logging)
- - [Messaging](awesome-1.md#github--ocaml--messaging)
- - [Metaprogramming](awesome-1.md#github--ocaml--metaprogramming)
- - [Metrics](awesome-1.md#github--ocaml--metrics)
- - [Mobile Applications](awesome-1.md#github--ocaml--mobile-applications)
- - [Networking](awesome-1.md#github--ocaml--networking)
- - [Package Management](awesome-1.md#github--ocaml--package-management)
- - [Parallelism](awesome-1.md#github--ocaml--parallelism)
-
-#### Github > OCaml > Algorithms and Data Structures
-
-[💯 **https://metaawesome.io/github/ocaml/algorithms-and-data-structures** ](https://metaawesome.io/github/ocaml/algorithms-and-data-structures)
-
- - (⭐ 128 x 🍴36 x 😁23) - **[ocamlgraph](https://github.com/backtracking/ocamlgraph)** (2013) - OCaml graph library
- - (⭐ 54 x 🍴10 x 😁7) - **[decompress](https://github.com/mirage/decompress)** (2015) - Pure OCaml implementation of Zlib.
- - (⭐ 35 x 🍴2 x 😁1) - **[ods](https://github.com/owainlewis/ods)** (2012) - Data structures and algorithms in OCaml
- - (⭐ 20 x 🍴1 x 😁2) - **[combine](https://github.com/backtracking/combine)** (2013) - OCaml library for combinatorics
- - (⭐ 16 x 🍴1 x 😁1) - **[ke](https://github.com/mirage/ke)** (2018) - Fast implementation of queue in OCaml
- - (⭐ 70 x 😁1) - **[duff](https://github.com/mirage/duff)** (2018) - Pure OCaml implementation of libXdiff (Rabin's fingerprint)
-
-#### Github > OCaml > Application Libraries
-
-[💯 **https://metaawesome.io/github/ocaml/application-libraries** ](https://metaawesome.io/github/ocaml/application-libraries)
-
- - (⭐ 731 x 🍴78 x 😁14) - **[core](https://github.com/janestreet/core)** (2013) - Jane Street Capital's standard library overlay
- - (⭐ 369 x 🍴94 x 😁79) - **[batteries-included](https://github.com/ocaml-batteries-team/batteries-included)** (2009) - Batteries Included project
- - (⭐ 340 x 🍴36 x 😁12) - **[base](https://github.com/janestreet/base)** (2016) - Standard library for OCaml
- - (⭐ 253 x 🍴55 x 😁40) - **[ocaml-containers](https://github.com/c-cube/ocaml-containers)** (2013) - A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, unix, etc.) BSD license.
- - (⭐ 120 x 🍴33 x 😁11) - **[cmdliner](https://github.com/dbuenzli/cmdliner)** (2013) - Declarative definition of command line interfaces for OCaml
- - (⭐ 63 x 🍴23 x 😁15) - **[ocaml-rpc](https://github.com/mirage/ocaml-rpc)** (2010) - Light library to deal with RPCs in OCaml
- - (⭐ 22 x 🍴11 x 😁8) - **[easy-format](https://github.com/mjambon/easy-format)** (2011) - Pretty-printing library for OCaml
- - (⭐ 100 x 😁1) - **[minicli](https://github.com/UnixJunkie/minicli)** (2017) - Minimalist OCaml library for command line parsing
-
-#### Github > OCaml > Benchmarking
-
-[💯 **https://metaawesome.io/github/ocaml/benchmarking** ](https://metaawesome.io/github/ocaml/benchmarking)
-
- - (⭐ 28 x 🍴7 x 😁8) - **[core_bench](https://github.com/janestreet/core_bench)** (2013) - Micro-benchmarking library for OCaml
- - (⭐ 20 x 🍴6 x 😁4) - **[ocaml-benchmark](https://github.com/Chris00/ocaml-benchmark)** (2012) - Benchmarking module for OCaml
- - https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_benchfalse
-
-#### Github > OCaml > Code Analysis and Linters
-
-[💯 **https://metaawesome.io/github/ocaml/code-analysis-and-linters** ](https://metaawesome.io/github/ocaml/code-analysis-and-linters)
-
- - (⭐ 19,700 x 🍴1,672 x 😁100) - **[flow](https://github.com/facebook/flow)** (2014) - Adds static typing to JavaScript to improve developer productivity and code quality.
- - (⭐ 9,929 x 🍴1,349 x 😁91) - **[infer](https://github.com/facebook/infer)** (2015) - A static analyzer for Java, C, C++, and Objective-C
- - (⭐ 2,389 x 🍴209 x 😁39) - **[pfff](https://github.com/facebook/pfff)** (2010) - Tools for code analysis, visualizations, or style-preserving source transformation.
- - (⭐ 311 x 🍴21 x 😁3) - **[SLAyer](https://github.com/Microsoft/SLAyer)** (2016) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
- - (⭐ 19 x 🍴4 x 😁2) - **[memcad](https://github.com/Antique-team/memcad)** (2015) - The MemCAD static analyzer
-
-#### Github > OCaml > Program analysis
-
-[💯 **https://metaawesome.io/github/ocaml/program-analysis** ](https://metaawesome.io/github/ocaml/program-analysis)
-
- - (⭐ 973 x 🍴171 x 😁29) - **[bap](https://github.com/BinaryAnalysisPlatform/bap)** (2014) - Binary Analysis Platform
- - (⭐ 867 x 🍴110 x 😁5) - **[bincat](https://github.com/airbus-seclab/bincat)** (2017) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection
-
-#### Github > OCaml > Compilers and Compiler Tools
-
-[💯 **https://metaawesome.io/github/ocaml/compilers-and-compiler-tools** ](https://metaawesome.io/github/ocaml/compilers-and-compiler-tools)
-
- - (⭐ 602 x 🍴21 x 😁6) - **[rhine-ml](https://github.com/artagnon/rhine-ml)** (2014) - 🏞 an OCaml compiler for an untyped lisp
- - (⭐ 497 x 🍴23 x 😁4) - **[tis-interpreter](https://github.com/TrustInSoft/tis-interpreter)** (2016) - An interpreter for finding subtle bugs in programs written in standard C
- - (⭐ 301 x 🍴36 x 😁16) - **[angstrom](https://github.com/inhabitedtype/angstrom)** (2015) - Parser combinators built for speed and memory efficiency
- - (⭐ 126 x 🍴27 x 😁19) - **[sedlex](https://github.com/ocaml-community/sedlex)** (2013) - An OCaml lexer generator for Unicode
- - (⭐ 84 x 🍴10 x 😁2) - **[opal](https://github.com/pyrocat101/opal)** (2015) - Self-contained monadic parser combinators for OCaml
- - (⭐ 44 x 🍴8 x 😁2) - **[ocaml-parsing](https://github.com/smolkaj/ocaml-parsing)** (2017) - Boilerplate code for writing parsers in OCaml using Menhir + sedlex
- - (⭐ 210 x 😁1) - **[Obelisk](https://github.com/Lelio-Brun/Obelisk)** (2017) - A simple multi-format pretty-printer for Menhir.
-
-#### Github > OCaml > Concurrency
-
-[💯 **https://metaawesome.io/github/ocaml/concurrency** ](https://metaawesome.io/github/ocaml/concurrency)
-
- - (⭐ 374 x 🍴33 x 😁136) - **[ocaml-multicore](https://github.com/ocamllabs/ocaml-multicore)** (2015) - Multicore OCaml
-
-#### Github > OCaml > Databases
-
-[💯 **https://metaawesome.io/github/ocaml/databases** ](https://metaawesome.io/github/ocaml/databases)
-
- - (⭐ 1,053 x 🍴91 x 😁33) - **[irmin](https://github.com/mirage/irmin)** (2013) - Irmin is a distributed database that follows the same design principles as Git
- - (⭐ 107 x 🍴7 x 😁4) - **[ocaml-caqti](https://github.com/paurkedal/ocaml-caqti)** (2014) - Cooperative-threaded access to relational data
- - (⭐ 70 x 🍴9 x 😁5) - **[sequoia](https://github.com/andrenth/sequoia)** (2015) - OCaml type-safe query builder with syntax tree extension
- - (⭐ 58 x 🍴20 x 😁13) - **[sqlite3-ocaml](https://github.com/mmottl/sqlite3-ocaml)** (2014) - OCaml bindings to the SQLite3 database
- - (⭐ 43 x 🍴21 x 😁17) - **[ocaml-redis](https://github.com/0xffea/ocaml-redis)** (2014) - Redis bindings for OCaml
- - (⭐ 41 x 🍴7 x 😁3) - **[orm](https://github.com/mirage/orm)** (2009) - Object Relational Mapper extension
- - (⭐ 40 x 🍴6 x 😁2) - **[ppx_pgsql](https://github.com/tizoc/ppx_pgsql)** (2017)false
- - (⭐ 31 x 🍴11 x 😁9) - **[macaque](https://github.com/ocsigen/macaque)** (2013)false
- - (⭐ 100 x 😁1) - **[RunOrg](https://github.com/RunOrg/RunOrg)** (2013) - Open Source Social Database
- - (⭐ 8 x 🍴1 x 😁2) - **[mysql_protocol](https://github.com/slegrand45/mysql_protocol)** (2014) - OCaml implementation of MySQL Protocol with the Bitstring library
-
-#### Github > OCaml > Datetime
-
-[💯 **https://metaawesome.io/github/ocaml/datetime** ](https://metaawesome.io/github/ocaml/datetime)
-
- - (⭐ 14 x 🍴5 x 😁4) - **[ISO8601.ml](https://github.com/sagotch/ISO8601.ml)** (2015)false
- - (⭐ 14 x 🍴4 x 😁2) - **[odate](https://github.com/hhugo/odate)** (2013) - date and duration in ocaml
-
-#### Github > OCaml > Developer Tools
-
-[💯 **https://metaawesome.io/github/ocaml/developer-tools** ](https://metaawesome.io/github/ocaml/developer-tools)
-
- - (⭐ 1,071 x 🍴133 x 😁70) - **[merlin](https://github.com/ocaml/merlin)** (2013) - Context sensitive completion for OCaml in Vim and Emacs
- - (⭐ 530 x 🍴58 x 😁38) - **[utop](https://github.com/ocaml-community/utop)** (2012) - Universal toplevel for OCaml
- - (⭐ 267 x 🍴49 x 😁26) - **[ocamlformat](https://github.com/ocaml-ppx/ocamlformat)** (2017) - Auto-formatter for OCaml code
- - (⭐ 239 x 🍴49 x 😁30) - **[tuareg](https://github.com/ocaml/tuareg)** (2014) - Emacs OCaml mode
- - (⭐ 228 x 🍴55 x 😁34) - **[ocaml-ctypes](https://github.com/ocamllabs/ocaml-ctypes)** (2013) - Library for binding to C libraries using pure OCaml
- - (⭐ 169 x 🍴26 x 😁8) - **[vscode-ocaml](https://github.com/hackwaly/vscode-ocaml)** (2016) - An extension for VS Code which provides support for the OCaml language.
- - (⭐ 99 x 🍴12 x 😁7) - **[ocaml-jupyter](https://github.com/akabe/ocaml-jupyter)** (2017) - An OCaml kernel for Jupyter (IPython) notebook
- - (⭐ 44 x 🍴6 x 😁3) - **[ocamlearlybird](https://github.com/hackwaly/ocamlearlybird)** (2018) - OCaml debug adapter
- - (⭐ 39 x 🍴7 x 😁2) - **[pyml](https://github.com/thierry-martinez/pyml)** (2017) - OCaml bindings for Python
- - (⭐ 28 x 🍴2 x 😁2) - **[merlin-eldoc](https://github.com/Khady/merlin-eldoc)** (2018) - Type and doc on hover for OCaml and Reason in emacs
- - (⭐ 24 x 🍴8 x 😁5) - **[ocp-indent-vim](https://github.com/def-lkb/ocp-indent-vim)** (2013) - Integration of ocp-indent to vim.
- - (⭐ 21 x 🍴4 x 😁4) - **[generator-ocaml](https://github.com/mabrasil/generator-ocaml)** (2015) - :camel: Yeoman generator to scaffold OCaml modules.
- - (⭐ 18 x 🍴1 x 😁1) - **[ghim](https://github.com/samoht/ghim)** (2014) - A command-line tool to manage Github Issues
- - (⭐ 18 x 🍴6 x 😁4) - **[sublime-better-ocaml](https://github.com/whitequark/sublime-better-ocaml)** (2013) - Default Sublime Text highlighting for OCaml sucks. I've fixed it.
- - (⭐ 150 x 😁1) - **[ocp-index-top](https://github.com/reynir/ocp-index-top)** (2017)false
- - (⭐ 130 x 😁1) - **[ocaml-main-program-in-c](https://github.com/johnwhitington/ocaml-main-program-in-c)** (2013) - Example build system for making mixed C/Ocaml binaries where the main program is in C
- - (⭐ 10 x 🍴1 x 😁4) - **[sublime-text-merlin](https://github.com/def-lkb/sublime-text-merlin)** (2014) - Merlin 2 package for Sublime Text 3
- - (⭐ 1 x 🍴1 x 😁5) - **[bisect_ppx](https://github.com/rleonid/bisect_ppx)** (2016) - Code coverage for OCaml.
-
-#### Github > OCaml > General
-
-[💯 **https://metaawesome.io/github/ocaml/general** ](https://metaawesome.io/github/ocaml/general)
-
- - (⭐ 106 x 🍴14 x 😁4) - **[camlpdf](https://github.com/johnwhitington/camlpdf)** (2013) - OCaml library for reading, writing and modifying PDF files
- - (⭐ 58 x 🍴8 x 😁6) - **[slacko](https://github.com/Leonidas-from-XIV/slacko)** (2014) - A neat interface for Slack
-
-#### Github > OCaml > Graphics
-
-[💯 **https://metaawesome.io/github/ocaml/graphics** ](https://metaawesome.io/github/ocaml/graphics)
-
- - (⭐ 52 x 🍴7 x 😁4) - **[vg](https://github.com/dbuenzli/vg)** (2013) - Declarative 2D vector graphics for OCaml
- - (⭐ 24 x 🍴3 x 😁6) - **[ocaml-cairo](https://github.com/Chris00/ocaml-cairo)** (2013) - Binding to Cairo, a 2D Vector Graphics Library.
-
-#### Github > OCaml > User Interface
-
-[💯 **https://metaawesome.io/github/ocaml/user-interface** ](https://metaawesome.io/github/ocaml/user-interface)
-
- - (⭐ 185 x 🍴14 x 😁2) - **[notty](https://github.com/pqwy/notty)** (2015) - Declarative terminal graphics for OCaml
- - (⭐ 127 x 🍴28 x 😁23) - **[lambda-term](https://github.com/ocaml-community/lambda-term)** (2012) - Terminal manipulation library for OCaml
- - (⭐ 113 x 🍴8 x 😁5) - **[lablqml](https://github.com/Kakadu/lablqml)** (2011) - Interfacing Qt/QML with OCaml. Formely known as lablqt
- - (⭐ 24 x 🍴2 x 😁3) - **[ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise)** (2016) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml
-
-#### Github > OCaml > Language-related
-
-[💯 **https://metaawesome.io/github/ocaml/language-related** ](https://metaawesome.io/github/ocaml/language-related)
-
- - (⭐ 19 x 🍴5 x 😁6) - **[mikmatch](https://github.com/mjambon/mikmatch)** (2011) - OCaml pattern-matching extended with regexps (unmaintained)
-
-#### Github > OCaml > Logging
-
-[💯 **https://metaawesome.io/github/ocaml/logging** ](https://metaawesome.io/github/ocaml/logging)
-
- - (⭐ 24 x 🍴6 x 😁4) - **[dolog](https://github.com/UnixJunkie/dolog)** (2013) - A dumb OCaml logger
- - (⭐ 30 x 😁1) - **[volt](https://github.com/codinuum/volt)** (2012) - Volt - A variant of Bolt OCaml logging tool
-
-#### Github > OCaml > Messaging
-
-[💯 **https://metaawesome.io/github/ocaml/messaging** ](https://metaawesome.io/github/ocaml/messaging)
-
- - (⭐ 61 x 🍴9 x 😁14) - **[ocaml-zmq](https://github.com/issuu/ocaml-zmq)** (2011) - ZeroMQ bindings for OCaml
- - (⭐ 61 x 🍴7 x 😁4) - **[capnp-ocaml](https://github.com/capnproto/capnp-ocaml)** (2014) - OCaml code generator plugin for the Cap'n Proto serialization framework
- - (⭐ 44 x 🍴7 x 😁3) - **[amqp-client](https://github.com/andersfugmann/amqp-client)** (2015) - OCaml Amqp client library for Async and Lwt. 
- - (⭐ 33 x 🍴7 x 😁5) - **[onanomsg](https://github.com/rgrinberg/onanomsg)** (2013) - nanomsg bindings for ocaml
- - (⭐ 33 x 🍴9 x 😁4) - **[ocaml-kafka](https://github.com/didier-wenzek/ocaml-kafka)** (2014) - OCaml bindings for Kafka
- - (⭐ 15 x 🍴3 x 😁1) - **[ocaml-mqtt](https://github.com/j0sh/ocaml-mqtt)** (2014) - OCaml implementation of the MQTT pubsub protocol.
- - (⭐ 10 x 🍴9 x 😁6) - **[ocamlmpi](https://github.com/xavierleroy/ocamlmpi)** (2016) - OCaml/MPI interface
-
-#### Github > OCaml > Metaprogramming
-
-[💯 **https://metaawesome.io/github/ocaml/metaprogramming** ](https://metaawesome.io/github/ocaml/metaprogramming)
-
- - (⭐ 89 x 🍴32 x 😁19) - **[ppx_deriving_yojson](https://github.com/whitequark/ppx_deriving_yojson)** (2014) - A Yojson codec generator for OCaml >= 4.02.
- - (⭐ 56 x 🍴11 x 😁7) - **[ppx_import](https://github.com/ocaml-ppx/ppx_import)** (2014) - Less redundancy in type declarations and signatures
- - (⭐ 15 x 🍴1 x 😁1) - **[ppx_string_interpolate](https://github.com/sheijk/ppx_string_interpolate)** (2014) - A simple OCaml ppx filter to support string interpolation like [%str "value of foo is $(foo)"]
- - (⭐ 50 x 😁1) - **[ppx_monad](https://github.com/rizo/ppx_monad)** (2016) - Minimalistic monad syntax for OCaml.
-
-#### Github > OCaml > Metrics
-
-[💯 **https://metaawesome.io/github/ocaml/metrics** ](https://metaawesome.io/github/ocaml/metrics)
-
- - (⭐ 17 x 🍴3 x 😁4) - **[prometheus](https://github.com/mirage/prometheus)** (2017) - OCaml library for reporting metrics to a Prometheus server
-
-#### Github > OCaml > Mobile Applications
-
-[💯 **https://metaawesome.io/github/ocaml/mobile-applications** ](https://metaawesome.io/github/ocaml/mobile-applications)
-
- - (⭐ 19 x 🍴1 x 😁2) - **[ocaml-cordova-plugin-list](https://github.com/dannywillems/ocaml-cordova-plugin-list)** (2016) - List of bindings in OCaml to cordova plugins.
-
-#### Github > OCaml > Networking
-
-[💯 **https://metaawesome.io/github/ocaml/networking** ](https://metaawesome.io/github/ocaml/networking)
-
- - (⭐ 449 x 🍴119 x 😁56) - **[ocaml-cohttp](https://github.com/mirage/ocaml-cohttp)** (2009) - An OCaml library for HTTP clients and servers using Lwt or Async
- - (⭐ 316 x 🍴25 x 😁12) - **[httpaf](https://github.com/inhabitedtype/httpaf)** (2016) - A high performance, memory efficient, and scalable web server written in OCaml
- - (⭐ 54 x 🍴32 x 😁20) - **[ocaml-dns](https://github.com/mirage/ocaml-dns)** (2012) - OCaml implementation of the DNS protocol
- - (⭐ 29 x 🍴13 x 😁10) - **[ocurl](https://github.com/ygrek/ocurl)** (2013) - OCaml bindings to libcurl
- - (⭐ 13 x 🍴2 x 😁2) - **[charrua-unix](https://github.com/haesbaert/charrua-unix)** (2015) - A DHCP server for UNIX systems based on charrua-core.
- - (⭐ 6 x 🍴1 x 😁1) - **[fluent-logger-ocaml](https://github.com/fluent/fluent-logger-ocaml)** (2013) - A structured logger for Fluentd (OCaml)
-
-#### Github > OCaml > Package Management
-
-[💯 **https://metaawesome.io/github/ocaml/package-management** ](https://metaawesome.io/github/ocaml/package-management)
-
- - (⭐ 736 x 🍴144 x 😁86) - **[dune](https://github.com/ocaml/dune)** (2016) - A composable build system for OCaml.
- - (⭐ 524 x 🍴48 x 😁28) - **[esy](https://github.com/esy/esy)** (2017) - package.json workflow for native development with Reason/OCaml
- - (⭐ 88 x 🍴11 x 😁6) - **[jenga](https://github.com/janestreet/jenga)** (2013) - Build system
- - (⭐ 68 x 🍴3 x 😁2) - **[namespaces](https://github.com/aantron/namespaces)** (2016) - Sane file naming for OCaml projects.
- - (⭐ 61 x 🍴12 x 😁1) - **[ocaml-makefile](https://github.com/mmottl/ocaml-makefile)** (2014) - Easy to use Makefile for small to medium-sized OCaml-projects
- - (⭐ 60 x 🍴23 x 😁11) - **[topkg](https://github.com/dbuenzli/topkg)** (2014) - The transitory OCaml software packager
- - (⭐ 44 x 🍴20 x 😁10) - **[obuild](https://github.com/ocaml-obuild/obuild)** (2013) - simple package build system for ocaml
- - (⭐ 28 x 🍴7 x 😁6) - **[oasis2opam](https://github.com/ocaml/oasis2opam)** (2013) - Tool to convert OASIS metadata to OPAM package descriptions
- - (⭐ 24 x 🍴5 x 😁2) - **[rules_ocaml](https://github.com/jin/rules_ocaml)** (2016) - OCaml build rules for Bazel
- - (⭐ 80 x 😁1) - **[makorel](https://github.com/sagotch/makorel)** (2014) - makorel - Release OPAM packages easily
-
-#### Github > OCaml > Parallelism
-
-[💯 **https://metaawesome.io/github/ocaml/parallelism** ](https://metaawesome.io/github/ocaml/parallelism)
-
- - (⭐ 103 x 🍴8 x 😁5) - **[SPOC](https://github.com/mathiasbourgoin/SPOC)** (2014) - Stream Processing with OCaml
- - (⭐ 34 x 🍴5 x 😁6) - **[rpc_parallel](https://github.com/janestreet/rpc_parallel)** (2014) - Type-safe library for building parallel applications, built on top of Async's Rpc module.
- - (⭐ 29 x 🍴6 x 😁2) - **[nproc](https://github.com/MyLifeLabs/nproc)** (2011) - Process pools for OCaml
- - (⭐ 20 x 🍴2 x 😁1) - **[forkwork](https://github.com/mlin/forkwork)** (2012) - OCaml library for forking child processes to perform work on multiple cores
- - (⭐ 20 x 🍴2 x 😁3) - **[parany](https://github.com/UnixJunkie/parany)** (2017) - parallelize anything
-
